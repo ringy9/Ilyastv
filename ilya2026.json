@@ -1,24 +1,49 @@
 {
   "matchDetailsSection": {
-    "title": "",
-    "image": "https://picsum.photos/900/500?watch",
-    "text": ""
+    "title": "Watch match now",
+    "text": "اضغط على زر التشغيل لفتح الفيديو أو الستريم مباشرة.",
+    "image": "https://i.imgur.com/8Km9tLL.jpg"
   },
 
-  "news": [
+  "matches": [
     {
       "id": 1,
-      "title": "قمة نارية بين أرسنال وتشيلسي",
-      "cover": "https://picsum.photos/900/500?news1",
-      "content": "مباراة قوية اليوم بين أرسنال وتشيلسي ضمن الدوري الإنجليزي الممتاز.",
-      "timeAgo": "1 hour ago"
+      "leagueId": 1,
+      "homeTeam": "Arsenal",
+      "awayTeam": "Chelsea",
+      "time": "03:45 PM",
+      "league": "Premier League",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "streamTitle": "Arsenal vs Chelsea Live",
+      "streamUrl": "http://4kplusmonsefstore.space/live/79da6da1f4b4/d2f313c7aa/544491.ts",
+      "streamType": "m3u8"
     },
     {
       "id": 2,
-      "title": "برشلونة يواجه ريال مدريد",
-      "cover": "https://picsum.photos/900/500?news2",
-      "content": "الكلاسيكو المنتظر بين برشلونة وريال مدريد في قمة الدوري الإسباني.",
-      "timeAgo": "2 hours ago"
+      "leagueId": 1,
+      "homeTeam": "Liverpool",
+      "awayTeam": "Manchester City",
+      "time": "07:00 PM",
+      "league": "Premier League",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "streamTitle": "Liverpool vs Man City",
+      "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
+      "streamType": "m3u8"
+    },
+    {
+      "id": 3,
+      "leagueId": 2,
+      "homeTeam": "Barcelona",
+      "awayTeam": "Real Madrid",
+      "time": "08:00 PM",
+      "league": "La Liga",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "streamTitle": "El Clasico",
+      "streamUrl": "https://test-streams.mux.dev/bbb-360p.m3u8",
+      "streamType": "m3u8"
     }
   ],
 
@@ -26,80 +51,44 @@
     {
       "id": 1,
       "name": "Premier League",
-      "image": "https://picsum.photos/300/300?premier"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg"
     },
     {
       "id": 2,
       "name": "La Liga",
-      "image": "https://picsum.photos/300/300?laliga"
-    },
-    {
-      "id": 3,
-      "name": "Champions League",
-      "image": "https://picsum.photos/300/300?ucl"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/9/92/La_Liga_Logo.svg"
     }
   ],
 
-  "matches": [
+  "highlights": [
     {
       "id": 1,
-      "leagueId": 1,
-      "leagueName": "Premier League",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Chelsea",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
-      "time": "03:45 PM",
-      "thumbnail": "https://picsum.photos/900/500?match1",
-      "isLive": true,
-      "streamTitle": "Arsenal vs Chelsea",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "streamType": "m3u8"
+      "title": "Arsenal vs Chelsea Highlights",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "image": "https://i.imgur.com/8Km9tLL.jpg"
     },
     {
       "id": 2,
-      "leagueId": 1,
-      "leagueName": "Premier League",
-      "homeTeam": "Liverpool",
-      "awayTeam": "Manchester City",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-      "time": "07:00 PM",
-      "thumbnail": "https://picsum.photos/900/500?match2",
-      "isLive": false,
-      "streamTitle": "Liverpool vs Man City",
-      "streamUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "streamType": "mp4"
+      "title": "Barcelona vs Real Madrid Highlights",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "image": "https://i.imgur.com/z4d4kWk.jpg"
+    }
+  ],
+
+  "news": [
+    {
+      "id": 1,
+      "title": "قمة نارية بين أرسنال وتشيلسي",
+      "image": "https://i.imgur.com/8Km9tLL.jpg",
+      "time": "1 hour ago",
+      "content": "تشهد الجولة القادمة مواجهة قوية بين أرسنال وتشيلسي في الدوري الإنجليزي الممتاز."
     },
     {
-      "id": 3,
-      "leagueId": 2,
-      "leagueName": "La Liga",
-      "homeTeam": "Barcelona",
-      "awayTeam": "Real Madrid",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-      "time": "08:00 PM",
-      "thumbnail": "https://picsum.photos/900/500?match3",
-      "isLive": true,
-      "streamTitle": "Barcelona vs Real Madrid",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "streamType": "m3u8"
-    },
-    {
-      "id": 4,
-      "leagueId": 3,
-      "leagueName": "Champions League",
-      "homeTeam": "PSG",
-      "awayTeam": "Bayern Munich",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
-      "time": "09:00 PM",
-      "thumbnail": "https://picsum.photos/900/500?match4",
-      "isLive": false,
-      "streamTitle": "PSG vs Bayern",
-      "streamUrl": "https://www.w3schools.com/html/movie.mp4",
-      "streamType": "mp4"
+      "id": 2,
+      "title": "برشلونة يواجه ريال مدريد في الكلاسيكو",
+      "image": "https://i.imgur.com/z4d4kWk.jpg",
+      "time": "2 hours ago",
+      "content": "مباراة الكلاسيكو المرتقبة بين برشلونة وريال مدريد ستكون من أقوى مباريات الموسم."
     }
   ]
 }
