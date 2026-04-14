@@ -9,17 +9,10 @@
     },
     {
       "id": 2,
-      "title": "برشلونة يواجه ريال مدريد في الكلاسيكو",
+      "title": "برشلونة يواجه ريال مدريد",
       "cover": "https://picsum.photos/900/500?news2",
-      "content": "مواجهة قوية بين برشلونة وريال مدريد في كلاسيكو ناري.",
+      "content": "كلاسيكو ناري بين برشلونة وريال مدريد الليلة.",
       "timeAgo": "2 hours ago"
-    },
-    {
-      "id": 3,
-      "title": "بايرن ميونخ في مواجهة صعبة",
-      "cover": "https://picsum.photos/900/500?news3",
-      "content": "بايرن ميونخ يستعد لمواجهة قوية في دوري الأبطال.",
-      "timeAgo": "3 hours ago"
     }
   ],
 
@@ -38,11 +31,6 @@
       "id": 3,
       "name": "Champions League",
       "image": "https://picsum.photos/300/300?league3"
-    },
-    {
-      "id": 4,
-      "name": "Serie A",
-      "image": "https://picsum.photos/300/300?league4"
     }
   ],
 
@@ -53,8 +41,8 @@
       "leagueName": "Premier League",
       "homeTeam": "Arsenal",
       "awayTeam": "Chelsea",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+      "homeLogo": "https://picsum.photos/100/100?team1",
+      "awayLogo": "https://picsum.photos/100/100?team2",
       "time": "03:45 PM",
       "thumbnail": "https://picsum.photos/900/500?match1",
       "isLive": true,
@@ -67,8 +55,8 @@
       "leagueName": "Premier League",
       "homeTeam": "Liverpool",
       "awayTeam": "Manchester City",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "homeLogo": "https://picsum.photos/100/100?team3",
+      "awayLogo": "https://picsum.photos/100/100?team4",
       "time": "07:00 PM",
       "thumbnail": "https://picsum.photos/900/500?match2",
       "isLive": false,
@@ -81,8 +69,8 @@
       "leagueName": "La Liga",
       "homeTeam": "Barcelona",
       "awayTeam": "Real Madrid",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "homeLogo": "https://picsum.photos/100/100?team5",
+      "awayLogo": "https://picsum.photos/100/100?team6",
       "time": "08:00 PM",
       "thumbnail": "https://picsum.photos/900/500?match3",
       "isLive": true,
@@ -95,8 +83,8 @@
       "leagueName": "Champions League",
       "homeTeam": "PSG",
       "awayTeam": "Bayern Munich",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
+      "homeLogo": "https://picsum.photos/100/100?team7",
+      "awayLogo": "https://picsum.photos/100/100?team8",
       "time": "09:00 PM",
       "thumbnail": "https://picsum.photos/900/500?match4",
       "isLive": true,
@@ -105,29 +93,15 @@
     },
     {
       "id": 5,
-      "leagueId": 4,
-      "leagueName": "Serie A",
-      "homeTeam": "Juventus",
-      "awayTeam": "AC Milan",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juventus_FC_2017_logo.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
-      "time": "06:30 PM",
-      "thumbnail": "https://picsum.photos/900/500?match5",
-      "isLive": false,
-      "streamTitle": "Juventus vs Milan",
-      "streamUrl": "https://www.w3schools.com/html/movie.mp4"
-    },
-    {
-      "id": 6,
       "leagueId": 1,
       "leagueName": "Premier League",
       "homeTeam": "Tottenham",
       "awayTeam": "Newcastle",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
+      "homeLogo": "https://picsum.photos/100/100?team9",
+      "awayLogo": "https://picsum.photos/100/100?team10",
       "time": "08:30 PM",
-      "thumbnail": "https://picsum.photos/900/500?match6",
-      "isLive": true,
+      "thumbnail": "https://picsum.photos/900/500?match5",
+      "isLive": false,
       "streamTitle": "Tottenham vs Newcastle",
       "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     }
