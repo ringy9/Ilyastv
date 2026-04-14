@@ -2,16 +2,16 @@
   "news": [
     {
       "id": 1,
-      "title": "قمة نارية الليلة في الدوري الإنجليزي",
+      "title": "قمة نارية بين أرسنال وتشيلسي",
       "cover": "https://picsum.photos/900/500?news1",
-      "content": "تتجه الأنظار الليلة إلى مواجهة قوية في الدوري الإنجليزي بين فريقين من كبار البطولة.",
+      "content": "مباراة قوية منتظرة اليوم بين أرسنال وتشيلسي ضمن الدوري الإنجليزي الممتاز.",
       "timeAgo": "1 hour ago"
     },
     {
       "id": 2,
-      "title": "إصابة مفاجئة لنجم الفريق قبل المباراة",
+      "title": "برشلونة يواجه ريال مدريد في كلاسيكو",
       "cover": "https://picsum.photos/900/500?news2",
-      "content": "تعرض أحد أبرز نجوم الفريق لإصابة مفاجئة.",
+      "content": "مواجهة نارية بين برشلونة وريال مدريد في الكلاسيكو المنتظر.",
       "timeAgo": "2 hours ago"
     }
   ],
@@ -75,6 +75,21 @@
       "thumbnail": "https://picsum.photos/900/500?match3",
       "isLive": true,
       "streamTitle": "Barcelona vs Real Madrid",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "streamType": "m3u8"
+    },
+    {
+      "id": 4,
+      "leagueId": 3,
+      "leagueName": "Champions League",
+      "homeTeam": "PSG",
+      "awayTeam": "Bayern Munich",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
+      "time": "09:00 PM",
+      "thumbnail": "https://picsum.photos/900/500?match4",
+      "isLive": true,
+      "streamTitle": "PSG vs Bayern",
       "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
       "streamType": "m3u8"
     }
