@@ -15,7 +15,6 @@
       "timeAgo": "2 hours ago"
     }
   ],
-
   "leagues": [
     {
       "id": 1,
@@ -33,7 +32,6 @@
       "image": "https://picsum.photos/300/300?league3"
     }
   ],
-
   "matches": [
     {
       "id": 1,
@@ -47,7 +45,8 @@
       "thumbnail": "https://picsum.photos/900/500?match1",
       "isLive": true,
       "streamTitle": "Arsenal vs Chelsea",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "streamType": "m3u8"
     },
     {
       "id": 2,
@@ -61,7 +60,8 @@
       "thumbnail": "https://picsum.photos/900/500?match2",
       "isLive": false,
       "streamTitle": "Liverpool vs Man City",
-      "streamUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+      "streamUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "streamType": "mp4"
     },
     {
       "id": 3,
@@ -75,7 +75,8 @@
       "thumbnail": "https://picsum.photos/900/500?match3",
       "isLive": true,
       "streamTitle": "Barcelona vs Real Madrid",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "streamType": "m3u8"
     },
     {
       "id": 4,
@@ -89,21 +90,8 @@
       "thumbnail": "https://picsum.photos/900/500?match4",
       "isLive": true,
       "streamTitle": "PSG vs Bayern",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-    },
-    {
-      "id": 5,
-      "leagueId": 1,
-      "leagueName": "Premier League",
-      "homeTeam": "Tottenham",
-      "awayTeam": "Newcastle",
-      "homeLogo": "https://picsum.photos/100/100?team9",
-      "awayLogo": "https://picsum.photos/100/100?team10",
-      "time": "08:30 PM",
-      "thumbnail": "https://picsum.photos/900/500?match5",
-      "isLive": false,
-      "streamTitle": "Tottenham vs Newcastle",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "streamType": "m3u8"
     }
   ]
 }
