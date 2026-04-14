@@ -1,94 +1,118 @@
 {
   "matchDetailsSection": {
     "title": "Watch match now",
-    "text": "",
-    "image": "https://i.imgur.com/8Km9tLL.jpg"
+    "image": "https://picsum.photos/900/500?watch",
+    "text": "اضغط على زر التشغيل لمشاهدة المباراة مباشرة بجودة عالية. جميع الروابط يتم تحديثها باستمرار."
   },
-
-  "matches": [
-    {
-      "id": 1,
-      "leagueId": 1,
-      "homeTeam": "Arsenal",
-      "awayTeam": "Chelsea",
-      "time": "03:45 PM",
-      "league": "Premier League",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
-      "streamTitle": "Arsenal vs Chelsea Live",
-      "streamUrl": "http://4kplusmonsefstore.space/live/79da6da1f4b4/d2f313c7aa/544491.ts",
-      "streamType": "m3u8"
-    },
-    {
-      "id": 2,
-      "leagueId": 1,
-      "homeTeam": "Liverpool",
-      "awayTeam": "Manchester City",
-      "time": "07:00 PM",
-      "league": "Premier League",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-      "streamTitle": "Liverpool vs Man City",
-      "streamUrl": "https://test-streams.mux.dev/test_001/stream.m3u8",
-      "streamType": "m3u8"
-    },
-    {
-      "id": 3,
-      "leagueId": 2,
-      "homeTeam": "Barcelona",
-      "awayTeam": "Real Madrid",
-      "time": "08:00 PM",
-      "league": "La Liga",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-      "streamTitle": "El Clasico",
-      "streamUrl": "https://test-streams.mux.dev/bbb-360p.m3u8",
-      "streamType": "m3u8"
-    }
-  ],
-
-  "leagues": [
-    {
-      "id": 1,
-      "name": "Premier League",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg"
-    },
-    {
-      "id": 2,
-      "name": "La Liga",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/9/92/La_Liga_Logo.svg"
-    }
-  ],
-
-  "highlights": [
-    {
-      "id": 1,
-      "title": "Arsenal vs Chelsea Highlights",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-      "image": "https://i.imgur.com/8Km9tLL.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Barcelona vs Real Madrid Highlights",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-      "image": "https://i.imgur.com/z4d4kWk.jpg"
-    }
-  ],
-
   "news": [
     {
       "id": 1,
       "title": "قمة نارية بين أرسنال وتشيلسي",
-      "image": "https://i.imgur.com/8Km9tLL.jpg",
-      "time": "1 hour ago",
-      "content": "تشهد الجولة القادمة مواجهة قوية بين أرسنال وتشيلسي في الدوري الإنجليزي الممتاز."
+      "cover": "https://picsum.photos/900/500?news1",
+      "content": "مباراة قوية اليوم بين أرسنال وتشيلسي ضمن الدوري الإنجليزي الممتاز.",
+      "timeAgo": "1 hour ago"
     },
     {
       "id": 2,
-      "title": "برشلونة يواجه ريال مدريد في الكلاسيكو",
-      "image": "https://i.imgur.com/z4d4kWk.jpg",
-      "time": "2 hours ago",
-      "content": "مباراة الكلاسيكو المرتقبة بين برشلونة وريال مدريد ستكون من أقوى مباريات الموسم."
+      "title": "برشلونة يواجه ريال مدريد",
+      "cover": "https://picsum.photos/900/500?news2",
+      "content": "الكلاسيكو المنتظر بين برشلونة وريال مدريد في قمة الدوري الإسباني.",
+      "timeAgo": "2 hours ago"
+    }
+  ],
+  "leagues": [
+    {
+      "id": 1,
+      "name": "Premier League",
+      "image": "https://picsum.photos/300/300?premier"
+    },
+    {
+      "id": 2,
+      "name": "La Liga",
+      "image": "https://picsum.photos/300/300?laliga"
+    },
+    {
+      "id": 3,
+      "name": "Champions League",
+      "image": "https://picsum.photos/300/300?ucl"
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "leagueId": 1,
+      "leagueName": "Premier League",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Chelsea",
+      "homeLogo": "https://picsum.photos/100/100?team1",
+      "awayLogo": "https://picsum.photos/100/100?team2",
+      "time": "03:45 PM",
+      "thumbnail": "https://picsum.photos/900/500?match1",
+      "isLive": true,
+      "streamTitle": "Arsenal vs Chelsea Live",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "streamType": "m3u8"
+    },
+    {
+      "id": 2,
+      "leagueId": 1,
+      "leagueName": "Premier League",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Manchester City",
+      "homeLogo": "https://picsum.photos/100/100?team3",
+      "awayLogo": "https://picsum.photos/100/100?team4",
+      "time": "07:00 PM",
+      "thumbnail": "https://picsum.photos/900/500?match2",
+      "isLive": false,
+      "streamTitle": "Liverpool vs Manchester City",
+      "streamUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "streamType": "mp4"
+    },
+    {
+      "id": 3,
+      "leagueId": 2,
+      "leagueName": "La Liga",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Real Madrid",
+      "homeLogo": "https://picsum.photos/100/100?team5",
+      "awayLogo": "https://picsum.photos/100/100?team6",
+      "time": "08:00 PM",
+      "thumbnail": "https://picsum.photos/900/500?match3",
+      "isLive": true,
+      "streamTitle": "Barcelona vs Real Madrid",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "streamType": "m3u8"
+    },
+    {
+      "id": 4,
+      "leagueId": 3,
+      "leagueName": "Champions League",
+      "homeTeam": "PSG",
+      "awayTeam": "Bayern Munich",
+      "homeLogo": "https://picsum.photos/100/100?team7",
+      "awayLogo": "https://picsum.photos/100/100?team8",
+      "time": "09:00 PM",
+      "thumbnail": "https://picsum.photos/900/500?match4",
+      "isLive": false,
+      "streamTitle": "PSG vs Bayern Munich",
+      "streamUrl": "https://www.w3schools.com/html/movie.mp4",
+      "streamType": "mp4"
+    }
+  ],
+  "highlights": [
+    {
+      "id": 1,
+      "title": "ملخص أرسنال ضد تشيلسي",
+      "thumbnail": "https://picsum.photos/900/500?highlight1",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "timeAgo": "1 hour ago"
+    },
+    {
+      "id": 2,
+      "title": "ملخص برشلونة ضد ريال مدريد",
+      "thumbnail": "https://picsum.photos/900/500?highlight2",
+      "videoUrl": "https://www.w3schools.com/html/movie.mp4",
+      "timeAgo": "2 hours ago"
     }
   ]
 }
