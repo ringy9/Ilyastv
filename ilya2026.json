@@ -45,8 +45,7 @@
       "thumbnail": "https://picsum.photos/900/500?match1",
       "isLive": true,
       "streamTitle": "Arsenal vs Chelsea",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "streamType": "m3u8"
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     },
     {
       "id": 2,
@@ -60,8 +59,7 @@
       "thumbnail": "https://picsum.photos/900/500?match2",
       "isLive": false,
       "streamTitle": "Liverpool vs Manchester City",
-      "streamUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "streamType": "mp4"
+      "streamUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
     },
     {
       "id": 3,
@@ -75,8 +73,7 @@
       "thumbnail": "https://picsum.photos/900/500?match3",
       "isLive": true,
       "streamTitle": "Barcelona vs Real Madrid",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "streamType": "m3u8"
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     },
     {
       "id": 4,
@@ -90,8 +87,7 @@
       "thumbnail": "https://picsum.photos/900/500?match4",
       "isLive": true,
       "streamTitle": "PSG vs Bayern",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "streamType": "m3u8"
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
     }
   ]
 }
