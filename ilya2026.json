@@ -1,37 +1,45 @@
 {
+  "matchDetailsSection": {
+    "title": "Watch match now",
+    "image": "https://picsum.photos/900/500?watch",
+    "text": "اضغط على زر التشغيل لمشاهدة المباراة مباشرة بجودة عالية. جميع الروابط يتم تحديثها باستمرار."
+  },
+
   "news": [
     {
       "id": 1,
       "title": "قمة نارية بين أرسنال وتشيلسي",
       "cover": "https://picsum.photos/900/500?news1",
-      "content": "مباراة قوية منتظرة اليوم بين أرسنال وتشيلسي ضمن الدوري الإنجليزي الممتاز.",
+      "content": "مباراة قوية اليوم بين أرسنال وتشيلسي ضمن الدوري الإنجليزي الممتاز.",
       "timeAgo": "1 hour ago"
     },
     {
       "id": 2,
       "title": "برشلونة يواجه ريال مدريد",
       "cover": "https://picsum.photos/900/500?news2",
-      "content": "كلاسيكو ناري بين برشلونة وريال مدريد الليلة.",
+      "content": "الكلاسيكو المنتظر بين برشلونة وريال مدريد في قمة الدوري الإسباني.",
       "timeAgo": "2 hours ago"
     }
   ],
+
   "leagues": [
     {
       "id": 1,
       "name": "Premier League",
-      "image": "https://picsum.photos/300/300?league1"
+      "image": "https://picsum.photos/300/300?premier"
     },
     {
       "id": 2,
       "name": "La Liga",
-      "image": "https://picsum.photos/300/300?league2"
+      "image": "https://picsum.photos/300/300?laliga"
     },
     {
       "id": 3,
       "name": "Champions League",
-      "image": "https://picsum.photos/300/300?league3"
+      "image": "https://picsum.photos/300/300?ucl"
     }
   ],
+
   "matches": [
     {
       "id": 1,
@@ -39,8 +47,8 @@
       "leagueName": "Premier League",
       "homeTeam": "Arsenal",
       "awayTeam": "Chelsea",
-      "homeLogo": "https://picsum.photos/100/100?team1",
-      "awayLogo": "https://picsum.photos/100/100?team2",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
       "time": "03:45 PM",
       "thumbnail": "https://picsum.photos/900/500?match1",
       "isLive": true,
@@ -54,8 +62,8 @@
       "leagueName": "Premier League",
       "homeTeam": "Liverpool",
       "awayTeam": "Manchester City",
-      "homeLogo": "https://picsum.photos/100/100?team3",
-      "awayLogo": "https://picsum.photos/100/100?team4",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
       "time": "07:00 PM",
       "thumbnail": "https://picsum.photos/900/500?match2",
       "isLive": false,
@@ -69,8 +77,8 @@
       "leagueName": "La Liga",
       "homeTeam": "Barcelona",
       "awayTeam": "Real Madrid",
-      "homeLogo": "https://picsum.photos/100/100?team5",
-      "awayLogo": "https://picsum.photos/100/100?team6",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
       "time": "08:00 PM",
       "thumbnail": "https://picsum.photos/900/500?match3",
       "isLive": true,
@@ -84,14 +92,14 @@
       "leagueName": "Champions League",
       "homeTeam": "PSG",
       "awayTeam": "Bayern Munich",
-      "homeLogo": "https://picsum.photos/100/100?team7",
-      "awayLogo": "https://picsum.photos/100/100?team8",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
       "time": "09:00 PM",
       "thumbnail": "https://picsum.photos/900/500?match4",
-      "isLive": true,
+      "isLive": false,
       "streamTitle": "PSG vs Bayern",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "streamType": "m3u8"
+      "streamUrl": "https://www.w3schools.com/html/movie.mp4",
+      "streamType": "mp4"
     }
   ]
 }
