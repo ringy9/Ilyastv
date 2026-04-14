@@ -4,36 +4,15 @@
       "id": 1,
       "title": "قمة نارية الليلة في الدوري الإنجليزي",
       "cover": "https://picsum.photos/900/500?news1",
-      "content": "تتجه الأنظار الليلة إلى مواجهة قوية في الدوري الإنجليزي بين فريقين من كبار البطولة، وسط ترقب كبير من الجماهير لمعرفة من سيحسم النقاط الثلاث.",
+      "content": "تتجه الأنظار الليلة إلى مواجهة قوية في الدوري الإنجليزي بين فريقين من كبار البطولة.",
       "timeAgo": "1 hour ago"
     },
     {
       "id": 2,
       "title": "إصابة مفاجئة لنجم الفريق قبل المباراة",
       "cover": "https://picsum.photos/900/500?news2",
-      "content": "تعرض أحد أبرز نجوم الفريق لإصابة مفاجئة خلال الحصة التدريبية الأخيرة، ما يضع المدرب في موقف صعب قبل المواجهة المرتقبة.",
+      "content": "تعرض أحد أبرز نجوم الفريق لإصابة مفاجئة.",
       "timeAgo": "2 hours ago"
-    },
-    {
-      "id": 3,
-      "title": "مدرب جديد يبدأ مهمته بانتصار مهم",
-      "cover": "https://picsum.photos/900/500?news3",
-      "content": "افتتح المدرب الجديد مشواره مع الفريق بانتصار مهم أعاد الثقة للجماهير ومنح اللاعبين دفعة قوية قبل المباريات القادمة.",
-      "timeAgo": "3 hours ago"
-    },
-    {
-      "id": 4,
-      "title": "عودة لاعب بارز بعد غياب طويل",
-      "cover": "https://picsum.photos/900/500?news4",
-      "content": "عاد اللاعب الأساسي إلى التدريبات الجماعية بعد فترة غياب طويلة بسبب الإصابة، ومن المتوقع أن يكون ضمن القائمة القادمة.",
-      "timeAgo": "4 hours ago"
-    },
-    {
-      "id": 5,
-      "title": "مواجهة قوية في دوري أبطال أوروبا",
-      "cover": "https://picsum.photos/900/500?news5",
-      "content": "تستعد جماهير الكرة الأوروبية لمباراة من العيار الثقيل في دوري الأبطال، حيث يسعى كل فريق إلى تحقيق أفضلية قبل الإياب.",
-      "timeAgo": "5 hours ago"
     }
   ],
   "leagues": [
@@ -49,23 +28,8 @@
     },
     {
       "id": 3,
-      "name": "Serie A",
-      "image": "https://picsum.photos/300/300?league3"
-    },
-    {
-      "id": 4,
-      "name": "Bundesliga",
-      "image": "https://picsum.photos/300/300?league4"
-    },
-    {
-      "id": 5,
-      "name": "Ligue 1",
-      "image": "https://picsum.photos/300/300?league5"
-    },
-    {
-      "id": 6,
       "name": "Champions League",
-      "image": "https://picsum.photos/300/300?league6"
+      "image": "https://picsum.photos/300/300?league3"
     }
   ],
   "matches": [
@@ -75,13 +39,23 @@
       "leagueName": "Premier League",
       "homeTeam": "Arsenal",
       "awayTeam": "Chelsea",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/250px-Arsenal_FC.svg.png",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1280px-Chelsea_FC.svg.png",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
       "time": "03:45 PM",
       "thumbnail": "https://picsum.photos/900/500?match1",
-      "streamTitle": "Arsenal vs Chelsea",
-      "streamUrl": "https://maymunmatematigi.lol/static/bs1.m3u8",
-      "streamType": "m3u8"
+      "isLive": true,
+      "streams": [
+        {
+          "title": "Server 1",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "title": "Server 2",
+          "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "type": "mp4"
+        }
+      ]
     },
     {
       "id": 2,
@@ -93,26 +67,17 @@
       "awayLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
       "time": "07:00 PM",
       "thumbnail": "https://picsum.photos/900/500?match2",
-      "streamTitle": "Liverpool vs Manchester City",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-      "streamType": "mp4"
+      "isLive": false,
+      "streams": [
+        {
+          "title": "Main Stream",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "m3u8"
+        }
+      ]
     },
     {
       "id": 3,
-      "leagueId": 1,
-      "leagueName": "Premier League",
-      "homeTeam": "Tottenham",
-      "awayTeam": "Newcastle",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
-      "time": "08:00 PM",
-      "thumbnail": "https://picsum.photos/900/500?match3",
-      "streamTitle": "Tottenham vs Newcastle",
-      "streamUrl": "http://4kplusmonsefstore.space/live/79da6da1f4b4/d2f313c7aa/544491.ts",
-      "streamType": "ts"
-    },
-    {
-      "id": 4,
       "leagueId": 2,
       "leagueName": "La Liga",
       "homeTeam": "Barcelona",
@@ -120,122 +85,20 @@
       "homeLogo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
       "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
       "time": "08:00 PM",
-      "thumbnail": "https://picsum.photos/900/500?match4",
-      "streamTitle": "Barcelona vs Real Madrid",
-      "streamUrl": "http://4kplusmonsefstore.space/live/79da6da1f4b4/d2f313c7aa/544491.ts",
-      "streamType": "m3u8"
-    },
-    {
-      "id": 5,
-      "leagueId": 2,
-      "leagueName": "La Liga",
-      "homeTeam": "Atletico Madrid",
-      "awayTeam": "Sevilla",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/3/3b/Sevilla_FC_logo.svg",
-      "time": "09:00 PM",
-      "thumbnail": "https://picsum.photos/900/500?match5",
-      "streamTitle": "Atletico Madrid vs Sevilla",
-      "streamUrl": "https://www.w3schools.com/html/movie.mp4",
-      "streamType": "mp4"
-    },
-    {
-      "id": 6,
-      "leagueId": 3,
-      "leagueName": "Serie A",
-      "homeTeam": "Juventus",
-      "awayTeam": "AC Milan",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Juventus_FC_2017_logo.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
-      "time": "06:30 PM",
-      "thumbnail": "https://picsum.photos/900/500?match6",
-      "streamTitle": "Juventus vs AC Milan",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "streamType": "m3u8"
-    },
-    {
-      "id": 7,
-      "leagueId": 3,
-      "leagueName": "Serie A",
-      "homeTeam": "Inter",
-      "awayTeam": "Napoli",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/SSC_Neapel.svg",
-      "time": "07:45 PM",
-      "thumbnail": "https://picsum.photos/900/500?match7",
-      "streamTitle": "Inter vs Napoli",
-      "streamUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "streamType": "mp4"
-    },
-    {
-      "id": 8,
-      "leagueId": 4,
-      "leagueName": "Bundesliga",
-      "homeTeam": "Bayern Munich",
-      "awayTeam": "Borussia Dortmund",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/FC_Bayern_München_logo_%282017%29.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
-      "time": "08:15 PM",
-      "thumbnail": "https://picsum.photos/900/500?match8",
-      "streamTitle": "Bayern Munich vs Borussia Dortmund",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "streamType": "m3u8"
-    },
-    {
-      "id": 9,
-      "leagueId": 4,
-      "leagueName": "Bundesliga",
-      "homeTeam": "RB Leipzig",
-      "awayTeam": "Bayer Leverkusen",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/59/Bayer_04_Leverkusen_logo.svg",
-      "time": "09:30 PM",
-      "thumbnail": "https://picsum.photos/900/500?match9",
-      "streamTitle": "RB Leipzig vs Bayer Leverkusen",
-      "streamUrl": "https://www.w3schools.com/html/movie.mp4",
-      "streamType": "mp4"
-    },
-    {
-      "id": 10,
-      "leagueId": 5,
-      "leagueName": "Ligue 1",
-      "homeTeam": "PSG",
-      "awayTeam": "Lyon",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/c/c6/Olympique_Lyonnais.svg",
-      "time": "08:00 PM",
-      "thumbnail": "https://picsum.photos/900/500?match10",
-      "streamTitle": "PSG vs Lyon",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "streamType": "m3u8"
-    },
-    {
-      "id": 11,
-      "leagueId": 5,
-      "leagueName": "Ligue 1",
-      "homeTeam": "Marseille",
-      "awayTeam": "Monaco",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/2/27/Olympique_de_Marseille_logo.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/b/ba/AS_Monaco_FC.svg",
-      "time": "09:15 PM",
-      "thumbnail": "https://picsum.photos/900/500?match11",
-      "streamTitle": "Marseille vs Monaco",
-      "streamUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "streamType": "mp4"
-    },
-    {
-      "id": 12,
-      "leagueId": 6,
-      "leagueName": "Champions League",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Manchester City",
-      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-      "time": "08:00 PM",
-      "thumbnail": "https://picsum.photos/900/500?match12",
-      "streamTitle": "Real Madrid vs Manchester City",
-      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "streamType": "m3u8"
+      "thumbnail": "https://picsum.photos/900/500?match3",
+      "isLive": true,
+      "streams": [
+        {
+          "title": "HD Stream",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "title": "Backup MP4",
+          "url": "https://www.w3schools.com/html/movie.mp4",
+          "type": "mp4"
+        }
+      ]
     }
   ]
 }
