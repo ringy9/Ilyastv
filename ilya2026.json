@@ -44,18 +44,9 @@
       "time": "03:45 PM",
       "thumbnail": "https://picsum.photos/900/500?match1",
       "isLive": true,
-      "streams": [
-        {
-          "title": "Server 1",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "title": "Server 2",
-          "url": "https://www.w3schools.com/html/mov_bbb.mp4",
-          "type": "mp4"
-        }
-      ]
+      "streamTitle": "Arsenal vs Chelsea",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "streamType": "m3u8"
     },
     {
       "id": 2,
@@ -68,13 +59,9 @@
       "time": "07:00 PM",
       "thumbnail": "https://picsum.photos/900/500?match2",
       "isLive": false,
-      "streams": [
-        {
-          "title": "Main Stream",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "type": "m3u8"
-        }
-      ]
+      "streamTitle": "Liverpool vs Manchester City",
+      "streamUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "streamType": "mp4"
     },
     {
       "id": 3,
@@ -87,18 +74,9 @@
       "time": "08:00 PM",
       "thumbnail": "https://picsum.photos/900/500?match3",
       "isLive": true,
-      "streams": [
-        {
-          "title": "HD Stream",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "title": "Backup MP4",
-          "url": "https://www.w3schools.com/html/movie.mp4",
-          "type": "mp4"
-        }
-      ]
+      "streamTitle": "Barcelona vs Real Madrid",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "streamType": "m3u8"
     }
   ]
 }
