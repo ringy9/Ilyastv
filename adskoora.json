@@ -49,11 +49,11 @@
 
     "admob": {
       "enabled": true,
-      "app_id": "ca-app-pub-xxxxxxxxxxxxxxxx~xxxxxxxxxx",
-      "banner": "ca-app-pub-3738055180283754/4408547709",
-      "native": "ca-app-pub-3738055180283754/7142522251",
-      "interstitial": "ca-app-pub-3738055180283754/6021012273",
-      "app_open": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
+      "banner": "	ca-app-pub-3940256099942544/6300978111",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "app_open": "ca-app-pub-3940256099942544/9257395921"
     },
 
     "fan": {
