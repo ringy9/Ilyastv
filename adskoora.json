@@ -1,0 +1,80 @@
+{
+  "ads_config": {
+    "active_ads_network": "admob",
+    "test_mode": false,
+
+    "rules": {
+      "ads_interval": 3,
+      "interstitial_cooldown_seconds": 45,
+      "app_open_cooldown_seconds": 30,
+      "retry_on_fail": true
+    },
+
+    "placements": {
+      "banner_under_bottom_bar": true,
+      "banner_only_main_tabs": true,
+
+      "native_below_player": true,
+      "native_exit_dialog": true,
+
+      "interstitial_on_play": true,
+      "interstitial_on_news": true,
+      "interstitial_after_every_n_clicks": true,
+
+      "show_splash_ad_on_launch": true,
+      "show_splash_ad_on_resume": true
+    },
+
+    "screens": {
+      "banner_tabs": [
+        "matches",
+        "highlights",
+        "categories",
+        "news"
+      ],
+      "interstitial_triggers": [
+        "play_click",
+        "news_open",
+        "every_3_clicks"
+      ],
+      "native_places": [
+        "player_bottom",
+        "exit_dialog"
+      ],
+      "app_open_places": [
+        "launch",
+        "resume"
+      ]
+    },
+
+    "admob": {
+      "enabled": true,
+      "app_id": "ca-app-pub-xxxxxxxxxxxxxxxx~xxxxxxxxxx",
+      "banner": "ca-app-pub-3738055180283754/4408547709",
+      "native": "ca-app-pub-3738055180283754/7142522251",
+      "interstitial": "ca-app-pub-3738055180283754/6021012273",
+      "app_open": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
+    },
+
+    "fan": {
+      "enabled": true,
+      "banner": "1339034450994623_1339035490994519",
+      "native": "1339034450994623_1339035650994503",
+      "interstitial": "1339034450994623_1339035554327846"
+    },
+
+    "ironsource": {
+      "enabled": true,
+      "app_key": "17417cb4d",
+      "banner": "DefaultBanner",
+      "interstitial": "DefaultInterstitial"
+    },
+
+    "max": {
+      "enabled": true,
+      "banner": "4dc9fc35954ddfd2",
+      "native": "0d8cfc28938ae6a2",
+      "interstitial": "c811954db906fdad"
+    }
+  }
+}
