@@ -24,17 +24,17 @@
     {
       "id": 1,
       "name": "Premier League",
-      "image": "https://picsum.photos/300/300?premier"
+      "image": "https://i.postimg.cc/nLm9RHRQ/1625135259-7102-2017-04-13-Recovered.png"
     },
     {
       "id": 2,
       "name": "La Liga",
-      "image": "https://picsum.photos/300/300?laliga"
+      "image": "https://i.postimg.cc/nLm9RHRQ/1625135259-7102-2017-04-13-Recovered.png"
     },
     {
       "id": 3,
       "name": "Champions League",
-      "image": "https://picsum.photos/300/300?ucl"
+      "image": "https://i.postimg.cc/nLm9RHRQ/1625135259-7102-2017-04-13-Recovered.png"
     }
   ],
   "matches": [
