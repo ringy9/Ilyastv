@@ -3,7 +3,7 @@
     "active_ads_network": "admob",
 
     "rules": {
-      "ads_interval": 5,
+      "ads_interval": 3,
       "interstitial_cooldown_seconds": 20,
       "app_open_cooldown_seconds": 15
     },
@@ -11,7 +11,7 @@
     "placements": {
       "banner_under_bottom_bar": true,
       "banner_only_main_tabs": true,
-      "native_below_player": false,
+      "native_below_player": true,
       "native_below_match_image": true,
       "native_below_news_image": true,
       "native_exit_dialog": true,
@@ -22,6 +22,13 @@
       "show_app_open_on_resume": false,
       "show_splash_interstitial_on_launch": false
     },
+
+    "player_promo": {
+      "enabled": true,
+      "image": "https://i.postimg.cc/SNBcgvQT/5S.png",
+      "link": "https://play.google.com/store/apps/details?id=com.jeaoapps.ilyaslive"
+    },
+
     "admob": {
       "banner": "ca-app-pub-3940256099942544/6300978111",
       "native": "ca-app-pub-3940256099942544/2247696110",
