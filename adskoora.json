@@ -4,21 +4,23 @@
 
     "rules": {
       "ads_interval": 3,
-      "interstitial_cooldown_seconds": 5,
+      "interstitial_cooldown_seconds": 20,
       "app_open_cooldown_seconds": 15
     },
 
     "placements": {
       "banner_under_bottom_bar": true,
       "banner_only_main_tabs": true,
-      "native_below_player": true,
-      "native_exit_dialog": true,
+      "native_below_player": false,
+      "native_below_match_image": true,
+      "native_below_news_image": true,
+      "native_exit_dialog": false,
       "interstitial_on_play": true,
       "interstitial_on_news": true,
       "interstitial_after_every_n_clicks": true,
-      "show_app_open_on_resume": true
+      "show_app_open_on_resume": false,
+      "show_splash_interstitial_on_launch": true
     },
-
     "admob": {
       "banner": "ca-app-pub-3940256099942544/6300978111",
       "native": "ca-app-pub-3940256099942544/2247696110",
