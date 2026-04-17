@@ -3,7 +3,7 @@
     "active_ads_network": "admob",
 
     "rules": {
-      "ads_interval": 3,
+      "ads_interval": 5,
       "interstitial_cooldown_seconds": 20,
       "app_open_cooldown_seconds": 15
     },
