@@ -1,10 +1,10 @@
 {
   "ads_config": {
-    "active_ads_network": "admob",
+    "active_ads_network": "max",
 
     "rules": {
       "ads_interval": 3,
-      "interstitial_cooldown_seconds": 20,
+      "interstitial_cooldown_seconds": 5,
       "app_open_cooldown_seconds": 15
     },
 
