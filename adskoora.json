@@ -14,12 +14,13 @@
       "native_below_player": false,
       "native_below_match_image": true,
       "native_below_news_image": true,
-      "native_exit_dialog": false,
+      "native_exit_dialog": true,
       "interstitial_on_play": true,
       "interstitial_on_news": true,
       "interstitial_after_every_n_clicks": true,
+      "show_app_open_on_launch": true,
       "show_app_open_on_resume": false,
-      "show_splash_interstitial_on_launch": true
+      "show_splash_interstitial_on_launch": false
     },
     "admob": {
       "banner": "ca-app-pub-3940256099942544/6300978111",
