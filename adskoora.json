@@ -31,7 +31,7 @@
 
     "update_popup": {
   "enabled": false,
-  "force_update": true,
+  "force_update": false,
   "icon": "https://i.postimg.cc/zv5VjHZJ/Whats-App-Image-2026-04-15-at-00-11-02.jpg",
   "title": "Yacine TV Update",
   "text": "A new version of Yacine TV is available. Please update the app to enjoy the latest improvements and fixes.",
