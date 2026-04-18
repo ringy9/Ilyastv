@@ -30,7 +30,7 @@
     },
 
     "update_popup": {
-  "enabled": true,
+  "enabled": false,
   "force_update": true,
   "icon": "https://i.postimg.cc/zv5VjHZJ/Whats-App-Image-2026-04-15-at-00-11-02.jpg",
   "title": "Yacine TV Update",
