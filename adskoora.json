@@ -3,7 +3,7 @@
     "active_ads_network": "admob",
 
     "rules": {
-      "ads_interval": 3,
+      "ads_interval": 10,
       "interstitial_cooldown_seconds": 20,
       "app_open_cooldown_seconds": 15
     },
@@ -15,8 +15,8 @@
       "native_below_match_image": true,
       "native_below_news_image": true,
       "native_exit_dialog": true,
-      "interstitial_on_play": true,
-      "interstitial_on_news": true,
+      "interstitial_on_play": false,
+      "interstitial_on_news": false,
       "interstitial_after_every_n_clicks": true,
       "show_app_open_on_launch": true,
       "show_app_open_on_resume": false,
@@ -24,7 +24,7 @@
     },
 
     "player_promo": {
-      "enabled": true,
+      "enabled": false,
       "image": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
       "link": "https://play.google.com/store/apps/details?id=com.jeaoapps.ilyaslive"
     },
