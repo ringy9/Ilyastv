@@ -1,6 +1,6 @@
 {
   "ads_config": {
-    "active_ads_network": "admob",
+    "active_ads_network": "max",
 
     "rules": {
       "ads_interval": 3,
@@ -50,9 +50,9 @@
 
     "max": {
       "sdk_key": "qBrJ8VOIJT_6fTg6RBmIzJCaBZkoy9WT9vG4_OM8ZQhTU2zy4S0vxdeConJCccEEoHXROfBU6cfVCiZCmR0Kvr",
-      "banner": "4dc9fc35954ddfd2",
-      "native": "0d8cfc28938ae6a2",
-      "interstitial": "c811954db906fdad"
+      "banner": "19137e24072a8634",
+      "native": "fd3cfcad9d7ebdd3",
+      "interstitial": "aca3db29c6937d80"
     }
   }
 }
