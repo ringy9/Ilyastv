@@ -71,8 +71,8 @@
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
       "isLive": true,
       "streamTitle": "إتحاد يعقوب المنصور vs الفتح الرباطي Live",
-      "streamUrl": "https://maymunmatematigi.lol/static/bs2.m3u8",
-      "streamType": "m3u8"
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+      "streamType": "mp4"
     },
     {
       "id": 2,
@@ -86,7 +86,7 @@
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
       "isLive": true,
       "streamTitle": "الجيش الملكي vs نهضة بركان",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
       "streamType": "mp4"
     },
     {
@@ -101,7 +101,7 @@
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
       "isLive": true,
       "streamTitle": "المغرب الفاسي vs الوداد الرياضي",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
       "streamType": "mp4"
     },
     {
@@ -116,7 +116,7 @@
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
       "isLive": true,
       "streamTitle": "إتحاد طنجة vs أولمبيك الدشيرة",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
       "streamType": "mp4"
     }
   ],
@@ -125,7 +125,7 @@
       "id": 1,
       "title": "ملخص إتحاد طنجة vs أولمبيك الدشيرة",
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
       "timeAgo": "1 hour ago"
     }
   ]
