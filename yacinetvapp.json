@@ -1,127 +1,90 @@
 {
   "categories": [
     {
-      "id": "sports",
-      "title": "BEIN SPORTS FHD",
+      "id": "arabic_channels",
+      "title": "ARABIC CHANNELS",
       "channels": [
         {
-          "id": "bein1",
-          "title": "beIN SPORTS 1",
-          "image": "https://i.imgur.com/8R0vK6T.png",
+          "id": "algeria",
+          "title": "ALGERIA",
+          "image": "https://flagcdn.com/w320/dz.png",
           "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
           "type": "m3u8"
         },
         {
-          "id": "bein2",
-          "title": "beIN SPORTS 2",
-          "image": "https://i.imgur.com/8R0vK6T.png",
+          "id": "morocco",
+          "title": "MOROCCO",
+          "image": "https://flagcdn.com/w320/ma.png",
           "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
           "type": "m3u8"
         },
         {
-          "id": "ssc1",
-          "title": "SSC SPORT 1",
-          "image": "https://i.imgur.com/8R0vK6T.png",
+          "id": "tunisia",
+          "title": "TUNISIA",
+          "image": "https://flagcdn.com/w320/tn.png",
           "url": "https://test-streams.mux.dev/bbb-360p.m3u8",
           "type": "m3u8"
-        }
-      ]
-    },
-    {
-      "id": "news",
-      "title": "NEWS CHANNELS",
-      "channels": [
+        },
         {
-          "id": "fr24",
-          "title": "France 24",
-          "image": "https://i.imgur.com/ZcLLrkY.png",
+          "id": "libya",
+          "title": "LIBYA",
+          "image": "https://flagcdn.com/w320/ly.png",
           "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
           "type": "m3u8"
         },
         {
-          "id": "aljazeera",
-          "title": "Al Jazeera",
-          "image": "https://i.imgur.com/ZcLLrkY.png",
+          "id": "egypt",
+          "title": "EGYPTE",
+          "image": "https://flagcdn.com/w320/eg.png",
           "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
           "type": "m3u8"
-        }
-      ]
-    },
-    {
-      "id": "movies",
-      "title": "MOVIES CHANNELS",
-      "channels": [
+        },
         {
-          "id": "movie1",
-          "title": "Movie Channel 1",
-          "image": "https://i.imgur.com/2yaf2wb.png",
+          "id": "saudi_arabia",
+          "title": "SAUDI ARABIA",
+          "image": "https://flagcdn.com/w320/sa.png",
           "url": "https://test-streams.mux.dev/bigbuckbunny/master.m3u8",
           "type": "m3u8"
         },
         {
-          "id": "movie2",
-          "title": "Movie Channel 2",
-          "image": "https://i.imgur.com/2yaf2wb.png",
+          "id": "uae",
+          "title": "UEA",
+          "image": "https://flagcdn.com/w320/ae.png",
           "url": "https://test-streams.mux.dev/pts_shift/master.m3u8",
           "type": "m3u8"
-        }
-      ]
-    },
-    {
-      "id": "kids",
-      "title": "KIDS CHANNELS",
-      "channels": [
+        },
         {
-          "id": "kids1",
-          "title": "Cartoon Network",
-          "image": "https://i.imgur.com/5cX1Z9s.png",
+          "id": "palestine",
+          "title": "PALESTINE",
+          "image": "https://flagcdn.com/w320/ps.png",
           "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
           "type": "m3u8"
         },
         {
-          "id": "kids2",
-          "title": "Nickelodeon",
-          "image": "https://i.imgur.com/5cX1Z9s.png",
+          "id": "jordan",
+          "title": "JORDAN",
+          "image": "https://flagcdn.com/w320/jo.png",
           "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
           "type": "m3u8"
-        }
-      ]
-    },
-    {
-      "id": "music",
-      "title": "MUSIC CHANNELS",
-      "channels": [
+        },
         {
-          "id": "music1",
-          "title": "MTV Live",
-          "image": "https://i.imgur.com/fYdZqJb.png",
+          "id": "lebanon",
+          "title": "LEBANON",
+          "image": "https://flagcdn.com/w320/lb.png",
           "url": "https://test-streams.mux.dev/bbb-360p.m3u8",
           "type": "m3u8"
         },
         {
-          "id": "music2",
-          "title": "Rotana Music",
-          "image": "https://i.imgur.com/fYdZqJb.png",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "type": "m3u8"
-        }
-      ]
-    },
-    {
-      "id": "documentary",
-      "title": "DOCUMENTARY",
-      "channels": [
-        {
-          "id": "natgeo",
-          "title": "National Geographic",
-          "image": "https://i.imgur.com/0XKzn5S.png",
+          "id": "syria",
+          "title": "SYRIA",
+          "image": "https://flagcdn.com/w320/sy.png",
           "url": "https://test-streams.mux.dev/bigbuckbunny/master.m3u8",
           "type": "m3u8"
         },
         {
-          "id": "discovery",
-          "title": "Discovery Channel",
-          "image": "https://i.imgur.com/0XKzn5S.png",
+          "id": "iraq",
+          "title": "IRAQ",
+          "image": "https://flagcdn.com/w320/iq.png",
           "url": "https://test-streams.mux.dev/pts_shift/master.m3u8",
           "type": "m3u8"
         }
