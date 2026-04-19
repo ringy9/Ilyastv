@@ -3,22 +3,22 @@
     "active_ads_network": "admob",
 
     "rules": {
-      "ads_interval": 10,
+      "ads_interval": 6,
       "interstitial_cooldown_seconds": 20,
       "app_open_cooldown_seconds": 15
     },
 
     "placements": {
-      "banner_under_bottom_bar": false,
+      "banner_under_bottom_bar": true,
       "banner_only_main_tabs": false,
-      "native_below_player": false,
+      "native_below_player": true,
       "native_below_match_image": false,
       "native_below_news_image": false,
       "native_exit_dialog": false,
       "interstitial_on_play": false,
       "interstitial_on_news": false,
-      "interstitial_after_every_n_clicks": false,
-      "show_app_open_on_launch": false,
+      "interstitial_after_every_n_clicks": true,
+      "show_app_open_on_launch": true,
       "show_app_open_on_resume": false,
       "show_splash_interstitial_on_launch": false
     },
@@ -26,7 +26,7 @@
     "player_promo": {
       "enabled": false,
       "image": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
-      "link": "https://play.google.com/store/apps/details?id=com.jeaoapps.ilyaslive"
+      "link": "https://play.google.com/store/apps/details?id=com.jeaoapps.ilyasliveapp"
     },
 
     "update_popup": {
@@ -41,10 +41,10 @@
 },
 
     "admob": {
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "native": "ca-app-pub-3940256099942544/2247696110",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "app_open": "ca-app-pub-3940256099942544/9257395921"
+      "banner": "ca-app-pub-3738055180283754/4087462582",
+      "native": "ca-app-pub-3738055180283754/1245676827",
+      "interstitial": "ca-app-pub-3738055180283754/2774380913",
+      "app_open": "ca-app-pub-3738055180283754/5926098379"
     },
 
     "fan": {
