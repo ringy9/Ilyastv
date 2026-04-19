@@ -2,27 +2,27 @@
   "categories": [
     {
       "id": "sports",
-      "title": "SPORTS CHANNELS",
+      "title": "BEIN SPORTS FHD",
       "channels": [
         {
           "id": "bein1",
           "title": "beIN SPORTS 1",
-          "image": "https://example.com/images/bein1.png",
-          "url": "https://example.com/live/bein1.m3u8",
+          "image": "https://i.imgur.com/8R0vK6T.png",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
           "type": "m3u8"
         },
         {
           "id": "bein2",
           "title": "beIN SPORTS 2",
-          "image": "https://example.com/images/bein2.png",
-          "url": "https://example.com/live/bein2.m3u8",
+          "image": "https://i.imgur.com/8R0vK6T.png",
+          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
           "type": "m3u8"
         },
         {
           "id": "ssc1",
           "title": "SSC SPORT 1",
-          "image": "https://example.com/images/ssc1.png",
-          "url": "https://example.com/live/ssc1.m3u8",
+          "image": "https://i.imgur.com/8R0vK6T.png",
+          "url": "https://test-streams.mux.dev/bbb-360p.m3u8",
           "type": "m3u8"
         }
       ]
@@ -32,17 +32,17 @@
       "title": "NEWS CHANNELS",
       "channels": [
         {
-          "id": "france24",
+          "id": "fr24",
           "title": "France 24",
-          "image": "https://example.com/images/france24.png",
-          "url": "https://example.com/live/france24.m3u8",
+          "image": "https://i.imgur.com/ZcLLrkY.png",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
           "type": "m3u8"
         },
         {
           "id": "aljazeera",
           "title": "Al Jazeera",
-          "image": "https://example.com/images/aljazeera.png",
-          "url": "https://example.com/live/aljazeera.m3u8",
+          "image": "https://i.imgur.com/ZcLLrkY.png",
+          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
           "type": "m3u8"
         }
       ]
@@ -54,15 +54,15 @@
         {
           "id": "movie1",
           "title": "Movie Channel 1",
-          "image": "https://example.com/images/movie1.png",
-          "url": "https://example.com/live/movie1.m3u8",
+          "image": "https://i.imgur.com/2yaf2wb.png",
+          "url": "https://test-streams.mux.dev/bigbuckbunny/master.m3u8",
           "type": "m3u8"
         },
         {
           "id": "movie2",
           "title": "Movie Channel 2",
-          "image": "https://example.com/images/movie2.png",
-          "url": "https://example.com/live/movie2.m3u8",
+          "image": "https://i.imgur.com/2yaf2wb.png",
+          "url": "https://test-streams.mux.dev/pts_shift/master.m3u8",
           "type": "m3u8"
         }
       ]
@@ -73,16 +73,56 @@
       "channels": [
         {
           "id": "kids1",
-          "title": "Kids Channel 1",
-          "image": "https://example.com/images/kids1.png",
-          "url": "https://example.com/live/kids1.m3u8",
+          "title": "Cartoon Network",
+          "image": "https://i.imgur.com/5cX1Z9s.png",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
           "type": "m3u8"
         },
         {
           "id": "kids2",
-          "title": "Kids Channel 2",
-          "image": "https://example.com/images/kids2.png",
-          "url": "https://example.com/live/kids2.m3u8",
+          "title": "Nickelodeon",
+          "image": "https://i.imgur.com/5cX1Z9s.png",
+          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "type": "m3u8"
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "title": "MUSIC CHANNELS",
+      "channels": [
+        {
+          "id": "music1",
+          "title": "MTV Live",
+          "image": "https://i.imgur.com/fYdZqJb.png",
+          "url": "https://test-streams.mux.dev/bbb-360p.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "id": "music2",
+          "title": "Rotana Music",
+          "image": "https://i.imgur.com/fYdZqJb.png",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "m3u8"
+        }
+      ]
+    },
+    {
+      "id": "documentary",
+      "title": "DOCUMENTARY",
+      "channels": [
+        {
+          "id": "doc1",
+          "title": "National Geographic",
+          "image": "https://i.imgur.com/0XKzn5S.png",
+          "url": "https://test-streams.mux.dev/bigbuckbunny/master.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "id": "doc2",
+          "title": "Discovery Channel",
+          "image": "https://i.imgur.com/0XKzn5S.png",
+          "url": "https://test-streams.mux.dev/pts_shift/master.m3u8",
           "type": "m3u8"
         }
       ]
