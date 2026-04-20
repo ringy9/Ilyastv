@@ -1,0 +1,91 @@
+{
+  "categories": [
+    {
+      "id": "sports",
+      "title": "SPORTS CHANNELS",
+      "channels": [
+        {
+          "id": "bein1",
+          "title": "beIN SPORTS 1",
+          "image": "https://example.com/images/bein1.png",
+          "url": "https://example.com/live/bein1.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "id": "bein2",
+          "title": "beIN SPORTS 2",
+          "image": "https://example.com/images/bein2.png",
+          "url": "https://example.com/live/bein2.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "id": "ssc1",
+          "title": "SSC SPORT 1",
+          "image": "https://example.com/images/ssc1.png",
+          "url": "https://example.com/live/ssc1.m3u8",
+          "type": "m3u8"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "title": "NEWS CHANNELS",
+      "channels": [
+        {
+          "id": "france24",
+          "title": "France 24",
+          "image": "https://example.com/images/france24.png",
+          "url": "https://example.com/live/france24.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "id": "aljazeera",
+          "title": "Al Jazeera",
+          "image": "https://example.com/images/aljazeera.png",
+          "url": "https://example.com/live/aljazeera.m3u8",
+          "type": "m3u8"
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "MOVIES CHANNELS",
+      "channels": [
+        {
+          "id": "movie1",
+          "title": "Movie Channel 1",
+          "image": "https://example.com/images/movie1.png",
+          "url": "https://example.com/live/movie1.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "id": "movie2",
+          "title": "Movie Channel 2",
+          "image": "https://example.com/images/movie2.png",
+          "url": "https://example.com/live/movie2.m3u8",
+          "type": "m3u8"
+        }
+      ]
+    },
+    {
+      "id": "kids",
+      "title": "KIDS CHANNELS",
+      "channels": [
+        {
+          "id": "kids1",
+          "title": "Kids Channel 1",
+          "image": "https://example.com/images/kids1.png",
+          "url": "https://example.com/live/kids1.m3u8",
+          "type": "m3u8"
+        },
+        {
+          "id": "kids2",
+          "title": "Kids Channel 2",
+          "image": "https://example.com/images/kids2.png",
+          "url": "https://example.com/live/kids2.m3u8",
+          "type": "m3u8"
+        }
+      ]
+    }
+  ]
+}
