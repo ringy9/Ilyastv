@@ -1,4 +1,44 @@
 {
+  "ads": {
+    "enabled": true,
+    "test_mode": true,
+
+    "app_open": {
+      "enabled": true,
+      "show_on_cold_start": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
+    },
+
+    "interstitial": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "show_on_first_click": true,
+      "interval_clicks": 3,
+      "exclude_screens": ["player"]
+    },
+
+    "banner": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/9214589741",
+      "screens": ["main", "channels", "details"]
+    },
+
+    "native": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "channels": {
+        "enabled": true,
+        "insert_every": 6
+      },
+      "details": {
+        "enabled": true,
+        "show_below_promo_image": true
+      },
+      "exit_dialog": {
+        "enabled": true
+      }
+    }
+  },
   "categories": [
     {
       "id": "live_event",
