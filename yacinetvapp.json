@@ -1,6 +1,6 @@
 {
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "test_mode": true,
     "app_open": {
       "enabled": true,
