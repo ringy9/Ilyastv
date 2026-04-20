@@ -6,7 +6,6 @@
     "app_open": {
       "enabled": true,
       "show_on_cold_start": true,
-      "show_on_foreground": false,
       "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
     },
 
@@ -21,7 +20,6 @@
     "banner": {
       "enabled": true,
       "ad_unit_id": "ca-app-pub-3940256099942544/9214589741",
-      "position": "bottom",
       "screens": ["main", "channels", "details"]
     },
 
