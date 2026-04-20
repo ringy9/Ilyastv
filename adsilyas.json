@@ -1,19 +1,18 @@
 {
   "ads": {
     "enabled": true,
-    "provider": "applovin_max",
     "test_mode": true,
 
     "app_open": {
       "enabled": true,
       "show_on_cold_start": true,
       "show_on_foreground": false,
-      "ad_unit_id": "YOUR_APP_OPEN_UNIT_ID"
+      "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
     },
 
     "interstitial": {
       "enabled": true,
-      "ad_unit_id": "YOUR_INTERSTITIAL_UNIT_ID",
+      "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "show_on_first_click": true,
       "interval_clicks": 3,
       "exclude_screens": ["player"]
@@ -21,15 +20,14 @@
 
     "banner": {
       "enabled": true,
-      "ad_unit_id": "YOUR_BANNER_UNIT_ID",
+      "ad_unit_id": "ca-app-pub-3940256099942544/9214589741",
       "position": "bottom",
       "screens": ["main", "channels", "details"]
     },
 
     "native": {
       "enabled": true,
-      "ad_unit_id": "YOUR_NATIVE_UNIT_ID",
-      "template": "medium",
+      "ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
       "channels": {
         "enabled": true,
         "insert_every": 6
@@ -40,22 +38,6 @@
       },
       "exit_dialog": {
         "enabled": true
-      }
-    },
-
-    "networks": {
-      "applovin_max": {
-        "sdk_key": "YOUR_MAX_SDK_KEY"
-      },
-      "admob_direct": {
-        "app_id": "ca-app-pub-xxxxxxxx~yyyyyyyy"
-      },
-      "meta_direct": {
-        "placement_ids": {
-          "banner": "YOUR_META_BANNER_PLACEMENT",
-          "interstitial": "YOUR_META_INTERSTITIAL_PLACEMENT",
-          "native": "YOUR_META_NATIVE_PLACEMENT"
-        }
       }
     }
   }
