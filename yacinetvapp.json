@@ -2,27 +2,29 @@
   "ads": {
     "enabled": true,
     "test_mode": true,
-
     "app_open": {
       "enabled": true,
       "show_on_cold_start": true,
       "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
     },
-
     "interstitial": {
       "enabled": true,
       "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "show_on_first_click": true,
       "interval_clicks": 3,
-      "exclude_screens": ["player"]
+      "exclude_screens": [
+        "player"
+      ]
     },
-
     "banner": {
       "enabled": true,
       "ad_unit_id": "ca-app-pub-3940256099942544/9214589741",
-      "screens": ["main", "channels", "details"]
+      "screens": [
+        "main",
+        "channels",
+        "details"
+      ]
     },
-
     "native": {
       "enabled": true,
       "ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
@@ -86,7 +88,7 @@
           "promoImage": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
           "externalUrl": "https://www.google.com"
         },
-                {
+        {
           "id": "bein3",
           "title": "BEIN SPORTS 3",
           "image": "https://i.postimg.cc/xTchyFdw/bein3.jpg",
@@ -98,7 +100,7 @@
           "promoImage": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
           "externalUrl": "https://www.google.com"
         },
-                {
+        {
           "id": "bein4",
           "title": "BEIN SPORTS 4",
           "image": "https://i.postimg.cc/kXBzFh5L/bein4.jpg",
@@ -110,7 +112,7 @@
           "promoImage": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
           "externalUrl": "https://www.google.com"
         },
-                {
+        {
           "id": "bein5",
           "title": "BEIN SPORTS 5",
           "image": "https://i.postimg.cc/L6nwB0s0/bein5.jpg",
