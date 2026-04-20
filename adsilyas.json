@@ -1,91 +1,62 @@
 {
-  "categories": [
-    {
-      "id": "sports",
-      "title": "SPORTS CHANNELS",
-      "channels": [
-        {
-          "id": "bein1",
-          "title": "beIN SPORTS 1",
-          "image": "https://example.com/images/bein1.png",
-          "url": "https://example.com/live/bein1.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "id": "bein2",
-          "title": "beIN SPORTS 2",
-          "image": "https://example.com/images/bein2.png",
-          "url": "https://example.com/live/bein2.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "id": "ssc1",
-          "title": "SSC SPORT 1",
-          "image": "https://example.com/images/ssc1.png",
-          "url": "https://example.com/live/ssc1.m3u8",
-          "type": "m3u8"
-        }
-      ]
+  "ads": {
+    "enabled": true,
+    "provider": "applovin_max",
+    "test_mode": true,
+
+    "app_open": {
+      "enabled": true,
+      "show_on_cold_start": true,
+      "show_on_foreground": false,
+      "ad_unit_id": "YOUR_APP_OPEN_UNIT_ID"
     },
-    {
-      "id": "news",
-      "title": "NEWS CHANNELS",
-      "channels": [
-        {
-          "id": "france24",
-          "title": "France 24",
-          "image": "https://example.com/images/france24.png",
-          "url": "https://example.com/live/france24.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "id": "aljazeera",
-          "title": "Al Jazeera",
-          "image": "https://example.com/images/aljazeera.png",
-          "url": "https://example.com/live/aljazeera.m3u8",
-          "type": "m3u8"
-        }
-      ]
+
+    "interstitial": {
+      "enabled": true,
+      "ad_unit_id": "YOUR_INTERSTITIAL_UNIT_ID",
+      "show_on_first_click": true,
+      "interval_clicks": 3,
+      "exclude_screens": ["player"]
     },
-    {
-      "id": "movies",
-      "title": "MOVIES CHANNELS",
-      "channels": [
-        {
-          "id": "movie1",
-          "title": "Movie Channel 1",
-          "image": "https://example.com/images/movie1.png",
-          "url": "https://example.com/live/movie1.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "id": "movie2",
-          "title": "Movie Channel 2",
-          "image": "https://example.com/images/movie2.png",
-          "url": "https://example.com/live/movie2.m3u8",
-          "type": "m3u8"
-        }
-      ]
+
+    "banner": {
+      "enabled": true,
+      "ad_unit_id": "YOUR_BANNER_UNIT_ID",
+      "position": "bottom",
+      "screens": ["main", "channels", "details"]
     },
-    {
-      "id": "kids",
-      "title": "KIDS CHANNELS",
-      "channels": [
-        {
-          "id": "kids1",
-          "title": "Kids Channel 1",
-          "image": "https://example.com/images/kids1.png",
-          "url": "https://example.com/live/kids1.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "id": "kids2",
-          "title": "Kids Channel 2",
-          "image": "https://example.com/images/kids2.png",
-          "url": "https://example.com/live/kids2.m3u8",
-          "type": "m3u8"
+
+    "native": {
+      "enabled": true,
+      "ad_unit_id": "YOUR_NATIVE_UNIT_ID",
+      "template": "medium",
+      "channels": {
+        "enabled": true,
+        "insert_every": 6
+      },
+      "details": {
+        "enabled": true,
+        "show_below_promo_image": true
+      },
+      "exit_dialog": {
+        "enabled": true
+      }
+    },
+
+    "networks": {
+      "applovin_max": {
+        "sdk_key": "YOUR_MAX_SDK_KEY"
+      },
+      "admob_direct": {
+        "app_id": "ca-app-pub-xxxxxxxx~yyyyyyyy"
+      },
+      "meta_direct": {
+        "placement_ids": {
+          "banner": "YOUR_META_BANNER_PLACEMENT",
+          "interstitial": "YOUR_META_INTERSTITIAL_PLACEMENT",
+          "native": "YOUR_META_NATIVE_PLACEMENT"
         }
-      ]
+      }
     }
-  ]
+  }
 }
