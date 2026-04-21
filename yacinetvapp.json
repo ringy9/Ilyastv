@@ -1,15 +1,15 @@
 {
   "ads": {
     "enabled": true,
-    "test_mode": false,
+    "test_mode": true,
     "app_open": {
       "enabled": true,
       "show_on_cold_start": true,
-      "ad_unit_id": "ca-app-pub-3738055180283754/8802259293"
+      "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
     },
     "interstitial": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-3738055180283754/1251072333",
+      "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "show_on_first_click": true,
       "interval_clicks": 3,
       "exclude_screens": [
@@ -18,7 +18,7 @@
     },
     "banner": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-3738055180283754/7883915988",
+      "ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "screens": [
         "main",
         "channels",
@@ -27,7 +27,7 @@
     },
     "native": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-3738055180283754/9053540738",
+      "ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
       "channels": {
         "enabled": true,
         "insert_every": 6
