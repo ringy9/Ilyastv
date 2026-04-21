@@ -1,7 +1,7 @@
 {
   "ads": {
     "enabled": true,
-    "test_mode": true,
+    "test_mode": false,
     "app_open": {
       "enabled": true,
       "show_on_cold_start": true,
