@@ -5,7 +5,7 @@
     "app_open": {
       "enabled": true,
       "show_on_cold_start": true,
-      "ad_unit_id": "ca-app-pub-3738055180283754/8802259293"
+      "ad_unit_id": "ca-app-pub-3738055180283754/8802259293" 
     },
     "interstitial": {
       "enabled": true,
