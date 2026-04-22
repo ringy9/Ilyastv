@@ -60,7 +60,7 @@
           "player_type": "external",
 
           "externalPlayerPackage": "com.player.tivanoplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.tivano.player"
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer"
         }
       ]
     },
@@ -87,8 +87,8 @@
 
           "player_type": "external",
 
-          "externalPlayerPackage": "com.tivano.player",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.tivano.player"
+          "externalPlayerPackage": "com.player.tivanoplayer",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer"
         },
 
         {
