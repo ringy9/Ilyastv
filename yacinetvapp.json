@@ -53,9 +53,9 @@
           "promoImage": "https://i.imgur.com/0A7QK2X.jpeg",
 
           "externalUrl": "https://www.google.com",
-          "externalPlayerUrl": "https://play.google.com/store/search?q=tivano+player&c=apps",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer",
 
-          "player_type": "internal"
+          "player_type": "externalPlayerUrl"
         }
       ]
     },
@@ -76,9 +76,9 @@
           "promoImage": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
 
           "externalUrl": "https://www.google.com",
-          "externalPlayerUrl": "https://play.google.com/store/search?q=tivano+player&c=apps",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer",
 
-          "player_type": "external"
+          "player_type": "externalPlayerUrl"
         },
         {
           "id": "bein2",
@@ -92,9 +92,9 @@
           "promoImage": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
 
           "externalUrl": "https://www.google.com",
-          "externalPlayerUrl": "https://play.google.com/store/search?q=tivano+player&c=apps",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer",
 
-          "player_type": "internal"
+          "player_type": "externalPlayerUrl"
         }
       ]
     },
