@@ -11,7 +11,7 @@
       "enabled": true,
       "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "show_on_first_click": true,
-      "interval_clicks": 1,
+      "interval_clicks": 6,
       "exclude_screens": [
         "player"
       ]
