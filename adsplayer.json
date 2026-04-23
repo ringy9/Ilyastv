@@ -1,0 +1,10 @@
+{
+  "ads_enabled": true,
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "banner_home": "ca-app-pub-3940256099942544/6300978111",
+  "banner_list": "ca-app-pub-3940256099942544/6300978111",
+  "interstitial_main": "ca-app-pub-3940256099942544/1033173712",
+  "rewarded_main": "ca-app-pub-3940256099942544/5224354917",
+  "show_app_open_on_play": true,
+  "prefer_rewarded_on_play": true
+}
