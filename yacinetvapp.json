@@ -82,20 +82,22 @@
           "externalPlayerPackage": "com.viviana.ilyasplayer",
           "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
         },
+    {
+      "id": "bein",
+      "title": "BEIN SPORTS",
+      "channels": [
         {
-          "id": "bein2",
-          "title": "BEIN SPORTS 2",
-          "image": "https://i.postimg.cc/MKvNbrGh/bein2.jpg",
-          "url": "http://ur4k.me/live/houmid738/1a1dbbe35/437362.m3u8",
-          "type": "m3u",
-          "thumbnail": "https://i.postimg.cc/MKvNbrGh/bein2.jpg",
-          "views": "80K views",
-          "description": "مشاهدة مباريات كرة القدم مباشرة",
-          "promoImage": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
-          "externalUrl": "https://www.google.com",
-          "player_type": "external",
-          "externalPlayerPackage": "com.viviana.ilyasplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
+          "id": "bein1",
+          "title": "BEIN SPORTS 1",
+          "url": "https://tx3.nexgen.bz:4000/BEIN/index.m3u8",
+          "type": "m3u8",
+          "thumbnail": "https://i.postimg.cc/TYpFqHPF/bein1.jpg",
+          "image": "https://i.postimg.cc/TYpFqHPF/bein1.jpg",
+          "views": "104K views",
+          "description": "Live football",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "external"
         },
         {
           "id": "bein3",
