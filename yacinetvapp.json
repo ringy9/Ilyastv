@@ -79,8 +79,8 @@
           "promoImage": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
           "externalUrl": "https://www.google.com",
           "player_type": "external",
-          "externalPlayerPackage": "com.player.tivanoplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer"
+          "externalPlayerPackage": "com.viviana.ilyasplayer",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
         },
         {
           "id": "bein2",
@@ -93,9 +93,9 @@
           "description": "مشاهدة مباريات كرة القدم مباشرة",
           "promoImage": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
           "externalUrl": "https://www.google.com",
-          "player_type": "internal",
-          "externalPlayerPackage": "com.player.tivanoplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer"
+          "player_type": "external",
+          "externalPlayerPackage": "com.viviana.ilyasplayer",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
         },
         {
           "id": "bein3",
