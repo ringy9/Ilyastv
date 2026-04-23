@@ -30,7 +30,7 @@
       "ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
       "channels": {
         "enabled": true,
-        "insert_every": 6
+        "insert_every": 1
       },
       "details": {
         "enabled": true,
