@@ -41,6 +41,43 @@
       }
     }
   },
+  "matches_home": {
+    "enabled": true,
+    "button_title": "Top Matches",
+    "screen_title": "Top Matches"
+  },
+
+  "top_matches": [
+    {
+      "team1": "Barcelona",
+      "team2": "Real Madrid",
+      "time": "20:00",
+      "competition": "La Liga",
+      "logo1": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "logo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "article": {
+        "title": "El Clasico Tonight 🔥",
+        "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2",
+        "date": "2026-04-24",
+        "content": "Barcelona face Real Madrid in one of the biggest matches in the world. The rivalry continues with both teams fighting for the title."
+      }
+    },
+    {
+      "team1": "PSG",
+      "team2": "Liverpool",
+      "time": "21:00",
+      "competition": "Champions League",
+      "logo1": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+      "logo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "article": {
+        "title": "Big Clash in UCL",
+        "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b",
+        "date": "2026-04-24",
+        "content": "PSG take on Liverpool in a high-intensity Champions League match with top stars on both sides."
+      }
+    }
+  ],
+  
   "categories": [
     {
       "id": "live_event",
