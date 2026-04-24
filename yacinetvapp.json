@@ -49,34 +49,67 @@
 
   "top_matches": [
     {
-      "team1": "Barcelona",
-      "team2": "Real Madrid",
-      "time": "20:00",
+      "id": "m1",
+      "home_team": "برشلونة",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "away_team": "ريال مدريد",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "match_time": "20:00",
       "competition": "La Liga",
-      "logo1": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-      "logo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
       "article": {
-        "title": "El Clasico Tonight 🔥",
+        "title": "الكلاسيكو 🔥",
         "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2",
-        "date": "2026-04-24",
-        "content": "Barcelona face Real Madrid in one of the biggest matches in the world. The rivalry continues with both teams fighting for the title."
+        "published_at": "اليوم",
+        "content": "مباراة قوية بين برشلونة وريال مدريد ضمن منافسات الدوري الإسباني."
       }
     },
     {
-      "team1": "PSG",
-      "team2": "Liverpool",
-      "time": "21:00",
-      "competition": "Champions League",
-      "logo1": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
-      "logo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "id": "m2",
+      "home_team": "بايرن ميونيخ",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_Munich_logo_%282017%29.svg",
+      "away_team": "دورتموند",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+      "match_time": "21:00",
+      "competition": "Bundesliga",
       "article": {
-        "title": "Big Clash in UCL",
+        "title": "قمة ألمانية",
         "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b",
-        "date": "2026-04-24",
-        "content": "PSG take on Liverpool in a high-intensity Champions League match with top stars on both sides."
+        "published_at": "اليوم",
+        "content": "مواجهة قوية بين بايرن ميونيخ وبوروسيا دورتموند."
+      }
+    },
+    {
+      "id": "m3",
+      "home_team": "مانشستر سيتي",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "away_team": "أرسنال",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+      "match_time": "19:30",
+      "competition": "Premier League",
+      "article": {
+        "title": "قمة إنجليزية",
+        "image": "https://images.unsplash.com/photo-1552667466-07770ae110d0",
+        "published_at": "اليوم",
+        "content": "مباراة مهمة بين السيتي وأرسنال على صدارة الدوري."
+      }
+    },
+    {
+      "id": "m4",
+      "home_team": "باريس سان جيرمان",
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+      "away_team": "ليفربول",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "match_time": "21:00",
+      "competition": "Champions League",
+      "article": {
+        "title": "قمة أوروبية",
+        "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974",
+        "published_at": "اليوم",
+        "content": "مواجهة نارية بين باريس سان جيرمان وليفربول."
       }
     }
   ],
+
   
   "categories": [
     {
