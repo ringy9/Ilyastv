@@ -41,7 +41,7 @@
 
       "channels": {
         "enabled": true,
-        "insert_every": 3
+        "insert_every": 6
       },
 
       "details": {
