@@ -1,11 +1,56 @@
 {
   "matchDetailsSection": {
-    "title": "أهم مباريات اليوم والغد",
+    "title": "أهم مباريات اليوم",
     "image": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-    "text": "تابع أهم مباريات اليوم والغد من الدوريات الأوروبية والعربية، مع جدول محدث وأخبار رياضية."
+    "text": "تابع أهم مباريات اليوم من أقوى الدوريات العالمية والعربية."
   },
-  "news": [],
-  "leagues": [],
-  "matches": [],
+  "news": [
+    {
+      "id": 1,
+      "title": "مباراة قوية بين ريال مدريد وبرشلونة",
+      "cover": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
+      "content": "الكلاسيكو يعود من جديد في مباراة ينتظرها عشاق كرة القدم.",
+      "timeAgo": "1 hour ago"
+    }
+  ],
+  "leagues": [
+    {
+      "id": 1,
+      "name": "LaLiga",
+      "image": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg"
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "leagueId": 1,
+      "leagueName": "LaLiga",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Barcelona",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
+      "time": "09:00 PM",
+      "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
+      "isLive": true,
+      "streamTitle": "Real Madrid vs Barcelona",
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "streamType": "mp4"
+    },
+    {
+      "id": 2,
+      "leagueId": 2,
+      "leagueName": "Premier League",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Liverpool",
+      "homeLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+      "awayLogo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+      "time": "07:30 PM",
+      "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
+      "isLive": false,
+      "streamTitle": "Manchester City vs Liverpool",
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "streamType": "mp4"
+    }
+  ],
   "highlights": []
 }
