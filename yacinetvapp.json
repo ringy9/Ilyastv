@@ -58,6 +58,17 @@
       }
     }
   },
+    "update_dialog": {
+    "enabled": true,
+    "force_update": false,
+    "version_code": 2,
+    "icon": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+    "title": "تحديث جديد 🚀",
+    "message": "تم إصدار نسخة جديدة من التطبيق. قم بالتحديث للحصول على أفضل تجربة.",
+    "button_text": "تحديث الآن",
+    "update_url": "https://play.google.com/store/apps/details?id=com.viviana.ilyaslive"
+  },
+  
   "matches_home": {
     "enabled": true,
     "button_title": "Top Matches",
