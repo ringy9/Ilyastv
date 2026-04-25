@@ -249,49 +249,50 @@
       "channels": [
         {
           "id": "algeria",
-          "title": "ALGERIA",
-          "image": "https://flagcdn.com/w320/dz.png",
+          "title": "ملخص الدوري السعودي",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "type": "mp4",
           "thumbnail": "https://images.unsplash.com/photo-1521412644187-c49fa049e84d",
           "views": "120K views",
-          "description": "قنوات جزائرية متنوعة",
+          "description": "الدوري السعودي للمحترفين (Roshn Saudi League) هذا الموسم يُعتبر من أقوى وأمتع المواسم في تاريخه 🇸🇦⚽",
           "promoImage": "https://i.imgur.com/0A7QK2X.jpeg",
           "externalUrl": "https://www.google.com",
           "player_type": "internal",
           "externalPlayerPackage": "",
           "externalPlayerUrl": ""
         },
-        {
-          "id": "morocco",
-          "title": "MOROCCO",
-          "image": "https://flagcdn.com/w320/ma.png",
+                {
+          "id": "algeria",
+          "title": "ملخص الدوري القطري",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "type": "mp4",
-          "thumbnail": "https://images.unsplash.com/photo-1517649763962-0c623066013b",
-          "views": "104.1K views",
-          "description": "شارك التطبيق لمشاهدة المباراة",
+          "thumbnail": "https://images.unsplash.com/photo-1521412644187-c49fa049e84d",
+          "views": "120K views",
+          "description": "الدوري القطري (دوري نجوم قطر) هذا الموسم يشهد منافسة قوية وتطورًا ملحوظًا في مستوى الأندية 🇶🇦⚽",
           "promoImage": "https://i.imgur.com/0A7QK2X.jpeg",
           "externalUrl": "https://www.google.com",
           "player_type": "internal",
           "externalPlayerPackage": "",
           "externalPlayerUrl": ""
         },
-        {
-          "id": "tunisia",
-          "title": "TUNISIA",
-          "image": "https://flagcdn.com/w320/tn.png",
+                {
+          "id": "algeria",
+          "title": "ملخص الدوري الامراتي",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "type": "mp4",
-          "thumbnail": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2",
-          "views": "70K views",
-          "description": "قنوات تونسية مباشرة",
+          "thumbnail": "https://images.unsplash.com/photo-1521412644187-c49fa049e84d",
+          "views": "120K views",
+          "description": "الدوري الإماراتي للمحترفين (Adnoc Pro League) هذا الموسم يشهد منافسة قوية ومستوى فني مميز 🇦🇪⚽",
           "promoImage": "https://i.imgur.com/0A7QK2X.jpeg",
           "externalUrl": "https://www.google.com",
           "player_type": "internal",
           "externalPlayerPackage": "",
           "externalPlayerUrl": ""
         }
+
       ]
     },
     {
