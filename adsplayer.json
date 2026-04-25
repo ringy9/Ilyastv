@@ -16,7 +16,7 @@
     "ad_unit_id": "ca-app-pub-3940256099942544/5224354917"
   },
 
-  "play_ad_mode": "rewarded",
+  "play_ad_mode": "interstitial",
 
   "settings": {
     "show_ads_on_play": true,
