@@ -46,7 +46,7 @@
 
       "details": {
         "enabled": true,
-        "show_below_promo_image": false
+        "show_below_promo_image": true
       },
 
       "article": {
