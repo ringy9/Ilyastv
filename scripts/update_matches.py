@@ -57,7 +57,7 @@ def get_fixtures(date_value):
         params = {
             "date": date_value,
             "league": league_id,
-            "season": 2025
+            "season": 2024
         }
 
         try:
