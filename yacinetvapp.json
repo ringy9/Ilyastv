@@ -45,7 +45,7 @@
       },
 
       "details": {
-        "enabled": true,
+        "enabled": false,
         "show_below_promo_image": true
       },
 
@@ -142,19 +142,19 @@
   "categories": [
     {
       "id": "live_event",
-      "title": "LIVE EVENT",
+      "title": "ملخص الدوري المعربي الممتاز",
       "channels": [
         {
           "id": "match1",
-          "title": "LIVE MATCH",
-          "image": "https://i.imgur.com/8R0vK6T.png",
+          "title": "ملخص الدوري المعربي الممتاز",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "type": "mp4",
           "thumbnail": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e",
           "views": "150K views",
           "description": "شاهد المباراة مباشرة بجودة عالية",
           "promoImage": "https://i.imgur.com/0A7QK2X.jpeg",
-          "externalUrl": "https://www.google.com",
+          "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "com.player.tivanoplayer",
           "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer"
@@ -169,29 +169,29 @@
           "id": "bein1",
           "title": "BEIN SPORTS 1",
           "image": "https://i.postimg.cc/TYpFqHPF/bein1.jpg",
-          "url": "https://starshare.net:443/live/Suryaaa/SURYAAAA/652372.ts",
-          "type": "m3u",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
           "thumbnail": "https://i.postimg.cc/TYpFqHPF/bein1.jpg",
           "views": "104.1K views",
           "description": "شارك التطبيق مع 5 من أصدقائك وقيمه بـ 5 نجوم لتفعيل السيرفرات",
           "promoImage": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
           "externalUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer",
-          "player_type": "external",
+          "player_type": "internal",
           "externalPlayerPackage": "com.viviana.ilyasplayer",
           "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
         },
         {
           "id": "bein2",
           "title": "BEIN SPORTS 2",
-          "url": "http://ur4k.me/live/houmid738/1a1dbbe35/437362.m3u8",
-          "type": "m3u8",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
           "thumbnail": "https://i.postimg.cc/MKvNbrGh/bein2.jpg",
           "image": "https://i.postimg.cc/MKvNbrGh/bein2.jpg",
           "views": "80K views",
           "description": "Live sports",
           "promoImage": "",
           "externalUrl": "",
-          "player_type": "external"
+          "player_type": "internal"
         },
         {
           "id": "bein3",
