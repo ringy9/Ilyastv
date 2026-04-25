@@ -142,7 +142,7 @@
   "categories": [
     {
       "id": "live_event",
-      "title": "ملخص الدوري المعربي الممتاز",
+      "title": "ملخص الدوريات العربية",
       "channels": [
         {
           "id": "match1",
@@ -163,7 +163,7 @@
     },
     {
       "id": "bein_sports",
-      "title": "BEIN SPORTS FHD",
+      "title": "ملخص الدوريات الاوروبية",
       "channels": [
         {
           "id": "bein1",
@@ -287,7 +287,7 @@
     },
     {
       "id": "arabic_channels",
-      "title": "ARABIC CHANNELS",
+      "title": "ملخص الدوريات الاسيوية",
       "channels": [
         {
           "id": "algeria",
@@ -338,7 +338,7 @@
     },
     {
       "id": "news",
-      "title": "NEWS CHANNELS",
+      "title": "ملخص الدوريات الامركية",
       "channels": [
         {
           "id": "news1",
@@ -358,7 +358,7 @@
       ]
     },
     {
-      "id": "kids",
+      "id": "ملخص الدوريات اللاتنية",
       "title": "KIDS CHANNELS",
       "channels": [
         {
