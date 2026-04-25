@@ -1,135 +1,132 @@
 {
   "matchDetailsSection": {
-    "title": "مباريات السبت والأحد 25-26 أبريل 2026",
+    "title": "الدوري المغربي الممتاز",
     "image": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-    "text": "أهم مباريات الدوريات الأوروبية والعربية خلال نهاية الأسبوع."
+    "text": "تتجه أنظار عشاق كرة القدم حول العالم، اليوم الإثنين الموافق 24 أبريل/نيسان 2026، إلى يوم كروي يحمل في طياته العديد من المواجهات المرتقبة على مختلف الملاعب."
   },
-
+  "news": [
+    {
+      "id": 1,
+      "title": "فوز ثمين للمكناسي",
+      "cover": "https://i.postimg.cc/bw9fMqV9/2.jpg",
+      "content": " رد. المباراة ظلت متوازنة في أغلب فتراتها، لكن أصحاب الأرض استغلوا إحدى الفرص الحاسمة في الشوط الثاني لحسم النتيجة. ورغم محاولات طنجة للعودة، حافظ المكناسي على تقدمه حتى صافرة النهاية وخرج بثلاث نقاط مهمة.",
+      "timeAgo": "1 hour ago"
+    },
+        {
+      "id": 2,
+      "title": "الرجاء يفرض أفضليته بثنائية",
+      "cover": "https://i.postimg.cc/YCzBVtD3/4.jpg",
+      "content": " الفريق الأخضر المباراة بتركيز عال ونجح في افتتاح التسجيل مبكرا، قبل أن يضيف الهدف الثاني في الشوط الثاني ليؤمن النتيجة. الرجاء كان أكثر تنظيما وخطورة، بينما لم ينجح آسفي في استغلال محاولاته القليلة.",
+      "timeAgo": "2 hour ago"
+    },
+        {
+      "id": 3,
+      "title": "الكوكب يحسم لقاء مثيرا",
+      "cover": "https://i.postimg.cc/rwN2bqZ1/1.jpg",
+      "content": " أصحاب الأرض هدف التقدم من ركلة جزاء في الشوط الأول، ثم عززوا النتيجة لاحقا في الشوط الثاني. حسنية أكادير قلص الفارق في الوقت بدل الضائع، لكن ذلك لم يكن كافيا لتفادي الخسارة في مباراة اتسمت بالندية حتى اللحظات الأخيرة.",
+      "timeAgo": "3 hour ago"
+    },
+        {
+      "id": 4,
+      "title": "المغرب الفاسي يواصل نتائجه الإيجابية",
+      "cover": "https://i.postimg.cc/Z5xzgJsH/5.jpg",
+      "content": "واصل المغرب الفاسي عروضه القوية وتفوق خارج ميدانه على أولمبيك الدشيرة بهدفين دون مقابل. جاء الهدف الأول مبكرا ومنح الضيوف أفضلية مهمة، قبل أن يضيف الفريق الهدف الثاني في الشوط الثاني ليؤكد سيطرته على المباراة. الدشيرة حاول العودة، لكن التنظيم الدفاعي للمغرب الفاسي حسم المواجهة.",
+      "timeAgo": "4 hour ago"
+    },
+    {
+      "id": 5,
+      "title": "الفتح يحسم المواجهة بثلاثية",
+      "cover": "https://i.postimg.cc/Sxfb5m1G/3.jpg",
+      "content": "1 ضمن الجولة 15. افتتح أيوب مولوع التسجيل مبكرا ثم عاد ليضيف الهدف الثاني قبل نهاية الشوط الأول، بينما سجل سفيان أحناش هدف أصحاب الأرض. وفي الوقت بدل الضائع أكد أمين الصوان تفوق الفتح بهدف ثالث من ركلة جزاء، ليحسم الفريق الرباطي اللقاء بفعالية هجومية واضحة.",
+      "timeAgo": "5 hours ago"
+    }
+  ],
+  "leagues": [
+    {
+      "id": 1,
+      "name": "Elbotola",
+      "image": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Elbotola",
+      "image": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Elbotola",
+      "image": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg"
+    }
+  ],
   "matches": [
-
-
     {
       "id": 1,
       "leagueId": 1,
-      "leagueName": "Premier League",
-      "homeTeam": "Liverpool",
-      "awayTeam": "Crystal Palace",
-      "time": "Sat 25 Apr - 15:00",
+      "leagueName": "Elbotola",
+      "homeTeam": "إتحاد يعقوب المنصور",
+      "awayTeam": "الفتح الرباطي",
+      "homeLogo": "https://i.postimg.cc/wTjw1cQH/15.jpg",
+      "awayLogo": "https://i.postimg.cc/v8zP8SfY/7.jpg",
+      "time": "03:45 PM",
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-      "isLive": false,
-      "streamTitle": "ملخص Liverpool vs Crystal Palace",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "isLive": true,
+      "streamTitle": "إتحاد يعقوب المنصور vs الفتح الرباطي Live",
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
       "streamType": "mp4"
     },
     {
       "id": 2,
       "leagueId": 1,
-      "leagueName": "Premier League",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Newcastle",
-      "time": "Sat 25 Apr - 17:30",
+      "leagueName": "Elbotola",
+      "homeTeam": "الجيش الملكي",
+      "awayTeam": "نهضة بركان",
+      "homeLogo": "https://i.postimg.cc/J7qT7dZM/4.jpg",
+      "awayLogo": "https://i.postimg.cc/DfgCfYLf/6.jpg",
+      "time": "07:00 PM",
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-      "isLive": false,
-      "streamTitle": "ملخص Arsenal vs Newcastle",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "isLive": true,
+      "streamTitle": "الجيش الملكي vs نهضة بركان",
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
       "streamType": "mp4"
     },
     {
       "id": 3,
       "leagueId": 2,
-      "leagueName": "LaLiga",
-      "homeTeam": "Getafe",
-      "awayTeam": "Barcelona",
-      "time": "Sat 25 Apr - 16:15",
+      "leagueName": "Elbotola",
+      "homeTeam": "المغرب الفاسي",
+      "awayTeam": "الوداد الرياضي",
+      "homeLogo": "https://i.postimg.cc/L4Ty40LR/3.jpg",
+      "awayLogo": "https://i.postimg.cc/fWKHWgmh/1.jpg",
+      "time": "08:00 PM",
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-      "isLive": false,
-      "streamTitle": "ملخص Getafe vs Barcelona",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "isLive": true,
+      "streamTitle": "المغرب الفاسي vs الوداد الرياضي",
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
       "streamType": "mp4"
     },
     {
       "id": 4,
-      "leagueId": 5,
-      "leagueName": "Ligue 1",
-      "homeTeam": "Angers",
-      "awayTeam": "PSG",
-      "time": "Sat 25 Apr",
-      "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-      "isLive": false,
-      "streamTitle": "ملخص PSG vs Angers",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-      "streamType": "mp4"
-    },
-
-
-    {
-      "id": 5,
       "leagueId": 3,
-      "leagueName": "Serie A",
-      "homeTeam": "AC Milan",
-      "awayTeam": "Juventus",
-      "time": "Sun 26 Apr - 20:45",
+      "leagueName": "Elbotola",
+      "homeTeam": "إتحاد طنجة",
+      "awayTeam": "أولمبيك الدشيرة",
+      "homeLogo": "https://i.postimg.cc/SNxgn7fh/12.jpg",
+      "awayLogo": "https://i.postimg.cc/G3QM3SG2/11.jpg",
+      "time": "09:00 PM",
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-      "isLive": false,
-      "streamTitle": "ملخص Milan vs Juventus",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "isLive": true,
+      "streamTitle": "إتحاد طنجة vs أولمبيك الدشيرة",
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
       "streamType": "mp4"
-    },
+    }
+  ],
+  "highlights": [
     {
-      "id": 6,
-      "leagueId": 3,
-      "leagueName": "Serie A",
-      "homeTeam": "Torino",
-      "awayTeam": "Inter",
-      "time": "Sun 26 Apr - 17:00",
+      "id": 1,
+      "title": "ملخص إتحاد طنجة vs أولمبيك الدشيرة",
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-      "isLive": false,
-      "streamTitle": "ملخص Inter vs Torino",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-      "streamType": "mp4"
-    },
-    {
-      "id": 7,
-      "leagueId": 4,
-      "leagueName": "Bundesliga",
-      "homeTeam": "Dortmund",
-      "awayTeam": "Freiburg",
-      "time": "Sun 26 Apr",
-      "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-      "isLive": false,
-      "streamTitle": "ملخص Dortmund vs Freiburg",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-      "streamType": "mp4"
-    },
-
-
-    {
-      "id": 8,
-      "leagueId": 6,
-      "leagueName": "Botola Pro",
-      "homeTeam": "الرجاء الرياضي",
-      "awayTeam": "الفتح الرباطي",
-      "time": "Sun 26 Apr",
-      "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-      "isLive": false,
-      "streamTitle": "ملخص الرجاء vs الفتح",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-      "streamType": "mp4"
-    },
-
-
-    {
-      "id": 9,
-      "leagueId": 7,
-      "leagueName": "Tunisian Ligue 1",
-      "homeTeam": "الترجي",
-      "awayTeam": "النادي البنزرتي",
-      "time": "Sun 26 Apr",
-      "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-      "isLive": false,
-      "streamTitle": "ملخص الترجي vs البنزرتي",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-      "streamType": "mp4"
+      "videoUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+      "timeAgo": "1 hour ago"
     }
   ]
 }
