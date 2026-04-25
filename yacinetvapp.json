@@ -45,7 +45,7 @@
       },
 
       "details": {
-        "enabled": true,
+        "enabled": false,
         "show_below_promo_image": true
       },
 
