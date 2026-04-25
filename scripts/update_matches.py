@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-API_KEY = "b1b0c7e1baa2ed3aae5bde42fb39c401"
+API_KEY = "API_FOOTBALL_KEY"
 OUTPUT_FILE = "home.json"
 
 HEADERS = {
