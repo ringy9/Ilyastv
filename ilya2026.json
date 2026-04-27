@@ -1,15 +1,17 @@
 {
-	  "player_config": {
+  "player_config": {
     "mode": "external",
     "player_package": "com.viviana.ilyasplayer",
     "player_activity": "com.viviana.ilyasplayer.ExternalOpenActivity",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
   },
+
   "matchDetailsSection": {
     "title": "الدوري المغربي الممتاز",
     "image": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
     "text": "تتجه أنظار عشاق كرة القدم حول العالم، اليوم الإثنين الموافق 24 أبريل/نيسان 2026، إلى يوم كروي يحمل في طياته العديد من المواجهات المرتقبة على مختلف الملاعب."
   },
+
   "news": [
     {
       "id": 1,
@@ -18,35 +20,36 @@
       "content": " رد. المباراة ظلت متوازنة في أغلب فتراتها، لكن أصحاب الأرض استغلوا إحدى الفرص الحاسمة في الشوط الثاني لحسم النتيجة. ورغم محاولات طنجة للعودة، حافظ المكناسي على تقدمه حتى صافرة النهاية وخرج بثلاث نقاط مهمة.",
       "timeAgo": "1 hour ago"
     },
-        {
+    {
       "id": 2,
       "title": "الرجاء يفرض أفضليته بثنائية",
       "cover": "https://i.postimg.cc/YCzBVtD3/4.jpg",
       "content": " الفريق الأخضر المباراة بتركيز عال ونجح في افتتاح التسجيل مبكرا، قبل أن يضيف الهدف الثاني في الشوط الثاني ليؤمن النتيجة. الرجاء كان أكثر تنظيما وخطورة، بينما لم ينجح آسفي في استغلال محاولاته القليلة.",
       "timeAgo": "2 hour ago"
     },
-        {
+    {
       "id": 3,
       "title": "الكوكب يحسم لقاء مثيرا",
       "cover": "https://i.postimg.cc/rwN2bqZ1/1.jpg",
       "content": " أصحاب الأرض هدف التقدم من ركلة جزاء في الشوط الأول، ثم عززوا النتيجة لاحقا في الشوط الثاني. حسنية أكادير قلص الفارق في الوقت بدل الضائع، لكن ذلك لم يكن كافيا لتفادي الخسارة في مباراة اتسمت بالندية حتى اللحظات الأخيرة.",
       "timeAgo": "3 hour ago"
     },
-        {
+    {
       "id": 4,
       "title": "المغرب الفاسي يواصل نتائجه الإيجابية",
       "cover": "https://i.postimg.cc/Z5xzgJsH/5.jpg",
-      "content": "واصل المغرب الفاسي عروضه القوية وتفوق خارج ميدانه على أولمبيك الدشيرة بهدفين دون مقابل. جاء الهدف الأول مبكرا ومنح الضيوف أفضلية مهمة، قبل أن يضيف الفريق الهدف الثاني في الشوط الثاني ليؤكد سيطرته على المباراة. الدشيرة حاول العودة، لكن التنظيم الدفاعي للمغرب الفاسي حسم المواجهة.",
+      "content": "واصل المغرب الفاسي عروضه القوية وتفوق خارج ميدانه على أولمبيك الدشيرة بهدفين دون مقابل. جاء الهدف الأول مبكرا ومنح الضيوف أفضلية مهمة، قبل أن يضيف الفريق الهدف الثاني في الشوط الثاني ليؤكد سيطرته على المباراة.",
       "timeAgo": "4 hour ago"
     },
     {
       "id": 5,
       "title": "الفتح يحسم المواجهة بثلاثية",
       "cover": "https://i.postimg.cc/Sxfb5m1G/3.jpg",
-      "content": "1 ضمن الجولة 15. افتتح أيوب مولوع التسجيل مبكرا ثم عاد ليضيف الهدف الثاني قبل نهاية الشوط الأول، بينما سجل سفيان أحناش هدف أصحاب الأرض. وفي الوقت بدل الضائع أكد أمين الصوان تفوق الفتح بهدف ثالث من ركلة جزاء، ليحسم الفريق الرباطي اللقاء بفعالية هجومية واضحة.",
+      "content": "افتتح أيوب مولوع التسجيل مبكرا ثم عاد ليضيف الهدف الثاني قبل نهاية الشوط الأول، بينما سجل سفيان أحناش هدف أصحاب الأرض.",
       "timeAgo": "5 hours ago"
     }
   ],
+
   "leagues": [
     {
       "id": 1,
@@ -64,6 +67,7 @@
       "image": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg"
     }
   ],
+
   "matches": [
     {
       "id": 1,
@@ -74,7 +78,7 @@
       "homeLogo": "https://i.postimg.cc/wTjw1cQH/15.jpg",
       "awayLogo": "https://i.postimg.cc/v8zP8SfY/7.jpg",
       "time": "03:45 PM",
-	  "dayText": "اليوم",
+      "dayText": "اليوم",
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
       "isLive": true,
       "streamTitle": "إتحاد يعقوب المنصور vs الفتح الرباطي Live",
@@ -90,7 +94,7 @@
       "homeLogo": "https://i.postimg.cc/J7qT7dZM/4.jpg",
       "awayLogo": "https://i.postimg.cc/DfgCfYLf/6.jpg",
       "time": "07:00 PM",
-	  "dayText": "اليوم",
+      "dayText": "اليوم",
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
       "isLive": true,
       "streamTitle": "الجيش الملكي vs نهضة بركان",
@@ -106,7 +110,7 @@
       "homeLogo": "https://i.postimg.cc/L4Ty40LR/3.jpg",
       "awayLogo": "https://i.postimg.cc/fWKHWgmh/1.jpg",
       "time": "08:00 PM",
-	  "dayText": "اليوم",
+      "dayText": "اليوم",
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
       "isLive": true,
       "streamTitle": "المغرب الفاسي vs الوداد الرياضي",
@@ -122,7 +126,7 @@
       "homeLogo": "https://i.postimg.cc/SNxgn7fh/12.jpg",
       "awayLogo": "https://i.postimg.cc/G3QM3SG2/11.jpg",
       "time": "09:00 PM",
-	  "dayText": "اليوم",
+      "dayText": "اليوم",
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
       "isLive": true,
       "streamTitle": "إتحاد طنجة vs أولمبيك الدشيرة",
@@ -130,6 +134,7 @@
       "streamType": "mp4"
     }
   ],
+
   "highlights": [
     {
       "id": 1,
