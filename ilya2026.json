@@ -7,9 +7,15 @@
   },
 
   "matchDetailsSection": {
-    "title": "الدوري المغربي الممتاز",
-    "image": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-    "text": "تتجه أنظار عشاق كرة القدم حول العالم، اليوم الإثنين الموافق 24 أبريل/نيسان 2026، إلى يوم كروي يحمل في طياته العديد من المواجهات المرتقبة على مختلف الملاعب."
+    "title": "Champions League Semi-finals",
+    "image": "https://i.postimg.cc/PqchrpbV/og-matches.jpg",
+    "text": "The UEFA Champions League semi-finals represent one of the most exciting stages in European football. At this point in the competition, only four of the best teams remain, each fighting for a place in the final and the chance to lift the most prestigious club trophy in the world.
+
+These matches are usually played over two legs, with each team hosting one game. The intensity is extremely high, as small details can decide the outcome. Players are under great pressure, and moments of brilliance often define these clashes. Fans around the world closely follow every minute, creating a global atmosphere of excitement.
+
+The semi-finals often feature historic clubs with strong traditions, making the encounters even more thrilling. Tactics, experience, and individual talent all play a key role in determining who advances.
+
+In the end, only two teams will succeed and move on to the final, bringing them one step closer to becoming champions of Europe."
   },
 
   "news": [
@@ -79,11 +85,11 @@
       "homeLogo": "https://cdn.brandfetch.io/idr6NdZqgR/w/140/h/140/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1667856843539",
       "awayLogo": "https://cdn.brandfetch.io/id76nM_NMQ/w/2048/h/2048/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1773952097994",
       "time": "09:00 PM",
-      "dayText": "📅 Tuesday, 28 April 2026",
+      "dayText": "Tuesday, 28 April 2026",
       "thumbnail": "https://www.thesun.co.uk/wp-content/uploads/2017/09/seo-psg-vs-bayern-munich1.jpg?quality=80&strip=all&w=1500&h=1000&crop=1",
       "isLive": true,
       "streamTitle": "Paris Saint-Germain vs Bayern Munich",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
       "streamType": "mp4"
     },
     {
@@ -99,7 +105,7 @@
       "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/3115b28aed6a2b3d7a7c0e29c4ee2ee6",
       "isLive": true,
       "streamTitle": "Atlético Madrid vs Arsenal",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
       "streamType": "mp4"
     }
   ],
@@ -107,9 +113,9 @@
   "highlights": [
     {
       "id": 1,
-      "title": "ملخص إتحاد طنجة vs أولمبيك الدشيرة",
+      "title": "ILYAS SPORTS LIVE",
       "thumbnail": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
-      "videoUrl": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+      "videoUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
       "timeAgo": "1 hour ago"
     }
   ]
