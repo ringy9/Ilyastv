@@ -1,6 +1,6 @@
 {
   "player_config": {
-    "mode": "external",
+    "mode": "internal",
     "player_package": "com.viviana.ilyasplayer",
     "player_activity": "com.viviana.ilyasplayer.ExternalOpenActivity",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
