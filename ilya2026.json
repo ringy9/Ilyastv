@@ -53,7 +53,12 @@
   "leagues": [
 
     {
-      "id": 3,
+      "id": 2,3,
+      "name": "Champions League",
+      "image": "https://i.postimg.cc/RZgJdd9w/Chat-GPT-Image-Apr-27-2026-08-49-57-PM.jpg"
+    },
+        {
+      "id": 2,3,
       "name": "Champions League",
       "image": "https://i.postimg.cc/RZgJdd9w/Chat-GPT-Image-Apr-27-2026-08-49-57-PM.jpg"
     }
