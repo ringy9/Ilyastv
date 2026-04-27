@@ -24,7 +24,7 @@
     },
 
     "player_promo": {
-      "enabled": true,
+      "enabled": fqlse,
       "image": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
       "link": "https://play.google.com/store/apps/details?id=com.jeaoapps.ilyasliveapp"
     },
