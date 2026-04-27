@@ -1,4 +1,10 @@
 {
+	  "player_config": {
+    "mode": "external",
+    "player_package": "com.viviana.ilyasplayer",
+    "player_activity": "com.viviana.ilyasplayer.ExternalOpenActivity",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
+  },
   "matchDetailsSection": {
     "title": "الدوري المغربي الممتاز",
     "image": "https://i.postimg.cc/Gtnx9YdF/Whats-App-Image-2026-04-15-at-00-10-19.jpg",
