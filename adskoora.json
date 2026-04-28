@@ -1,6 +1,6 @@
 {
   "ads_config": {
-    "active_ads_network": "fan",
+    "active_ads_network": "admob",
 
     "rules": {
       "ads_interval": 3,
