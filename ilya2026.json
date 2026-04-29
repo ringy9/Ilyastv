@@ -52,11 +52,7 @@
 
   "leagues": [
 
-    {
-      "id": 2,
-      "name": "Champions League",
-      "image": "https://i.postimg.cc/RZgJdd9w/Chat-GPT-Image-Apr-27-2026-08-49-57-PM.jpg"
-    },
+
         {
       "id": 3,
       "name": "Champions League",
@@ -66,22 +62,7 @@
 
   "matches": [
 
-    {
-      "id": 3,
-      "leagueId": 2,
-      "leagueName": "Champions League",
-      "homeTeam": "Paris Saint-Germain",
-      "awayTeam": "Bayern Munich",
-      "homeLogo": "https://cdn.brandfetch.io/idr6NdZqgR/w/140/h/140/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1667856843539",
-      "awayLogo": "https://cdn.brandfetch.io/id76nM_NMQ/w/2048/h/2048/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1773952097994",
-      "time": "09:00 PM",
-      "dayText": "Tuesday, 28 April 2026",
-      "thumbnail": "https://www.thesun.co.uk/wp-content/uploads/2017/09/seo-psg-vs-bayern-munich1.jpg?quality=80&strip=all&w=1500&h=1000&crop=1",
-      "isLive": true,
-      "streamTitle": "Paris Saint-Germain vs Bayern Munich",
-      "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-      "streamType": "mp4"
-    },
+
     {
       "id": 4,
       "leagueId": 3,
