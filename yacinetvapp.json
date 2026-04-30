@@ -34,10 +34,10 @@
       ]
     },
     "native": {
-      "enabled": true,
+      "enabled": false,
       "ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
       "channels": {
-        "enabled": true,
+        "enabled": false,
         "insert_every": 6
       },
       "details": {
@@ -79,7 +79,7 @@
         ]
       },
       "native": {
-        "enabled": false,
+        "enabled": true,
         "placement_id": "4423054781271299_4423055624604548"
       }
     }
