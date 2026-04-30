@@ -2,7 +2,7 @@
   "ads": {
     "enabled": true,
     "test_mode": true,
-    "provider": "admob",
+    "provider": "meta",
     "fallback_to_admob": true,
     "app_open": {
       "enabled": true,
@@ -56,7 +56,7 @@
       "placement_id": "",
       "interstitial": {
         "enabled": true,
-        "placement_id": "YOUR_META_INTERSTITIAL_PLACEMENT_ID",
+        "placement_id": "4423054781271299_4423055467937897",
         "show_on_first_click": true,
         "interval_clicks": 6,
         "screens": [
@@ -70,7 +70,7 @@
       },
       "banner": {
         "enabled": true,
-        "placement_id": "YOUR_META_BANNER_PLACEMENT_ID",
+        "placement_id": "4423054781271299_4423055324604578",
         "screens": [
           "main",
           "channels",
@@ -80,7 +80,7 @@
       },
       "native": {
         "enabled": false,
-        "placement_id": "YOUR_META_NATIVE_PLACEMENT_ID"
+        "placement_id": "4423054781271299_4423055624604548"
       }
     }
   },
