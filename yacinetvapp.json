@@ -3,7 +3,7 @@
     "enabled": true,
     "test_mode": true,
     "provider": "meta",
-    "fallback_to_admob": true,
+    "fallback_to_admob": false,
     "app_open": {
       "enabled": true,
       "show_on_cold_start": true,
