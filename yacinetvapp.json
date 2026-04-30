@@ -1,91 +1,397 @@
 {
-"ads": {
-"enabled": true,
-"provider": "both",
-"test_mode": true,
-
-
-"admob": {
-  "app_open": "ca-app-pub-3738055180283754/8802259293",
-  "interstitial": "ca-app-pub-3738055180283754/1251072333",
-  "banner": "ca-app-pub-3738055180283754/7883915988",
-  "native": "ca-app-pub-3738055180283754/9053540738"
-},
-
-"meta": {
-  "banner": "IMG_16_9_APP_INSTALL#YOUR_META_BANNER_ID",
-  "interstitial": "YOUR_META_INTERSTITIAL_ID",
-  "native": "YOUR_META_NATIVE_ID"
-},
-
-"app_open": {
-  "enabled": true,
-  "show_on_cold_start": true
-},
-
-"interstitial_settings": {
-  "enabled": true,
-  "show_on_first_click": true,
-  "interval_clicks": 6,
-  "screens": [
-    "main",
-    "channels",
-    "top_matches"
+  "ads": {
+    "enabled": true,
+    "test_mode": true,
+    "provider": "both",
+    "fallback_to_admob": true,
+    "app_open": {
+      "enabled": true,
+      "show_on_cold_start": true,
+      "ad_unit_id": "ca-app-pub-3738055180283754/8802259293"
+    },
+    "interstitial": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3738055180283754/1251072333",
+      "show_on_first_click": true,
+      "interval_clicks": 6,
+      "screens": [
+        "main",
+        "channels",
+        "top_matches"
+      ],
+      "exclude_screens": [
+        "player"
+      ]
+    },
+    "banner": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3738055180283754/7883915988",
+      "screens": [
+        "main",
+        "channels",
+        "details",
+        "top_matches"
+      ]
+    },
+    "native": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-3738055180283754/9053540738",
+      "channels": {
+        "enabled": true,
+        "insert_every": 6
+      },
+      "details": {
+        "enabled": true,
+        "show_below_promo_image": true
+      },
+      "article": {
+        "enabled": true
+      },
+      "exit_dialog": {
+        "enabled": true
+      }
+    },
+    "meta": {
+      "enabled": true,
+      "placement_id": "",
+      "interstitial": {
+        "enabled": true,
+        "placement_id": "YOUR_META_INTERSTITIAL_PLACEMENT_ID",
+        "show_on_first_click": true,
+        "interval_clicks": 6,
+        "screens": [
+          "main",
+          "channels",
+          "top_matches"
+        ],
+        "exclude_screens": [
+          "player"
+        ]
+      },
+      "banner": {
+        "enabled": true,
+        "placement_id": "YOUR_META_BANNER_PLACEMENT_ID",
+        "screens": [
+          "main",
+          "channels",
+          "details",
+          "top_matches"
+        ]
+      },
+      "native": {
+        "enabled": false,
+        "placement_id": "YOUR_META_NATIVE_PLACEMENT_ID"
+      }
+    }
+  },
+  "update_dialog": {
+    "enabled": false,
+    "force_update": false,
+    "version_code": 2,
+    "icon": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+    "title": "تحديث جديد 🚀",
+    "message": "تم إصدار نسخة جديدة من التطبيق. قم بالتحديث للحصول على أفضل تجربة.",
+    "button_text": "تحديث الآن",
+    "update_url": "https://play.google.com/store/apps/details?id=com.viviana.ilyaslive"
+  },
+  "matches_home": {
+    "enabled": true,
+    "button_title": "Top Matches",
+    "screen_title": "Top Matches"
+  },
+  "top_matches": [
+    {
+      "id": "botola1",
+      "home_team": "الرجاء الرياضي",
+      "home_logo": "https://i.postimg.cc/Pxf0xhjX/2.jpg",
+      "away_team": "الوداد الرياضي",
+      "away_logo": "https://i.postimg.cc/W3px3jvs/1.jpg",
+      "match_time": "20:00",
+      "competition": "البطولة الاحترافية - الجولة 17",
+      "article": {
+        "title": "ديربي البيضاء 🔥",
+        "image": "https://i.postimg.cc/8cNdDPgV/1.jpg",
+        "published_at": "اليوم",
+        "content": "مباراة قوية تجمع بين الرجاء والوداد في ديربي ناري ضمن الجولة 17 من البطولة المغربية. الفريقان يسعيان لتحقيق الفوز وتعزيز موقعهما في الترتيب."
+      }
+    },
+    {
+      "id": "botola2",
+      "home_team": "الجيش الملكي",
+      "home_logo": "https://i.postimg.cc/mDZKDRs2/4.jpg",
+      "away_team": "المغرب الفاسي",
+      "away_logo": "https://i.postimg.cc/fLW1LZNw/3.jpg",
+      "match_time": "18:00",
+      "competition": "البطولة الاحترافية - الجولة 17",
+      "article": {
+        "title": "قمة تقليدية",
+        "image": "https://i.postimg.cc/Zn4PZKzz/2.jpg",
+        "published_at": "اليوم",
+        "content": "الجيش الملكي يستقبل المغرب الفاسي في مباراة مهمة لحساب الجولة 17، حيث يسعى الفريق العسكري لمواصلة سلسلة النتائج الإيجابية."
+      }
+    },
+    {
+      "id": "botola3",
+      "home_team": "اتحاد طنجة",
+      "home_logo": "https://i.postimg.cc/Xqphf8XN/12.jpg",
+      "away_team": "نهضة بركان",
+      "away_logo": "https://i.postimg.cc/sxv8Yc1j/6.jpg",
+      "match_time": "17:00",
+      "competition": "البطولة الاحترافية - الجولة 17",
+      "article": {
+        "title": "مواجهة صعبة",
+        "image": "https://i.postimg.cc/J0M3m4CV/3.jpg",
+        "published_at": "اليوم",
+        "content": "نهضة بركان تحل ضيفة على اتحاد طنجة في لقاء صعب، حيث يسعى الفريق البركاني لمواصلة المنافسة على الصدارة."
+      }
+    },
+    {
+      "id": "botola4",
+      "home_team": "أولمبيك آسفي",
+      "home_logo": "https://i.postimg.cc/Jn7SnmLn/16.jpg",
+      "away_team": "حسنية أكادير",
+      "away_logo": "https://i.postimg.cc/509D01V9/5.jpg",
+      "match_time": "19:00",
+      "competition": "البطولة الاحترافية - الجولة 17",
+      "article": {
+        "title": "صراع الوسط",
+        "image": "https://i.postimg.cc/0jPGx2RT/4.jpg",
+        "published_at": "اليوم",
+        "content": "مواجهة متكافئة بين أولمبيك آسفي وحسنية أكادير، حيث يسعى الفريقان لتحسين موقعهما في جدول الترتيب."
+      }
+    }
   ],
-  "exclude_screens": [
-    "player"
+  "categories": [
+    {
+      "id": "live_event",
+      "title": "ملخص الدوريات العربية",
+      "channels": [
+        {
+          "id": "match1",
+          "title": "ملخص الدوري المعربي الممتاز",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "150K views",
+          "description": "الدوري المغربي الممتاز (البطولة الاحترافية) يُعد من أقوى الدوريات في إفريقيا، ويشهد هذا الموسم منافسة كبيرة بين عدة أندية على الصدارة 💥",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "com.player.tivanoplayer",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer"
+        },
+        {
+          "id": "match1",
+          "title": "ملخص الدوري الجزائري الممتاز",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "150K views",
+          "description": "الدوري الجزائري الممتاز (الرابطة المحترفة الأولى) هذا الموسم يتميز بإثارة كبيرة وتنافس قوي بين الأندية 🇩🇿⚽",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "com.player.tivanoplayer",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer"
+        },
+        {
+          "id": "match1",
+          "title": "ملخص الدوري التونسي الممتاز",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "150K views",
+          "description": "الدوري التونسي الممتاز (الرابطة المحترفة الأولى) يُقدم هذا الموسم مستوى قوي ومنافسة شرسة بين الأندية 🇹🇳⚽",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "com.player.tivanoplayer",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer"
+        }
+      ]
+    },
+    {
+      "id": "bein_sports",
+      "title": "ملخص الدوريات الاوروبية",
+      "channels": [
+        {
+          "id": "bein1",
+          "title": "ملخص الدوري الاسباني",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "104.1K views",
+          "description": "الدوري الإسباني (La Liga) هذا الموسم يقدم مستوى عالي ومنافسة قوية بين كبار أوروبا 🇪🇸⚽",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "com.viviana.ilyasplayer",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
+        },
+        {
+          "id": "bein1",
+          "title": "ملخص الدوري الانجليزي",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "104.1K views",
+          "description": "الدوري الإنجليزي الممتاز (Premier League) هذا الموسم يواصل تقديم أقوى منافسة في العالم 🇬🇧⚽",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "com.viviana.ilyasplayer",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
+        },
+        {
+          "id": "bein1",
+          "title": "ملخص الدوري الفرنسي",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "104.1K views",
+          "description": "الدوري الفرنسي (Ligue 1) هذا الموسم يشهد تنافسًا قويًا وأداءً مميزًا من عدة أندية 🇫🇷⚽",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "com.viviana.ilyasplayer",
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
+        }
+      ]
+    },
+    {
+      "id": "arabic_channels",
+      "title": "ملخص الدوريات الاسيوية",
+      "channels": [
+        {
+          "id": "algeria",
+          "title": "ملخص الدوري السعودي",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "120K views",
+          "description": "الدوري السعودي للمحترفين (Roshn Saudi League) هذا الموسم يُعتبر من أقوى وأمتع المواسم في تاريخه 🇸🇦⚽",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "",
+          "externalPlayerUrl": ""
+        },
+        {
+          "id": "algeria",
+          "title": "ملخص الدوري القطري",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1521412644187-c49fa049e84d",
+          "views": "120K views",
+          "description": "الدوري القطري (دوري نجوم قطر) هذا الموسم يشهد منافسة قوية وتطورًا ملحوظًا في مستوى الأندية 🇶🇦⚽",
+          "promoImage": "https://i.imgur.com/0A7QK2X.jpeg",
+          "externalUrl": "https://www.google.com",
+          "player_type": "internal",
+          "externalPlayerPackage": "",
+          "externalPlayerUrl": ""
+        },
+        {
+          "id": "algeria",
+          "title": "ملخص الدوري الامراتي",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "120K views",
+          "description": "الدوري الإماراتي للمحترفين (Adnoc Pro League) هذا الموسم يشهد منافسة قوية ومستوى فني مميز 🇦🇪⚽",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "",
+          "externalPlayerUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "title": "ملخص الدوريات الامركية",
+      "channels": [
+        {
+          "id": "news1",
+          "title": "ملخص الدوري الامريكي",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "55K views",
+          "description": "الدوري الأمريكي لكرة القدم (MLS) هذا الموسم يقدم تنافسًا قويًا وأسلوب لعب ممتع يجمع بين المهارة والسرعة 🇺🇸⚽",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "",
+          "externalPlayerUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "ملخص الدوريات اللاتنية",
+      "title": "ملخص الدوريات اللاتنية",
+      "channels": [
+        {
+          "id": "kids1",
+          "title": "ملخص الدوري البرازيلي",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "33K views",
+          "description": "الدوري البرازيلي (Brasileirão) يُعد من أقوى وأمتع الدوريات في أمريكا الجنوبية، ويتميز هذا الموسم بمنافسة شرسة وأسلوب لعب هجومي ممتع 🇧🇷⚽",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "",
+          "externalPlayerUrl": ""
+        },
+        {
+          "id": "kids1",
+          "title": "ملخص الدوري الارجنتيني",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "33K views",
+          "description": "الدوري الأرجنتيني (Liga Profesional) يُعد من أكثر الدوريات حماسًا في أمريكا الجنوبية، ويتميز هذا الموسم بتنافس قوي وأجواء جماهيرية استثنائية 🇦🇷⚽",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "",
+          "externalPlayerUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "دوريات الافريقية",
+      "channels": [
+        {
+          "id": "movie1",
+          "title": "ملخص الدوري المصري",
+          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "type": "mp4",
+          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "views": "200K views",
+          "description": "الدوري المصري الممتاز هذا الموسم يشهد منافسة قوية وإثارة كبيرة بين الأندية 🇪🇬⚽",
+          "promoImage": "",
+          "externalUrl": "",
+          "player_type": "internal",
+          "externalPlayerPackage": "",
+          "externalPlayerUrl": ""
+        }
+      ]
+    }
   ]
-},
-
-"banner_settings": {
-  "enabled": true,
-  "screens": [
-    "main",
-    "channels",
-    "details",
-    "top_matches"
-  ]
-},
-
-"native_settings": {
-  "enabled": true,
-
-  "channels": {
-    "enabled": true,
-    "insert_every": 6
-  },
-
-  "details": {
-    "enabled": true,
-    "show_below_promo_image": true
-  },
-
-  "article": {
-    "enabled": true
-  },
-
-  "exit_dialog": {
-    "enabled": true
-  }
-}
-
-
-},
-
-"update_dialog": {
-"enabled": false,
-"force_update": false,
-"version_code": 2,
-"icon": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
-"title": "تحديث جديد 🚀",
-"message": "تم إصدار نسخة جديدة من التطبيق. قم بالتحديث للحصول على أفضل تجربة.",
-"button_text": "تحديث الآن",
-"update_url": "https://play.google.com/store/apps/details?id=com.viviana.ilyaslive"
-},
-
-"matches_home": {
-"enabled": true,
-"button_title": "Top Matches",
-"screen_title": "Top Matches"
-}
 }
