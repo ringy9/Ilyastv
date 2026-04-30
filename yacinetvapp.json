@@ -7,26 +7,24 @@
     "app_open": {
       "enabled": true,
       "show_on_cold_start": true,
-      "ad_unit_id": "ca-app-pub-3940256099942544/9257395921"
+      "ad_unit_id": "ca-app-pub-3738055180283754/8802259293"
     },
     "interstitial": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "ad_unit_id": "ca-app-pub-3738055180283754/1251072333",
       "show_on_first_click": true,
       "interval_clicks": 6,
       "screens": [
-        "main",
         "channels",
+        "main",
+        "player",
         "top_matches"
-        
       ],
-      "exclude_screens": [
-        "player"
-      ]
+      "exclude_screens": []
     },
     "banner": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "ad_unit_id": "ca-app-pub-3738055180283754/7883915988",
       "screens": [
         "main",
         "channels",
@@ -36,7 +34,7 @@
     },
     "native": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "ad_unit_id": "ca-app-pub-3738055180283754/9053540738",
       "channels": {
         "enabled": true,
         "insert_every": 6
@@ -57,22 +55,20 @@
       "placement_id": "",
       "interstitial": {
         "enabled": true,
-        "placement_id": "4423054781271299_4423055467937897",
+        "placement_id": "YOUR_META_INTERSTITIAL_PLACEMENT_ID",
         "show_on_first_click": true,
         "interval_clicks": 6,
         "screens": [
-          "main",
           "channels",
+          "main",
+          "player",
           "top_matches"
-          
         ],
-        "exclude_screens": [
-          "player"
-        ]
+        "exclude_screens": []
       },
       "banner": {
         "enabled": true,
-        "placement_id": "4423054781271299_4423055324604578",
+        "placement_id": "YOUR_META_BANNER_PLACEMENT_ID",
         "screens": [
           "main",
           "channels",
@@ -82,7 +78,10 @@
       },
       "native": {
         "enabled": true,
-        "placement_id": "4423054781271299_4423055624604548"
+        "placement_id": "YOUR_META_NATIVE_PLACEMENT_ID",
+        "screens": [
+          "details"
+        ]
       }
     }
   },
@@ -181,7 +180,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "com.player.tivanoplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer"
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         },
         {
           "id": "match1",
@@ -196,7 +199,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "com.player.tivanoplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer"
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         },
         {
           "id": "match1",
@@ -211,7 +218,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "com.player.tivanoplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer"
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         }
       ]
     },
@@ -232,7 +243,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "com.viviana.ilyasplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         },
         {
           "id": "bein1",
@@ -247,7 +262,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "com.viviana.ilyasplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         },
         {
           "id": "bein1",
@@ -262,7 +281,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "com.viviana.ilyasplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer"
+          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         }
       ]
     },
@@ -283,7 +306,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "",
-          "externalPlayerUrl": ""
+          "externalPlayerUrl": "",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         },
         {
           "id": "algeria",
@@ -298,7 +325,11 @@
           "externalUrl": "https://www.google.com",
           "player_type": "internal",
           "externalPlayerPackage": "",
-          "externalPlayerUrl": ""
+          "externalPlayerUrl": "",
+          "promo_enabled": true,
+          "promo_image": "https://i.imgur.com/0A7QK2X.jpeg",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": "https://www.google.com"
         },
         {
           "id": "algeria",
@@ -313,7 +344,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "",
-          "externalPlayerUrl": ""
+          "externalPlayerUrl": "",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         }
       ]
     },
@@ -334,7 +369,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "",
-          "externalPlayerUrl": ""
+          "externalPlayerUrl": "",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         }
       ]
     },
@@ -355,7 +394,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "",
-          "externalPlayerUrl": ""
+          "externalPlayerUrl": "",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         },
         {
           "id": "kids1",
@@ -370,7 +413,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "",
-          "externalPlayerUrl": ""
+          "externalPlayerUrl": "",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         }
       ]
     },
@@ -391,7 +438,11 @@
           "externalUrl": "",
           "player_type": "internal",
           "externalPlayerPackage": "",
-          "externalPlayerUrl": ""
+          "externalPlayerUrl": "",
+          "promo_enabled": true,
+          "promo_image": "",
+          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
+          "promo_url": ""
         }
       ]
     }
