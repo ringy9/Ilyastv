@@ -18,6 +18,7 @@
         "main",
         "channels",
         "top_matches"
+        "player"
       ],
       "exclude_screens": [
         "player"
@@ -63,6 +64,7 @@
           "main",
           "channels",
           "top_matches"
+          "player"
         ],
         "exclude_screens": [
           "player"
