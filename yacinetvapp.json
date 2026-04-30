@@ -4,7 +4,7 @@
 "provider": "both",
 "test_mode": true,
 
-```
+
 "admob": {
   "app_open": "ca-app-pub-3738055180283754/8802259293",
   "interstitial": "ca-app-pub-3738055180283754/1251072333",
@@ -68,7 +68,7 @@
     "enabled": true
   }
 }
-```
+
 
 },
 
