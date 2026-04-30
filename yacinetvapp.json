@@ -1,48 +1,59 @@
 {
   "ads": {
     "enabled": true,
-    "test_mode": true,
+    "test_mode": false,
+
+    "provider": "both",
+    "fallback_to_admob": true,
 
     "app_open": {
       "enabled": true,
       "show_on_cold_start": true,
-      "ad_unit_id": "ca-app-pub-3738055180283754/8802259293"
+      "ad_unit_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy"
     },
-
     "interstitial": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-3738055180283754/1251072333",
+      "ad_unit_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
       "show_on_first_click": true,
-      "interval_clicks": 6,
-      "screens": [
-        "main",
-        "channels",
-        "top_matches"
-      ],
-      "exclude_screens": [
-        "player"
-      ]
+      "interval_clicks": 3,
+      "exclude_screens": []
     },
-
     "banner": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-3738055180283754/7883915988",
-      "screens": [
-        "main",
-        "channels",
-        "details",
-        "top_matches"
-      ]
+      "ad_unit_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
+      "screens": ["main", "channels", "details"]
     },
-
     "native": {
       "enabled": true,
-      "ad_unit_id": "ca-app-pub-3738055180283754/9053540738",
+      "ad_unit_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
+      "channels": { "enabled": true, "insert_every": 6 },
+      "details": { "enabled": true, "show_below_promo_image": true },
+      "exit_dialog": { "enabled": true }
+    },
 
-      "channels": {
+    "meta": {
+      "enabled": true,
+      "placement_id": "YOUR_META_DEFAULT_PLACEMENT_ID",
+      "interstitial": {
         "enabled": true,
-        "insert_every": 6
+        "placement_id": "YOUR_META_INTERSTITIAL_PLACEMENT_ID",
+        "show_on_first_click": true,
+        "interval_clicks": 3,
+        "exclude_screens": []
       },
+      "banner": {
+        "enabled": true,
+        "placement_id": "YOUR_META_BANNER_PLACEMENT_ID",
+        "screens": ["main", "channels", "details"]
+      },
+      "native": {
+        "enabled": false,
+        "placement_id": "YOUR_META_NATIVE_PLACEMENT_ID"
+      }
+    }
+  }
+}
+
 
       "details": {
         "enabled": true,
