@@ -1,73 +1,74 @@
 {
-  "ads": {
+"ads": {
+"enabled": true,
+"provider": "both",
+"test_mode": true,
+
+"admob": {
+  "app_open": "ca-app-pub-3738055180283754/8802259293",
+  "interstitial": "ca-app-pub-3738055180283754/1251072333",
+  "banner": "ca-app-pub-3738055180283754/7883915988",
+  "native": "ca-app-pub-3738055180283754/9053540738"
+},
+
+"meta": {
+  "banner": "IMG_16_9_APP_INSTALL#YOUR_META_BANNER_ID",
+  "interstitial": "YOUR_META_INTERSTITIAL_ID",
+  "native": "YOUR_META_NATIVE_ID"
+},
+
+"app_open": {
+  "enabled": true,
+  "show_on_cold_start": true
+},
+
+"interstitial_settings": {
+  "enabled": true,
+  "show_on_first_click": true,
+  "interval_clicks": 6,
+  "screens": [
+    "main",
+    "channels",
+    "top_matches"
+  ],
+  "exclude_screens": [
+    "player"
+  ]
+},
+
+"banner_settings": {
+  "enabled": true,
+  "screens": [
+    "main",
+    "channels",
+    "details",
+    "top_matches"
+  ]
+},
+
+"native_settings": {
+  "enabled": true,
+
+  "channels": {
     "enabled": true,
-    "test_mode": false,
-
-    "provider": "both",
-    "fallback_to_admob": true,
-
-    "app_open": {
-      "enabled": true,
-      "show_on_cold_start": true,
-      "ad_unit_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy"
-    },
-    "interstitial": {
-      "enabled": true,
-      "ad_unit_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
-      "show_on_first_click": true,
-      "interval_clicks": 3,
-      "exclude_screens": []
-    },
-    "banner": {
-      "enabled": true,
-      "ad_unit_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
-      "screens": ["main", "channels", "details"]
-    },
-    "native": {
-      "enabled": true,
-      "ad_unit_id": "ca-app-pub-xxxxxxxxxxxxxxxx/yyyyyyyyyy",
-      "channels": { "enabled": true, "insert_every": 6 },
-      "details": { "enabled": true, "show_below_promo_image": true },
-      "exit_dialog": { "enabled": true }
-    },
-
-    "meta": {
-      "enabled": true,
-      "placement_id": "YOUR_META_DEFAULT_PLACEMENT_ID",
-      "interstitial": {
-        "enabled": true,
-        "placement_id": "YOUR_META_INTERSTITIAL_PLACEMENT_ID",
-        "show_on_first_click": true,
-        "interval_clicks": 3,
-        "exclude_screens": []
-      },
-      "banner": {
-        "enabled": true,
-        "placement_id": "YOUR_META_BANNER_PLACEMENT_ID",
-        "screens": ["main", "channels", "details"]
-      },
-      "native": {
-        "enabled": false,
-        "placement_id": "YOUR_META_NATIVE_PLACEMENT_ID"
-      }
-    }
-
-
-
-      "details": {
-        "enabled": true,
-        "show_below_promo_image": true
-      },
-
-      "article": {
-        "enabled": true
-      },
-
-      "exit_dialog": {
-        "enabled": true
-      }
-    }
+    "insert_every": 6
   },
+
+  "details": {
+    "enabled": true,
+    "show_below_promo_image": true
+  },
+
+  "article": {
+    "enabled": true
+  },
+
+  "exit_dialog": {
+    "enabled": true
+  }
+}
+
+},
     "update_dialog": {
     "enabled": false,
     "force_update": false,
