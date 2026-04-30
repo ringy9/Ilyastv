@@ -2,8 +2,8 @@
   "ads": {
     "enabled": true,
     "test_mode": true,
-    "provider": "meta",
-    "fallback_to_admob": false,
+    "provider": "both",
+    "fallback_to_admob": true,
     "app_open": {
       "enabled": true,
       "show_on_cold_start": true,
@@ -18,7 +18,7 @@
         "main",
         "channels",
         "top_matches"
-        "player"
+        
       ],
       "exclude_screens": [
         "player"
@@ -35,10 +35,10 @@
       ]
     },
     "native": {
-      "enabled": false,
+      "enabled": true,
       "ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
       "channels": {
-        "enabled": false,
+        "enabled": true,
         "insert_every": 6
       },
       "details": {
@@ -59,12 +59,12 @@
         "enabled": true,
         "placement_id": "4423054781271299_4423055467937897",
         "show_on_first_click": true,
-        "interval_clicks": 2,
+        "interval_clicks": 6,
         "screens": [
           "main",
           "channels",
           "top_matches"
-          "player"
+          
         ],
         "exclude_screens": [
           "player"
