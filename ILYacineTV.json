@@ -1,34 +1,156 @@
 {
-  "app": { "name": "ILYacineTV Pro World", "version_code": 1 },
-  "update": { "enabled": false, "force": false, "version_code": 2, "title": "New update", "message": "Download new version", "url": "https://example.com/app.apk" },
+  "app": {
+    "name": "ILYacineTV Pro World",
+    "version_code": 1
+  },
+  "update": {
+    "enabled": true,
+    "force": false,
+    "version_code": 1,
+    "title": "تحديث جديد متوفر",
+    "message": "كاين إصدار جديد من التطبيق. حدّث باش تستافد من آخر القنوات والإصلاحات.",
+    "url": "https://github.com/ringy9/Ilyastv/releases"
+  },
   "ads": {
     "provider": "admob",
     "banner_enabled": true,
     "native_enabled": true,
     "interstitial_enabled": true,
     "interstitial_clicks": 3,
+
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
     "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
     "admob_native": "ca-app-pub-3940256099942544/2247696110",
-    "meta_banner": "", "meta_interstitial": "", "meta_native": "",
-    "applovin_banner": "", "applovin_interstitial": "", "applovin_native": ""
+
+    "max_sdk_key": "YOUR_APPLOVIN_MAX_SDK_KEY",
+    "max_banner": "YOUR_MAX_BANNER_AD_UNIT_ID",
+    "max_interstitial": "YOUR_MAX_INTERSTITIAL_AD_UNIT_ID",
+    "max_native": "YOUR_MAX_NATIVE_AD_UNIT_ID",
+
+    "meta_placement_banner": "YOUR_META_BANNER_PLACEMENT_ID",
+    "meta_placement_interstitial": "YOUR_META_INTERSTITIAL_PLACEMENT_ID",
+    "meta_placement_native": "YOUR_META_NATIVE_PLACEMENT_ID",
+
+    "show_banner_home": true,
+    "show_banner_channels": true,
+    "show_banner_matches": true,
+    "show_native_matches": true,
+    "show_native_player": true,
+    "show_native_exit": true,
+    "show_player_bottom": true
   },
   "menu": [
-    { "title": "Matches", "type": "matches", "url": "" },
-    { "title": "Telegram", "type": "url", "url": "https://t.me/example" },
-    { "title": "Share App", "type": "share", "url": "" }
+    {
+      "title": "جدول المباريات",
+      "type": "matches",
+      "url": ""
+    },
+    {
+      "title": "Telegram",
+      "type": "url",
+      "url": "https://t.me/example"
+    },
+    {
+      "title": "موقعنا",
+      "type": "url",
+      "url": "https://example.com"
+    },
+    {
+      "title": "مشاركة التطبيق",
+      "type": "share",
+      "url": ""
+    }
   ],
   "categories": [
-    { "id": "bein", "name": "beIN SPORTS", "icon": "", "channels": [
-      { "name": "beIN Sports 1", "logo": "", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
-      { "name": "Test MP4", "logo": "", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" }
-    ]},
-    { "id": "sport", "name": "SPORT", "icon": "", "channels": [
-      { "name": "HLS Test", "logo": "", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" }
-    ]}
+    {
+      "id": "bein",
+      "name": "beIN SPORTS",
+      "icon": "",
+      "channels": [
+        {
+          "name": "beIN SPORTS 1",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "user_agent": "",
+          "referer": ""
+        },
+        {
+          "name": "beIN SPORTS 2",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "user_agent": "",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "name": "SPORT CHANNELS",
+      "icon": "",
+      "channels": [
+        {
+          "name": "Sport Live 1",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "user_agent": "",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "name": "MOVIES",
+      "icon": "",
+      "channels": [
+        {
+          "name": "Movie Channel",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "user_agent": "",
+          "referer": ""
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "NEWS",
+      "icon": "",
+      "channels": [
+        {
+          "name": "News Channel",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "user_agent": "",
+          "referer": ""
+        }
+      ]
+    }
   ],
   "matches": [
-    { "team1": "Barcelona", "team2": "Real Madrid", "logo1": "", "logo2": "", "time": "22:00", "status": "Today", "channel_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" }
+    {
+      "team1": "Barcelona",
+      "team2": "Real Madrid",
+      "logo1": "",
+      "logo2": "",
+      "time": "22:00",
+      "status": "اليوم",
+      "channel_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    },
+    {
+      "team1": "PSG",
+      "team2": "Marseille",
+      "logo1": "",
+      "logo2": "",
+      "time": "20:30",
+      "status": "مباشر قريبا",
+      "channel_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+    }
   ],
-  "player_bottom": { "enabled": true, "image": "", "text": "Follow us for more channels", "url": "https://example.com" }
+  "player_bottom": {
+    "enabled": true,
+    "image": "",
+    "text": "تابع ILYacineTV Pro World للمزيد من القنوات والتحديثات",
+    "url": "https://t.me/example"
+  }
 }
