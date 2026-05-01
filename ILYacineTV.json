@@ -1,0 +1,34 @@
+{
+  "app": { "name": "ILYacineTV Pro World", "version_code": 1 },
+  "update": { "enabled": false, "force": false, "version_code": 2, "title": "New update", "message": "Download new version", "url": "https://example.com/app.apk" },
+  "ads": {
+    "provider": "admob",
+    "banner_enabled": true,
+    "native_enabled": true,
+    "interstitial_enabled": true,
+    "interstitial_clicks": 3,
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
+    "meta_banner": "", "meta_interstitial": "", "meta_native": "",
+    "applovin_banner": "", "applovin_interstitial": "", "applovin_native": ""
+  },
+  "menu": [
+    { "title": "Matches", "type": "matches", "url": "" },
+    { "title": "Telegram", "type": "url", "url": "https://t.me/example" },
+    { "title": "Share App", "type": "share", "url": "" }
+  ],
+  "categories": [
+    { "id": "bein", "name": "beIN SPORTS", "icon": "", "channels": [
+      { "name": "beIN Sports 1", "logo": "", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" },
+      { "name": "Test MP4", "logo": "", "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" }
+    ]},
+    { "id": "sport", "name": "SPORT", "icon": "", "channels": [
+      { "name": "HLS Test", "logo": "", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" }
+    ]}
+  ],
+  "matches": [
+    { "team1": "Barcelona", "team2": "Real Madrid", "logo1": "", "logo2": "", "time": "22:00", "status": "Today", "channel_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" }
+  ],
+  "player_bottom": { "enabled": true, "image": "", "text": "Follow us for more channels", "url": "https://example.com" }
+}
