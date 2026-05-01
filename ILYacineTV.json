@@ -1,183 +1,170 @@
 {
-  "app": {
-    "name": "ILYacineTV Pro World",
-    "version_code": 1
-  },
+"app": {
+"name": "ILYacineTV Pro World",
+"version_code": 1
+},
 
-  "update": {
-    "enabled": false,
-    "force": false,
-    "version_code": 2,
-    "title": "تحديث جديد متوفر",
-    "message": "كاين إصدار جديد من التطبيق. حدّث باش تستافد من آخر القنوات.",
-    "url": "https://github.com/ringy9/Ilyastv/releases"
-  },
+"update": {
+"enabled": true,
+"force": false,
+"version_code": 2,
+"title": "تحديث جديد متوفر",
+"message": "تم إضافة قنوات جديدة وتحسين سرعة السيرفر",
+"url": "https://github.com/ringy9/Ilyastv/releases"
+},
 
-  "ads": {
-    "provider": "admob",
+"ads": {
+"provider": "admob",
 
-    "banner_enabled": true,
-    "native_enabled": true,
-    "interstitial_enabled": true,
+```
+"banner_enabled": true,
+"native_enabled": true,
+"interstitial_enabled": true,
 
-    "interstitial_clicks": 3,
+"interstitial_clicks": 3,
 
-    "admob_app_id": "ADMOB_APP_ID",
-    "admob_banner": "ADMOB_BANNER_ID",
-    "admob_interstitial": "ADMOB_INTERSTITIAL_ID",
-    "admob_native": "ADMOB_NATIVE_ID",
+"admob_app_id": "ADMOB_APP_ID",
+"admob_banner": "ADMOB_BANNER_ID",
+"admob_interstitial": "ADMOB_INTERSTITIAL_ID",
+"admob_native": "ADMOB_NATIVE_ID",
 
-    "max_sdk_key": "",
-    "max_banner": "",
-    "max_interstitial": "",
-    "max_native": "",
+"max_sdk_key": "",
+"max_banner": "",
+"max_interstitial": "",
+"max_native": "",
 
-    "meta_placement_banner": "",
-    "meta_placement_interstitial": "",
-    "meta_placement_native": "",
+"meta_placement_banner": "",
+"meta_placement_interstitial": "",
+"meta_placement_native": "",
 
-    "show_banner_home": true,
-    "show_banner_channels": true,
-    "show_banner_matches": true,
+"show_banner_home": true,
+"show_banner_channels": true,
+"show_banner_matches": true,
 
-    "show_native_matches": true,
-    "show_native_player": true,
-    "show_native_exit": true,
+"show_native_matches": true,
+"show_native_player": true,
+"show_native_exit": true,
 
-    "show_player_bottom": true
-  },
+"show_player_bottom": true
+```
 
-  "menu": [
+},
+
+"menu": [
+{
+"title": "📅 جدول المباريات",
+"type": "matches",
+"url": ""
+},
+{
+"title": "📢 Telegram",
+"type": "url",
+"url": "https://t.me/example"
+},
+{
+"title": "🌐 الموقع الرسمي",
+"type": "url",
+"url": "https://example.com"
+},
+{
+"title": "📤 مشاركة التطبيق",
+"type": "share",
+"url": ""
+}
+],
+
+"categories": [
+
+```
+{
+  "id": "bein_fhd",
+  "name": "بي ان سبورت FHD H265",
+  "icon": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bein_Sports_logo.svg",
+
+  "channels": [
+
     {
-      "title": "📅 جدول المباريات",
-      "type": "matches",
-      "url": ""
-    },
-    {
-      "title": "📢 Telegram",
-      "type": "url",
-      "url": "https://t.me/example"
-    },
-    {
-      "title": "🌐 الموقع الرسمي",
-      "type": "url",
-      "url": "https://example.com"
-    },
-    {
-      "title": "📤 مشاركة التطبيق",
-      "type": "share",
-      "url": ""
-    }
-  ],
+      "name": "beIN SPORTS 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bein_Sports_logo.svg",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
 
-  "categories": [
-
-    {
-      "id": "bein",
-      "name": "beIN SPORTS",
-      "icon": "",
-      "channels": [
-
-        {
-          "name": "beIN SPORTS 1",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "user_agent": "",
-          "referer": ""
-        },
-
-        {
-          "name": "beIN SPORTS 2",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
-          "user_agent": "",
-          "referer": ""
-        }
-
-      ]
+      "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+      "event_image": "https://i.imgur.com/VkQm9zK.png",
+      "event_text": "شارك التطبيق مع 5 من أصدقائك وقيم التطبيق بـ 5 نجوم لتفعيل السيرفرات السريعة",
+      "event_url": "https://t.me/example",
+      "views": "99.7K views"
     },
 
     {
-      "id": "sport",
-      "name": "SPORT CHANNELS",
-      "icon": "",
-      "channels": [
+      "name": "beIN SPORTS 2",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bein_Sports_logo.svg",
+      "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
 
-        {
-          "name": "Sport Live 1",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "user_agent": "",
-          "referer": ""
-        }
-
-      ]
-    },
-
-    {
-      "id": "movies",
-      "name": "MOVIES",
-      "icon": "",
-      "channels": [
-
-        {
-          "name": "Movie Channel HD",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "user_agent": "",
-          "referer": ""
-        }
-
-      ]
-    },
-
-    {
-      "id": "news",
-      "name": "NEWS",
-      "icon": "",
-      "channels": [
-
-        {
-          "name": "News Channel Live",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "user_agent": "",
-          "referer": ""
-        }
-
-      ]
+      "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+      "event_image": "https://i.imgur.com/VkQm9zK.png",
+      "event_text": "شارك التطبيق لمشاهدة المباراة",
+      "event_url": "https://t.me/example",
+      "views": "87.2K views"
     }
 
-  ],
+  ]
+},
 
-  "matches": [
+{
+  "id": "news",
+  "name": "قنوات الأخبار",
+  "icon": "https://cdn-icons-png.flaticon.com/512/21/21601.png",
 
-    {
-      "team1": "Barcelona",
-      "team2": "Real Madrid",
-      "logo1": "",
-      "logo2": "",
-      "time": "22:00",
-      "status": "اليوم",
-      "channel_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-    },
+  "channels": [
 
     {
-      "team1": "PSG",
-      "team2": "Marseille",
-      "logo1": "",
-      "logo2": "",
-      "time": "20:30",
-      "status": "قريبا",
-      "channel_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+      "name": "Al Jazeera",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+
+      "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+      "event_image": "",
+      "event_text": "",
+      "event_url": "",
+      "views": "54K views"
     }
 
-  ],
+  ]
+}
+```
 
-  "player_bottom": {
-    "enabled": true,
-    "image": "",
-    "text": "تابع ILYacineTV Pro World للمزيد من القنوات والتحديثات",
-    "url": "https://t.me/example"
-  }
+],
+
+"matches": [
+
+```
+{
+  "team1": "Arsenal",
+  "team2": "Atletico Madrid",
+  "logo1": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+  "logo2": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+  "time": "22:00",
+  "status": "LIVE",
+  "channel_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+},
+
+{
+  "team1": "PSG",
+  "team2": "Bayern",
+  "logo1": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+  "logo2": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg",
+  "time": "20:30",
+  "status": "قريبا",
+  "channel_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+}
+```
+
+],
+
+"player_bottom": {
+"enabled": true,
+"image": "https://i.imgur.com/VkQm9zK.png",
+"text": "انضم لقناتنا للحصول على آخر السيرفرات",
+"url": "https://t.me/example"
+}
 }
