@@ -1,6 +1,6 @@
 {
 "app": {
-"name": "ILYacineTV Pro World",
+"name": "YacineTV Pro World",
 "version_code": 1
 },
 
@@ -16,17 +16,17 @@
 "ads": {
 "provider": "admob",
 
-```
+
 "banner_enabled": true,
 "native_enabled": true,
 "interstitial_enabled": true,
 
 "interstitial_clicks": 3,
 
-"admob_app_id": "ADMOB_APP_ID",
-"admob_banner": "ADMOB_BANNER_ID",
-"admob_interstitial": "ADMOB_INTERSTITIAL_ID",
-"admob_native": "ADMOB_NATIVE_ID",
+"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+"admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+"admob_native": "ca-app-pub-3940256099942544/2247696110",
 
 "max_sdk_key": "",
 "max_banner": "",
@@ -46,7 +46,7 @@
 "show_native_exit": true,
 
 "show_player_bottom": true
-```
+
 
 },
 
@@ -75,7 +75,7 @@
 
 "categories": [
 
-```
+
 {
   "id": "bein_fhd",
   "name": "بي ان سبورت FHD H265",
@@ -131,13 +131,13 @@
 
   ]
 }
-```
+
 
 ],
 
 "matches": [
 
-```
+
 {
   "team1": "Arsenal",
   "team2": "Atletico Madrid",
@@ -157,7 +157,7 @@
   "status": "قريبا",
   "channel_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
 }
-```
+
 
 ],
 
