@@ -70,6 +70,7 @@
       "channels": [
         {
           "name": "beIN SPORTS 1",
+          "subtitle": "beIN SPORTS FHD",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/bein1.png",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
@@ -79,6 +80,7 @@
         },
         {
           "name": "beIN SPORTS 2",
+          "subtitle": "beIN SPORTS FHD",
           "logo": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
@@ -88,6 +90,7 @@
         },
                 {
           "name": "beIN SPORTS 3",
+          "subtitle": "beIN SPORTS FHD",       
           "logo": "https://github.com/ringy9/BEIN/blob/main/bein3.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
@@ -97,6 +100,7 @@
         },
                         {
           "name": "beIN SPORTS 4",
+          "subtitle": "beIN SPORTS FHD",
           "logo": "https://github.com/ringy9/BEIN/blob/main/bein4.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
@@ -106,6 +110,7 @@
         },
                                 {
           "name": "beIN SPORTS 5",
+          "subtitle": "beIN SPORTS FHD",                       
           "logo": "https://github.com/ringy9/BEIN/blob/main/bein5.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
@@ -115,6 +120,7 @@
         },
      {
           "name": "beIN SPORTS 6",
+          "subtitle": "beIN SPORTS FHD",
           "logo": "https://github.com/ringy9/BEIN/blob/main/bein6.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
@@ -124,6 +130,7 @@
         },
              {
           "name": "beIN SPORTS 7",
+          "subtitle": "beIN SPORTS FHD",     
           "logo": "https://github.com/ringy9/BEIN/blob/main/bein7.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
@@ -133,6 +140,7 @@
         },
              {
           "name": "beIN SPORTS 8",
+          "subtitle": "beIN SPORTS FHD",     
           "logo": "https://github.com/ringy9/BEIN/blob/main/bein8.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
@@ -142,6 +150,7 @@
         },
              {
           "name": "beIN SPORTS 9",
+          "subtitle": "beIN SPORTS FHD",     
           "logo": "https://github.com/ringy9/BEIN/blob/main/bein9.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
@@ -151,6 +160,7 @@
         },
              {
           "name": "beIN SPORTS News",
+          "subtitle": "beIN SPORTS FHD",     
           "logo": "https://github.com/ringy9/BEIN/blob/main/bein%20news.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
