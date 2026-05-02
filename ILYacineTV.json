@@ -64,15 +64,15 @@
     {
       "id": "bein_fhd",
       "name": "بي ان سبورت biIN SPORTS",
-      "icon": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bein_Sports_logo.svg",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/bein_SPORTS_FTA_DIGITAL_Mono.png",
       "channels": [
         {
           "name": "beIN SPORTS 1",
-          "logo": "https://bein-mena-production.eu-west-2.ancdn.tv/proxy/imgdata?objectId=65&type=100&format_w=125&format_h=125&ratio=1&languageId=ara",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/bein1.png",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://bein-mena-production.eu-west-2.ancdn.tv/proxy/imgdata?objectId=65&type=100&format_w=125&format_h=125&ratio=1&languageId=ara",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/bein1.png",
           "views": "99.7K views"
         },
         {
