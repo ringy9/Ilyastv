@@ -33,6 +33,8 @@
     "show_banner_home": true,
     "show_banner_channels": true,
     "show_banner_matches": true,
+    "show_player_bottom": true, 
+    "native_interval_channels": 6,
     "show_native_matches": true,
     "show_native_player": true,
     "show_native_exit": true,
