@@ -77,11 +77,83 @@
         },
         {
           "name": "beIN SPORTS 2",
-          "logo": "https://bein-mena-production.eu-west-2.ancdn.tv/proxy/imgdata?objectId=65&type=100&format_w=125&format_h=125&ratio=1&languageId=ara",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://bein-mena-production.eu-west-2.ancdn.tv/proxy/imgdata?objectId=65&type=100&format_w=125&format_h=125&ratio=1&languageId=arag",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
+          "views": "87.2K views"
+        },
+                {
+          "name": "beIN SPORTS 3",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein3.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein3.png?raw=true",
+          "views": "87.2K views"
+        },
+                        {
+          "name": "beIN SPORTS 4",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein4.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein4.png?raw=true",
+          "views": "87.2K views"
+        },
+                                {
+          "name": "beIN SPORTS 5",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein5.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein5.png?raw=true",
+          "views": "87.2K views"
+        },
+     {
+          "name": "beIN SPORTS 6",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein6.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein6.png?raw=true",
+          "views": "87.2K views"
+        },
+             {
+          "name": "beIN SPORTS 7",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein7.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein7.png?raw=true",
+          "views": "87.2K views"
+        },
+             {
+          "name": "beIN SPORTS 8",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein8.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein8.png?raw=true",
+          "views": "87.2K views"
+        },
+             {
+          "name": "beIN SPORTS 9",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein9.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein9.png?raw=true",
+          "views": "87.2K views"
+        },
+             {
+          "name": "beIN SPORTS News",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein%20news.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein%20news.png?raw=true",
           "views": "87.2K views"
         }
       ]
