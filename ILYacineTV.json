@@ -12,7 +12,7 @@
     "url": "https://github.com/ringy9/Ilyastv/releases"
   },
   "ads": {
-    "provider": "admob",
+    "provider": "meta",
     "banner_enabled": true,
     "native_enabled": true,
     "interstitial_enabled": true,
@@ -27,9 +27,9 @@
     "max_banner": "",
     "max_interstitial": "",
     "max_native": "",
-    "meta_placement_banner": "",
-    "meta_placement_interstitial": "",
-    "meta_placement_native": "",
+    "meta_placement_banner": "1699669758046948_1699670178046906",
+    "meta_placement_interstitial": "1699669758046948_1699670251380232",
+    "meta_placement_native": "1699669758046948_1699670298046894",
     "show_banner_home": true,
     "show_banner_channels": true,
     "show_banner_matches": true,
