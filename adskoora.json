@@ -1,69 +1,317 @@
 {
-  "ads_config": {
-    "active_ads_network": "admob",
-
-    "rules": {
-      "ads_interval": 3,
-      "interstitial_cooldown_seconds": 20,
-      "app_open_cooldown_seconds": 15
+  "app": {
+    "name": "YacineTV",
+    "version_code": 1
+  },
+  "update": {
+    "enabled": false,
+    "force": false,
+    "version_code": 2,
+    "title": "تحديث جديد متوفر",
+    "message": "تم إضافة قنوات جديدة وتحسين سرعة التطبيق.",
+    "url": "https://github.com/ringy9/Ilyastv/releases"
+  },
+  "ads": {
+    "provider": "admob",
+    "banner_enabled": true,
+    "native_enabled": true,
+    "interstitial_enabled": true,
+    "app_open_enabled": true,
+    "interstitial_clicks": 3,
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open": "ca-app-pub-3940256099942544/9257395921",
+    "max_sdk_key": "",
+    "max_banner": "",
+    "max_interstitial": "",
+    "max_native": "",
+    "meta_placement_banner": "",
+    "meta_placement_interstitial": "",
+    "meta_placement_native": "",
+    "show_banner_home": true,
+    "show_banner_channels": true,
+    "show_banner_matches": true,
+    "show_native_matches": true,
+    "show_native_player": true,
+    "show_native_exit": true,
+    "show_player_bottom": true
+  },
+  "menu": [
+    {
+      "title": "📅 جدول المباريات",
+      "type": "matches",
+      "url": ""
     },
-
-    "placements": {
-      "banner_under_bottom_bar": true,
-      "banner_only_main_tabs": true,
-      "native_below_player": true,
-      "native_below_match_image": true,
-      "native_below_news_image": true,
-      "native_exit_dialog": true,
-      "interstitial_on_play": true,
-      "interstitial_on_news": true,
-      "interstitial_after_every_n_clicks": true,
-      "show_app_open_on_launch": true,
-      "show_app_open_on_resume": false,
-      "show_splash_interstitial_on_launch": false
+    {
+      "title": "📢 Telegram",
+      "type": "url",
+      "url": "https://t.me/example"
     },
-
-    "player_promo": {
-      "enabled": true,
-      "image": "https://i.postimg.cc/RZqrrJsc/rate.jpg",
-      "link": "https://play.google.com/store/apps/details?id=com.jeaoapps.ilyasliveapp"
+    {
+      "title": "🌐 الموقع الرسمي",
+      "type": "url",
+      "url": "https://example.com"
     },
-
-    "update_popup": {
-  "enabled": false,
-  "force_update": false,
-  "icon": "https://i.postimg.cc/zv5VjHZJ/Whats-App-Image-2026-04-15-at-00-11-02.jpg",
-  "title": "Yacine TV Update",
-  "text": "A new version of Yacine TV is available. Please update the app to enjoy the latest improvements and fixes.",
-  "url": "https://play.google.com/store/apps/details?id=com.jeaoapps.ilyaslive",
-  "button_text": "Update Now",
-  "cancel_text": "Later"
-},
-
-    "admob": {
-      "banner": "ca-app-pub-3738055180283754/4087462582",
-      "native": "ca-app-pub-3738055180283754/1245676827",
-      "interstitial": "ca-app-pub-3738055180283754/2774380913",
-      "app_open": "ca-app-pub-3738055180283754/5926098379"
-    },
-
-    "fan": {
-      "banner": "1489407376065072_1489452189393924",
-      "native": "1489407376065072_1489452509393892",
-      "interstitial": "1489407376065072_1489452356060574"
-    },
-
-    "ironsource": {
-      "app_key": "17417cb4d",
-      "banner": "DefaultBanner",
-      "interstitial": "DefaultInterstitial"
-    },
-
-    "max": {
-      "sdk_key": "qBrJ8VOIJT_6fTg6RBmIzJCaBZkoy9WT9vG4_OM8ZQhTU2zy4S0vxdeConJCccEEoHXROfBU6cfVCiZCmR0Kvr",
-      "banner": "19137e24072a8634",
-      "native": "fd3cfcad9d7ebdd3",
-      "interstitial": "aca3db29c6937d80"
+    {
+      "title": "📤 مشاركة التطبيق",
+      "type": "share",
+      "url": ""
     }
+  ],
+  "categories": [
+    {
+      "id": "bein_fhd",
+      "name": "بي ان سبورت biIN SPORTS",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/bein_SPORTS_FTA_DIGITAL_Mono.png",
+      "channels": [
+        {
+          "name": "beIN SPORTS 1",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/bein1.png",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/bein1.png",
+          "views": "99.7K views"
+        },
+        {
+          "name": "beIN SPORTS 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
+          "views": "87.2K views"
+        },
+                {
+          "name": "beIN SPORTS 3",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein3.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein3.png?raw=true",
+          "views": "87.2K views"
+        },
+                        {
+          "name": "beIN SPORTS 4",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein4.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein4.png?raw=true",
+          "views": "87.2K views"
+        },
+                                {
+          "name": "beIN SPORTS 5",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein5.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein5.png?raw=true",
+          "views": "87.2K views"
+        },
+     {
+          "name": "beIN SPORTS 6",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein6.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein6.png?raw=true",
+          "views": "87.2K views"
+        },
+             {
+          "name": "beIN SPORTS 7",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein7.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein7.png?raw=true",
+          "views": "87.2K views"
+        },
+             {
+          "name": "beIN SPORTS 8",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein8.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein8.png?raw=true",
+          "views": "87.2K views"
+        },
+             {
+          "name": "beIN SPORTS 9",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein9.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein9.png?raw=true",
+          "views": "87.2K views"
+        },
+             {
+          "name": "beIN SPORTS News",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein%20news.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein%20news.png?raw=true",
+          "views": "87.2K views"
+        }
+      ]
+    },
+    {
+      "id": "sport_channels",
+      "name": "القنوات الرياضية",
+      "icon": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
+      "channels": [
+        {
+          "name": "Sport Live 1",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "views": "45.3K views"
+        },
+        {
+          "name": "Sport Live 2",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "views": "31.8K views"
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "قنوات الأخبار",
+      "icon": "https://cdn-icons-png.flaticon.com/512/21/21601.png",
+      "channels": [
+        {
+          "name": "News Channel",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "views": "22K views"
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "name": "أفلام ومسلسلات",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3163/3163478.png",
+      "channels": [
+        {
+          "name": "Movie HD",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "views": "18.5K views"
+        }
+      ]
+    }
+  ],
+"matches": [
+  {
+    "team1": "بايرن ميونخ",
+    "team2": "هايدنهايم",
+    "logo1": "https://cdn.sportfeeds.io/sdl/images/team/crest/large/ogelqCh0zli48-1z2qNHX.png?quality=60&auto=webp&format=pjpg",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9497.png",
+    "time": "15:30",
+    "status": "الدوري الألماني",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "ليفركوزن",
+    "team2": "لايبزيج",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
+    "time": "18:30",
+    "status": "الدوري الألماني",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "برينتفورد",
+    "team2": "وست هام",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "نيوكاسل",
+    "team2": "برايتون",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "آرسنال",
+    "team2": "فولهام",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
+    "time": "18:30",
+    "status": "الدوري الإنجليزي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "فالنسيا",
+    "team2": "أتلتيكو مدريد",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
+    "time": "16:15",
+    "status": "الدوري الإسباني",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "أوساسونا",
+    "team2": "برشلونة",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+    "time": "21:00",
+    "status": "الدوري الإسباني",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "أتالانتا",
+    "team2": "جنوى",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8524.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
+    "time": "20:45",
+    "status": "الدوري الإيطالي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "باريس سان جيرمان",
+    "team2": "لوريان",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
+    "time": "17:00",
+    "status": "الدوري الفرنسي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "أياكس",
+    "team2": "آيندهوفن",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8593.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8640.png",
+    "time": "20:00",
+    "status": "الدوري الهولندي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  }
+],
+  "player_bottom": {
+    "enabled": true,
+    "image": "https://i.imgur.com/VkQm9zK.png",
+    "text": "شارك التطبيق مع أصدقائك للحصول على أفضل السيرفرات",
+    "url": "https://t.me/example"
   }
 }
