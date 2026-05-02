@@ -36,9 +36,9 @@
     "show_native_matches": true,
     "show_native_player": true,
     "show_native_exit": true,
+    "show_player_bottom": true,
     "show_native_channels": true,
     "native_interval_channels": 6
-    "show_player_bottom": true
 
   },
   "menu": [
