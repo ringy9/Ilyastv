@@ -1,8 +1,10 @@
 {
-  "app": {
-    "name": "YacineTV",
-    "version_code": 1
-  },
+"app": {
+  "name": "YacineTV",
+  "version_code": 1,
+  "drawer_logo_text": "الأسطورة",
+  "drawer_subtitle": "YacineTV"
+},
   "update": {
     "enabled": false,
     "force": false,
