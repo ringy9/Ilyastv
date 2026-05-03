@@ -14,7 +14,7 @@
     "url": "https://github.com/ringy9/Ilyastv/releases"
   },
   "ads": {
-    "provider": "meta",
+    "provider": "admob",
     "banner_enabled": true,
     "native_enabled": true,
     "interstitial_enabled": true,
