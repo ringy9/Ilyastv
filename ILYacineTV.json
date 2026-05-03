@@ -67,7 +67,7 @@
   "categories": [
     {
       "id": "bein_fhd",
-      "name": "بي ان سبورت biIN SPORTS",
+      "name": "ملخص الدوري الإنجليزي الممتاز",
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/bein_SPORTS_FTA_DIGITAL_Mono.png",
       "channels": [
         {
@@ -89,92 +89,12 @@
           "referer": "",
           "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
           "views": "87.2K views"
-        },
-                {
-          "name": "beIN SPORTS 3",
-          "subtitle": "beIN SPORTS FHD",       
-          "logo": "https://github.com/ringy9/BEIN/blob/main/bein3.png?raw=true",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein3.png?raw=true",
-          "views": "87.2K views"
-        },
-                        {
-          "name": "beIN SPORTS 4",
-          "subtitle": "beIN SPORTS FHD",
-          "logo": "https://github.com/ringy9/BEIN/blob/main/bein4.png?raw=true",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein4.png?raw=true",
-          "views": "87.2K views"
-        },
-                                {
-          "name": "beIN SPORTS 5",
-          "subtitle": "beIN SPORTS FHD",                       
-          "logo": "https://github.com/ringy9/BEIN/blob/main/bein5.png?raw=true",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein5.png?raw=true",
-          "views": "87.2K views"
-        },
-     {
-          "name": "beIN SPORTS 6",
-          "subtitle": "beIN SPORTS FHD",
-          "logo": "https://github.com/ringy9/BEIN/blob/main/bein6.png?raw=true",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein6.png?raw=true",
-          "views": "87.2K views"
-        },
-             {
-          "name": "beIN SPORTS 7",
-          "subtitle": "beIN SPORTS FHD",     
-          "logo": "https://github.com/ringy9/BEIN/blob/main/bein7.png?raw=true",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein7.png?raw=true",
-          "views": "87.2K views"
-        },
-             {
-          "name": "beIN SPORTS 8",
-          "subtitle": "beIN SPORTS FHD",     
-          "logo": "https://github.com/ringy9/BEIN/blob/main/bein8.png?raw=true",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein8.png?raw=true",
-          "views": "87.2K views"
-        },
-             {
-          "name": "beIN SPORTS 9",
-          "subtitle": "beIN SPORTS FHD",     
-          "logo": "https://github.com/ringy9/BEIN/blob/main/bein9.png?raw=true",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein9.png?raw=true",
-          "views": "87.2K views"
-        },
-             {
-          "name": "beIN SPORTS News",
-          "subtitle": "beIN SPORTS FHD",     
-          "logo": "https://github.com/ringy9/BEIN/blob/main/bein%20news.png?raw=true",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein%20news.png?raw=true",
-          "views": "87.2K views"
         }
       ]
     },
     {
       "id": "sport_channels",
-      "name": "القنوات الرياضية",
+      "name": "ملخص الدوري الإسباني",
       "icon": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
       "channels": [
         {
@@ -196,10 +116,86 @@
           "views": "31.8K views"
         }
       ]
+  
+    },
+    {
+      "id": "sport_channels",
+      "name": "ملخص الدوري الفرنسي",
+      "icon": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
+      "channels": [
+        {
+          "name": "Sport Live 1",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "views": "45.3K views"
+        },
+        {
+          "name": "Sport Live 2",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "views": "31.8K views"
+        }
+      ]
+          },
+    {
+      "id": "sport_channels",
+      "name": "ملخص البطولة المغربية الاحترافية",
+      "icon": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
+      "channels": [
+        {
+          "name": "Sport Live 1",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "views": "45.3K views"
+        },
+        {
+          "name": "Sport Live 2",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "views": "31.8K views"
+        }
+              ]
+          },
+    {
+      "id": "sport_channels",
+      "name": "ملخص دوري روشن السعودي",
+      "icon": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
+      "channels": [
+        {
+          "name": "Sport Live 1",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "views": "45.3K views"
+        },
+        {
+          "name": "Sport Live 2",
+          "logo": "",
+          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "views": "31.8K views"
+        }
+          ]
     },
     {
       "id": "news",
-      "name": "قنوات الأخبار",
+      "name": "ملخص الدوري الإيطالي",
       "icon": "https://cdn-icons-png.flaticon.com/512/21/21601.png",
       "channels": [
         {
@@ -215,7 +211,7 @@
     },
     {
       "id": "movies",
-      "name": "أفلام ومسلسلات",
+      "name": "ملخص الدوري الألماني",
       "icon": "https://cdn-icons-png.flaticon.com/512/3163/3163478.png",
       "channels": [
         {
