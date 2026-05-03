@@ -1,9 +1,9 @@
 {
 "app": {
-  "name": "YacineTV",
+  "name": "الياس لايف",
   "version_code": 1,
-  "drawer_logo_text": "الأسطورة",
-  "drawer_subtitle": "YacineTV"
+  "drawer_logo_text": "الياس لايف",
+  "drawer_subtitle": "الياس لايف"
 },
   "update": {
     "enabled": false,
@@ -145,7 +145,7 @@
           },
     {
       "id": "sport_channels",
-      "name": "ملخص البطولة المغربية الاحترافية",
+      "name": "ملخص البطولة المغربية ",
       "icon": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
       "channels": [
         {
