@@ -51,41 +51,46 @@
   ],
 
   "leagues": [
-  {
-    "id": 1,
-    "name": "البطولة المغربية الاحترافية",
-    "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/947.png"
-  },
-  {
-    "id": 2,
-    "name": "الدوري الإنجليزي الممتاز",
-    "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png"
-  },
-  {
-    "id": 3,
-    "name": "الدوري الإسباني",
-    "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png"
-  },
-  {
-    "id": 4,
-    "name": "الدوري الإيطالي",
-    "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png"
-  },
-  {
-    "id": 5,
-    "name": "الدوري الألماني",
-    "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/54.png"
-  },
-  {
-    "id": 6,
-    "name": "الدوري الفرنسي",
-    "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/53.png"
-  },
-  {
-    "id": 7,
-    "name": "دوري روشن السعودي",
-    "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/82.png"
-  }
+    {
+      "id": 1,
+      "name": "البطولة المغربية الاحترافية",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/530.png"
+    },
+    {
+      "id": 2,
+      "name": "الدوري الإنجليزي الممتاز",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png"
+    },
+    {
+      "id": 3,
+      "name": "الدوري الإسباني",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png"
+    },
+    {
+      "id": 4,
+      "name": "الدوري الإيطالي",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png"
+    },
+    {
+      "id": 5,
+      "name": "الدوري الاسكتلندي",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/64.png"
+    },
+    {
+      "id": 6,
+      "name": "الدوري النرويجي",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/59.png"
+    },
+    {
+      "id": 7,
+      "name": "الدوري الدنماركي",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/40.png"
+    },
+    {
+      "id": 8,
+      "name": "الدوري الروماني",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/182.png"
+    }
 ],
 
   "matches":[
