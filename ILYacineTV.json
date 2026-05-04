@@ -67,7 +67,7 @@
   "categories": [
     {
       "id": "bein_fhd",
-      "name": "ملخص الدوري الإنجليزي الممتاز",
+      "name": "ملخص الدوريات الاوروبية",
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
@@ -304,7 +304,7 @@
 
 ],
   "player_bottom": {
-    "enabled": true,
+    "enabled": false,
     "image": "https://i.imgur.com/VkQm9zK.png",
     "text": "شارك التطبيق مع أصدقائك للحصول على أفضل السيرفرات",
     "url": "https://t.me/example"
