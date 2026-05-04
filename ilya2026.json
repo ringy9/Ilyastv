@@ -50,44 +50,44 @@
     }
   ],
 
-  "leagues": [
+"leagues": [
     {
-      "id": 1,
+      "id": 530,
       "name": "البطولة المغربية الاحترافية",
       "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/530.png"
     },
     {
-      "id": 2,
+      "id": 47,
       "name": "الدوري الإنجليزي الممتاز",
       "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png"
     },
     {
-      "id": 3,
+      "id": 87,
       "name": "الدوري الإسباني",
       "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png"
     },
     {
-      "id": 4,
+      "id": 55,
       "name": "الدوري الإيطالي",
       "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png"
     },
     {
-      "id": 5,
+      "id": 64,
       "name": "الدوري الاسكتلندي",
       "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/64.png"
     },
     {
-      "id": 6,
+      "id": 59,
       "name": "الدوري النرويجي",
       "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/59.png"
     },
     {
-      "id": 7,
+      "id": 40,
       "name": "الدوري الدنماركي",
       "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/40.png"
     },
     {
-      "id": 8,
+      "id": 182,
       "name": "الدوري الروماني",
       "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/182.png"
     }
