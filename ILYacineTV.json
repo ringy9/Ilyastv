@@ -81,8 +81,8 @@
           "views": "99.7K views"
         },
         {
-          "name": "beIN SPORTS 2",
-          "subtitle": "beIN SPORTS FHD",
+          "name": "الدوري الإسباني",
+          "subtitle": "الدوري الإسباني",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -91,8 +91,8 @@
           "views": "87.2K views"
         },
                 {
-          "name": "beIN SPORTS 2",
-          "subtitle": "beIN SPORTS FHD",
+          "name": "الدوري الفرنسي",
+          "subtitle": "الدوري الفرنسي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -108,7 +108,7 @@
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
-          "name": "Sport Live 1",
+          "name": "الدوري السعودي للمحترفين",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -117,7 +117,7 @@
           "views": "45.3K views"
         },
         {
-          "name": "Sport Live 2",
+          "name": "الدوري المغربي الاحترافي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -126,7 +126,7 @@
           "views": "31.8K views"
         },
                 {
-          "name": "Sport Live 2",
+          "name": "الدوري القطري",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -143,7 +143,7 @@
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
-          "name": "Sport Live 1",
+          "name": "الدوري التونسي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -152,7 +152,7 @@
           "views": "45.3K views"
         },
         {
-          "name": "Sport Live 2",
+          "name": "الدوري الجزائري",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -161,7 +161,7 @@
           "views": "31.8K views"
         },
                 {
-          "name": "Sport Live 2",
+          "name": "الدوري الجنوب إفريقي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -177,7 +177,7 @@
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
-          "name": "Sport Live 1",
+          "name": "الدوري الإماراتي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -186,7 +186,7 @@
           "views": "45.3K views"
         },
         {
-          "name": "Sport Live 2",
+          "name": "الدوري الكويتي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -195,7 +195,7 @@
           "views": "31.8K views"
         },
                 {
-          "name": "Sport Live 2",
+          "name": "الدوري البحريني",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -211,7 +211,7 @@
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
-          "name": "Sport Live 1",
+          "name": "الدوري الياباني",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -220,7 +220,7 @@
           "views": "45.3K views"
         },
         {
-          "name": "Sport Live 2",
+          "name": "الدوري الكوري",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -229,7 +229,7 @@
           "views": "31.8K views"
         },
                 {
-          "name": "Sport Live 2",
+          "name": "الدوري العراقي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -245,7 +245,7 @@
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
-          "name": "News Channel",
+          "name": "الدوري الأمريكي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -254,7 +254,7 @@
           "views": "22K views"
         },
                 {
-          "name": "News Channel",
+          "name": "الدوري المكسيكي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -263,7 +263,7 @@
           "views": "22K views"
         },
                 {
-          "name": "News Channel",
+          "name": "الدوري الكولومبي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -275,11 +275,11 @@
     },
     {
       "id": "movies",
-      "name": "ملخص الدوريات  اللاتينية",
+      "name": "ملخص الدوريات اللاتينية",
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
-          "name": "Movie HD",
+          "name": "الدوري البرازيلي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -288,7 +288,7 @@
           "views": "18.5K views"
         },
                 {
-          "name": "Movie HD",
+          "name": "الدوري الأرجنتيني",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -297,7 +297,7 @@
           "views": "18.5K views"
         },
                 {
-          "name": "Movie HD",
+          "name": "الدوري التشيلي",
           "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
@@ -317,7 +317,7 @@
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102049.png",
     "time": "18:00",
     "status": "البطولة المغربية الاحترافية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
   },
   {
     "team1": "الجيش الملكي",
@@ -326,7 +326,7 @@
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102043.png",
     "time": "20:00",
     "status": "البطولة المغربية الاحترافية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
   },
   {
     "team1": "نهضة بركان",
@@ -335,7 +335,7 @@
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102037.png",
     "time": "18:00",
     "status": "البطولة المغربية الاحترافية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
   },
   {
     "team1": "اتحاد طنجة",
@@ -344,7 +344,7 @@
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102033.png",
     "time": "16:00",
     "status": "البطولة المغربية الاحترافية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
     "streamType": "mp4"
   },
   {
@@ -354,7 +354,7 @@
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/320835.png",
     "time": "18:00",
     "status": "البطولة المغربية الاحترافية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
   },
   {
     "team1": "الفتح الرباطي",
@@ -363,7 +363,7 @@
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/11030.png",
     "time": "20:00",
     "status": "البطولة المغربية الاحترافية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
   },
   {
     "team1": "مولودية وجدة",
@@ -372,7 +372,7 @@
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10932.png",
     "time": "16:00",
     "status": "البطولة المغربية الاحترافية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
   },
   {
     "team1": "نهضة الزمامرة",
@@ -381,7 +381,7 @@
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102042.png",
     "time": "18:00",
     "status": "البطولة المغربية الاحترافية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
   }
 
 ],
