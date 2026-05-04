@@ -71,48 +71,67 @@
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
-          "name": "beIN SPORTS 1",
-          "subtitle": "beIN SPORTS FHD",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/bein1.png",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "name": "الدوري الإنجليزي الممتاز",
+          "subtitle": "الدوري الإنجليزي الممتاز",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/bein1.png",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "99.7K views"
         },
         {
           "name": "beIN SPORTS 2",
           "subtitle": "beIN SPORTS FHD",
-          "logo": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "87.2K views"
+        },
+                {
+          "name": "beIN SPORTS 2",
+          "subtitle": "beIN SPORTS FHD",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "87.2K views"
         }
       ]
     },
     {
       "id": "sport_channels",
-      "name": "ملخص الدوري الإسباني",
+      "name": "ملخص الدوريات العربية",
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "Sport Live 1",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "45.3K views"
         },
         {
           "name": "Sport Live 2",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        },
+                {
+          "name": "Sport Live 2",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "31.8K views"
         }
       ]
@@ -120,107 +139,170 @@
     },
     {
       "id": "sport_channels",
-      "name": "ملخص الدوري الفرنسي",
+      "name": "ملخص الدوريات الافريقية",
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "Sport Live 1",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "45.3K views"
         },
         {
           "name": "Sport Live 2",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        },
+                {
+          "name": "Sport Live 2",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "31.8K views"
         }
       ]
           },
     {
       "id": "sport_channels",
-      "name": "ملخص البطولة المغربية ",
+      "name": "ملخص الدوريات الخليجية ",
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "Sport Live 1",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "45.3K views"
         },
         {
           "name": "Sport Live 2",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        },
+                {
+          "name": "Sport Live 2",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "31.8K views"
         }
               ]
           },
     {
       "id": "sport_channels",
-      "name": "ملخص دوري روشن السعودي",
+      "name": "ملخص الدوريات الاسيوية",
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "Sport Live 1",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "45.3K views"
         },
         {
           "name": "Sport Live 2",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/test_001/stream.m3u8",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        },
+                {
+          "name": "Sport Live 2",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "31.8K views"
         }
           ]
     },
     {
       "id": "news",
-      "name": "ملخص الدوري الإيطالي",
+      "name": "ملخص الدوريات الامريكية",
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "News Channel",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "22K views"
+        },
+                {
+          "name": "News Channel",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "22K views"
+        },
+                {
+          "name": "News Channel",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "22K views"
         }
       ]
     },
     {
       "id": "movies",
-      "name": "ملخص الدوري الألماني",
+      "name": "ملخص الدوريات  اللاتينية",
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "Movie HD",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://i.imgur.com/3ZQ3Z9C.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "18.5K views"
+        },
+                {
+          "name": "Movie HD",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "18.5K views"
+        },
+                {
+          "name": "Movie HD",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "18.5K views"
         }
       ]
@@ -304,9 +386,9 @@
 
 ],
   "player_bottom": {
-    "enabled": false,
-    "image": "https://i.imgur.com/VkQm9zK.png",
-    "text": "شارك التطبيق مع أصدقائك للحصول على أفضل السيرفرات",
-    "url": "https://t.me/example"
+    "enabled": true,
+    "image": "",
+    "text": "أبرز أخبار الدوريات الأوروبية اليوم مع آخر النتائج والانتقالات وأداء الفرق في تغطية سريعة ومحدثة ⚽📰",
+    "url": ""
   }
 }
