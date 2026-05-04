@@ -68,7 +68,7 @@
     {
       "id": "bein_fhd",
       "name": "ملخص الدوري الإنجليزي الممتاز",
-      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/bein_SPORTS_FTA_DIGITAL_Mono.png",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "beIN SPORTS 1",
@@ -95,7 +95,7 @@
     {
       "id": "sport_channels",
       "name": "ملخص الدوري الإسباني",
-      "icon": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "Sport Live 1",
@@ -121,7 +121,7 @@
     {
       "id": "sport_channels",
       "name": "ملخص الدوري الفرنسي",
-      "icon": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "Sport Live 1",
@@ -146,7 +146,7 @@
     {
       "id": "sport_channels",
       "name": "ملخص البطولة المغربية ",
-      "icon": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "Sport Live 1",
@@ -171,7 +171,7 @@
     {
       "id": "sport_channels",
       "name": "ملخص دوري روشن السعودي",
-      "icon": "https://cdn-icons-png.flaticon.com/512/857/857455.png",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "Sport Live 1",
@@ -196,7 +196,7 @@
     {
       "id": "news",
       "name": "ملخص الدوري الإيطالي",
-      "icon": "https://cdn-icons-png.flaticon.com/512/21/21601.png",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "News Channel",
@@ -212,7 +212,7 @@
     {
       "id": "movies",
       "name": "ملخص الدوري الألماني",
-      "icon": "https://cdn-icons-png.flaticon.com/512/3163/3163478.png",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
           "name": "Movie HD",
