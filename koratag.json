@@ -1,100 +1,165 @@
 {
+  "app": {
+    "name": "Tag Kora",
+    "logo": "https://i.imgur.com/YbF6qSw.png"
+  },
+  "ads": [
+    {
+      "id": "ad1",
+      "title": "ADS - اعلان",
+      "image": "https://i.imgur.com/8QqZfGJ.png",
+      "url": "https://example.com"
+    }
+  ],
   "matches": [
     {
       "id": "1",
-      "team1": "Al-Hilal",
-      "team2": "Al-Sadd SC",
-      "team1_logo": "https://example.com/logos/alhilal.png",
-      "team2_logo": "https://example.com/logos/alsadd.png",
-      "league": "AFC Champions League Elite",
-      "time": "20:53",
-      "date": "2026-04-12",
+      "team1": "Al Ahly FC",
+      "team2": "Enppi SC",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Al_Ahly_SC_logo.svg/200px-Al_Ahly_SC_logo.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/1/19/ENPPI_Club_logo.png",
+      "league": "Egypt League",
+      "date": "May 05, 2026",
+      "time": "01:32",
       "status": "live",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
       "servers": [
         {
           "name": "Server 1 HD",
-          "url": "https://ultra-tv-proxy.dzandz496.workers.dev/stream.m3u8",
-          "type": "hls"
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
         },
         {
-          "name": "Server 2 MP4",
+          "name": "Server 2 (MP4)",
           "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-          "type": "mp4"
+          "type": "mp4",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
         }
       ]
     },
     {
       "id": "2",
-      "team1": "SS Lazio",
-      "team2": "Fiorentina",
-      "team1_logo": "https://example.com/logos/lazio.png",
-      "team2_logo": "https://example.com/logos/fiorentina.png",
-      "league": "Italy League",
-      "time": "21:00",
-      "date": "2026-04-12",
+      "team1": "Zamalek SC",
+      "team2": "Smouha SC",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Zamalek_SC_logo.svg/200px-Zamalek_SC_logo.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Smouha_SC_logo.svg/200px-Smouha_SC_logo.svg.png",
+      "league": "Egypt League",
+      "date": "May 05, 2026",
+      "time": "02:00",
       "status": "live",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
       "servers": [
         {
-          "name": "Server 1",
+          "name": "Server 1 HD",
           "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "type": "hls"
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
         }
       ]
     },
     {
       "id": "3",
-      "team1": "Manchester United",
-      "team2": "Leeds United",
-      "team1_logo": "https://example.com/logos/manutd.png",
-      "team2_logo": "https://example.com/logos/leeds.png",
-      "league": "England League",
-      "time": "21:00",
-      "date": "2026-04-12",
+      "team1": "Al-Hilal",
+      "team2": "Al-Khaleej FC",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Al-Hilal_FC_logo.svg/200px-Al-Hilal_FC_logo.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Al-Khaleej_Club_logo.svg/200px-Al-Khaleej_Club_logo.svg.png",
+      "league": "Saudi League",
+      "date": "May 05, 2026",
+      "time": "07:00 PM",
       "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
       "servers": [
         {
-          "name": "Server 1",
+          "name": "Server 1 HD",
           "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "type": "hls"
-        }
-      ]
-    }
-  ],
-  "channels": [
-    {
-      "id": "bein1",
-      "name": "beIN Sports 1",
-      "logo": "https://example.com/logos/bein1.png",
-      "category": "Sports",
-      "servers": [
-        {
-          "name": "HD",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "type": "hls"
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
         }
       ]
     },
     {
-      "id": "ssc1",
-      "name": "SSC Sports 1",
-      "logo": "https://example.com/logos/ssc1.png",
-      "category": "Sports",
+      "id": "4",
+      "team1": "Arsenal FC",
+      "team2": "Atlético de Madrid",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/200px-Arsenal_FC.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Atletico_Madrid_2017_logo.svg/200px-Atletico_Madrid_2017_logo.svg.png",
+      "league": "Champions League",
+      "date": "May 05, 2026",
+      "time": "08:00 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
       "servers": [
         {
-          "name": "HD",
+          "name": "Server 1 HD",
           "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "type": "hls"
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
         }
       ]
     }
   ],
-  "app": {
-    "name": "Tag Kora",
-    "version": "1.0",
-    "privacy_policy": "https://example.com/privacy-policy",
-    "about": "Tag Kora is a sports live scores and streaming demo app.",
-    "share_text": "Download Tag Kora app",
-    "rate_url": "https://play.google.com/store/apps/details?id=com.sportslive.app",
-    "more_apps_url": "https://play.google.com/store/apps/developer?id=YourDeveloperName"
-  }
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "شرح طريقة مشاهدة مباريات عبر بلاير",
+      "date": "Nov 25, 2025",
+      "image": "https://i.imgur.com/8QqZfGJ.png",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "matches",
+      "name": "Matches",
+      "image": ""
+    },
+    {
+      "id": "highlights",
+      "name": "Highlights",
+      "image": ""
+    },
+    {
+      "id": "news",
+      "name": "News",
+      "image": ""
+    }
+  ],
+  "news": [
+    {
+      "id": "n1",
+      "title": "حرب كلامية تشتعل.. بيان من مبابي ضد جماهير ريال مدريد",
+      "image": "https://i.imgur.com/5iFqWEg.jpg",
+      "time_ago": "1 hours ago",
+      "url": "https://example.com/news1"
+    },
+    {
+      "id": "n2",
+      "title": "مسافة قياسية وتحديات جديدة.. الكشف عن مسار رالي داكار السعودية 2027",
+      "image": "https://i.imgur.com/8QqZfGJ.png",
+      "time_ago": "1 hours ago",
+      "url": "https://example.com/news2"
+    },
+    {
+      "id": "n3",
+      "title": "نتائج مباريات اليوم في الدوري الإنجليزي",
+      "image": "https://i.imgur.com/5iFqWEg.jpg",
+      "time_ago": "1 hours ago",
+      "url": "https://example.com/news3"
+    }
+  ]
 }
