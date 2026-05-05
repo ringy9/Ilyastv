@@ -13,7 +13,7 @@
       "servers": [
         {
           "name": "Server 1 HD",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "url": "https://ultra-tv-proxy.dzandz496.workers.dev/stream.m3u8",
           "type": "hls"
         },
         {
