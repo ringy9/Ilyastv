@@ -51,209 +51,31 @@
   ],
 
 "leagues": [
+
     {
-      "id": 530,
-      "name": "البطولة المغربية الاحترافية",
-      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/530.png"
-    },
-    {
-      "id": 47,
-      "name": "الدوري الإنجليزي الممتاز",
-      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png"
-    },
-    {
-      "id": 87,
-      "name": "الدوري الإسباني",
-      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png"
-    },
-    {
-      "id": 55,
-      "name": "الدوري الإيطالي",
-      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png"
-    },
-    {
-      "id": 64,
-      "name": "الدوري الاسكتلندي",
-      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/64.png"
-    },
-    {
-      "id": 59,
-      "name": "الدوري النرويجي",
-      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/59.png"
-    },
-    {
-      "id": 40,
-      "name": "الدوري الدنماركي",
-      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/40.png"
-    },
-    {
-      "id": 182,
-      "name": "الدوري الروماني",
+      "id": 1,
+      "name": "Champions League",
       "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/182.png"
     }
 ],
 
   "matches":[
-  {
-    "id": 1,
-    "leagueId": 47,
-    "leagueName": "الدوري الإنجليزي الممتاز",
-    "homeTeam": "تشيلسي",
-    "awayTeam": "نوتنغهام فورست",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
-    "time": "15:00",
-    "dayText": "4 مايو 2026",
-    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-    "isLive": true,
-    "streamTitle": "تشيلسي × نوتنغهام فورست",
-    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-    "streamType": "mp4"
-  },
-  {
-    "id": 2,
-    "leagueId": 55,
-    "leagueName": "الدوري الإيطالي",
-    "homeTeam": "كريمونيزي",
-    "awayTeam": "لاتسيو",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/7801.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
-    "time": "17:30",
-    "dayText": "4 مايو 2026",
-    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "isLive": true,
-    "streamTitle": "كريمونيزي × لاتسيو",
-    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-    "streamType": "mp4"
-  },
-  {
-    "id": 3,
-    "leagueId": 55,
-    "leagueName": "الدوري الإيطالي",
-    "homeTeam": "روما",
-    "awayTeam": "فيورنتينا",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
-    "time": "19:45",
-    "dayText": "4 مايو 2026",
-    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
-    "isLive": true,
-    "streamTitle": "روما × فيورنتينا",
-    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-    "streamType": "mp4"
-  },
-  {
-    "id": 4,
-    "leagueId": 87,
-    "leagueName": "الدوري الإسباني",
-    "homeTeam": "إشبيلية",
-    "awayTeam": "ريال سوسيداد",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
-    "time": "20:00",
-    "dayText": "4 مايو 2026",
-    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
-    "isLive": true,
-    "streamTitle": "إشبيلية × ريال سوسيداد",
-    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-    "streamType": "mp4"
-  },
-  {
-    "id": 5,
-    "leagueId": 47,
-    "leagueName": "الدوري الإنجليزي الممتاز",
-    "homeTeam": "إيفرتون",
-    "awayTeam": "مانشستر سيتي",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-    "time": "20:00",
-    "dayText": "4 مايو 2026",
-    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
-    "isLive": true,
-    "streamTitle": "إيفرتون × مانشستر سيتي",
-    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-    "streamType": "mp4"
-  },
-  {
-    "id": 6,
-    "leagueId": 530,
-    "leagueName": "البطولة المغربية الاحترافية",
-    "homeTeam": "يعقوب المنصور",
-    "awayTeam": "نهضة بركان",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/1786714.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/316652.png",
-    "time": "19:00",
-    "dayText": "4 مايو 2026",
-    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/530.png",
-    "isLive": true,
-    "streamTitle": "يعقوب المنصور × نهضة بركان",
-    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-    "streamType": "mp4"
-  },
-  {
-    "id": 7,
-    "leagueId": 64,
-    "leagueName": "الدوري الاسكتلندي",
-    "homeTeam": "هارتس",
-    "awayTeam": "رينجرز",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8548.png",
-    "time": "20:45",
-    "dayText": "4 مايو 2026",
-    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/64.png",
-    "isLive": true,
-    "streamTitle": "هارتس × رينجرز",
-    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-    "streamType": "mp4"
-  },
-  {
-    "id": 8,
-    "leagueId": 59,
-    "leagueName": "الدوري النرويجي",
-    "homeTeam": "بودو/غليمت",
-    "awayTeam": "مولده",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8398.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9938.png",
-    "time": "18:00",
-    "dayText": "4 مايو 2026",
-    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/59.png",
-    "isLive": true,
-    "streamTitle": "بودو/غليمت × مولده",
-    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-    "streamType": "mp4"
-  },
-  {
-    "id": 9,
-    "leagueId": 40,
-    "leagueName": "الدوري الدنماركي",
-    "homeTeam": "ميتيلاند",
-    "awayTeam": "فيبورغ",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8113.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/8412.png",
-    "time": "18:00",
-    "dayText": "4 مايو 2026",
-    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/40.png",
-    "isLive": true,
-    "streamTitle": "ميتيلاند × فيبورغ",
-    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-    "streamType": "mp4"
-  },
-  {
-    "id": 10,
-    "leagueId": 182,
-    "leagueName": "الدوري الروماني",
-    "homeTeam": "رابيد بوخارست",
-    "awayTeam": "كلوج",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9738.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9731.png",
-    "time": "18:30",
-    "dayText": "4 مايو 2026",
-    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/182.png",
-    "isLive": true,
-    "streamTitle": "رابيد بوخارست × كلوج",
-    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-    "streamType": "mp4"
-  }
+{
+  "id": 1,
+  "leagueId": 1,
+  "leagueName": "دوري أبطال أوروبا",
+  "homeTeam": "Arsenal",
+  "awayTeam": "Atletico Madrid",
+  "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+  "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
+  "time": "20:00",
+  "dayText": "5 مايو 2026",
+  "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+  "isLive": true,
+  "streamTitle": "Arsenal × Atletico Madrid",
+  "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+  "streamType": "mp4"
+}
 ],
 
   "highlights": [
