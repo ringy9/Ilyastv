@@ -1,91 +1,177 @@
 {
-  "categories": [
+  "app": {
+    "name": "Tag Kora",
+    "version": "1.0",
+    "privacy_policy": "https://example.com/privacy",
+    "share_text": "Watch live football with Tag Kora! Download now from Play Store.",
+    "rate_url": "https://play.google.com/store/apps/details?id=com.sportslive.app",
+    "more_apps_url": "https://play.google.com/store/apps/dev?id=YOUR_DEV_ID"
+  },
+  "home_banners": [
     {
-      "id": "sports",
-      "title": "SPORTS CHANNELS",
-      "channels": [
+      "title": "⚽ Live Football Streaming",
+      "image": "",
+      "action": "live"
+    },
+    {
+      "title": "🏆 Champions League",
+      "image": "",
+      "action": "live"
+    }
+  ],
+  "matches": [
+    {
+      "id": "1",
+      "team1": "Real Madrid",
+      "team2": "Barcelona",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/200px-Real_Madrid_CF.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/200px-FC_Barcelona_%28crest%29.svg.png",
+      "league": "La Liga",
+      "time": "21:00",
+      "date": "2026-05-05",
+      "status": "live",
+      "servers": [
         {
-          "id": "bein1",
-          "title": "beIN SPORTS 1",
-          "image": "https://example.com/images/bein1.png",
-          "url": "https://example.com/live/bein1.m3u8",
-          "type": "m3u8"
+          "name": "Server 1 (HLS)",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls"
         },
         {
-          "id": "bein2",
-          "title": "beIN SPORTS 2",
-          "image": "https://example.com/images/bein2.png",
-          "url": "https://example.com/live/bein2.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "id": "ssc1",
-          "title": "SSC SPORT 1",
-          "image": "https://example.com/images/ssc1.png",
-          "url": "https://example.com/live/ssc1.m3u8",
-          "type": "m3u8"
+          "name": "Server 2 (MP4)",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "type": "mp4"
         }
       ]
     },
     {
-      "id": "news",
-      "title": "NEWS CHANNELS",
-      "channels": [
+      "id": "2",
+      "team1": "Manchester City",
+      "team2": "Liverpool",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/200px-Manchester_City_FC_badge.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/200px-Liverpool_FC.svg.png",
+      "league": "Premier League",
+      "time": "18:30",
+      "date": "2026-05-05",
+      "status": "live",
+      "servers": [
         {
-          "id": "france24",
-          "title": "France 24",
-          "image": "https://example.com/images/france24.png",
-          "url": "https://example.com/live/france24.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "id": "aljazeera",
-          "title": "Al Jazeera",
-          "image": "https://example.com/images/aljazeera.png",
-          "url": "https://example.com/live/aljazeera.m3u8",
-          "type": "m3u8"
+          "name": "Server 1",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls"
         }
       ]
     },
     {
-      "id": "movies",
-      "title": "MOVIES CHANNELS",
-      "channels": [
+      "id": "3",
+      "team1": "Al-Hilal",
+      "team2": "Al-Sadd SC",
+      "team1_logo": "",
+      "team2_logo": "",
+      "league": "AFC Champions League",
+      "time": "20:00",
+      "date": "2026-05-06",
+      "status": "upcoming",
+      "servers": [
         {
-          "id": "movie1",
-          "title": "Movie Channel 1",
-          "image": "https://example.com/images/movie1.png",
-          "url": "https://example.com/live/movie1.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "id": "movie2",
-          "title": "Movie Channel 2",
-          "image": "https://example.com/images/movie2.png",
-          "url": "https://example.com/live/movie2.m3u8",
-          "type": "m3u8"
+          "name": "Server 1",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls"
         }
       ]
     },
     {
-      "id": "kids",
-      "title": "KIDS CHANNELS",
-      "channels": [
+      "id": "4",
+      "team1": "Juventus",
+      "team2": "AC Milan",
+      "team1_logo": "",
+      "team2_logo": "",
+      "league": "Serie A",
+      "time": "20:45",
+      "date": "2026-05-06",
+      "status": "upcoming",
+      "servers": [
         {
-          "id": "kids1",
-          "title": "Kids Channel 1",
-          "image": "https://example.com/images/kids1.png",
-          "url": "https://example.com/live/kids1.m3u8",
-          "type": "m3u8"
-        },
-        {
-          "id": "kids2",
-          "title": "Kids Channel 2",
-          "image": "https://example.com/images/kids2.png",
-          "url": "https://example.com/live/kids2.m3u8",
-          "type": "m3u8"
+          "name": "Server 1",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "type": "mp4"
         }
       ]
     }
-  ]
+  ],
+  "channels": [
+    {
+      "id": "bein1",
+      "name": "beIN Sports 1",
+      "logo": "",
+      "category": "Sports",
+      "servers": [
+        {
+          "name": "HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls"
+        },
+        {
+          "name": "SD",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "type": "mp4"
+        }
+      ]
+    },
+    {
+      "id": "bein2",
+      "name": "beIN Sports 2",
+      "logo": "",
+      "category": "Sports",
+      "servers": [
+        {
+          "name": "HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls"
+        }
+      ]
+    },
+    {
+      "id": "ssc1",
+      "name": "SSC Sports 1",
+      "logo": "",
+      "category": "Sports",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "type": "mp4"
+        }
+      ]
+    },
+    {
+      "id": "skysports",
+      "name": "Sky Sports Premier League",
+      "logo": "",
+      "category": "Sports",
+      "servers": [
+        {
+          "name": "Server 1",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "sports",
+      "name": "Sports",
+      "icon": "sports_soccer"
+    },
+    {
+      "id": "news",
+      "name": "News",
+      "icon": "article"
+    }
+  ],
+  "ads": {
+    "enabled": false,
+    "banner": "",
+    "interstitial": ""
+  }
 }
