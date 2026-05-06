@@ -52,30 +52,107 @@
 
 "leagues": [
 
-    {
-      "id": 1,
-      "name": "Champions League",
-      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png"
-    }
+  {
+    "id": 1,
+    "name": "دوري أبطال أوروبا",
+    "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png"
+  },
+  {
+    "id": 2,
+    "name": "الدوري السعودي",
+    "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/536.png"
+  },
+  {
+    "id": 3,
+    "name": "الدوري المغربي",
+    "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/530.png"
+  }
+
 ],
 
   "matches":[
-{
-  "id": 1,
-  "leagueId": 1,
-  "leagueName": "دوري أبطال أوروبا",
-  "homeTeam": "Arsenal",
-  "awayTeam": "Atletico Madrid",
-  "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-  "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
-  "time": "20:00",
-  "dayText": "5 مايو 2026",
-  "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
-  "isLive": true,
-  "streamTitle": "Arsenal × Atletico Madrid",
-  "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-  "streamType": "mp4"
-}
+
+  {
+    "id": 1,
+    "leagueId": 1,
+    "leagueName": "دوري أبطال أوروبا",
+    "homeTeam": "Bayern Munich",
+    "awayTeam": "PSG",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+    "time": "20:00",
+    "dayText": "6 مايو 2026",
+    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
+    "isLive": true,
+    "streamTitle": "Bayern Munich × PSG",
+    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+    "streamType": "mp4"
+  },
+  {
+    "id": 2,
+    "leagueId": 2,
+    "leagueName": "الدوري السعودي",
+    "homeTeam": "Al Ahli",
+    "awayTeam": "Al Fateh FC",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/2530.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/177356.png",
+    "time": "19:00",
+    "dayText": "6 مايو 2026",
+    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/10472.png",
+    "isLive": false,
+    "streamTitle": "Al Ahli × Al Fateh FC",
+    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+    "streamType": "mp4"
+  },
+  {
+    "id": 3,
+    "leagueId": 3,
+    "leagueName": "الدوري المغربي",
+    "homeTeam": "FUS Rabat",
+    "awayTeam": "Ittihad Tanger",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9952.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9949.png",
+    "time": "17:00",
+    "dayText": "6 مايو 2026",
+    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/503.png",
+    "isLive": false,
+    "streamTitle": "FUS Rabat × Ittihad Tanger",
+    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+    "streamType": "mp4"
+  },
+  {
+    "id": 4,
+    "leagueId": 3,
+    "leagueName": "الدوري المغربي",
+    "homeTeam": "Wydad Casablanca",
+    "awayTeam": "CODM Meknes",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9948.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/110093.png",
+    "time": "19:00",
+    "dayText": "6 مايو 2026",
+    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/503.png",
+    "isLive": false,
+    "streamTitle": "Wydad Casablanca × CODM Meknes",
+    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+    "streamType": "mp4"
+  },
+  {
+    "id": 5,
+    "leagueId": 3,
+    "leagueName": "الدوري المغربي",
+    "homeTeam": "MAS Fes",
+    "awayTeam": "Raja Casablanca",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9950.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9947.png",
+    "time": "21:00",
+    "dayText": "6 مايو 2026",
+    "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/503.png",
+    "isLive": false,
+    "streamTitle": "MAS Fes × Raja Casablanca",
+    "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+    "streamType": "mp4"
+  }
+
 ],
 
   "highlights": [
