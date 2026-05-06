@@ -1,7 +1,9 @@
 {
   "app": {
-    "name": "Tag Kora",
-    "logo": "https://github.com/ringy9/BEIN/blob/main/yacinetvlogo.webp?raw=true"
+    "name": "Sports Live",
+    "name_ar": "سبورتس لايف",
+    "logo": "https://i.imgur.com/YbF6qSw.png",
+    "slogan": "بث مباشر للمباريات"
   },
   "ads": [
     {
@@ -11,22 +13,66 @@
       "url": "https://example.com"
     }
   ],
+  "categories": [
+    {
+      "id": "egypt_league",
+      "name": "الدوري المصري",
+      "league": "Egypt League",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Egyptian_Premier_League_logo.png/200px-Egyptian_Premier_League_logo.png",
+      "match_count": 3
+    },
+    {
+      "id": "saudi_league",
+      "name": "الدوري السعودي",
+      "league": "Saudi League",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Saudi_Pro_League_Logo.svg/200px-Saudi_Pro_League_Logo.svg.png",
+      "match_count": 2
+    },
+    {
+      "id": "champions_league",
+      "name": "دوري أبطال أوروبا",
+      "league": "Champions League",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2024.svg/200px-UEFA_Champions_League_logo_2024.svg.png",
+      "match_count": 2
+    },
+    {
+      "id": "premier_league",
+      "name": "الدوري الإنجليزي",
+      "league": "Premier League",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/200px-Premier_League_Logo.svg.png",
+      "match_count": 2
+    },
+    {
+      "id": "la_liga",
+      "name": "الدوري الإسباني",
+      "league": "La Liga",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/200px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",
+      "match_count": 1
+    },
+    {
+      "id": "serie_a",
+      "name": "الدوري الإيطالي",
+      "league": "Serie A",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/200px-Serie_A_logo_%282019%29.svg.png",
+      "match_count": 1
+    }
+  ],
   "matches": [
     {
       "id": "1",
-      "team1": "Al Ahly FC",
-      "team2": "Enppi SC",
+      "team1": "الأهلي",
+      "team2": "إنبي",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Al_Ahly_SC_logo.svg/200px-Al_Ahly_SC_logo.svg.png",
       "team2_logo": "https://upload.wikimedia.org/wikipedia/en/1/19/ENPPI_Club_logo.png",
       "league": "Egypt League",
-      "date": "May 05, 2026",
-      "time": "01:32",
+      "date": "May 06, 2026",
+      "time": "09:00 PM",
       "status": "live",
       "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
       "ad_id": "ad1",
       "servers": [
         {
-          "name": "Server 1 HD",
+          "name": "سيرفر 1 HD",
           "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
           "type": "hls",
           "user_agent": "",
@@ -34,7 +80,7 @@
           "origin": ""
         },
         {
-          "name": "Server 2 (MP4)",
+          "name": "سيرفر 2 (MP4)",
           "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
           "type": "mp4",
           "user_agent": "",
@@ -45,19 +91,19 @@
     },
     {
       "id": "2",
-      "team1": "Zamalek SC",
-      "team2": "Smouha SC",
+      "team1": "الزمالك",
+      "team2": "سموحة",
       "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Zamalek_SC_logo.svg/200px-Zamalek_SC_logo.svg.png",
       "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Smouha_SC_logo.svg/200px-Smouha_SC_logo.svg.png",
       "league": "Egypt League",
-      "date": "May 05, 2026",
-      "time": "02:00",
+      "date": "May 06, 2026",
+      "time": "07:00 PM",
       "status": "live",
       "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
       "ad_id": "ad1",
       "servers": [
         {
-          "name": "Server 1 HD",
+          "name": "سيرفر 1 HD",
           "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
           "type": "hls",
           "user_agent": "",
@@ -68,19 +114,19 @@
     },
     {
       "id": "3",
-      "team1": "Al-Hilal",
-      "team2": "Al-Khaleej FC",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Al-Hilal_FC_logo.svg/200px-Al-Hilal_FC_logo.svg.png",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Al-Khaleej_Club_logo.svg/200px-Al-Khaleej_Club_logo.svg.png",
-      "league": "Saudi League",
-      "date": "May 05, 2026",
-      "time": "07:00 PM",
+      "team1": "بيراميدز",
+      "team2": "المصري",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Pyramids_FC_%28logo%29.svg/200px-Pyramids_FC_%28logo%29.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Al_Masry_SC_logo.svg/200px-Al_Masry_SC_logo.svg.png",
+      "league": "Egypt League",
+      "date": "May 07, 2026",
+      "time": "05:00 PM",
       "status": "upcoming",
       "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
       "ad_id": "ad1",
       "servers": [
         {
-          "name": "Server 1 HD",
+          "name": "سيرفر 1 HD",
           "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
           "type": "hls",
           "user_agent": "",
@@ -91,19 +137,196 @@
     },
     {
       "id": "4",
-      "team1": "Arsenal FC",
-      "team2": "Atlético de Madrid",
-      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/200px-Arsenal_FC.svg.png",
-      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Atletico_Madrid_2017_logo.svg/200px-Atletico_Madrid_2017_logo.svg.png",
-      "league": "Champions League",
-      "date": "May 05, 2026",
-      "time": "08:00 PM",
+      "team1": "الهلال",
+      "team2": "الخليج",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Al-Hilal_FC_logo.svg/200px-Al-Hilal_FC_logo.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Al-Khaleej_Club_logo.svg/200px-Al-Khaleej_Club_logo.svg.png",
+      "league": "Saudi League",
+      "date": "May 06, 2026",
+      "time": "08:30 PM",
+      "status": "live",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "team1": "النصر",
+      "team2": "الاتحاد",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Al-Nassr_FC_Logo.svg/200px-Al-Nassr_FC_Logo.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Al-Ittihad_Club_Logo.svg/200px-Al-Ittihad_Club_Logo.svg.png",
+      "league": "Saudi League",
+      "date": "May 07, 2026",
+      "time": "09:00 PM",
       "status": "upcoming",
       "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
       "ad_id": "ad1",
       "servers": [
         {
-          "name": "Server 1 HD",
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        },
+        {
+          "name": "سيرفر 2 SD",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "type": "mp4",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "team1": "أرسنال",
+      "team2": "أتلتيكو مدريد",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/200px-Arsenal_FC.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Atletico_Madrid_2017_logo.svg/200px-Atletico_Madrid_2017_logo.svg.png",
+      "league": "Champions League",
+      "date": "May 07, 2026",
+      "time": "10:00 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "team1": "بايرن ميونخ",
+      "team2": "إنتر ميلان",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/200px-FC_Internazionale_Milano_2021.svg.png",
+      "league": "Champions League",
+      "date": "May 07, 2026",
+      "time": "10:00 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "team1": "ليفربول",
+      "team2": "مانشستر سيتي",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/200px-Liverpool_FC.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/200px-Manchester_City_FC_badge.svg.png",
+      "league": "Premier League",
+      "date": "May 06, 2026",
+      "time": "04:30 PM",
+      "status": "finished",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "team1": "تشيلسي",
+      "team2": "توتنهام",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/200px-Chelsea_FC.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/200px-Tottenham_Hotspur.svg.png",
+      "league": "Premier League",
+      "date": "May 08, 2026",
+      "time": "07:00 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "team1": "ريال مدريد",
+      "team2": "برشلونة",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/200px-Real_Madrid_CF.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/200px-FC_Barcelona_%28crest%29.svg.png",
+      "league": "La Liga",
+      "date": "May 08, 2026",
+      "time": "10:00 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        },
+        {
+          "name": "سيرفر 2 (MP4)",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "type": "mp4",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "team1": "يوفنتوس",
+      "team2": "ميلان",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Juventus_FC_-_pictogram.svg/200px-Juventus_FC_-_pictogram.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/200px-Logo_of_AC_Milan.svg.png",
+      "league": "Serie A",
+      "date": "May 09, 2026",
+      "time": "09:45 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
           "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
           "type": "hls",
           "user_agent": "",
@@ -116,27 +339,24 @@
   "highlights": [
     {
       "id": "h1",
-      "title": "شرح طريقة مشاهدة مباريات عبر بلاير",
-      "date": "Nov 25, 2025",
+      "title": "ملخص مباراة الأهلي وبيراميدز 3-1 | أهداف نارية",
+      "date": "May 05, 2026",
       "image": "https://i.imgur.com/8QqZfGJ.png",
       "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    }
-  ],
-  "categories": [
-    {
-      "id": "matches",
-      "name": "Matches",
-      "image": ""
     },
     {
-      "id": "highlights",
-      "name": "Highlights",
-      "image": ""
+      "id": "h2",
+      "title": "أهداف ريال مدريد ومانشستر سيتي 2-2 | مباراة مجنونة",
+      "date": "May 04, 2026",
+      "image": "https://i.imgur.com/5iFqWEg.jpg",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
-      "id": "news",
-      "name": "News",
-      "image": ""
+      "id": "h3",
+      "title": "شرح طريقة مشاهدة المباريات عبر التطبيق",
+      "date": "May 03, 2026",
+      "image": "https://i.imgur.com/8QqZfGJ.png",
+      "video_url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     }
   ],
   "news": [
@@ -144,22 +364,49 @@
       "id": "n1",
       "title": "حرب كلامية تشتعل.. بيان من مبابي ضد جماهير ريال مدريد",
       "image": "https://i.imgur.com/5iFqWEg.jpg",
-      "time_ago": "1 hours ago",
-      "url": "https://example.com/news1"
+      "time_ago": "منذ ساعة",
+      "url": "https://example.com/news1",
+      "content": "أصدر النجم الفرنسي كيليان مبابي بياناً رسمياً عبر حساباته على مواقع التواصل الاجتماعي، رداً على الانتقادات التي تعرض لها من جماهير ريال مدريد خلال الفترة الأخيرة. وأكد مبابي في بيانه أنه يحترم الجماهير لكنه لن يقبل بالإهانة."
     },
     {
       "id": "n2",
       "title": "مسافة قياسية وتحديات جديدة.. الكشف عن مسار رالي داكار السعودية 2027",
       "image": "https://i.imgur.com/8QqZfGJ.png",
-      "time_ago": "1 hours ago",
-      "url": "https://example.com/news2"
+      "time_ago": "منذ ساعتين",
+      "url": "https://example.com/news2",
+      "content": "كشف المنظمون عن المسار الجديد لرالي داكار السعودية 2027 والذي سيتضمن مسافة قياسية تتجاوز 8000 كيلومتر عبر صحاري المملكة. يتضمن المسار تحديات جديدة تشمل الكثبان الرملية العالية والمناطق الصخرية الوعرة."
     },
     {
       "id": "n3",
-      "title": "نتائج مباريات اليوم في الدوري الإنجليزي",
+      "title": "نتائج مباريات اليوم في الدوري الإنجليزي الممتاز",
       "image": "https://i.imgur.com/5iFqWEg.jpg",
-      "time_ago": "1 hours ago",
-      "url": "https://example.com/news3"
+      "time_ago": "منذ 3 ساعات",
+      "url": "https://example.com/news3",
+      "content": "شهد الدوري الإنجليزي الممتاز اليوم عدة مباريات مثيرة، حيث حقق ليفربول فوزاً كبيراً على مانشستر سيتي، بينما تعادل أرسنال مع تشيلسي في مباراة حماسية شهدت 4 أهداف."
+    },
+    {
+      "id": "n4",
+      "title": "محمد صلاح يحطم رقماً قياسياً جديداً في الدوري الإنجليزي",
+      "image": "https://i.imgur.com/8QqZfGJ.png",
+      "time_ago": "منذ 4 ساعات",
+      "url": "https://example.com/news4",
+      "content": "حطم النجم المصري محمد صلاح رقماً قياسياً جديداً في الدوري الإنجليزي الممتاز بتسجيله الهدف رقم 160 ليصبح أكثر لاعب أفريقي تسجيلاً في تاريخ البطولة. جاء الهدف في المباراة أمام مانشستر سيتي."
+    },
+    {
+      "id": "n5",
+      "title": "رسمياً.. الاتحاد السعودي يعلن موعد انطلاق الموسم الجديد",
+      "image": "https://i.imgur.com/5iFqWEg.jpg",
+      "time_ago": "منذ 5 ساعات",
+      "url": "https://example.com/news5",
+      "content": "أعلن الاتحاد السعودي لكرة القدم رسمياً عن موعد انطلاق الموسم الجديد من دوري روشن السعودي للمحترفين، حيث ستنطلق المباريات في أغسطس 2026 بمشاركة 18 فريقاً."
+    },
+    {
+      "id": "n6",
+      "title": "الأهلي المصري يقترب من ضم صفقة القرن في الميركاتو الصيفي",
+      "image": "https://i.imgur.com/8QqZfGJ.png",
+      "time_ago": "منذ 6 ساعات",
+      "url": "https://example.com/news6",
+      "content": "كشفت مصادر مقربة من إدارة النادي الأهلي المصري عن اقتراب الفريق من إتمام صفقة ضخمة خلال فترة الانتقالات الصيفية. الصفقة تعتبر الأكبر في تاريخ الكرة المصرية."
     }
   ]
 }
