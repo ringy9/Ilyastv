@@ -18,42 +18,42 @@
       "id": "1",
       "name": "الدوري المصري",
       "league": "Egypt League",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Egyptian_Premier_League_logo.png/200px-Egyptian_Premier_League_logo.png",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/519.png",
       "match_count": 3
     },
     {
       "id": "saudi_league",
       "name": "الدوري السعودي",
       "league": "Saudi League",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Saudi_Pro_League_Logo.svg/200px-Saudi_Pro_League_Logo.svg.png",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/536.png",
       "match_count": 2
     },
     {
       "id": "champions_league",
       "name": "دوري أبطال أوروبا",
       "league": "Champions League",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2024.svg/200px-UEFA_Champions_League_logo_2024.svg.png",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/42.png",
       "match_count": 2
     },
     {
       "id": "premier_league",
       "name": "الدوري الإنجليزي",
       "league": "Premier League",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/200px-Premier_League_Logo.svg.png",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/47.png",
       "match_count": 2
     },
     {
       "id": "la_liga",
       "name": "الدوري الإسباني",
       "league": "La Liga",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/200px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/87.png",
       "match_count": 1
     },
     {
       "id": "serie_a",
       "name": "الدوري الإيطالي",
       "league": "Serie A",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Serie_A_logo_%282019%29.svg/200px-Serie_A_logo_%282019%29.svg.png",
+      "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/55.png",
       "match_count": 1
     }
   ],
