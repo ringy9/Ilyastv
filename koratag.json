@@ -262,7 +262,7 @@
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "admob",
+        "network": "meta",
         "show_on": [
           "matches",
           "categories",
@@ -275,7 +275,7 @@
 
       "interstitial": {
         "enabled": true,
-        "network": "admob",
+        "network": "meta",
         "first_click": true,
         "show_every_clicks": 2,
         "min_seconds_between_ads": 10,
@@ -289,7 +289,7 @@
 
       "native": {
         "enabled": true,
-        "network": "admob",
+        "network": "meta",
         "player_preview": {
           "enabled": true,
           "position": "below_preview_image"
