@@ -277,8 +277,8 @@
         "enabled": true,
         "network": "admob",
         "first_click": true,
-        "show_every_clicks": 3,
-        "min_seconds_between_ads": 20,
+        "show_every_clicks": 2,
+        "min_seconds_between_ads": 10,
         "show_on_clicks": [
           "match_click",
           "highlight_click",
@@ -308,7 +308,7 @@
         "enabled": true,
         "network": "admob",
         "show_on_app_start": true,
-        "min_seconds_between_ads": 60
+        "min_seconds_between_ads": 2
       }
     }
   }
