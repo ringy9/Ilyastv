@@ -223,5 +223,94 @@
       "url": "https://example.com/news6",
       "content": "كشفت مصادر مقربة من إدارة النادي الأهلي المصري عن اقتراب الفريق من إتمام صفقة ضخمة خلال فترة الانتقالات الصيفية. الصفقة تعتبر الأكبر في تاريخ الكرة المصرية."
     }
-  ]
+  ],
+  "ads_config": {
+    "enabled": true,
+    "default_network": "admob",
+
+    "admob": {
+      "enabled": true,
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "native_id": "ca-app-pub-3940256099942544/2247696110",
+      "app_open_id": "ca-app-pub-3940256099942544/9257395921"
+    },
+
+    "max": {
+      "enabled": false,
+      "sdk_key": "YOUR_MAX_SDK_KEY",
+      "banner_id": "YOUR_MAX_BANNER_ID",
+      "interstitial_id": "YOUR_MAX_INTERSTITIAL_ID",
+      "native_id": "YOUR_MAX_NATIVE_ID"
+    },
+
+    "ironsource": {
+      "enabled": false,
+      "app_key": "YOUR_IRONSOURCE_APP_KEY",
+      "banner_enabled": true,
+      "interstitial_enabled": true
+    },
+
+    "meta": {
+      "enabled": false,
+      "placement_banner": "YOUR_META_BANNER_ID",
+      "placement_interstitial": "YOUR_META_INTERSTITIAL_ID",
+      "placement_native": "YOUR_META_NATIVE_ID"
+    },
+
+    "placements": {
+      "banner": {
+        "enabled": true,
+        "network": "admob",
+        "show_on": [
+          "matches",
+          "categories",
+          "highlights",
+          "news",
+          "settings"
+        ],
+        "position": "bottom"
+      },
+
+      "interstitial": {
+        "enabled": true,
+        "network": "admob",
+        "first_click": true,
+        "show_every_clicks": 3,
+        "min_seconds_between_ads": 60,
+        "show_on_clicks": [
+          "match_click",
+          "highlight_click",
+          "news_click",
+          "category_click"
+        ]
+      },
+
+      "native": {
+        "enabled": true,
+        "network": "admob",
+        "player_preview": {
+          "enabled": true,
+          "position": "below_preview_image"
+        },
+        "news_details": {
+          "enabled": true,
+          "position": "middle_of_article"
+        },
+        "categories": {
+          "enabled": true,
+          "insert_after_every": 4
+        }
+      },
+
+      "app_open": {
+        "enabled": true,
+        "network": "admob",
+        "show_on_app_start": true,
+        "min_seconds_between_ads": 300
+      }
+    }
+  }
 }
+      
