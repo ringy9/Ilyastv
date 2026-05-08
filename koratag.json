@@ -227,16 +227,16 @@
   
   "update": {
     "enabled": true,
-    "force_update": false,
+    "force_update": true,
     "latest_version_code": 2,
     "latest_version_name": "2.0",
     "title": "تحديث جديد متاح!",
     "message": "يتوفر إصدار جديد من التطبيق يحتوي على تحسينات في الأداء وميزات جديدة. قم بالتحديث الآن للحصول على أفضل تجربة.",
-    "icon": "",
+    "icon": "https://github.com/ringy9/BEIN/blob/main/yacinetvlogo.webp?raw=true",
     "update_button_text": "تحديث الآن",
     "later_button_text": "لاحقاً",
     "update_url": "https://play.google.com/store/apps/details?id=com.sportslive.app",
-    "show_every_launch": false
+    "show_every_launch": true
   },
   "ads_config": {
     "enabled": true,
