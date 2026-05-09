@@ -273,16 +273,7 @@
       "native_id": "YOUR_MAX_NATIVE_ID"
     },
 
-    "ironsource": {
-      "enabled": false,
-      "app_key": "264ce813d",
-      "banner_enabled": true,
-      "interstitial_enabled": true,
-      "rewarded_enabled": true,
-      "banner_ad_unit_id": "12koc6mzc816f9nd",
-      "interstitial_ad_unit_id": "kmmof90rk2irgz0n",
-      "rewarded_ad_unit_id": "6dnuhpqy23fbjsr0"
-    },
+
 
     "meta": {
       "enabled": false,
