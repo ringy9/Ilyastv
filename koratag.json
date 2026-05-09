@@ -253,7 +253,7 @@
 
   "ads_config": {
     "enabled": true,
-    "default_network": "ironsource",
+    "default_network": "levelplay",
     "fallback_network": "admob",
 
     "admob": {
@@ -305,7 +305,7 @@
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "ironsource",
+        "network": "levelplay",
         "fallback_network": "meta",
         "show_on": [
           "matches",
@@ -319,7 +319,7 @@
 
       "interstitial": {
         "enabled": true,
-        "network": "ironsource",
+        "network": "levelplay",
         "fallback_network": "meta",
         "first_click": true,
         "show_every_clicks": 1,
