@@ -78,8 +78,8 @@
     "leagueName": "Morocco - Botola Pro",
     "homeTeam": "Raja Casablanca",
     "awayTeam": "Wydad Casablanca",
-    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102105.png",
-    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102051.png",
+    "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102049.png",
+    "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102050.png",
     "time": "20:00",
     "dayText": "9 مايو 2026",
     "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/530.png",
@@ -88,14 +88,14 @@
     "streamUrl": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
     "streamType": "mp4"
   },
-    {
+{
   "id": 16,
   "leagueId": 929,
   "leagueName": "CAF Confederation Cup Final",
   "homeTeam": "USM Alger",
   "awayTeam": "Zamalek SC",
-  "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/9839.png",
-  "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/102011.png",
+  "homeLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/101628.png",
+  "awayLogo": "https://images.fotmob.com/image_resources/logo/teamlogo/80591.png",
   "time": "20:00",
   "dayText": "9 مايو 2026",
   "thumbnail": "https://images.fotmob.com/image_resources/logo/leaguelogo/929.png",
