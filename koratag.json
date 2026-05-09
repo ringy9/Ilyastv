@@ -272,7 +272,16 @@
       "interstitial_id": "YOUR_MAX_INTERSTITIAL_ID",
       "native_id": "YOUR_MAX_NATIVE_ID"
     },
-
+"ironsource": {
+  "enabled": true,
+  "app_key": "264ce813d",
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "rewarded_enabled": true,
+  "banner_ad_unit_id": "12koc6mzc816f9nd",
+  "interstitial_ad_unit_id": "kmmof90rk2irgz0n",
+  "rewarded_ad_unit_id": "6dnuhpqy23fbjsr0"
+},
 
 
     "meta": {
@@ -284,13 +293,13 @@
 
 "levelplay": {
   "enabled": true,
-  "app_key": "264ce813d",
+  "app_key": "6110893",
   "banner_enabled": true,
   "interstitial_enabled": true,
   "rewarded_enabled": true,
-  "banner_ad_unit_id": "12koc6mzc816f9nd",
-  "interstitial_ad_unit_id": "kmmof90rk2irgz0n",
-  "rewarded_ad_unit_id": "6dnuhpqy23fbjsr0"
+  "banner_ad_unit_id": "Banner_Android",
+  "interstitial_ad_unit_id": "Interstitial_Android",
+  "rewarded_ad_unit_id": "Rewarded_Android"
 },
 
     "placements": {
