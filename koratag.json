@@ -254,7 +254,7 @@
   "ads_config": {
     "enabled": true,
     "default_network": "ironsource",
-    "fallback_network": "admob",
+    "fallback_network": "levelplay",
 
     "admob": {
       "enabled": false,
@@ -292,14 +292,14 @@
     },
 
     "levelplay": {
-      "enabled": false,
-      "app_key": "YOUR_LEVELPLAY_APP_KEY",
+      "enabled": true,
+      "app_key": "6110893",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true,
-      "banner_ad_unit_id": "YOUR_LP_BANNER_AD_UNIT_ID",
-      "interstitial_ad_unit_id": "YOUR_LP_INTERSTITIAL_AD_UNIT_ID",
-      "rewarded_ad_unit_id": "YOUR_LP_REWARDED_AD_UNIT_ID"
+      "banner_ad_unit_id": "Banner_Android",
+      "interstitial_ad_unit_id": "Interstitial_Android",
+      "rewarded_ad_unit_id": "Rewarded_Android"
     },
 
     "placements": {
