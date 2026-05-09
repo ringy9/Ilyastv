@@ -238,9 +238,23 @@
     "update_url": "https://play.google.com/store/apps/details?id=com.sportslive.app",
     "show_every_launch": true
   },
+
+  "exit_dialog": {
+    "enabled": true,
+    "title": "هل تريد الخروج؟",
+    "message": "هل أنت متأكد أنك تريد إغلاق التطبيق؟",
+    "icon": "",
+    "exit_button_text": "خروج",
+    "cancel_button_text": "إلغاء",
+    "show_native_ad": true,
+    "native_ad_network": "admob",
+    "native_ad_fallback_network": "meta"
+  },
+
   "ads_config": {
     "enabled": true,
-    "default_network": "meta",
+    "default_network": "ironsource",
+    "fallback_network": "admob",
 
     "admob": {
       "enabled": true,
@@ -263,20 +277,36 @@
       "enabled": false,
       "app_key": "YOUR_IRONSOURCE_APP_KEY",
       "banner_enabled": true,
-      "interstitial_enabled": true
+      "interstitial_enabled": true,
+      "rewarded_enabled": true,
+      "banner_ad_unit_id": "YOUR_IS_BANNER_AD_UNIT_ID",
+      "interstitial_ad_unit_id": "YOUR_IS_INTERSTITIAL_AD_UNIT_ID",
+      "rewarded_ad_unit_id": "YOUR_IS_REWARDED_AD_UNIT_ID"
     },
 
     "meta": {
       "enabled": false,
-      "placement_banner": "1910510369664883_1910510936331493",
-      "placement_interstitial": "1910510369664883_1910511072998146",
-      "placement_native": "1910510369664883_1910511499664770"
+      "placement_banner": "YOUR_META_BANNER_ID",
+      "placement_interstitial": "YOUR_META_INTERSTITIAL_ID",
+      "placement_native": "YOUR_META_NATIVE_ID"
+    },
+
+    "levelplay": {
+      "enabled": false,
+      "app_key": "YOUR_LEVELPLAY_APP_KEY",
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "rewarded_enabled": true,
+      "banner_ad_unit_id": "YOUR_LP_BANNER_AD_UNIT_ID",
+      "interstitial_ad_unit_id": "YOUR_LP_INTERSTITIAL_AD_UNIT_ID",
+      "rewarded_ad_unit_id": "YOUR_LP_REWARDED_AD_UNIT_ID"
     },
 
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "meta",
+        "network": "admob",
+        "fallback_network": "meta",
         "show_on": [
           "matches",
           "categories",
@@ -289,10 +319,11 @@
 
       "interstitial": {
         "enabled": true,
-        "network": "meta",
+        "network": "admob",
+        "fallback_network": "meta",
         "first_click": true,
-        "show_every_clicks": 2,
-        "min_seconds_between_ads": 10,
+        "show_every_clicks": 3,
+        "min_seconds_between_ads": 60,
         "show_on_clicks": [
           "match_click",
           "highlight_click",
@@ -303,7 +334,8 @@
 
       "native": {
         "enabled": true,
-        "network": "meta",
+        "network": "admob",
+        "fallback_network": "meta",
         "player_preview": {
           "enabled": true,
           "position": "below_preview_image"
@@ -315,6 +347,11 @@
         "categories": {
           "enabled": true,
           "insert_after_every": 4
+        },
+        "exit_dialog": {
+          "enabled": true,
+          "network": "admob",
+          "fallback_network": "meta"
         }
       },
 
@@ -322,9 +359,8 @@
         "enabled": true,
         "network": "admob",
         "show_on_app_start": true,
-        "min_seconds_between_ads": 2
+        "min_seconds_between_ads": 300
       }
     }
   }
 }
-      
