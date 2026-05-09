@@ -257,7 +257,7 @@
     "fallback_network": "admob",
 
     "admob": {
-      "enabled": true,
+      "enabled": false,
       "app_id": "ca-app-pub-3940256099942544~3347511713",
       "banner_id": "ca-app-pub-3940256099942544/6300978111",
       "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
@@ -274,14 +274,14 @@
     },
 
     "ironsource": {
-      "enabled": false,
-      "app_key": "YOUR_IRONSOURCE_APP_KEY",
+      "enabled": true,
+      "app_key": "264ce813d",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true,
-      "banner_ad_unit_id": "YOUR_IS_BANNER_AD_UNIT_ID",
-      "interstitial_ad_unit_id": "YOUR_IS_INTERSTITIAL_AD_UNIT_ID",
-      "rewarded_ad_unit_id": "YOUR_IS_REWARDED_AD_UNIT_ID"
+      "banner_ad_unit_id": "12koc6mzc816f9nd",
+      "interstitial_ad_unit_id": "kmmof90rk2irgz0n",
+      "rewarded_ad_unit_id": "6dnuhpqy23fbjsr0"
     },
 
     "meta": {
@@ -305,7 +305,7 @@
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "admob",
+        "network": "ironsource",
         "fallback_network": "meta",
         "show_on": [
           "matches",
@@ -319,7 +319,7 @@
 
       "interstitial": {
         "enabled": true,
-        "network": "admob",
+        "network": "ironsource",
         "fallback_network": "meta",
         "first_click": true,
         "show_every_clicks": 3,
