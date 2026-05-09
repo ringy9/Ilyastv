@@ -322,8 +322,8 @@
         "network": "ironsource",
         "fallback_network": "meta",
         "first_click": true,
-        "show_every_clicks": 3,
-        "min_seconds_between_ads": 60,
+        "show_every_clicks": 1,
+        "min_seconds_between_ads": 20,
         "show_on_clicks": [
           "match_click",
           "highlight_click",
