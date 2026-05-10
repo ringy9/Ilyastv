@@ -1,10 +1,10 @@
 {
   "app": {
-    "name": "Sports Live",
+    "name": "Ilys Live",
     "name_ar": "سبورت لايف",
-    "logo": "https://github.com/ringy9/BEIN/blob/main/yacinetvlogo.webp?raw=true",
+    "logo": "https://i.imgur.com/YbF6qSw.png",
     "slogan": "بث مباشر للمباريات",
-    "onesignal_app_id": "6bd309ba-4295-4546-99d9-f0441e9ff652",
+    "onesignal_app_id": "6bd309ba-4295-4546-99d9-f0441e9ff652"
   },
   "ads": [
     {
