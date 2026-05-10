@@ -319,7 +319,7 @@
         "fallback_network": "admob",
 
         "first_click": true,
-        "show_every_clicks": 1,
+        "show_every_clicks": 3,
         "min_seconds_between_ads": 0,
 
         "show_on_clicks": [
