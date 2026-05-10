@@ -225,7 +225,7 @@
     }
   ],
   
-  "update": {
+ "update": {
     "enabled": true,
     "force_update": false,
     "latest_version_code": 2,
