@@ -254,7 +254,7 @@
   "ads_config": {
     "enabled": true,
     "default_network": "levelplay",
-    "fallback_network": "meta",
+    "fallback_network": "levelplay",
 
     "admob": {
       "enabled": true,
