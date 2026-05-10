@@ -254,7 +254,7 @@
   "ads_config": {
     "enabled": true,
     "default_network": "ironsource",
-    "fallback_network": "meta",
+    "fallback_network": "max",
 
     "admob": {
       "enabled": true,
