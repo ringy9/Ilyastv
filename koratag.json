@@ -247,14 +247,14 @@
     "exit_button_text": "خروج",
     "cancel_button_text": "إلغاء",
     "show_native_ad": true,
-    "native_ad_network": "meta",
+    "native_ad_network": "ironsource",
     "native_ad_fallback_network": "admob"
   },
 
   "ads_config": {
     "enabled": true,
-    "default_network": "meta",
-    "fallback_network": "levelplay",
+    "default_network": "ironsource",
+    "fallback_network": "meta",
 
     "admob": {
       "enabled": true,
@@ -273,7 +273,7 @@
       "native_id": "YOUR_MAX_NATIVE_ID"
     },
 "ironsource": {
-  "enabled": false,
+  "enabled": true,
   "app_key": "264ce813d",
   "banner_enabled": true,
   "interstitial_enabled": true,
@@ -292,7 +292,7 @@
     },
 
 "levelplay": {
-  "enabled": true,
+  "enabled": false,
   "app_key": "264ce813d",
   "banner_enabled": true,
   "interstitial_enabled": true,
@@ -305,7 +305,7 @@
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "meta",
+        "network": "ironsource",
         "fallback_network": "admob",
         "show_on": [
           "matches",
@@ -319,7 +319,7 @@
 
       "interstitial": {
         "enabled": true,
-        "network": "meta",
+        "network": "ironsource",
         "fallback_network": "admob",
         "first_click": true,
         "show_every_clicks": 1,
@@ -334,7 +334,7 @@
 
       "native": {
         "enabled": true,
-        "network": "meta",
+        "network": "ironsource",
         "fallback_network": "admob",
         "player_preview": {
           "enabled": true,
@@ -350,7 +350,7 @@
         },
         "exit_dialog": {
           "enabled": true,
-          "network": "meta",
+          "network": "ironsource",
           "fallback_network": "admob"
         }
       },
