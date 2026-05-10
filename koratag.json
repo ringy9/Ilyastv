@@ -225,7 +225,8 @@
     }
   ],
   
- "update": {
+{
+  "update": {
     "enabled": true,
     "force_update": false,
     "latest_version_code": 2,
@@ -238,6 +239,7 @@
     "update_url": "https://play.google.com/store/apps/details?id=com.sportslive.app",
     "show_every_launch": false
   },
+
   "exit_dialog": {
     "enabled": true,
     "title": "هل تريد الخروج؟",
@@ -249,10 +251,13 @@
     "native_ad_network": "admob",
     "native_ad_fallback_network": "meta"
   },
+
   "ads_config": {
     "enabled": true,
+
     "default_network": "levelplay",
     "fallback_network": "admob",
+
     "admob": {
       "enabled": true,
       "app_id": "ca-app-pub-3940256099942544~3347511713",
@@ -261,6 +266,7 @@
       "native_id": "ca-app-pub-3940256099942544/2247696110",
       "app_open_id": "ca-app-pub-3940256099942544/9257395921"
     },
+
     "max": {
       "enabled": false,
       "sdk_key": "YOUR_MAX_SDK_KEY",
@@ -268,37 +274,34 @@
       "interstitial_id": "YOUR_MAX_INTERSTITIAL_ID",
       "native_id": "YOUR_MAX_NATIVE_ID"
     },
-    "ironsource": {
-      "enabled": true,
-      "app_key": "264ce813d",
-      "banner_enabled": true,
-      "interstitial_enabled": true,
-      "rewarded_enabled": true,
-      "banner_ad_unit_id": "12koc6mzc816f9nd",
-      "interstitial_ad_unit_id": "kmmof90rk2irgz0n",
-      "rewarded_ad_unit_id": "6dnuhpqy23fbjsr0"
-    },
+
     "meta": {
       "enabled": false,
       "placement_banner": "YOUR_META_BANNER_ID",
       "placement_interstitial": "YOUR_META_INTERSTITIAL_ID",
       "placement_native": "YOUR_META_NATIVE_ID"
     },
+
     "levelplay": {
       "enabled": true,
       "app_key": "264ce813d",
+
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true,
+
       "banner_ad_unit_id": "12koc6mzc816f9nd",
       "interstitial_ad_unit_id": "kmmof90rk2irgz0n",
       "rewarded_ad_unit_id": "6dnuhpqy23fbjsr0"
     },
+
     "placements": {
+
       "banner": {
         "enabled": true,
         "network": "levelplay",
         "fallback_network": "admob",
+
         "show_on": [
           "matches",
           "categories",
@@ -306,15 +309,19 @@
           "news",
           "settings"
         ],
+
         "position": "bottom"
       },
+
       "interstitial": {
         "enabled": true,
         "network": "levelplay",
         "fallback_network": "admob",
+
         "first_click": true,
         "show_every_clicks": 1,
         "min_seconds_between_ads": 0,
+
         "show_on_clicks": [
           "match_click",
           "highlight_click",
@@ -322,28 +329,43 @@
           "category_click"
         ]
       },
+
+      "rewarded": {
+        "enabled": true,
+        "network": "levelplay",
+        "fallback_network": "admob",
+
+        "show_before_player": true,
+        "min_seconds_between_ads": 0
+      },
+
       "native": {
         "enabled": true,
         "network": "admob",
         "fallback_network": "meta",
+
         "player_preview": {
           "enabled": true,
           "position": "below_preview_image"
         },
+
         "news_details": {
           "enabled": true,
           "position": "middle_of_article"
         },
+
         "categories": {
           "enabled": true,
           "insert_after_every": 4
         },
+
         "exit_dialog": {
           "enabled": true,
           "network": "admob",
           "fallback_network": "meta"
         }
       },
+
       "app_open": {
         "enabled": true,
         "network": "admob",
