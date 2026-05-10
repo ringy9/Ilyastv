@@ -264,8 +264,8 @@
   "ads_config": {
     "enabled": true,
 
-    "default_network": "levelplay",
-    "fallback_network": "admob",
+    "default_network": "admob",
+    "fallback_network": "meta",
 
     "admob": {
       "enabled": true,
@@ -324,7 +324,7 @@
 
       "interstitial": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "admob",
         "fallback_network": "meta",
 
         "first_click": true,
@@ -341,7 +341,7 @@
 
       "rewarded": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "admob",
         "fallback_network": "meta",
 
         "show_before_player": true,
@@ -350,7 +350,7 @@
 
       "native": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "admob",
         "fallback_network": "meta",
 
         "player_preview": {
@@ -370,7 +370,7 @@
 
         "exit_dialog": {
           "enabled": true,
-          "network": "levelplay",
+          "network": "admob",
           "fallback_network": "meta"
         }
       },
