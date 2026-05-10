@@ -259,7 +259,7 @@
     "fallback_network": "admob",
 
     "admob": {
-      "enabled": true,
+      "enabled": false,
       "app_id": "ca-app-pub-3940256099942544~3347511713",
       "banner_id": "ca-app-pub-3940256099942544/6300978111",
       "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
@@ -300,7 +300,7 @@
       "banner": {
         "enabled": true,
         "network": "levelplay",
-        "fallback_network": "admob",
+        "fallback_network": "meta",
 
         "show_on": [
           "matches",
@@ -316,7 +316,7 @@
       "interstitial": {
         "enabled": true,
         "network": "levelplay",
-        "fallback_network": "admob",
+        "fallback_network": "meta",
 
         "first_click": true,
         "show_every_clicks": 3,
@@ -333,7 +333,7 @@
       "rewarded": {
         "enabled": true,
         "network": "levelplay",
-        "fallback_network": "admob",
+        "fallback_network": "meta",
 
         "show_before_player": true,
         "min_seconds_between_ads": 0
@@ -341,7 +341,7 @@
 
       "native": {
         "enabled": true,
-        "network": "admob",
+        "network": "levelplay",
         "fallback_network": "meta",
 
         "player_preview": {
@@ -361,7 +361,7 @@
 
         "exit_dialog": {
           "enabled": true,
-          "network": "admob",
+          "network": "levelplay",
           "fallback_network": "meta"
         }
       },
