@@ -268,7 +268,7 @@
     "fallback_network": "admob",
 
     "admob": {
-      "enabled": false,
+      "enabled": true,
       "app_id": "ca-app-pub-3940256099942544~3347511713",
       "banner_id": "ca-app-pub-3940256099942544/6300978111",
       "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
