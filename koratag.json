@@ -247,13 +247,13 @@
     "exit_button_text": "خروج",
     "cancel_button_text": "إلغاء",
     "show_native_ad": true,
-    "native_ad_network": "admob",
-    "native_ad_fallback_network": "meta"
+    "native_ad_network": "meta",
+    "native_ad_fallback_network": "admob"
   },
 
   "ads_config": {
     "enabled": true,
-    "default_network": "levelplay",
+    "default_network": "meta",
     "fallback_network": "levelplay",
 
     "admob": {
@@ -285,10 +285,10 @@
 
 
     "meta": {
-      "enabled": false,
-      "placement_banner": "YOUR_META_BANNER_ID",
-      "placement_interstitial": "YOUR_META_INTERSTITIAL_ID",
-      "placement_native": "YOUR_META_NATIVE_ID"
+      "enabled": true,
+      "placement_banner": "1910510369664883_1910510936331493",
+      "placement_interstitial": "1910510369664883_1910511072998146",
+      "placement_native": "1910510369664883_1910511499664770"
     },
 
 "levelplay": {
@@ -305,7 +305,7 @@
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "meta",
         "fallback_network": "admob",
         "show_on": [
           "matches",
@@ -319,7 +319,7 @@
 
       "interstitial": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "meta",
         "fallback_network": "admob",
         "first_click": true,
         "show_every_clicks": 1,
@@ -334,7 +334,7 @@
 
       "native": {
         "enabled": true,
-        "network": "admob",
+        "network": "meta",
         "fallback_network": "admob",
         "player_preview": {
           "enabled": true,
@@ -350,8 +350,8 @@
         },
         "exit_dialog": {
           "enabled": true,
-          "network": "admob",
-          "fallback_network": "meta"
+          "network": "meta",
+          "fallback_network": "admob"
         }
       },
 
