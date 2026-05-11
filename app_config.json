@@ -1,0 +1,49 @@
+{
+  "ads": {
+    "enabled": true,
+    "default_network": "admob",
+    "fallback_network": "",
+    "admob": {
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
+      "app_open": "ca-app-pub-3940256099942544/9257395921",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "native_ad": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "levelplay": {
+      "enabled": false,
+      "app_key": "85460dcd"
+    },
+    "placements": {
+      "app_open_enabled": true,
+      "banner_home": true,
+      "banner_add_url": true,
+      "banner_settings": true,
+      "interstitial_before_player": true,
+      "rewarded_before_player": true,
+      "native_exit": true
+    }
+  },
+  "update": {
+    "enabled": false,
+    "force_update": false,
+    "version_code": 2,
+    "title": "New Update Available",
+    "message": "Please update to the latest version for better performance.",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.externalplayer"
+  },
+  "exit_dialog": {
+    "enabled": true,
+    "title": "Exit App",
+    "message": "Are you sure you want to exit?"
+  },
+  "links": {
+    "privacy_policy": "https://example.com/privacy",
+    "more_apps": "https://play.google.com/store/apps/developer?id=Ilyas",
+    "contact_email": "support@example.com"
+  },
+  "theme": {
+    "default_mode": "dark"
+  }
+}
