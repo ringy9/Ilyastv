@@ -68,7 +68,7 @@
     {
       "id": "bein_fhd",
       "name": "بي ان سبورت biIN SPORTS",
-      "icon": "https://github.com/ringy9/BEIN/blob/main/bein_SPORTS_FTA_DIGITAL_Mono.png?raw=true",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/beinlogo.png?raw=true",
       "channels": [
         {
           "name": "BEIN NEWS",
@@ -221,7 +221,7 @@
     {
       "id": "sport_channels",
       "name": "بي ان ترفيه ENTERTAINMENT",
-      "icon": "https://github.com/ringy9/BEIN/blob/main/7/BeIN_MOVIES_logo_2017.jpg?raw=true",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/beinmov.png?raw=true",
       "channels": [
         {
           "name": "Bara3em",
