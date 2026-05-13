@@ -165,7 +165,7 @@
   "categories": [
     {
       "id": "live_event",
-      "title": "ملخص الدوريات العربية",
+      "title": "LIVE EVENT",
       "channels": [
         {
           "id": "match1",
@@ -185,62 +185,24 @@
           "promo_image": "",
           "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
           "promo_url": ""
-        },
-        {
-          "id": "match1",
-          "title": "ملخص الدوري الجزائري الممتاز",
-          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "type": "mp4",
-          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
-          "views": "150K views",
-          "description": "الدوري الجزائري الممتاز (الرابطة المحترفة الأولى) هذا الموسم يتميز بإثارة كبيرة وتنافس قوي بين الأندية 🇩🇿⚽",
-          "promoImage": "",
-          "externalUrl": "",
-          "player_type": "internal",
-          "externalPlayerPackage": "com.player.tivanoplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer",
-          "promo_enabled": true,
-          "promo_image": "",
-          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
-          "promo_url": ""
-        },
-        {
-          "id": "match1",
-          "title": "ملخص الدوري التونسي الممتاز",
-          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "type": "mp4",
-          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
-          "views": "150K views",
-          "description": "الدوري التونسي الممتاز (الرابطة المحترفة الأولى) يُقدم هذا الموسم مستوى قوي ومنافسة شرسة بين الأندية 🇹🇳⚽",
-          "promoImage": "",
-          "externalUrl": "",
-          "player_type": "internal",
-          "externalPlayerPackage": "com.player.tivanoplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.player.tivanoplayer",
-          "promo_enabled": true,
-          "promo_image": "",
-          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
-          "promo_url": ""
         }
       ]
     },
     {
       "id": "bein_sports",
-      "title": "ملخص الدوريات الاوروبية",
+      "title": "BEIN SPORTS FHD",
       "channels": [
         {
           "id": "bein1",
-          "title": "ملخص الدوري الاسباني",
-          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "title": "BEIN SPORTS 1",
+          "image": "https://github.com/ringy9/BEIN/blob/main/bein1.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "type": "mp4",
-          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein1.png?raw=true",
           "views": "104.1K views",
-          "description": "الدوري الإسباني (La Liga) هذا الموسم يقدم مستوى عالي ومنافسة قوية بين كبار أوروبا 🇪🇸⚽",
-          "promoImage": "",
-          "externalUrl": "",
+          "description": "",
+          "promoImage": "https://github.com/ringy9/BEIN/blob/main/Rate.png?raw=true",
+          "externalUrl": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld",
           "player_type": "internal",
           "externalPlayerPackage": "com.viviana.ilyasplayer",
           "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer",
@@ -249,44 +211,7 @@
           "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
           "promo_url": ""
         },
-        {
-          "id": "bein1",
-          "title": "ملخص الدوري الانجليزي",
-          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "type": "mp4",
-          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
-          "views": "104.1K views",
-          "description": "الدوري الإنجليزي الممتاز (Premier League) هذا الموسم يواصل تقديم أقوى منافسة في العالم 🇬🇧⚽",
-          "promoImage": "",
-          "externalUrl": "",
-          "player_type": "internal",
-          "externalPlayerPackage": "com.viviana.ilyasplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer",
-          "promo_enabled": true,
-          "promo_image": "",
-          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
-          "promo_url": ""
-        },
-        {
-          "id": "bein1",
-          "title": "ملخص الدوري الفرنسي",
-          "image": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "type": "mp4",
-          "thumbnail": "https://i.postimg.cc/X7jTMTK9/Untitled-design-(2).jpg",
-          "views": "104.1K views",
-          "description": "الدوري الفرنسي (Ligue 1) هذا الموسم يشهد تنافسًا قويًا وأداءً مميزًا من عدة أندية 🇫🇷⚽",
-          "promoImage": "",
-          "externalUrl": "",
-          "player_type": "internal",
-          "externalPlayerPackage": "com.viviana.ilyasplayer",
-          "externalPlayerUrl": "https://play.google.com/store/apps/details?id=com.viviana.ilyasplayer",
-          "promo_enabled": true,
-          "promo_image": "",
-          "promo_text": "شاهد المزيد من التفاصيل والعروض الرياضية",
-          "promo_url": ""
-        }
+
       ]
     },
     {
