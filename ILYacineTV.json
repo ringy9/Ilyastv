@@ -220,36 +220,154 @@
     },
     {
       "id": "sport_channels",
-      "name": "بي ان ترفيه biIN ENTERTAINMENT",
+      "name": "بي ان ترفيه ENTERTAINMENT",
       "icon": "https://github.com/ringy9/BEIN/blob/main/7/BeIN_MOVIES_logo_2017.jpg?raw=true",
       "channels": [
         {
-          "name": "الدوري السعودي للمحترفين",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "name": "Bara3em",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Bara3em-1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Bara3em-1.png?raw=true",
+          "views": "45.3K views"
+        },
+                {
+          "name": "BoxOffice 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice1_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice1_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+                        {
+          "name": "BoxOffice 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice2_DIGITAL_Mono.png.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice2_DIGITAL_Mono.png.png?raw=true",
+          "views": "45.3K views"
+        },
+                                {
+          "name": "Cartoon Network Arabic",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Cartoon-Network-Arabic-1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Cartoon-Network-Arabic-1.png?raw=true",
+          "views": "45.3K views"
+        },
+                                        {
+          "name": "beIN Drama",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Drama_Stacked_nov_2024_200x200.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Drama_Stacked_nov_2024_200x200.png?raw=true",
+          "views": "45.3K views"
+        },
+       {
+          "name": "beIN GOURMET",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/GOURMET_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/GOURMET_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+               {
+          "name": "Jeem HD",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Jeem-HD-1-01.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Jeem-HD-1-01.png?raw=true",
           "views": "45.3K views"
         },
         {
-          "name": "الدوري المغربي الاحترافي",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "name": "biIN MOVIES 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES1_PREMIERE_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "31.8K views"
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES1_PREMIERE_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
         },
                 {
-          "name": "الدوري القطري",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "name": "biIN MOVIES ACTION 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES2_ACTION_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "31.8K views"
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES2_ACTION_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+                        {
+          "name": "biIN MOVIES DRAMA 3",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES3_DRAMA_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES3_DRAMA_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+                                {
+          "name": "biIN MOVIES FAMILY 4",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES4_FAMILY_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES4_FAMILY_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+        {
+          "name": "biIN SERIES 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/SERIES1_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/SERIES1_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+                {
+          "name": "biIN SERIES 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/SERIES2_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/SERIES2_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+                        {
+          "name": "Star Action",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Star_Action_2024-200x200-1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Star_Action_2024-200x200-1.png?raw=true",
+          "views": "45.3K views"
+        },
+                                {
+          "name": "Star Movies",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Star_Movies_2024-200x200-1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Star_Movies_2024-200x200-1.png?raw=true",
+          "views": "45.3K views"
+        },
+                                        {
+          "name": "beJUNIOR",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/beJUNIOR-1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/beJUNIOR-1.png?raw=true",
+          "views": "45.3K views"
         }
+
       ]
   
     },
