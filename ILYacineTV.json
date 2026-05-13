@@ -220,8 +220,8 @@
     },
     {
       "id": "sport_channels",
-      "name": "ملخص الدوريات العربية",
-      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "name": "بي ان ترفيه biIN ENTERTAINMENT",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/7/BeIN_MOVIES_logo_2017.jpg?raw=true",
       "channels": [
         {
           "name": "الدوري السعودي للمحترفين",
