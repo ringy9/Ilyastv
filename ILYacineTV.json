@@ -67,39 +67,155 @@
   "categories": [
     {
       "id": "bein_fhd",
-      "name": "ملخص الدوريات الاوروبية",
-      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "name": "BEIN SPORTS FHD",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/bein_SPORTS_FTA_DIGITAL_Mono.png?raw=true",
       "channels": [
         {
-          "name": "الدوري الإنجليزي الممتاز",
-          "subtitle": "الدوري الإنجليزي الممتاز",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "name": "BEIN SPORTS NEWS",
+          "subtitle": "BEIN SPORTS NEWS",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein%20news.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein%20news.png?raw=true",
           "views": "99.7K views"
         },
-        {
-          "name": "الدوري الإسباني",
-          "subtitle": "الدوري الإسباني",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+                {
+          "name": "BEIN SPORTS 1",
+          "subtitle": "BEIN SPORTS 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein1.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "87.2K views"
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein1.png?raw=true",
+          "views": "199.7K views"
+        },
+       {
+          "name": "BEIN SPORTS 2",
+          "subtitle": "BEIN SPORTS 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
+          "views": "129.7K views"
+        },
+               {
+          "name": "BEIN SPORTS 3",
+          "subtitle": "BEIN SPORTS 3",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein3.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein3.png?raw=true",
+          "views": "135.3K views"
+        },
+                       {
+          "name": "BEIN SPORTS 4",
+          "subtitle": "BEIN SPORTS 4",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein4.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein4.png?raw=true",
+          "views": "132.6K views"
+        },
+                       {
+          "name": "BEIN SPORTS 5",
+          "subtitle": "BEIN SPORTS 5",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein5.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein5.png?raw=true",
+          "views": "135.3K views"
+        },
+                               {
+          "name": "BEIN SPORTS 6",
+          "subtitle": "BEIN SPORTS 6",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein6.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein6.png?raw=true",
+          "views": "135.3K views"
+        },
+        {
+          "name": "BEIN SPORTS 7",
+          "subtitle": "BEIN SPORTS 7",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein7.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein7.png?raw=true",
+          "views": "88.3K views"
+        },
+         {
+          "name": "BEIN SPORTS 8",
+          "subtitle": "BEIN SPORTS 8",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein8.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein8.png?raw=true",
+          "views": "135.3K views"
+        },
+          {
+          "name": "BEIN SPORTS 9",
+          "subtitle": "BEIN SPORTS 9",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein9.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein9.png?raw=true",
+          "views": "135.3K views"
+        },
+        {
+          "name": "BEIN SPORTS MAX 1",
+          "subtitle": "BEIN SPORTS MAX 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/1/beinmax1.png?raw=true",
+          "views": "95.3K views"
         },
                 {
-          "name": "الدوري الفرنسي",
-          "subtitle": "الدوري الفرنسي",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "name": "BEIN SPORTS MAX 2",
+          "subtitle": "BEIN SPORTS MAX 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax2.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
           "user_agent": "",
           "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "87.2K views"
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/1/beinmax2.png?raw=true",
+          "views": "66.3K views"
+        },
+                {
+          "name": "BEIN SPORTS MAX 3",
+          "subtitle": "BEIN SPORTS MAX 3",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax3.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/1/beinmax3.png?raw=true",
+          "views": "45.3K views"
+        },
+                {
+          "name": "BEIN SPORTS MAX 4",
+          "subtitle": "BEIN SPORTS MAX 4",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
+          "views": "35.3K views"
         }
+
+
+
+
+        
+
       ]
     },
     {
