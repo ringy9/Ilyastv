@@ -14,11 +14,11 @@
     "url": "https://github.com/ringy9/Ilyastv/releases"
   },
   "ads": {
-    "provider": "none",
-    "banner_enabled": false,
-    "native_enabled": false,
-    "interstitial_enabled": false,
-    "app_open_enabled": false,
+    "provider": "meta",
+    "banner_enabled": true,
+    "native_enabled": true,
+    "interstitial_enabled": true,
+    "app_open_enabled": true,
     "interstitial_clicks": 3,
     "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
