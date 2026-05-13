@@ -460,7 +460,7 @@
     {
           "id": "movies",
       "name": "قنوات اطفال - KIDS",
-      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/kids.png?raw=true",
       "channels": [
         {
           "name": "الدوري البرازيلي",
