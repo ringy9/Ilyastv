@@ -75,7 +75,7 @@
           "name": "BEIN SPORTS 1",
           "subtitle": "BEIN SPORTS 1",
           "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/09d17a892e3b77de1c587d8b161d5e62",
-          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
           "referer": "",
           "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/09d17a892e3b77de1c587d8b161d5e62",
@@ -85,7 +85,7 @@
           "name": "BEIN SPORTS 2",
           "subtitle": "BEIN SPORTS 1",
           "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/e8ac93a2fbced3a927055d73418e58cb",
-          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42027.m3u8",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
           "referer": "",
           "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/e8ac93a2fbced3a927055d73418e58cb",
@@ -511,7 +511,7 @@
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
     "time": "20:00",
     "status": "الدوري الإنجليزي الممتاز",
-    "channel_url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
     "team1": "إسبانيول",
@@ -520,7 +520,7 @@
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
     "time": "18:00",
     "status": "الدوري الإسباني",
-    "channel_url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42027.m3u8"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
     "team1": "فياريال",
