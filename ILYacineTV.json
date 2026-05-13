@@ -373,8 +373,8 @@
     },
     {
       "id": "sport_channels",
-      "name": "ملخص الدوريات الافريقية",
-      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "name": "Thmanyah - ثمانية",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/thmanyah.png?raw=true",
       "channels": [
         {
           "name": "الدوري التونسي",
@@ -384,31 +384,14 @@
           "referer": "",
           "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "45.3K views"
-        },
-        {
-          "name": "الدوري الجزائري",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "31.8K views"
-        },
-                {
-          "name": "الدوري الجنوب إفريقي",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "31.8K views"
         }
+
       ]
           },
     {
       "id": "sport_channels",
-      "name": "ملخص الدوريات الخليجية ",
-      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "name": "قنوات اخبار - NEWS ",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGONEWS.png?raw=true",
       "channels": [
         {
           "name": "الدوري الإماراتي",
@@ -418,31 +401,14 @@
           "referer": "",
           "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "45.3K views"
-        },
-        {
-          "name": "الدوري الكويتي",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "31.8K views"
-        },
-                {
-          "name": "الدوري البحريني",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "31.8K views"
         }
+
               ]
           },
     {
       "id": "sport_channels",
-      "name": "ملخص الدوريات الاسيوية",
-      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "name": "قنوات عربية - ARABIC",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/arabic-channel.png?raw=true",
       "channels": [
         {
           "name": "الدوري الياباني",
@@ -452,31 +418,14 @@
           "referer": "",
           "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "45.3K views"
-        },
-        {
-          "name": "الدوري الكوري",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "31.8K views"
-        },
-                {
-          "name": "الدوري العراقي",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "31.8K views"
         }
+
           ]
     },
     {
       "id": "news",
-      "name": "ملخص الدوريات الامريكية",
-      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "name": "MCHANNELS",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/mbc.png?raw=true",
       "channels": [
         {
           "name": "الدوري الأمريكي",
@@ -486,30 +435,31 @@
           "referer": "",
           "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "22K views"
-        },
-                {
-          "name": "الدوري المكسيكي",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "22K views"
-        },
-                {
-          "name": "الدوري الكولومبي",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "22K views"
         }
+
+        
       ]
     },
     {
       "id": "movies",
-      "name": "ملخص الدوريات اللاتينية",
+      "name": "قنوات فرنسية - FRANCE",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/channel-fr.png?raw=true",
+      "channels": [
+        {
+          "name": "الدوري البرازيلي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "18.5K views"
+        }
+        
+      ]
+     },
+    {
+          "id": "movies",
+      "name": "قنوات اطفال - KIDS",
       "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
       "channels": [
         {
@@ -520,25 +470,8 @@
           "referer": "",
           "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
           "views": "18.5K views"
-        },
-                {
-          "name": "الدوري الأرجنتيني",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "18.5K views"
-        },
-                {
-          "name": "الدوري التشيلي",
-          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-          "user_agent": "",
-          "referer": "",
-          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
-          "views": "18.5K views"
         }
+        
       ]
     }
   ],
