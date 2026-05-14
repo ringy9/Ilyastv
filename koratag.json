@@ -244,7 +244,7 @@
   
 
   "update": {
-    "enabled": true,
+    "enabled": false,
     "force_update": false,
     "latest_version_code": 2,
     "latest_version_name": "2.0",
