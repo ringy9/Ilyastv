@@ -391,7 +391,7 @@
       }
     }
   },
-  },
+  
   "player_config": {
     "use_external_player": true,
     "external_player_package": "com.ilyas.playerpro",
