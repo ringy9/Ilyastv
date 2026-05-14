@@ -1,9 +1,9 @@
 {
 "app": {
-  "name": "Yassin TV",
+  "name": "ILYAS TV",
   "version_code": 1,
-  "drawer_logo_text": "YacineTV",
-  "drawer_subtitle": "YacineTV"
+  "drawer_logo_text": "IlyasTV",
+  "drawer_subtitle": "IlyasTV"
 },
   "update": {
     "enabled": false,
@@ -504,78 +504,53 @@
     }
   ],
 "matches": [
+
   {
-    "team1": "مانشستر سيتي",
-    "team2": "كريستال بالاس",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
-    "time": "20:00",
-    "status": "الدوري الإنجليزي الممتاز",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "إسبانيول",
-    "team2": "أتلتيك بيلباو",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
+    "team1": "فالنسيا",
+    "team2": "رايو فاليكانو",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
     "time": "18:00",
     "status": "الدوري الإسباني",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "فياريال",
-    "team2": "إشبيلية",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
-    "time": "18:00",
+    "team1": "جيرونا",
+    "team2": "ريال سوسيداد",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
+    "time": "19:00",
     "status": "الدوري الإسباني",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "ديبورتيفو ألافيس",
-    "team2": "برشلونة",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+    "team1": "ريال مدريد",
+    "team2": "ريال أوفييدو",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
     "time": "20:30",
     "status": "الدوري الإسباني",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "خيتافي",
-    "team2": "مايوركا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
-    "time": "20:30",
-    "status": "الدوري الإسباني",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
+    "team1": "القادسية",
+    "team2": "الحزم",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101907.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101912.png",
+    "time": "19:00",
+    "status": "الدوري السعودي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "بريست",
-    "team2": "ستراسبورغ",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8521.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
-    "time": "18:00",
-    "status": "الدوري الفرنسي",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
-  },
-  {
-    "team1": "لانس",
-    "team2": "باريس سان جيرمان",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
-    "time": "20:00",
-    "status": "الدوري الفرنسي",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
-  },
-  {
-    "team1": "لاتسيو",
-    "team2": "إنتر",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
-    "time": "20:00",
-    "status": "نهائي كأس إيطاليا",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
+    "team1": "الاتفاق",
+    "team2": "الاتحاد",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101911.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101917.png",
+    "time": "19:00",
+    "status": "الدوري السعودي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
+
 
 
 ],
