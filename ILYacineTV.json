@@ -391,7 +391,7 @@
   
     },
     {
-      "id": "sport_channels",
+      "id": "thmanyah_channels",
       "name": "Thmanyah - ثمانية",
       "icon": "https://github.com/ringy9/BEIN/blob/main/thmanyah.png?raw=true",
       "channels": [
@@ -426,7 +426,7 @@
       ]
           },
     {
-      "id": "sport_channels",
+      "id": "news_channels",
       "name": "قنوات اخبار - NEWS ",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGONEWS.png?raw=true",
       "channels": [
@@ -443,7 +443,7 @@
               ]
           },
     {
-      "id": "sport_channels",
+      "id": "arabic_channels",
       "name": "قنوات عربية - ARABIC",
       "icon": "https://github.com/ringy9/BEIN/blob/main/arabic-channel.png?raw=true",
       "channels": [
@@ -460,7 +460,7 @@
           ]
     },
     {
-      "id": "news",
+      "id": "mb",
       "name": "MCHANNELS",
       "icon": "https://github.com/ringy9/BEIN/blob/main/mbc.png?raw=true",
       "channels": [
@@ -478,7 +478,7 @@
       ]
     },
     {
-      "id": "movies",
+      "id": "france",
       "name": "قنوات فرنسية - FRANCE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/channel-fr.png?raw=true",
       "channels": [
@@ -495,7 +495,7 @@
       ]
      },
     {
-          "id": "movies",
+          "id": "kids",
       "name": "قنوات اطفال - KIDS",
       "icon": "https://github.com/ringy9/BEIN/blob/main/kids.png?raw=true",
       "channels": [
