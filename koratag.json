@@ -391,14 +391,11 @@
       }
     }
   },
+  },
   "player_config": {
     "use_external_player": true,
     "external_player_package": "com.ilyas.playerpro",
-    "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro",
-    "external_player_title": "Ilyas Player Pro",
-    "external_player_message": "To play this video, please install Ilyas Player Pro.",
-    "install_button_text": "Install Player",
-    "cancel_button_text": "Cancel"
+    "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
   }
   
 }
