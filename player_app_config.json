@@ -1,8 +1,8 @@
 {
   "ads": {
     "enabled": true,
-    "default_network": "levelplay",
-    "fallback_network": "admob",
+    "default_network": "admob",
+    "fallback_network": "levelplay",
     "admob": {
       "app_id": "ca-app-pub-3940256099942544~3347511713",
       "app_open": "ca-app-pub-3940256099942544/9257395921",
@@ -12,7 +12,7 @@
       "native_ad": "ca-app-pub-3940256099942544/2247696110"
     },
     "levelplay": {
-      "enabled": true,
+      "enabled": false,
       "app_key": "265d00c0d"
     },
     "placements": {
