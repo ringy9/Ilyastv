@@ -1,8 +1,8 @@
 {
   "ads": {
     "enabled": true,
-    "default_network": "admob",
-    "fallback_network": "levelplay",
+    "default_network": "levelplay",
+    "fallback_network": "admob",
     "admob": {
       "app_id": "ca-app-pub-3940256099942544~3347511713",
       "app_open": "ca-app-pub-3940256099942544/9257395921",
@@ -25,14 +25,14 @@
       "player_interstitial": true,
       "player_rewarded": true,
       "native_exit": true,
-      "native_online_videos": true,
+      "native_online_videos": false,
       "native_settings": true,
       "home_banner": true,
-      "settings_banner": true,
+      "settings_banner": false,
       "add_url_banner": true,
       "exit_native": true,
-      "online_videos_native": true,
-      "settings_native": true
+      "online_videos_native": false,
+      "settings_native": false
     }
   },
   "ads_config": {
@@ -40,7 +40,7 @@
     "player_rewarded_enabled": true,
     "player_interstitial_enabled": true,
     "rewarded_first": true,
-    "banner_enabled": true,
+    "banner_enabled": false,
     "native_enabled": true,
     "player_ads_interval": 1,
     "ad_timeout_ms": 2000
