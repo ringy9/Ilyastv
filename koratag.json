@@ -280,11 +280,11 @@
   "ads_config": {
     "enabled": true,
 
-    "default_network": "admob",
-    "fallback_network": "meta",
+    "default_network": "meta",
+    "fallback_network": "levelplay",
 
     "admob": {
-      "enabled": true,
+      "enabled": false,
       "app_id": "ca-app-pub-3940256099942544~3347511713",
       "banner_id": "ca-app-pub-3940256099942544/6300978111",
       "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
@@ -293,7 +293,7 @@
     },
 
     "max": {
-      "enabled": false,
+      "enabled": true,
       "sdk_key": "YOUR_MAX_SDK_KEY",
       "banner_id": "YOUR_MAX_BANNER_ID",
       "interstitial_id": "YOUR_MAX_INTERSTITIAL_ID",
@@ -301,10 +301,10 @@
     },
 
     "meta": {
-      "enabled": false,
-      "placement_banner": "YOUR_META_BANNER_ID",
-      "placement_interstitial": "YOUR_META_INTERSTITIAL_ID",
-      "placement_native": "YOUR_META_NATIVE_ID"
+      "enabled": true,
+      "placement_banner": "1738664624238328_1740271510744306",
+      "placement_interstitial": "1738664624238328_1740271620744295",
+      "placement_native": "1738664624238328_1740271720744285"
     },
 
     "levelplay": {
