@@ -20,8 +20,8 @@
       "banner_home": true,
       "banner_add_url": false,
       "banner_settings": false,
-      "interstitial_before_player": false,
-      "rewarded_before_player": true,
+      "interstitial_before_player": true,
+      "rewarded_before_player": false,
       "native_exit": true,
       "native_online_videos": true,
       "native_settings": false
