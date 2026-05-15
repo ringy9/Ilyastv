@@ -514,51 +514,34 @@
   ],
 "matches": [
 
-  {
-    "team1": "فالنسيا",
-    "team2": "رايو فاليكانو",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-    "time": "18:00",
-    "status": "الدوري الإسباني",
+    {
+    "team1": "أستون فيلا",
+    "team2": "ليفربول",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+    "time": "20:00",
+    "status": "الدوري الإنجليزي الممتاز",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "جيرونا",
-    "team2": "ريال سوسيداد",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
-    "time": "19:00",
-    "status": "الدوري الإسباني",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "ريال مدريد",
-    "team2": "ريال أوفييدو",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
-    "time": "20:30",
-    "status": "الدوري الإسباني",
-    "channel_url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8"
-  },
-  {
-    "team1": "القادسية",
-    "team2": "الحزم",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101907.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101912.png",
-    "time": "19:00",
+    "team1": "داماك",
+    "team2": "الفيحاء",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/126752.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101914.png",
+    "time": "17:15",
     "status": "الدوري السعودي",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "الاتفاق",
-    "team2": "الاتحاد",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101911.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101917.png",
+    "team1": "التعاون",
+    "team2": "الرياض",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101915.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/128635.png",
     "time": "19:00",
     "status": "الدوري السعودي",
-    "channel_url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251657.m3u8"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
+
 
 
 
