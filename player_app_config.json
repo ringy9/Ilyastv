@@ -1,8 +1,8 @@
 {
   "ads": {
     "enabled": true,
-    "default_network": "admob",
-    "fallback_network": "",
+    "default_network": "levelplay",
+    "fallback_network": "admob",
     "admob": {
       "app_id": "ca-app-pub-3940256099942544~3347511713",
       "app_open": "ca-app-pub-3940256099942544/9257395921",
@@ -12,8 +12,8 @@
       "native_ad": "ca-app-pub-3940256099942544/2247696110"
     },
     "levelplay": {
-      "enabled": false,
-      "app_key": "85460dcd"
+      "enabled": true,
+      "app_key": "265d00c0d"
     },
     "placements": {
       "app_open_enabled": true,
@@ -22,8 +22,20 @@
       "banner_settings": true,
       "interstitial_before_player": true,
       "rewarded_before_player": true,
-      "native_exit": true
+      "native_exit": true,
+      "native_online_videos": true,
+      "native_settings": true
     }
+  },
+  "ads_config": {
+    "ads_enabled": true,
+    "player_rewarded_enabled": true,
+    "player_interstitial_enabled": true,
+    "rewarded_first": true,
+    "banner_enabled": true,
+    "native_enabled": true,
+    "player_ads_interval": 1,
+    "ad_timeout_ms": 1500
   },
   "update": {
     "enabled": false,
@@ -31,7 +43,7 @@
     "version_code": 2,
     "title": "New Update Available",
     "message": "Please update to the latest version for better performance.",
-    "play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.externalplayer"
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
   },
   "exit_dialog": {
     "enabled": true,
