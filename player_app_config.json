@@ -20,7 +20,7 @@
       "banner_home": true,
       "banner_add_url": true,
       "banner_settings": true,
-      "interstitial_before_player": true,
+      "interstitial_before_player": false,
       "rewarded_before_player": true,
       "native_exit": true,
       "native_online_videos": true,
@@ -30,7 +30,7 @@
   "ads_config": {
     "ads_enabled": true,
     "player_rewarded_enabled": true,
-    "player_interstitial_enabled": true,
+    "player_interstitial_enabled": false,
     "rewarded_first": true,
     "banner_enabled": true,
     "native_enabled": true,
