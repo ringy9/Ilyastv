@@ -286,7 +286,7 @@
         "fallback_network": "meta",
 
         "first_click": true,
-        "show_every_clicks": 1,
+        "show_every_clicks": 6,
         "min_seconds_between_ads": 0,
 
         "show_on_clicks": [
