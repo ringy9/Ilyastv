@@ -16,15 +16,15 @@
       "app_key": "265d00c0d"
     },
     "placements": {
-      "app_open_enabled": true,
+      "app_open_enabled": false,
       "banner_home": true,
-      "banner_add_url": true,
-      "banner_settings": true,
-      "interstitial_before_player": true,
+      "banner_add_url": false,
+      "banner_settings": false,
+      "interstitial_before_player": false,
       "rewarded_before_player": true,
       "native_exit": true,
       "native_online_videos": true,
-      "native_settings": true
+      "native_settings": false
     }
   },
   "ads_config": {
