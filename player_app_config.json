@@ -31,7 +31,7 @@
     "ads_enabled": true,
     "player_rewarded_enabled": false,
     "player_interstitial_enabled": true,
-    "rewarded_first": true,
+    "rewarded_first": false,
     "banner_enabled": true,
     "native_enabled": true,
     "player_ads_interval": 1,
