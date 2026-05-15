@@ -220,7 +220,7 @@
   },
 
   "ads_config": {
-    "enabled": true,
+    "enabled": false,
 
     "default_network": "meta",
     "fallback_network": "levelplay",
