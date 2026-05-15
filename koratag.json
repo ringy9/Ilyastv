@@ -74,7 +74,15 @@
       "servers": [
         {
           "name": "Server 1 HD",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "url": "http://4kplusmonsefstore.space/live/79da6da1f4b4/d2f313c7aa/544491.ts",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        },
+                {
+          "name": "Server 1 HD",
+          "url": "http://4kplusmonsefstore.space/live/79da6da1f4b4/d2f313c7aa/1540606.ts",
           "type": "hls",
           "user_agent": "",
           "referer": "",
