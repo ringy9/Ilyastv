@@ -12,24 +12,24 @@
       "native_ad": "ca-app-pub-3940256099942544/2247696110"
     },
     "levelplay": {
-      "enabled": false,
+      "enabled": true,
       "app_key": "265d00c0d"
     },
     "placements": {
-      "app_open_enabled": true,
-      "banner_home": true,
-      "banner_add_url": true,
-      "banner_settings": true,
+      "app_open_enabled": false,
+      "banner_home": false,
+      "banner_add_url": false,
+      "banner_settings": false,
       "interstitial_before_player": true,
       "rewarded_before_player": true,
       "player_interstitial": true,
       "player_rewarded": true,
-      "native_exit": true,
+      "native_exit": false,
       "native_online_videos": false,
-      "native_settings": true,
-      "home_banner": true,
+      "native_settings": false,
+      "home_banner": false,
       "settings_banner": false,
-      "add_url_banner": true,
+      "add_url_banner": false,
       "exit_native": true,
       "online_videos_native": false,
       "settings_native": false
@@ -41,7 +41,7 @@
     "player_interstitial_enabled": true,
     "rewarded_first": true,
     "banner_enabled": false,
-    "native_enabled": true,
+    "native_enabled": false,
     "player_ads_interval": 1,
     "ad_timeout_ms": 2000
   },
