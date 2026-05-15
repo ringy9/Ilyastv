@@ -16,26 +16,41 @@
       "app_key": "265d00c0d"
     },
     "placements": {
-      "app_open_enabled": false,
+      "app_open_enabled": true,
       "banner_home": true,
-      "banner_add_url": false,
-      "banner_settings": false,
+      "banner_add_url": true,
+      "banner_settings": true,
       "interstitial_before_player": true,
-      "rewarded_before_player": false,
+      "rewarded_before_player": true,
+      "player_interstitial": true,
+      "player_rewarded": true,
       "native_exit": true,
       "native_online_videos": true,
-      "native_settings": false
+      "native_settings": true,
+      "home_banner": true,
+      "settings_banner": true,
+      "add_url_banner": true,
+      "exit_native": true,
+      "online_videos_native": true,
+      "settings_native": true
     }
   },
   "ads_config": {
     "ads_enabled": true,
-    "player_rewarded_enabled": false,
+    "player_rewarded_enabled": true,
     "player_interstitial_enabled": true,
-    "rewarded_first": false,
+    "rewarded_first": true,
     "banner_enabled": true,
     "native_enabled": true,
     "player_ads_interval": 1,
-    "ad_timeout_ms": 1500
+    "ad_timeout_ms": 2000
+  },
+  "player_ads": {
+    "enabled": true,
+    "show_before_player": true,
+    "ad_type": "rewarded",
+    "fallback_ad_type": "interstitial",
+    "timeout_ms": 2000
   },
   "update": {
     "enabled": false,
