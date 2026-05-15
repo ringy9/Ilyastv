@@ -401,7 +401,7 @@
   },
   
   "player_config": {
-    "use_external_player": true,
+    "use_external_player": false,
     "external_player_package": "com.ilyas.playerpro",
     "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
   }
