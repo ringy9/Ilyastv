@@ -514,31 +514,85 @@
   ],
 "matches": [
 
-    {
-    "team1": "أستون فيلا",
-    "team2": "ليفربول",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-    "time": "20:00",
-    "status": "الدوري الإنجليزي الممتاز",
+  {
+    "team1": "الزمالك",
+    "team2": "اتحاد العاصمة",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101634.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101628.png",
+    "time": "19:00",
+    "status": "نهائي كأس الكونفدرالية الإفريقية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "داماك",
-    "team2": "الفيحاء",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/126752.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101914.png",
-    "time": "17:15",
+    "team1": "النصر",
+    "team2": "غامبا أوساكا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
+    "time": "18:45",
+    "status": "نهائي دوري أبطال آسيا 2",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "الأخدود",
+    "team2": "الخليج",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/142018.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101908.png",
+    "time": "17:05",
     "status": "الدوري السعودي",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "التعاون",
-    "team2": "الرياض",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101915.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/128635.png",
+    "team1": "الهلال",
+    "team2": "نيوم",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/2529.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/461011.png",
+    "time": "17:05",
+    "status": "الدوري السعودي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "الأهلي",
+    "team2": "الخلود",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101906.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/145252.png",
     "time": "19:00",
     "status": "الدوري السعودي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "تشيلسي",
+    "team2": "مانشستر سيتي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+    "time": "15:00",
+    "status": "نهائي كأس الاتحاد الإنجليزي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "باير ليفركوزن",
+    "team2": "هامبورغ",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9779.png",
+    "time": "14:30",
+    "status": "الدوري الألماني",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "بايرن ميونخ",
+    "team2": "كولن",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8722.png",
+    "time": "14:30",
+    "status": "الدوري الألماني",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "فيردر بريمن",
+    "team2": "بوروسيا دورتموند",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8697.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+    "time": "14:30",
+    "status": "الدوري الألماني",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
 
