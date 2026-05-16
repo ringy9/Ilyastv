@@ -1,187 +1,609 @@
 {
-  "app": {
-    "name": "OstoraTV",
-    "version_code": 1,
-    "drawer_logo_text": "الأسطورة",
-    "drawer_subtitle": "OstoraTV",
-    "privacy_policy_url": "",
-    "share_text": "Watch the best channels and live matches on OstoraTV!\nhttps://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld",
-    "developer_page": "https://play.google.com/store/apps/developer?id=VIVIANA"
-  },
-
-  "onesignal": {
-    "enabled": false,
-    "app_id": ""
-  },
-
+"app": {
+  "name": "ILYAS TV",
+  "version_code": 1,
+  "drawer_logo_text": "IlyasTV",
+  "drawer_subtitle": "IlyasTV"
+},
   "update": {
     "enabled": false,
     "force": false,
     "version_code": 2,
-    "title": "تحديث جديد متاح",
-    "message": "يرجى تحديث التطبيق للحصول على أفضل تجربة",
-    "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
+    "title": "تحديث جديد متوفر",
+    "message": "تم إضافة قنوات جديدة وتحسين سرعة التطبيق.",
+    "url": "https://github.com/ringy9/Ilyastv/releases"
   },
-
-  "exit_dialog": {
-    "enabled": true,
-    "title": "هل تريد الخروج؟",
-    "message": "هل أنت متأكد من أنك تريد مغادرة التطبيق؟",
-    "show_native_ad": true
-  },
-
   "ads": {
-    "provider": "admob",
-    "enabled": true,
-
+    "provider": "meta",
     "banner_enabled": true,
     "native_enabled": true,
     "interstitial_enabled": true,
-    "rewarded_enabled": false,
-    "app_open_enabled": false,
-
+    "app_open_enabled": true,
     "interstitial_clicks": 3,
-    "min_seconds_between_interstitials": 30,
-
     "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
     "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
     "admob_native": "ca-app-pub-3940256099942544/2247696110",
-    "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
     "admob_app_open": "ca-app-pub-3940256099942544/9257395921",
-
     "max_sdk_key": "",
     "max_banner": "",
     "max_interstitial": "",
     "max_native": "",
-    "max_rewarded": "",
-
-    "meta_placement_banner": "",
-    "meta_placement_interstitial": "",
-    "meta_placement_native": "",
-
-    "ironsource_app_key": "",
-
+    "meta_placement_banner": "1584506399769058_1584511446435220",
+    "meta_placement_interstitial": "1584506399769058_1584511526435212",
+    "meta_placement_native": "1584506399769058_1584511699768528",
     "show_banner_home": true,
     "show_banner_channels": true,
     "show_banner_matches": true,
-    "show_banner_settings": true,
-
-    "show_native_home": false,
+    "show_player_bottom": true, 
+    "native_interval_channels": 6,
     "show_native_matches": true,
-    "show_native_channels": true,
     "show_native_player": true,
     "show_native_exit": true,
-    "native_interval_channels": 6,
-
     "show_player_bottom": true
   },
-
-  "app_open": {
-    "enabled": false,
-    "min_seconds_between_ads": 300
-  },
-
-  "player_config": {
-    "use_external_player": false,
-    "default_user_agent": "OstoraTV/1.0",
-    "keep_screen_on": true,
-    "auto_hide_controls_ms": 4000,
-    "seek_increment_ms": 10000,
-    "enable_gestures": true
-  },
-
-  "player_ads": {
-    "enabled": false,
-    "ad_type": "interstitial",
-    "fallback": "none",
-    "timeout_ms": 5000
-  },
-
   "menu": [
-    { "title": "جدول المباريات", "type": "matches", "url": "" },
-    { "title": "Telegram", "type": "url", "url": "https://t.me/example" },
-    { "title": "مشاركة التطبيق", "type": "share", "url": "" }
+    {
+      "title": "Matches",
+      "type": "matches",
+      "url": ""
+    },
+    {
+      "title": "Telegram",
+      "type": "url",
+      "url": "https://t.me/example"
+    },
+    {
+      "title": "Website",
+      "type": "url",
+      "url": "https://www.yacinetvapp.pro"
+    },
+    {
+      "title": "Share",
+      "type": "share",
+      "url": ""
+    }
   ],
-
   "categories": [
     {
-      "id": "bein",
-      "name": "beIN SPORTS",
-      "icon": "",
+          
+      "id": "match_live",
+      "name": "بث للمباريات - MATCH LIVE",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/live.png?raw=true",
       "channels": [
         {
-          "name": "beIN Sports 1",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "name": "BEIN SPORTS 1",
+          "subtitle": "BEIN SPORTS 1",
+          "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/09d17a892e3b77de1c587d8b161d5e62",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
           "user_agent": "",
           "referer": "",
-          "origin": "",
-          "cookie": "",
-          "subtitle": "FHD",
-          "thumbnail": "",
-          "event_image": "",
-          "event_text": "",
-          "event_url": "",
+          "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/09d17a892e3b77de1c587d8b161d5e62",
+          "views": "99.7K views"
+        }
+
+       ]
+    },
+    {
+      "id": "bein_fhd",
+      "name": "بي ان سبورت biIN SPORTS",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/beinlogo.png?raw=true",
+      "channels": [
+        {
+          "name": "BEIN NEWS",
+          "subtitle": "BEIN NEWS",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein%20news.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/7339.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein%20news.png?raw=true",
           "views": "99.7K views"
         },
-        {
-          "name": "Test MP4",
-          "logo": "",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                {
+          "name": "BEIN SPORTS 1",
+          "subtitle": "BEIN SPORTS 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein1.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
           "user_agent": "",
           "referer": "",
-          "origin": "",
-          "cookie": "",
-          "subtitle": "HD",
-          "thumbnail": "",
-          "event_image": "",
-          "event_text": "",
-          "event_url": "",
-          "views": "50.2K views"
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein1.png?raw=true",
+          "views": "199.7K views"
+        },
+       {
+          "name": "BEIN SPORTS 2",
+          "subtitle": "BEIN SPORTS 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42027.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein2.png?raw=true",
+          "views": "129.7K views"
+        },
+               {
+          "name": "BEIN SPORTS 3",
+          "subtitle": "BEIN SPORTS 3",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein3.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42026.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein3.png?raw=true",
+          "views": "135.3K views"
+        },
+                       {
+          "name": "BEIN SPORTS 4",
+          "subtitle": "BEIN SPORTS 4",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein4.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42025.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein4.png?raw=true",
+          "views": "132.6K views"
+        },
+                       {
+          "name": "BEIN SPORTS 5",
+          "subtitle": "BEIN SPORTS 5",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein5.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42024.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein5.png?raw=true",
+          "views": "135.3K views"
+        },
+                               {
+          "name": "BEIN SPORTS 6",
+          "subtitle": "BEIN SPORTS 6",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein6.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42023.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein6.png?raw=true",
+          "views": "135.3K views"
+        },
+        {
+          "name": "BEIN SPORTS 7",
+          "subtitle": "BEIN SPORTS 7",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein7.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42022.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein7.png?raw=true",
+          "views": "88.3K views"
+        },
+         {
+          "name": "BEIN SPORTS 8",
+          "subtitle": "BEIN SPORTS 8",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein8.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42021.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein8.png?raw=true",
+          "views": "135.3K views"
+        },
+          {
+          "name": "BEIN SPORTS 9",
+          "subtitle": "BEIN SPORTS 9",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/bein9.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42020.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein9.png?raw=true",
+          "views": "135.3K views"
+        },
+        {
+          "name": "BEIN MAX 1",
+          "subtitle": "BEIN MAX 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/1/beinmax1.png?raw=true",
+          "views": "95.3K views"
+        },
+                {
+          "name": "BEIN MAX 2",
+          "subtitle": "BEIN MAX 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax2.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/1/beinmax2.png?raw=true",
+          "views": "66.3K views"
+        },
+                {
+          "name": "BEIN MAX 3",
+          "subtitle": "BEIN MAX 3",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax3.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/1/beinmax3.png?raw=true",
+          "views": "45.3K views"
+        },
+                {
+          "name": "BEIN MAX 4",
+          "subtitle": "BEIN MAX 4",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
+          "views": "35.3K views"
         }
+
+
+
+
+        
+
       ]
     },
     {
-      "id": "sport",
-      "name": "SPORT",
-      "icon": "",
+      "id": "sport_channels",
+      "name": "بي ان ترفيه ENTERTAINMENT",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/beinmov.png?raw=true",
       "channels": [
         {
-          "name": "HLS Test",
-          "logo": "",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "name": "Bara3em",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Bara3em-1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
           "referer": "",
-          "origin": "",
-          "cookie": "",
-          "subtitle": "SD",
-          "thumbnail": "",
-          "event_image": "",
-          "event_text": "",
-          "event_url": "",
-          "views": "30.1K views"
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Bara3em-1.png?raw=true",
+          "views": "45.3K views"
+        },
+                {
+          "name": "BoxOffice 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice1_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice1_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+                        {
+          "name": "BoxOffice 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice2_DIGITAL_Mono.png.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice2_DIGITAL_Mono.png.png?raw=true",
+          "views": "45.3K views"
+        },
+                                {
+          "name": "Cartoon Network Arabic",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Cartoon-Network-Arabic-1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Cartoon-Network-Arabic-1.png?raw=true",
+          "views": "45.3K views"
+        },
+                                        {
+          "name": "beIN Drama",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Drama_Stacked_nov_2024_200x200.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Drama_Stacked_nov_2024_200x200.png?raw=true",
+          "views": "45.3K views"
+        },
+       {
+          "name": "beIN GOURMET",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/GOURMET_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/GOURMET_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+               {
+          "name": "Jeem HD",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Jeem-HD-1-01.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Jeem-HD-1-01.png?raw=true",
+          "views": "45.3K views"
+        },
+        {
+          "name": "biIN MOVIES 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES1_PREMIERE_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES1_PREMIERE_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+                {
+          "name": "biIN MOVIES ACTION 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES2_ACTION_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES2_ACTION_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+                        {
+          "name": "biIN MOVIES DRAMA 3",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES3_DRAMA_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES3_DRAMA_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+                                {
+          "name": "biIN MOVIES FAMILY 4",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES4_FAMILY_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES4_FAMILY_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+        {
+          "name": "biIN SERIES 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/SERIES1_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/SERIES1_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+                {
+          "name": "biIN SERIES 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/SERIES2_DIGITAL_Mono.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/SERIES2_DIGITAL_Mono.png?raw=true",
+          "views": "45.3K views"
+        },
+                        {
+          "name": "Star Action",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Star_Action_2024-200x200-1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Star_Action_2024-200x200-1.png?raw=true",
+          "views": "45.3K views"
+        },
+                                {
+          "name": "Star Movies",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Star_Movies_2024-200x200-1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Star_Movies_2024-200x200-1.png?raw=true",
+          "views": "45.3K views"
+        },
+                                        {
+          "name": "beJUNIOR",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/beJUNIOR-1.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/beJUNIOR-1.png?raw=true",
+          "views": "45.3K views"
         }
+
+      ]
+  
+    },
+    {
+      "id": "thmanyah_channels",
+      "name": "Thmanyah - ثمانية",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/thmanyah.png?raw=true",
+      "channels": [
+        {
+          "name": "Thmanyah 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/thmanyah.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251657.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thmanyah.png?raw=true",
+          "views": "45.3K views"
+        },
+                {
+          "name": "Thmanyah 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/thmanyah.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251658.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thmanyah.png?raw=true",
+          "views": "45.3K views"
+        },
+                {
+          "name": "Thmanyah 3",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/thmanyah.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251659.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thmanyah.png?raw=true",
+          "views": "45.3K views"
+        }
+
+      ]
+          },
+    {
+      "id": "news_channels",
+      "name": "قنوات اخبار - NEWS ",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGONEWS.png?raw=true",
+      "channels": [
+        {
+          "name": "الدوري الإماراتي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "45.3K views"
+        }
+
+              ]
+          },
+    {
+      "id": "arabic_channels",
+      "name": "قنوات عربية - ARABIC",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/arabic-channel.png?raw=true",
+      "channels": [
+        {
+          "name": "الدوري الياباني",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "45.3K views"
+        }
+
+          ]
+    },
+    {
+      "id": "mb",
+      "name": "MCHANNELS",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/mbc.png?raw=true",
+      "channels": [
+        {
+          "name": "الدوري الأمريكي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "22K views"
+        }
+
+        
+      ]
+    },
+    {
+      "id": "france",
+      "name": "قنوات فرنسية - FRANCE",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/channel-fr.png?raw=true",
+      "channels": [
+        {
+          "name": "الدوري البرازيلي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "18.5K views"
+        }
+        
+      ]
+     },
+    {
+          "id": "kids",
+      "name": "قنوات اطفال - KIDS",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/kids.png?raw=true",
+      "channels": [
+        {
+          "name": "الدوري البرازيلي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "18.5K views"
+        }
+        
       ]
     }
   ],
+"matches": [
 
-  "matches": [
-    {
-      "team1": "Barcelona",
-      "team2": "Real Madrid",
-      "logo1": "",
-      "logo2": "",
-      "time": "22:00",
-      "status": "اليوم",
-      "channel_url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-    }
-  ],
+  {
+    "team1": "الزمالك",
+    "team2": "اتحاد العاصمة",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101634.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101628.png",
+    "time": "19:00",
+    "status": "نهائي كأس الكونفدرالية الإفريقية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "النصر",
+    "team2": "غامبا أوساكا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
+    "time": "18:45",
+    "status": "نهائي دوري أبطال آسيا 2",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "الأخدود",
+    "team2": "الخليج",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/142018.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101908.png",
+    "time": "17:05",
+    "status": "الدوري السعودي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "الهلال",
+    "team2": "نيوم",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/2529.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/461011.png",
+    "time": "17:05",
+    "status": "الدوري السعودي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "الأهلي",
+    "team2": "الخلود",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101906.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/145252.png",
+    "time": "19:00",
+    "status": "الدوري السعودي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "تشيلسي",
+    "team2": "مانشستر سيتي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+    "time": "15:00",
+    "status": "نهائي كأس الاتحاد الإنجليزي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "باير ليفركوزن",
+    "team2": "هامبورغ",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9779.png",
+    "time": "14:30",
+    "status": "الدوري الألماني",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "بايرن ميونخ",
+    "team2": "كولن",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8722.png",
+    "time": "14:30",
+    "status": "الدوري الألماني",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "فيردر بريمن",
+    "team2": "بوروسيا دورتموند",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8697.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+    "time": "14:30",
+    "status": "الدوري الألماني",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  }
 
+
+
+
+],
   "player_bottom": {
     "enabled": true,
-    "image": "",
-    "text": "تابعنا للحصول على أفضل القنوات",
-    "url": "https://example.com"
+    "image": "https://github.com/ringy9/BEIN/blob/main/ratyacine.png?raw=true",
+    "text": "",
+    "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
   }
 }
