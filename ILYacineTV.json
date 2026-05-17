@@ -84,7 +84,7 @@
   "auto_hide_controls_ms": 4000,
   "seek_increment_ms": 10000,
   "enable_gestures": true
-}
+},
   "player_ads": {
     "enabled": true,
     "ad_type": "interstitial",
