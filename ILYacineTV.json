@@ -9,8 +9,8 @@
     "developer_page": "https://play.google.com/store/apps/developer?id=VIVIANA"
   },
   "onesignal": {
-    "enabled": false,
-    "app_id": ""
+    "enabled": true,
+    "app_id": "9f3c16cf-f426-490b-92be-01d320ec69d8"
   },
   "update": {
     "enabled": false,
