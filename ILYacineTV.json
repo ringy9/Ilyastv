@@ -76,15 +76,16 @@
     "enabled": false,
     "min_seconds_between_ads": 300
   },
-"player_config": {
-  "use_external_player": true,
-  "external_player_package": "com.jeaoapps.ilyasplayerpro",
-  "default_user_agent": "OstoraTV/1.0",
-  "keep_screen_on": true,
-  "auto_hide_controls_ms": 4000,
-  "seek_increment_ms": 10000,
-  "enable_gestures": true
-},
+  "player_config": {
+    "use_external_player": true,
+    "external_player_package": "com.ilyas.playerpro",
+    "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro",
+    "default_user_agent": "OstoraTV/1.0",
+    "keep_screen_on": true,
+    "auto_hide_controls_ms": 4000,
+    "seek_increment_ms": 10000,
+    "enable_gestures": true
+  },
   "player_ads": {
     "enabled": true,
     "ad_type": "interstitial",
