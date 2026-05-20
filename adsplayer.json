@@ -7,7 +7,7 @@
   },
 
   "interstitial": {
-    "active": false,
+    "active": true,
     "ad_unit_id": "ca-app-pub-6090402564146497/3388279924"
   },
 
