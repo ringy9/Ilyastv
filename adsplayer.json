@@ -3,17 +3,17 @@
 
   "banner": {
     "active": true,
-    "ad_unit_id": "ca-app-pub-6090402564146497/1770426015"
+    "ad_unit_id": "ca-app-pub-3940256099942544/6300978111"
   },
 
   "interstitial": {
     "active": true,
-    "ad_unit_id": "ca-app-pub-6090402564146497/3388279924"
+    "ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
   },
 
   "rewarded_video": {
     "active": true,
-    "ad_unit_id": "ca-app-pub-6090402564146497/3306868965"
+    "ad_unit_id": "ca-app-pub-3940256099942544/5224354917"
   },
 
   "play_ad_mode": "interstitial",
