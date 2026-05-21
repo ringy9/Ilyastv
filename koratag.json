@@ -346,6 +346,14 @@
     "use_external_player": false,
     "external_player_package": "com.ilyas.playerpro",
     "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
-  }
+  },
+  "telegram_popup": {
+  "enabled": true,
+  "title": "انضم إلينا على تيليجرام",
+  "message": "تابع آخر الأخبار والمباريات المباشرة على قناتنا الرسمية",
+  "button_text": "انضم الآن",
+  "url": "https://t.me/Ilyas_tv_live",
+  "icon_url": "https://github.com/ringy9/BEIN/blob/main/telegramlogo.png?raw=true"
+}
 
 }
