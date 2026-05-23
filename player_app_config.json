@@ -4,12 +4,12 @@
     "default_network": "levelplay",
     "fallback_network": "admob",
     "admob": {
-      "app_id": "ca-app-pub-3940256099942544~3347511713",
-      "app_open": "ca-app-pub-3940256099942544/9257395921",
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712",
-      "rewarded": "ca-app-pub-3940256099942544/5224354917",
-      "native_ad": "ca-app-pub-3940256099942544/2247696110"
+      "app_id": "ca-app-pub-3738055180283754~2264178207",
+      "app_open": "ca-app-pub-3738055180283754/5409216297",
+      "banner": "ca-app-pub-3738055180283754/1454036711",
+      "interstitial": "ca-app-pub-3738055180283754/9951096533",
+      "rewarded": "ca-app-pub-3738055180283754/6361233095",
+      "native_ad": "ca-app-pub-3738055180283754/8883454657"
     },
     "levelplay": {
       "enabled": true,
