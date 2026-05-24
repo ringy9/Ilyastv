@@ -23,9 +23,9 @@
     "meta_ads": {
       "enabled": true,
       "banner_placement": "1519352679816975_1519353299816913",
-      "interstitial_placement": "1519352679816975_1519353399816903",
+      "interstitial_placement": "1670155547655385_1670156147655325",
       "native_placement": "1519352679816975_1519353519816891",
-      "rewarded_placement": "1519352679816975_1519353636483546"
+      "rewarded_placement": "1670155547655385_1670156247655315"
     },
     "placements": {
       "app_open_enabled": true,
