@@ -1,7 +1,7 @@
 {
   "ads": {
     "enabled": true,
-    "default_network": "levelplay",
+    "default_network": "meta",
     "fallback_network": "meta",
     "second_fallback_network": "meta",
     "admob": {
@@ -23,9 +23,9 @@
     "meta_ads": {
       "enabled": true,
       "banner_placement": "1519352679816975_1519353299816913",
-      "interstitial_placement": "1670155547655385_1670156147655325",
+      "interstitial_placement": "1519352679816975_1519353399816903",
       "native_placement": "1519352679816975_1519353519816891",
-      "rewarded_placement": "1670155547655385_1670156247655315"
+      "rewarded_placement": "1519352679816975_1519353636483546"
     },
     "placements": {
       "app_open_enabled": true,
