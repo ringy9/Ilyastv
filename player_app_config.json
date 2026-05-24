@@ -1,9 +1,9 @@
 {
   "ads": {
     "enabled": true,
-    "default_network": "meta",
-    "fallback_network": "meta",
-    "second_fallback_network": "meta",
+    "default_network": "levelplay",
+    "fallback_network": "levelplay",
+    "second_fallback_network": "levelplay",
     "admob": {
       "app_id": "",
       "app_open": "",
@@ -21,7 +21,7 @@
       "native_id": "86ocum66vrtunnn1"
     },
     "meta_ads": {
-      "enabled": true,
+      "enabled": false,
       "banner_placement": "1519352679816975_1519353299816913",
       "interstitial_placement": "1519352679816975_1519353399816903",
       "native_placement": "1519352679816975_1519353519816891",
