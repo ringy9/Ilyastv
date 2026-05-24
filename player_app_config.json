@@ -2,8 +2,8 @@
   "ads": {
     "enabled": true,
     "default_network": "meta",
-    "fallback_network": "admob",
-    "second_fallback_network": "",
+    "fallback_network": "meta",
+    "second_fallback_network": "meta",
     "admob": {
       "app_id": "ca-app-pub-3940256099942544~3347511713",
       "app_open": "ca-app-pub-3940256099942544/9257395921",
