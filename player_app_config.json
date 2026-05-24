@@ -1,7 +1,7 @@
 {
   "ads": {
     "enabled": true,
-    "default_network": "meta",
+    "default_network": "levelplay",
     "fallback_network": "meta",
     "second_fallback_network": "meta",
     "admob": {
@@ -14,11 +14,11 @@
     },
     "levelplay": {
       "enabled": true,
-      "app_key": "265d00c0d",
-      "banner_id": "bzlpl7i87ndc9nik",
-      "interstitial_id": "q2j2aqxwfq1z5mi4",
-      "rewarded_id": "pp22ujykg53un8wy",
-      "native_id": "q13zfv18opyyarfl"
+      "app_key": "2675dd25d",
+      "banner_id": "21g34i5ytcqiehxl",
+      "interstitial_id": "vm0n8g2ff895yzho",
+      "rewarded_id": "h9h85l96x7zvk52p",
+      "native_id": "86ocum66vrtunnn1"
     },
     "meta_ads": {
       "enabled": true,
