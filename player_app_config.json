@@ -1,38 +1,50 @@
 {
   "ads": {
     "enabled": true,
-    "default_network": "admob",
-    "fallback_network": "levelplay",
+    "default_network": "meta",
+    "fallback_network": "admob",
+    "second_fallback_network": "",
     "admob": {
-      "app_id": "ca-app-pub-3738055180283754~2264178207",
-      "app_open": "ca-app-pub-3738055180283754/5409216297",
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
+      "app_open": "ca-app-pub-3940256099942544/9257395921",
       "banner": "ca-app-pub-3940256099942544/6300978111",
       "interstitial": "ca-app-pub-3940256099942544/1033173712",
       "rewarded": "ca-app-pub-3940256099942544/5224354917",
-      "native_ad": "ca-app-pub-3738055180283754/8883454657"
+      "native_ad": "ca-app-pub-3940256099942544/2247696110"
     },
     "levelplay": {
       "enabled": true,
-      "app_key": "2675dd25d"
+      "app_key": "265d00c0d",
+      "banner_id": "bzlpl7i87ndc9nik",
+      "interstitial_id": "q2j2aqxwfq1z5mi4",
+      "rewarded_id": "pp22ujykg53un8wy",
+      "native_id": "q13zfv18opyyarfl"
+    },
+    "meta_ads": {
+      "enabled": true,
+      "banner_placement": "1519352679816975_1519353299816913",
+      "interstitial_placement": "1519352679816975_1519353399816903",
+      "native_placement": "1519352679816975_1519353519816891",
+      "rewarded_placement": "1519352679816975_1519353636483546"
     },
     "placements": {
-      "app_open_enabled": false,
-      "banner_home": false,
-      "banner_add_url": false,
-      "banner_settings": false,
+      "app_open_enabled": true,
+      "banner_home": true,
+      "banner_add_url": true,
+      "banner_settings": true,
       "interstitial_before_player": true,
       "rewarded_before_player": true,
       "player_interstitial": true,
       "player_rewarded": true,
-      "native_exit": false,
-      "native_online_videos": false,
-      "native_settings": false,
-      "home_banner": false,
-      "settings_banner": false,
-      "add_url_banner": false,
+      "native_exit": true,
+      "native_online_videos": true,
+      "native_settings": true,
+      "home_banner": true,
+      "settings_banner": true,
+      "add_url_banner": true,
       "exit_native": true,
-      "online_videos_native": false,
-      "settings_native": false
+      "online_videos_native": true,
+      "settings_native": true
     }
   },
   "ads_config": {
@@ -40,8 +52,8 @@
     "player_rewarded_enabled": true,
     "player_interstitial_enabled": true,
     "rewarded_first": true,
-    "banner_enabled": false,
-    "native_enabled": false,
+    "banner_enabled": true,
+    "native_enabled": true,
     "player_ads_interval": 1,
     "ad_timeout_ms": 2000
   },
