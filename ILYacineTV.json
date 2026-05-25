@@ -438,5 +438,14 @@
     "image": "https://github.com/ringy9/BEIN/blob/main/ratyacine.png?raw=true",
     "text": "تابعنا للحصول على أفضل القنوات",
     "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
-  }
+  },
+    "telegram_popup": {
+  "enabled": true,
+  "show_once": true,
+  "title": "انضم إلى قناتنا على تيليجرام",
+  "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية على تيليجرام.",
+  "button_text": "القناة الرسمية",
+  "url": "https://t.me/YOUR_CHANNEL",
+  "show_do_not_show_again": true
+}
 }
