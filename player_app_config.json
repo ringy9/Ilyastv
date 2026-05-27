@@ -1,15 +1,15 @@
 {
   "ads": {
     "enabled": true,
-    "default_network": "meta",
+    "default_network": "admob",
     "fallback_network": "levelplay",
     "second_fallback_network": "levelplay",
     "admob": {
-      "app_id": "",
+      "app_id": "ca-app-pub-2993602517575056~7734696968",
       "app_open": "",
       "banner": "",
-      "interstitial": "",
-      "rewarded": "",
+      "interstitial": "ca-app-pub-2993602517575056/6514252709",
+      "rewarded": "ca-app-pub-2993602517575056/2189206331",
       "native_ad": ""
     },
     "levelplay": {
