@@ -166,16 +166,16 @@
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
       {
-        "name": "IRAQ VS ANDORA",
+        "name": "PSG vs Arsenal",
         "subtitle": "beIN SPORTS 1",
-        "logo": "https://cdn.ratingbet.com/ratingbet/20260527/af00922f6e614e302116d1934a522fbf957911adc39199edf3c402c96073d4c7-1200-750.webp",
+        "logo": "https://s.yimg.com/os/en/playmakerstats_articles_264/3754975a2f8cbe5bf4b2d69c4df3c907",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://cdn.ratingbet.com/ratingbet/20260527/af00922f6e614e302116d1934a522fbf957911adc39199edf3c402c96073d4c7-1200-750.webp",
-        "event_image": "https://cdn.ratingbet.com/ratingbet/20260527/af00922f6e614e302116d1934a522fbf957911adc39199edf3c402c96073d4c7-1200-750.webp",
+        "thumbnail": "https://s.yimg.com/os/en/playmakerstats_articles_264/3754975a2f8cbe5bf4b2d69c4df3c907",
+        "event_image": "https://s.yimg.com/os/en/playmakerstats_articles_264/3754975a2f8cbe5bf4b2d69c4df3c907",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -183,7 +183,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "https://ilyas-live.b-cdn.net/hls/channel1.m3u8",
+            "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6123/index.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -191,7 +191,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "https://ilyas-live.b-cdn.net/hls/channel1.m3u8",
+            "url": "http://h56.vidflow.online/live/918454578001/index.m3u8?t=r5HmqwWrhXHV-YIJS9axiA&e=1779527072",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -199,7 +199,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "http://cdn.app-yacinetv.live/hls/channel1.m3u8",
+            "url": "https://ilyas-live.b-cdn.net/hls/channel1.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -210,6 +210,7 @@
 
       ]
     },
+
     {
       "id": "world_cup_2026",
       "name": "مباريات كاس العالم 2026",
@@ -2477,15 +2478,51 @@
   ],
   "matches": [
 
-{
-  "team1": "العراق",
-  "team2": "أندورا",
-  "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5819.png",
-  "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10045.png",
-  "time": "17:00",
-  "status": "مباراة ودية دولية",
-  "channel_url": "https://ilyas-live.b-cdn.net/hls/channel1.m3u8"
-}
+  {
+    "team1": "PSG",
+    "team2": "Arsenal",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+    "time": "17:00",
+    "status": "نهائي دوري أبطال أوروبا",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "FUS Rabat",
+    "team2": "FAR Rabat",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102043.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102035.png",
+    "time": "20:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "Scotland",
+    "team2": "Curacao",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6718.png",
+    "time": "13:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "India",
+    "team2": "Zimbabwe",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/7730.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/7747.png",
+    "time": "14:30",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "Jamaica",
+    "team2": "Nigeria",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/7740.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/7745.png",
+    "time": "19:30",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  }
 
   ],
   "player_bottom": {
