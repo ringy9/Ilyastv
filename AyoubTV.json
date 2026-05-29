@@ -2477,43 +2477,15 @@
   ],
   "matches": [
 
-  {
-    "team1": "Egypt U17",
-    "team2": "Tanzania U17",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/7941.png",
-    "time": "17:00",
-    "status": "كأس أمم إفريقيا تحت 17 سنة - نصف النهائي",
-    "channel_url": "http://h53.netiq.online/live/610303030/index.m3u8?t=BDdcPvtqE6p2dzB2XGRf7Q&e=1779572369"
-  },
-  {
-    "team1": "Morocco U17",
-    "team2": "Senegal U17",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/482938.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/1068865.png",
-    "time": "20:00",
-    "status": "كأس أمم إفريقيا تحت 17 سنة - نصف النهائي",
-    "channel_url": "http://h53.netiq.online/live/610303030/index.m3u8?t=BDdcPvtqE6p2dzB2XGRf7Q&e=1779572369"
-  },
-      {
-    "team1": "مصر",
-    "team2": "روسيا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8713.png",
-    "time": "19:00",
-    "status": "بطولة ودية دولية",
-    "channel_url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/289ulOOYH8bS7iq-lbEgQ2pssQuUZZ94ZN-YMYxJOuIzMNB7ETEnpsWzQNO6mPLiXPBome7AWq2L02ZPgr0qcg/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_delta.m3u8?type=live"
-  },
-  {
-    "team1": "أيرلندا",
-    "team2": "قطر",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5791.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5902.png",
-    "time": "19:45",
-    "status": "بطولة ودية دولية",
-    "channel_url": "http://h56.vidflow.online/live/918454578001/index.m3u8?t=r5HmqwWrhXHV-YIJS9axiA&e=1779527072"
-  }
-
+{
+  "team1": "العراق",
+  "team2": "أندورا",
+  "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5819.png",
+  "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10045.png",
+  "time": "17:00",
+  "status": "مباراة ودية دولية",
+  "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/107038"
+}
 
   ],
   "player_bottom": {
@@ -2524,7 +2496,7 @@
   },
   "telegram_popup": {
   "enabled": true,
-  "show_once": false,
+  "show_once": true,
   "title": "انضم إلى قناتنا على تيليجرام",
   "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية على تيليجرام.",
   "button_text": "القناة الرسمية",
