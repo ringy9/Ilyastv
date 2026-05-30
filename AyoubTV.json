@@ -74,7 +74,7 @@
       "native_exit": true,
       "native_interval_channels": 6
     },
-    "show_player_bottom": false,
+    "show_player_bottom": true,
     "primary_network": "admob",
     "mediation_enabled": true,
     "admob_enabled": true,
@@ -95,7 +95,7 @@
     "banner_network": "admob",
     "native_network": "admob",
     "interstitial_network": "admob",
-    "rewarded_network": "meta",
+    "rewarded_network": "admob",
     "interstitial_show_first_click": true,
     "interstitial_click_interval": 3,
     "interstitial_cooldown_seconds": 30,
@@ -111,8 +111,8 @@
     "show_interstitial_on_match_click": true,
     "show_interstitial_on_settings_click": true,
     "show_interstitial_on_menu_click": true,
-    "show_interstitial_on_player_open": false,
-    "show_interstitial_before_play": false
+    "show_interstitial_on_player_open": true,
+    "show_interstitial_before_play": true
   },
   "app_open": {
     "enabled": true,
@@ -129,14 +129,14 @@
     "enable_gestures": true
   },
   "player_ads": {
-    "enabled": true,
+    "enabled": false,
     "ad_type": "interstitial",
-    "network": "levelplay",
+    "network": "admob",
     "fallback": "rewarded",
-    "fallback_network": "levelplay",
+    "fallback_network": "admob",
     "show_before_play": true,
     "timeout_ms": 5000,
-    "show_loading_before_ad": true,
+    "show_loading_before_ad": false,
     "loading_text": "Loading ads...",
     "block_player_until_ad_finished": true,
     "preload_on_screen_open": true,
