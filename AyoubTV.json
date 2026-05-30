@@ -197,16 +197,146 @@
             "origin": "",
             "cookie": ""
           },
-          {
+                    {
             "name": "SERVER 3",
-            "url": "https://ilyas-live.b-cdn.net/hls/channel1.m3u8",
+            "url": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/pa1ujQYOYGq69-8B5GNYqn21CM396AQrfj_8W5oHTFRD6cyNziszwA8SGIes24-pOtY-74hhFz-1vemmaikvbQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_delta.m3u8?type=live",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 3",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/153582",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 4",
+            "url": "https://match-now.site/stream/ms1/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 5",
+            "url": "https://match-now.site/stream/ms2/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 6",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+          {
+            "name": "SERVER 7",
+            "url": "https://match-now.site/hls/b1/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 8",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/7756",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 9",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/7266",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           }
           ]
-        }   
+        },  
+              {
+        "name": "PSG vs Arsenal",
+        "subtitle": "beIN SPORTS 1",
+        "logo": "https://s.yimg.com/os/en/playmakerstats_articles_264/3754975a2f8cbe5bf4b2d69c4df3c907",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://s.yimg.com/os/en/playmakerstats_articles_264/3754975a2f8cbe5bf4b2d69c4df3c907",
+        "event_image": "https://s.yimg.com/os/en/playmakerstats_articles_264/3754975a2f8cbe5bf4b2d69c4df3c907",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+          {
+            "name": "SERVER 1",
+            "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/DPDW98HA9572W3/6123/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+          {
+            "name": "SERVER 2",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/220364",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 3",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237014",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 4",
+            "url": "https://match-now.site/stream/ms1/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 5",
+            "url": "https://match-now.site/stream/ms2/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+          {
+            "name": "SERVER 6",
+            "url": "https://match-now.site/hls/b1/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 7",
+            "url": "http://h56.vidflow.online/live/918454578001/index.m3u8?t=r5HmqwWrhXHV-YIJS9axiA&e=1779527072",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+          ]
+        }
 
       ]
     },
