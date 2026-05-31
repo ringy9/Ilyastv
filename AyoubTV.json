@@ -1,9 +1,9 @@
 {
   "app": {
-    "name": "ILYAS TV",
+    "name": "Yacine TV",
     "version_code": 4.0,
-    "drawer_logo_text": "الياس تيفي",
-    "drawer_subtitle": "ILYAS TV",
+    "drawer_logo_text": "ياسين تيفي",
+    "drawer_subtitle": "YACINE TV",
     "privacy_policy_url": "",
     "share_text": "Watch the best channels and live matches on ILYAS TV!\nhttps://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld",
     "developer_page": "https://play.google.com/store/apps/developer?id=VIVIANA"
@@ -48,12 +48,12 @@
       "rewarded_enabled": true,
       "native_enabled": true
     },
-    "admob_app_id": "ca-app-pub-5817154636686484~3621327605",
-    "admob_banner": "ca-app-pub-5817154636686484/4746707014",
-    "admob_interstitial": "ca-app-pub-5817154636686484/4734568497",
-    "admob_native": "ca-app-pub-5817154636686484/6992076498",
-    "admob_rewarded": "ca-app-pub-5817154636686484/7292979309",
-    "admob_app_open": "ca-app-pub-5817154636686484/9994634030",
+    "admob_app_id": "ca-app-pub-5817154636686484~2901089568",
+    "admob_banner": "ca-app-pub-5817154636686484/1558042137",
+    "admob_interstitial": "ca-app-pub-5817154636686484/8337249076",
+    "admob_native": "ca-app-pub-5817154636686484/8750136441",
+    "admob_rewarded": "ca-app-pub-5817154636686484/9244960462",
+    "admob_app_open": "ca-app-pub-5817154636686484/3495985937",
     "max_sdk_key": "",
     "max_banner": "",
     "max_interstitial": "",
