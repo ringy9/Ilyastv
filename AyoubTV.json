@@ -166,16 +166,16 @@
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
       {
-        "name": "germany vs finland",
+        "name": "tunisia vs austria",
         "subtitle": "beIN SPORTS 1",
-        "logo": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fcdn-img.staticzz.com%2Fimg%2Fnoticias%2F453%2FimgS620I1137453T20260529194515.png",
+        "logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c18087f1-42f6-4bef-8fbe-1ca10acd64d3/2/BOXART-16X9/en-US._UR1920,1080_SX624_FMjpg_.jpg",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fcdn-img.staticzz.com%2Fimg%2Fnoticias%2F453%2FimgS620I1137453T20260529194515.png",
-        "event_image": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fcdn-img.staticzz.com%2Fimg%2Fnoticias%2F453%2FimgS620I1137453T20260529194515.png",
+        "thumbnail": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c18087f1-42f6-4bef-8fbe-1ca10acd64d3/2/BOXART-16X9/en-US._UR1920,1080_SX624_FMjpg_.jpg",
+        "event_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c18087f1-42f6-4bef-8fbe-1ca10acd64d3/2/BOXART-16X9/en-US._UR1920,1080_SX624_FMjpg_.jpg",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -183,7 +183,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://h59.datacastx.online/live/69854211/index.m3u8?t=Yes6K_WbrmuMHMUL_YymIg&e=1779527011",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -191,7 +191,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/220366",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -205,91 +205,6 @@
             "origin": "",
             "cookie": ""
           }
-
-          ]
-        },  
-              {
-        "name": "USA vs Senegal",
-        "subtitle": "beIN SPORTS 1",
-        "logo": "https://mrfixitstips.co.uk/thumbor/dG1evaPbOAE2rKkEqUWkh3Rd_7w=/1038x580/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F05%2FUSA-v-Senegal.png",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://mrfixitstips.co.uk/thumbor/dG1evaPbOAE2rKkEqUWkh3Rd_7w=/1038x580/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F05%2FUSA-v-Senegal.png",
-        "event_image": "https://mrfixitstips.co.uk/thumbor/dG1evaPbOAE2rKkEqUWkh3Rd_7w=/1038x580/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F05%2FUSA-v-Senegal.png",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "199.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://ilyas-live.b-cdn.net/hls/channel1.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/179950",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/180205",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-      }
-          ]
-        },
-         {
-        "name": "Brazil vs Panama",
-        "subtitle": "beIN SPORTS 1",
-        "logo": "https://mrfixitstips.co.uk/thumbor/5q2Ku3sM6VqA_ZlOpjN7CJLEz7U=/1038x580/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F05%2FBrazil-v-Panama.png",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://mrfixitstips.co.uk/thumbor/5q2Ku3sM6VqA_ZlOpjN7CJLEz7U=/1038x580/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F05%2FBrazil-v-Panama.png",
-        "event_image": "https://mrfixitstips.co.uk/thumbor/5q2Ku3sM6VqA_ZlOpjN7CJLEz7U=/1038x580/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F05%2FBrazil-v-Panama.png",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "199.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/3341",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/3341",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237014",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-         }
           ]
         }
       ]
@@ -2617,6 +2532,25 @@
   ],
   "matches": [
 
+      {
+    "team1": "Austria",
+    "team2": "Tunisia",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
+    "time": "19:45",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+
+    {
+  "team1": "المغرب U17",
+  "team2": "مصر U17",
+  "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+  "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png",
+  "time": "19:00",
+  "status": "مباراة تحديد المركز الثالث - كأس إفريقيا U17",
+  "channel_url": "http://h53.netiq.online/live/610303030/index.m3u8?t=BDdcPvtqE6p2dzB2XGRf7Q&e=1779572369"
+},
   {
     "team1": "Bulgaria",
     "team2": "Montenegro",
