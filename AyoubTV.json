@@ -37,12 +37,12 @@
     "interstitial_clicks": 3,
     "min_seconds_between_interstitials": 10,
     "levelplay": {
-      "enabled": false,
-      "app_key": "264ce813d",
-      "banner_ad_unit": "12koc6mzc816f9nd",
-      "interstitial_ad_unit": "kmmof90rk2irgz0n",
-      "native_ad_unit": "ej00a78yvs8a8vcm",
-      "rewarded_ad_unit": "6dnuhpqy23fbjsr0",
+      "enabled": true,
+      "app_key": "268abc5cd",
+      "banner_ad_unit": "r707b1b7m8833c09",
+      "interstitial_ad_unit": "jkft4gxtfd1a885c",
+      "native_ad_unit": "apnu94j1rcbkl46l",
+      "rewarded_ad_unit": "1ld2kemldwz6wwmc",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true,
@@ -90,7 +90,7 @@
     "meta_ads_enabled": true,
     "mediation_networks": [
       "admob",
-      ""
+      "levelplay"
     ],
     "banner_network": "admob",
     "native_network": "admob",
@@ -100,7 +100,7 @@
     "interstitial_click_interval": 3,
     "interstitial_cooldown_seconds": 10,
     "backup_ads_1": "admob",
-    "backup_ads_2": "unity_ads",
+    "backup_ads_2": "levelplay",
     "backup_ads_3": "none",
     "fallback_on_no_fill": true,
     "fallback_on_error": true,
