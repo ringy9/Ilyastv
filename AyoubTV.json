@@ -2618,87 +2618,77 @@
   "matches": [
 
   {
-    "team1": "Japan",
-    "team2": "Iceland",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8536.png",
-    "time": "11:25",
+    "team1": "Bulgaria",
+    "team2": "Montenegro",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10150.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/49437.png",
+    "time": "17:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "Singapore",
-    "team2": "Mongolia",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8559.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10187.png",
-    "time": "12:30",
+    "team1": "Maldives",
+    "team2": "Afghanistan",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5899.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/95796.png",
+    "time": "17:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "Switzerland",
-    "team2": "Jordan",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10192.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5821.png",
-    "time": "14:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015"
-  },
-  {
-    "team1": "Czechia",
-    "team2": "Kosovo",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10195.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/108466.png",
-    "time": "15:00",
+    "team1": "Slovakia",
+    "team2": "Malta",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8497.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8495.png",
+    "time": "17:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "Cape Verde",
-    "team2": "Serbia",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9778.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9806.png",
-    "time": "16:00",
+    "team1": "Norway",
+    "team2": "Sweden",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8520.png",
+    "time": "18:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "Poland",
-    "team2": "Ukraine",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8566.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5925.png",
-    "time": "16:30",
+    "team1": "Türkiye",
+    "team2": "North Macedonia",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8260.png",
+    "time": "18:30",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
-  {
-    "team1": "Germany",
-    "team2": "Finland",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
-    "time": "19:45",
-    "status": "مباراة ودية دولية",
+      {
+    "team1": "Union Touarga Sport",
+    "team2": "KACM",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/320835.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102042.png",
+    "time": "17:00",
+    "status": "البطولة المغربية الاحترافية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "USA",
-    "team2": "Senegal",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6601.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/1932.png",
-    "time": "20:30",
-    "status": "مباراة ودية دولية",
+    "team1": "Olympic Club de Safi",
+    "team2": "MAS Fes",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102099.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102043.png",
+    "time": "19:00",
+    "status": "البطولة المغربية الاحترافية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "Brazil",
-    "team2": "Panama",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5922.png",
-    "time": "22:30",
-    "status": "مباراة ودية دولية",
+    "team1": "CODM Meknes",
+    "team2": "Olympique Dcheira",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102032.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/59771.png",
+    "time": "21:00",
+    "status": "البطولة المغربية الاحترافية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
-
 
 
   ],
