@@ -232,7 +232,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291494",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -240,7 +240,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291500",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -248,7 +248,15 @@
             },
             {
               "name": "SERVER 3",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291506",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+                        {
+              "name": "SERVER 4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291512",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -274,7 +282,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291495",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -282,7 +290,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291501",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -290,7 +298,15 @@
             },
             {
               "name": "SERVER 3",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291507",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+                        {
+              "name": "SERVER 4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291513",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -316,7 +332,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291496",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -324,7 +340,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291502",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -332,7 +348,15 @@
             },
             {
               "name": "SERVER 3",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291508",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+                        {
+              "name": "SERVER 4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291514",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -358,7 +382,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291497",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -366,7 +390,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291503",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -374,7 +398,115 @@
             },
             {
               "name": "SERVER 3",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291509",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+                        {
+              "name": "SERVER 4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291515",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+                {
+          "name": "BEIN MAX 5",
+          "subtitle": "BEIN MAX 5",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
+          "event_text": "Watch BEIN MAX 4 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "35.3K views",
+          "content": "Watch BEIN MAX 4 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291498",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 2",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291504",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 3",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291510",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+                        {
+              "name": "SERVER 4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291516",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+                {
+          "name": "BEIN MAX 6",
+          "subtitle": "BEIN MAX 6",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
+          "event_text": "Watch BEIN MAX 4 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "35.3K views",
+          "content": "Watch BEIN MAX 4 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291499",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 2",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291505",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 3",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291511",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+                        {
+              "name": "SERVER 4",
+              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291517",
               "user_agent": "",
               "referer": "",
               "origin": "",
