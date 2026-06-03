@@ -2665,52 +2665,78 @@
   "matches": [
 
       {
-    "team1": "Morocco",
-    "team2": "Madagascar",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5809.png",
-    "time": "18:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "Croatia",
-    "team2": "Belgium",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
-    "time": "17:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261623.ts"
-  },
-  {
-    "team1": "Georgia",
-    "team2": "Romania",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8268.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9730.png",
-    "time": "18:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-
-  {
-    "team1": "Wales",
-    "team2": "Ghana",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5790.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6714.png",
+    "team1": "هولندا",
+    "team2": "الجزائر",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6708.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6317.png",
     "time": "19:45",
     "status": "مباراة ودية دولية",
-    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261623.ts"
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "USM Alger",
-    "team2": "CR Belouizdad",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101628.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101633.png",
+    "team1": "هايتي",
+    "team2": "نيوزيلندا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5934.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
+    "time": "01:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/2154.ts"
+  },
+  {
+    "team1": "الدنمارك",
+    "team2": "الكونغو الديمقراطية",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
     "time": "19:00",
-    "status": "الرابطة الجزائرية المحترفة الأولى",
+    "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  }
+  },
+  {
+    "team1": "لوكسمبورغ",
+    "team2": "إيطاليا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5792.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png",
+    "time": "19:45",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
 
+  {
+    "team1": "بولندا",
+    "team2": "نيجيريا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8568.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6346.png",
+    "time": "19:45",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "اتحاد يعقوب المنصور",
+    "team2": "نهضة الزمامرة",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/1786714.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/950070.png",
+    "time": "17:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253057.ts"
+  },
+  {
+    "team1": "الوداد الرياضي",
+    "team2": "اتحاد طنجة",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102050.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/316657.png",
+    "time": "19:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253057.ts"
+  },
+  {
+    "team1": "نهضة بركان",
+    "team2": "الرجاء البيضاوي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/316652.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102049.png",
+    "time": "21:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253057.ts"
+  }
 
   ],
   "player_bottom": {
