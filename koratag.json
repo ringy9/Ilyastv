@@ -59,397 +59,283 @@
     }
   ],
   "matches": [
-   {
-    "id": "1",
-    "team1": "التشيك",
-    "team2": "غواتيمالا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8496.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5858.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "01:00 AM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "team1": "المكسيك",
-    "team2": "صربيا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8205.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "03:00 AM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "3",
-    "team1": "سنغافورة",
-    "team2": "الصين",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5825.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5822.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "12:30 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "4",
-    "team1": "طاجيكستان",
-    "team2": "الهند",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5898.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6329.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "04:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "5",
-    "team1": "بيلاروسيا",
-    "team2": "سوريا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10057.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6320.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "05:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "6",
-    "team1": "جورجيا",
-    "team2": "البحرين",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8268.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5901.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "05:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "7",
-    "team1": "سلوفاكيا",
-    "team2": "الجبل الأسود",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8497.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/49437.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "05:30 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "8",
-    "team1": "مولدوفا",
-    "team2": "بلغاريا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5794.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10150.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "06:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "9",
-    "team1": "روسيا",
-    "team2": "بوركينا فاسو",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8713.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6323.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "06:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "10",
-    "team1": "سان مارينو",
-    "team2": "بنغلاديش",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6035.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/95797.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "06:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "11",
-    "team1": "المجر",
-    "team2": "فنلندا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8565.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7871.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "06:45 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "12",
-    "team1": "أذربيجان",
-    "team2": "مالطا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8566.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8495.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "07:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "13",
-    "team1": "أنغولا",
-    "team2": "موريتانيا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6712.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/68374.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "08:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "14",
-    "team1": "باراغواي",
-    "team2": "نيكاراغوا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5807.png",
-    "league": "Friendlies",
-    "date": "June 05, 2026",
-    "time": "11:15 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "15",
-    "team1": "بورتوريكو",
-    "team2": "السعودية",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5756.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7795.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "12:00 AM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "16",
-    "team1": "كندا",
-    "team2": "إيرلندا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5791.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "12:30 AM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "17",
-    "team1": "هايتي",
-    "team2": "بيرو",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5934.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5798.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "01:00 AM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  }
+    {
+      "id": "1",
+      "team1": "الأهلي",
+      "team2": "الزمالك",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Al_Ahly_SC_logo.svg/200px-Al_Ahly_SC_logo.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Zamalek_SC_logo.svg/200px-Zamalek_SC_logo.svg.png",
+      "league": "Egypt League",
+      "date": "May 06, 2026",
+      "time": "09:00 PM",
+      "status": "live",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        },
+        {
+          "name": "سيرفر 2 SD",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "type": "mp4",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "team1": "بيراميدز",
+      "team2": "المصري",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Pyramids_FC_%28logo%29.svg/200px-Pyramids_FC_%28logo%29.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Al_Masry_SC_logo.svg/200px-Al_Masry_SC_logo.svg.png",
+      "league": "Egypt League",
+      "date": "May 06, 2026",
+      "time": "07:00 PM",
+      "status": "live",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "team1": "إنبي",
+      "team2": "سموحة",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/1/19/ENPPI_Club_logo.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Smouha_SC_logo.svg/200px-Smouha_SC_logo.svg.png",
+      "league": "Egypt League",
+      "date": "May 07, 2026",
+      "time": "05:00 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "team1": "الهلال",
+      "team2": "النصر",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Al-Hilal_FC_logo.svg/200px-Al-Hilal_FC_logo.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Al-Nassr_FC_Logo.svg/200px-Al-Nassr_FC_Logo.svg.png",
+      "league": "Saudi League",
+      "date": "May 06, 2026",
+      "time": "08:30 PM",
+      "status": "live",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "team1": "الاتحاد",
+      "team2": "الخليج",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Al-Ittihad_Club_Logo.svg/200px-Al-Ittihad_Club_Logo.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Al-Khaleej_Club_logo.svg/200px-Al-Khaleej_Club_logo.svg.png",
+      "league": "Saudi League",
+      "date": "May 07, 2026",
+      "time": "09:00 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "team1": "ريال مدريد",
+      "team2": "أرسنال",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/200px-Real_Madrid_CF.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/200px-Arsenal_FC.svg.png",
+      "league": "Champions League",
+      "date": "May 07, 2026",
+      "time": "10:00 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        },
+        {
+          "name": "سيرفر 2 SD",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "type": "mp4",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "team1": "بايرن ميونخ",
+      "team2": "إنتر ميلان",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/200px-FC_Internazionale_Milano_2021.svg.png",
+      "league": "Champions League",
+      "date": "May 07, 2026",
+      "time": "10:00 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "team1": "ليفربول",
+      "team2": "مانشستر سيتي",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/200px-Liverpool_FC.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/200px-Manchester_City_FC_badge.svg.png",
+      "league": "Premier League",
+      "date": "May 06, 2026",
+      "time": "04:30 PM",
+      "status": "finished",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "team1": "تشيلسي",
+      "team2": "توتنهام",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/200px-Chelsea_FC.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/200px-Tottenham_Hotspur.svg.png",
+      "league": "Premier League",
+      "date": "May 08, 2026",
+      "time": "07:00 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "team1": "ريال مدريد",
+      "team2": "برشلونة",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/200px-Real_Madrid_CF.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/200px-FC_Barcelona_%28crest%29.svg.png",
+      "league": "La Liga",
+      "date": "May 08, 2026",
+      "time": "10:00 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        },
+        {
+          "name": "سيرفر 2 SD",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "type": "mp4",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "team1": "يوفنتوس",
+      "team2": "ميلان",
+      "team1_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Juventus_FC_-_pictogram.svg/200px-Juventus_FC_-_pictogram.svg.png",
+      "team2_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/200px-Logo_of_AC_Milan.svg.png",
+      "league": "Serie A",
+      "date": "May 09, 2026",
+      "time": "09:45 PM",
+      "status": "upcoming",
+      "thumbnail": "https://i.imgur.com/kYqZfGJ.png",
+      "ad_id": "ad1",
+      "servers": [
+        {
+          "name": "سيرفر 1 HD",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "type": "hls",
+          "user_agent": "",
+          "referer": "",
+          "origin": ""
+        }
+      ]
+    }
   ],
   "highlights": [
     {
@@ -495,7 +381,7 @@
       "image": "https://i.imgur.com/5iFqWEg.jpg",
       "time_ago": "منذ ساعة",
       "url": "",
-      "content": "أصدر النجم الفرنسي كيليان مبابي بياناً رسمياً عبر حساباته على مواقع التواصل الاجتماعي، رداً على الانتقادات التي تعرض لها من جماهير ريال مدريد خلال الفترة الأخيرة. وأكد مبابي في بيانه أنه يحترم جميع الجماهير لكنه لن يقبل بأي إهانة شخصية. وقال اللاعب: أنا هنا لأخدم هذا الفريق العظيم بكل ما أملك من طاقة، وسأستمر في العمل الجاد حتى أثبت جدارتي أمام الجميع."
+      "content": "أصدر النجم الفرنسي كيليان مبابي بياناً رسمياً عبر حساباته على مواقع التواصل الاجتماعي، رداً على الانتقادات التي تعرض لها من جماهير ريال مدريد خلال الفترة الأخيرة."
     },
     {
       "id": "n2",
@@ -503,7 +389,7 @@
       "image": "https://i.imgur.com/8QqZfGJ.png",
       "time_ago": "منذ ساعتين",
       "url": "",
-      "content": "حطم النجم المصري محمد صلاح رقماً قياسياً تاريخياً في الدوري الإنجليزي الممتاز بتسجيله الهدف رقم 160 مع نادي ليفربول، ليصبح بذلك أكثر لاعب أفريقي تسجيلاً للأهداف في تاريخ البطولة. جاء الهدف في مباراة الفريق أمام مانشستر سيتي والتي انتهت بفوز ليفربول بثلاثة أهداف مقابل اثنين في مباراة مثيرة."
+      "content": "حطم النجم المصري محمد صلاح رقماً قياسياً تاريخياً في الدوري الإنجليزي الممتاز بتسجيله الهدف رقم 160 مع نادي ليفربول."
     },
     {
       "id": "n3",
@@ -511,7 +397,7 @@
       "image": "https://i.imgur.com/5iFqWEg.jpg",
       "time_ago": "منذ 3 ساعات",
       "url": "",
-      "content": "حقق النادي الأهلي المصري فوزاً كبيراً على غريمه الزمالك في نسخة جديدة من ديربي القرن بنتيجة 3-1 ضمن منافسات الدوري المصري الممتاز. سجل للأهلي ثلاثة أهداف موزعة على ثلاثة لاعبين مختلفين، فيما جاء هدف الزمالك الوحيد عن طريق ضربة جزاء في الدقيقة 78."
+      "content": "حقق النادي الأهلي المصري فوزاً كبيراً على غريمه الزمالك في نسخة جديدة من ديربي القرن بنتيجة 3-1."
     },
     {
       "id": "n4",
@@ -519,7 +405,7 @@
       "image": "https://i.imgur.com/8QqZfGJ.png",
       "time_ago": "منذ 4 ساعات",
       "url": "",
-      "content": "أعلن نادي ريال مدريد الإسباني رسمياً عن التعاقد مع أحد أبرز المواهب البرازيلية الشابة في صفقة انتقال مفاجئة أثارت اهتمام عالم الكرة. يبلغ اللاعب من العمر 21 عاماً وقدم مستويات استثنائية في دوري الدرجة الأولى البرازيلي خلال الموسمين الماضيين."
+      "content": "أعلن نادي ريال مدريد الإسباني رسمياً عن التعاقد مع أحد أبرز المواهب البرازيلية الشابة في صفقة انتقال مفاجئة."
     },
     {
       "id": "n5",
@@ -527,7 +413,7 @@
       "image": "https://i.imgur.com/5iFqWEg.jpg",
       "time_ago": "منذ 5 ساعات",
       "url": "",
-      "content": "أعلن الاتحاد السعودي لكرة القدم رسمياً عن موعد انطلاق الموسم الجديد من دوري روشن السعودي للمحترفين، حيث ستنطلق مباريات الجولة الأولى في أغسطس 2026 بمشاركة 18 فريقاً. تتضمن قائمة الأندية المشاركة الفرق الكبرى كالهلال والنصر والاتحاد والاتفاق."
+      "content": "أعلن الاتحاد السعودي لكرة القدم رسمياً عن موعد انطلاق الموسم الجديد من دوري روشن السعودي للمحترفين."
     },
     {
       "id": "n6",
@@ -535,7 +421,7 @@
       "image": "https://i.imgur.com/8QqZfGJ.png",
       "time_ago": "منذ 6 ساعات",
       "url": "",
-      "content": "أتم نادي برشلونة الإسباني صفقة التعاقد مع حارس مرمى دولي جديد استعداداً للموسم القادم، وذلك بعد الأداء المخيب لحارس المرمى الأول في عدة مباريات حاسمة. الحارس الجديد سبق له الدفاع عن منتخب بلاده في بطولة كأس العالم الأخيرة."
+      "content": "أتم نادي برشلونة الإسباني صفقة التعاقد مع حارس مرمى دولي جديد استعداداً للموسم القادم."
     }
   ],
   "update": {
@@ -612,13 +498,7 @@
         "enabled": true,
         "network": "levelplay",
         "fallback_network": "admob",
-        "show_on": [
-          "matches",
-          "categories",
-          "highlights",
-          "news",
-          "settings"
-        ],
+        "show_on": ["matches", "categories", "highlights", "news", "settings"],
         "position": "bottom"
       },
       "interstitial": {
@@ -628,12 +508,7 @@
         "first_click": true,
         "show_every_clicks": 1,
         "min_seconds_between_ads": 0,
-        "show_on_clicks": [
-          "match_click",
-          "highlight_click",
-          "news_click",
-          "category_click"
-        ]
+        "show_on_clicks": ["match_click", "highlight_click", "news_click", "category_click"]
       },
       "native": {
         "enabled": true,
