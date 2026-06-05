@@ -445,15 +445,15 @@
     "exit_button_text": "خروج",
     "cancel_button_text": "إلغاء",
     "show_native_ad": true,
-    "native_ad_network": "admob",
-    "native_ad_fallback_network": "meta"
+    "native_ad_network": "meta",
+    "native_ad_fallback_network": "admob"
   },
   "ads_config": {
     "enabled": true,
-    "default_network": "levelplay",
+    "default_network": "meta",
     "fallback_network": "admob",
     "admob": {
-      "enabled": true,
+      "enabled": false,
       "app_id": "ca-app-pub-3940256099942544~3347511713",
       "banner_id": "ca-app-pub-3940256099942544/6300978111",
       "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
@@ -478,10 +478,10 @@
       "rewarded_ad_unit_id": "6dnuhpqy23fbjsr0"
     },
     "meta": {
-      "enabled": false,
-      "placement_banner": "YOUR_META_BANNER_ID",
-      "placement_interstitial": "YOUR_META_INTERSTITIAL_ID",
-      "placement_native": "YOUR_META_NATIVE_ID"
+      "enabled": true,
+      "placement_banner": "3185030118346765_3208500032666440",
+      "placement_interstitial": "3185030118346765_3208500125999764",
+      "placement_native": "3185030118346765_3208500202666423"
     },
     "levelplay": {
       "enabled": true,
@@ -496,14 +496,14 @@
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "meta",
         "fallback_network": "admob",
         "show_on": ["matches", "categories", "highlights", "news", "settings"],
         "position": "bottom"
       },
       "interstitial": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "meta",
         "fallback_network": "admob",
         "first_click": true,
         "show_every_clicks": 1,
@@ -512,7 +512,7 @@
       },
       "native": {
         "enabled": true,
-        "network": "admob",
+        "network": "meta",
         "fallback_network": "meta",
         "player_preview": {
           "enabled": true,
@@ -528,7 +528,7 @@
         },
         "exit_dialog": {
           "enabled": true,
-          "network": "admob",
+          "network": "meta",
           "fallback_network": "meta"
         }
       },
@@ -541,7 +541,7 @@
     }
   },
   "player_config": {
-    "use_external_player": true,
+    "use_external_player": false,
     "external_player_package": "com.ilyas.playerpro",
     "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
   },
