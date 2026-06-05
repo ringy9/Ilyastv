@@ -450,7 +450,7 @@
   },
   "ads_config": {
     "enabled": true,
-    "default_network": "meta",
+    "default_network": "levelplay",
     "fallback_network": "admob",
     "admob": {
       "enabled": false,
@@ -469,13 +469,13 @@
     },
     "ironsource": {
       "enabled": true,
-      "app_key": "264ce813d",
+      "app_key": "269c9a18d",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true,
-      "banner_ad_unit_id": "12koc6mzc816f9nd",
-      "interstitial_ad_unit_id": "kmmof90rk2irgz0n",
-      "rewarded_ad_unit_id": "6dnuhpqy23fbjsr0"
+      "banner_ad_unit_id": "80b1bb6g3lwuxv43",
+      "interstitial_ad_unit_id": "bgefeaxzw0yf1mwo",
+      "rewarded_ad_unit_id": "da761sxxpw9787hv"
     },
     "meta": {
       "enabled": true,
@@ -485,25 +485,25 @@
     },
     "levelplay": {
       "enabled": true,
-      "app_key": "264ce813d",
+      "app_key": "269c9a18d",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true,
-      "banner_ad_unit_id": "12koc6mzc816f9nd",
-      "interstitial_ad_unit_id": "kmmof90rk2irgz0n",
-      "rewarded_ad_unit_id": "6dnuhpqy23fbjsr0"
+      "banner_ad_unit_id": "80b1bb6g3lwuxv43",
+      "interstitial_ad_unit_id": "bgefeaxzw0yf1mwo",
+      "rewarded_ad_unit_id": "da761sxxpw9787hv"
     },
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "meta",
+        "network": "levelplay",
         "fallback_network": "admob",
         "show_on": ["matches", "categories", "highlights", "news", "settings"],
         "position": "bottom"
       },
       "interstitial": {
         "enabled": true,
-        "network": "meta",
+        "network": "levelplay",
         "fallback_network": "admob",
         "first_click": true,
         "show_every_clicks": 1,
@@ -512,7 +512,7 @@
       },
       "native": {
         "enabled": true,
-        "network": "meta",
+        "network": "levelplay",
         "fallback_network": "meta",
         "player_preview": {
           "enabled": true,
@@ -528,7 +528,7 @@
         },
         "exit_dialog": {
           "enabled": true,
-          "network": "meta",
+          "network": "levelplay",
           "fallback_network": "meta"
         }
       },
