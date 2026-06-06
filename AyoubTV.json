@@ -251,6 +251,49 @@
 
           ]
         },
+                              {
+        "name": "argentina vs honduras",
+        "subtitle": "argentina vs honduras",
+        "logo": "https://cdn-img.staticzz.com/img/noticias/977/imgS300I1139977T20260605010019.png",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://cdn-img.staticzz.com/img/noticias/977/imgS300I1139977T20260605010019.png",
+        "event_image": "https://cdn-img.staticzz.com/img/noticias/977/imgS300I1139977T20260605010019.png",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+          {
+            "name": "SERVER 1",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253582.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+          {
+            "name": "SERVER 2",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253582.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 3",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237021",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
               {
         "name": "Qatar vs El Salvador",
         "subtitle": "Qatar vs El Salvador",
