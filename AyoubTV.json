@@ -75,7 +75,7 @@
       "native_interval_channels": 6
     },
     "show_player_bottom": true,
-    "primary_network": "admob",
+    "primary_network": "meta",
     "mediation_enabled": true,
     "admob_enabled": true,
     "admob_direct_enabled": true,
@@ -90,7 +90,7 @@
     "meta_ads_enabled": true,
     "mediation_networks": [
       "admob",
-      "levelplay"
+      "meta"
     ],
     "banner_network": "admob",
     "native_network": "admob",
@@ -100,7 +100,7 @@
     "interstitial_click_interval": 3,
     "interstitial_cooldown_seconds": 10,
     "backup_ads_1": "admob",
-    "backup_ads_2": "levelplay",
+    "backup_ads_2": "meta",
     "backup_ads_3": "",
     "fallback_on_no_fill": true,
     "fallback_on_error": true,
