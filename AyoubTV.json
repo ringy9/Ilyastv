@@ -2971,15 +2971,16 @@
   ],
   "matches": [
 
-      {
-    "team1": "بلجيكا",
-    "team2": "تونس",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
-    "time": "14:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
+{
+  "team1": "هندوراس",
+  "team2": "الأرجنتين",
+  "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5808.png",
+  "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
+  "time": "01:00",
+  "status": "مباراة ودية دولية",
+  "channel": "Abu Dhabi Sports 2",
+  "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+},
 
   {
     "team1": "البرازيل",
@@ -2999,15 +3000,7 @@
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
-  {
-    "team1": "بورتوريكو",
-    "team2": "السعودية",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5756.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/7795.png",
-    "time": "00:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
+
       {
     "team1": "الولايات المتحدة",
     "team2": "ألمانيا",
@@ -3017,15 +3010,7 @@
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
-      {
-    "team1": "البرتغال",
-    "team2": "تشيلي",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9762.png",
-    "time": "18:45",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
+
       {
     "team1": "إنجلترا",
     "team2": "نيوزيلندا",
