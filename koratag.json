@@ -87,7 +87,7 @@
       {
         "name": "سيرفر 1 HD",
         "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
+        "type": "mp4",
         "user_agent": "",
         "referer": "",
         "origin": ""
