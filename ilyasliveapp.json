@@ -1,0 +1,437 @@
+{
+  "app": {
+    "name": "Sports Live",
+    "name_ar": "سبورتس لايف",
+    "logo": "https://i.imgur.com/YbF6qSw.png",
+    "slogan": "بث مباشر للمباريات",
+    "onesignal_app_id": "6bd309ba-4295-4546-99d9-f0441e9ff652"
+  },
+  "ads": [
+    {
+      "id": "ad1",
+      "title": "ADS - اعلان",
+      "image": "https://github.com/ringy9/BEIN/blob/main/ratyacine.png?raw=true",
+      "url": "https://play.google.com/store/apps/details?id=app.jeaoappssirtv.ilyastv"
+    }
+  ],
+  "categories": [
+        {
+      "id": "world_cup",
+      "name": "كاس العالم 2026",
+      "league": "world cup 2026",
+      "image": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/catigory/1.png",
+      "match_count": 1
+    },
+        {
+      "id": "champions_league",
+      "name": "دوري أبطال أوروبا",
+      "league": "Champions League",
+      "image": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/catigory/2.png",
+      "match_count": 2
+    },
+        {
+      "id": "premier_league",
+      "name": "الدوري الإنجليزي",
+      "league": "Premier League",
+      "image": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/catigory/3.png",
+      "match_count": 3
+    },
+        {
+      "id": "la_liga",
+      "name": "الدوري الإسباني",
+      "league": "La Liga",
+      "image": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/catigory/4.png",
+      "match_count": 4
+    },
+        {
+      "id": "serie_a",
+      "name": "الدوري الإيطالي",
+      "league": "Serie A",
+      "image": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/catigory/5.png",
+      "match_count": 5
+    },
+        {
+      "id": "saudi_league",
+      "name": "الدوري السعودي",
+      "league": "Saudi League",
+      "image": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/catigory/6.png",
+      "match_count": 6
+    },
+    {
+      "id": "egypt_league",
+      "name": "الدوري المصري",
+      "league": "Egypt League",
+      "image": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/catigory/7.png",
+      "match_count": 7
+    }
+
+
+
+
+
+  ],
+  "matches": [
+
+      {
+    "id": "6",
+    "team1": "المغرب",
+    "team2": "النرويج",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
+    "league": "Friendlies",
+    "date": "June 07, 2026",
+    "time": "08:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "team1": "ليختنشتاين",
+    "team2": "قبرص",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5799.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5793.png",
+    "league": "Friendlies",
+    "date": "June 07, 2026",
+    "time": "02:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "team1": "الدنمارك",
+    "team2": "أوكرانيا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6718.png",
+    "league": "Friendlies",
+    "date": "June 07, 2026",
+    "time": "05:30 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "team1": "كوسوفو",
+    "team2": "أندورا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10045.png",
+    "league": "Friendlies",
+    "date": "June 07, 2026",
+    "time": "07:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "team1": "كرواتيا",
+    "team2": "سلوفينيا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5787.png",
+    "league": "Friendlies",
+    "date": "June 07, 2026",
+    "time": "07:45 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "team1": "اليونان",
+    "team2": "إيطاليا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6383.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png",
+    "league": "Friendlies",
+    "date": "June 07, 2026",
+    "time": "08:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+
+  {
+    "id": "7",
+    "team1": "الإكوادور",
+    "team2": "غواتيمالا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5858.png",
+    "league": "Friendlies",
+    "date": "June 07, 2026",
+    "time": "09:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "team1": "كولومبيا",
+    "team2": "الأردن",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5816.png",
+    "league": "Friendlies",
+    "date": "June 08, 2026",
+    "time": "12:00 AM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  }
+
+  ],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "ملخص | الأهلي 3-1 الزمالك | ديربي القرن",
+      "date": "May 05, 2026",
+      "image": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/thumbnail.jpg",
+      "video_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    }
+  ],
+  "news": [
+    {
+  "id": "n3",
+  "title": "المغرب يواجه النرويج اليوم في اختبار قوي قبل كأس العالم",
+  "image": "https://m.elbotola.com/_next/image/?url=https%3A%2F%2Fimages2.elbotola.com%2Farticle%2F6a254d0906c604dae429cd75_default.jpg&w=3840&q=75",
+  "time_ago": "اليوم",
+  "url": "",
+  "content": "يخوض المنتخب المغربي اليوم، 7 يونيو 2026، مواجهة ودية قوية أمام منتخب النرويج، في مباراة تدخل ضمن آخر مراحل الاستعداد قبل انطلاق كأس العالم.\n\nوتقام المباراة على أرضية ملعب Sports Illustrated Stadium بالولايات المتحدة، انطلاقاً من الساعة 19:00 بتوقيت غرينتش، وسط اهتمام كبير من الجماهير المغربية التي تترقب ظهور أسود الأطلس في اختبار مهم قبل بداية المنافسة العالمية.\n\nويسعى المنتخب المغربي إلى تأكيد جاهزيته الفنية والبدنية، خاصة بعد فوزه الأخير على مدغشقر بنتيجة 4-0، وهو الانتصار الذي منح المجموعة دفعة معنوية مهمة قبل مواجهة منافس أوروبي قوي يضم أسماء بارزة في خط الهجوم.\n\nوتُعد مواجهة النرويج اختباراً حقيقياً لدفاع المنتخب المغربي، بالنظر إلى القوة الهجومية التي يتميز بها المنتخب النرويجي، بقيادة نجوم قادرين على صناعة الفارق في أي لحظة، ما يجعل المباراة فرصة مهمة للطاقم التقني من أجل تقييم مستوى التركيز والتنظيم الدفاعي.\n\nمن جانبه، يدخل المنتخب المغربي هذه المباراة بهدف تجربة بعض الحلول التكتيكية قبل المواجهة المرتقبة أمام البرازيل يوم 13 يونيو في افتتاح مشواره بكأس العالم، حيث يرغب الجهاز الفني في الوقوف على جاهزية اللاعبين واختيار التشكيلة الأنسب للبطولة.\n\nوتحمل المباراة أهمية خاصة للجماهير المغربية، لأنها تأتي في توقيت حساس قبل انطلاق كأس العالم، كما أنها تمنح اللاعبين فرصة لاكتساب المزيد من الانسجام والثقة قبل الدخول في أجواء المنافسة الرسمية.\n\nومن المنتظر أن يعتمد المنتخب المغربي على أسلوب متوازن يجمع بين الصلابة الدفاعية والسرعة في التحول الهجومي، مع محاولة استغلال الأطراف والكرات السريعة للوصول إلى مرمى النرويج.\n\nوفي المقابل، سيحاول منتخب النرويج فرض إيقاعه والضغط على دفاع المغرب، ما قد يجعل المواجهة مفتوحة وقوية من الناحية البدنية والتكتيكية.\n\nوتبقى هذه المباراة محطة مهمة لأسود الأطلس قبل كأس العالم، إذ يبحث المنتخب المغربي عن أداء مقنع ونتيجة إيجابية تمنح اللاعبين والجماهير ثقة أكبر قبل بداية التحدي العالمي."
+},
+{
+  "id": "n1",
+  "title": "البرازيل تهزم مصر 2-1 في آخر اختبار ودي قبل كأس العالم",
+  "image": "https://images.performgroup.com/di/library/omnisport/16/f5/endrick_s2u2hqijbql219vuqqmwm7j5t.jpg?t=-1622657714&w=1200&h=630",
+  "time_ago": "منذ ساعة",
+  "url": "",
+  "content": "اختتم منتخب البرازيل استعداداته لكأس العالم بفوز صعب على منتخب مصر بنتيجة 2-1، في المباراة الودية التي جمعتهما بمدينة كليفلاند، حيث سجّل برونو غيمارايش وإندريك هدفي المنتخب البرازيلي.\n\nودخلت البرازيل المباراة بقوة، وتمكنت من افتتاح التسجيل مبكراً في الدقيقة السابعة، بعدما خطف برونو غيمارايش الكرة من مهند لاشين قرب منطقة الجزاء، قبل أن يسددها بهدوء في الزاوية اليمنى السفلية.\n\nلكن رد المنتخب المصري جاء سريعاً بعد أربع دقائق فقط، حين استغل مصطفى زيكو خطأ دفاعياً من ماركينيوس، الذي أعاد تمريرة خاطئة نحو أليسون، ليخطف زيكو الكرة ويسجل هدف التعادل بثقة.\n\nوحاول المنتخب البرازيلي استعادة التقدم قبل نهاية الشوط الأول، وخلق عدة فرص خطيرة عن طريق فينيسيوس جونيور ورافينيا وإيغور تياغو، إلا أن الحارس مصطفى شوبير تألق وتصدى لمحاولات عديدة.\n\nوفي الشوط الثاني، أجرى المدرب كارلو أنشيلوتي عدة تغييرات، وكان أبرزها دخول إندريك، الذي نجح بعد دقائق قليلة من مشاركته في تسجيل هدف الفوز، مستفيداً من تمريرة مميزة من رافينيا بعد مجهود رائع على الجهة اليسرى.\n\nويؤكد هذا الفوز قوة الخيارات الهجومية التي يملكها أنشيلوتي قبل بداية مشوار البرازيل في كأس العالم، خاصة مع تألق رافينيا وحضور فينيسيوس جونيور وماتيوس كونيا، إضافة إلى ظهور إندريك بصورة جيدة رغم صغر سنه.\n\nورغم استمرار الحديث حول جاهزية نيمار قبل مواجهة المغرب يوم 13 يونيو، فإن أداء البرازيل أظهر أن المنتخب يملك حلولاً هجومية متعددة قادرة على صناعة الفارق.\n\nمن جانب آخر، تلقى منتخب مصر هزيمته الأولى منذ خسارته أمام نيجيريا في مباراة تحديد المركز الثالث بكأس أمم إفريقيا في يناير الماضي، وسيبدأ مشواره في كأس العالم بمواجهة قوية أمام بلجيكا يوم 15 يونيو."
+},
+{
+  "id": "n2",
+  "title": "الأرجنتين تهزم هندوراس 2-0 في غياب ميسي",
+  "image": "https://images.performgroup.com/di/library/omnisport/72/7/martinez-and-simeone_1tdzgg8qidrs819x1sp2jywpup.jpg?t=-1548940194&w=1200&h=630",
+  "time_ago": "منذ ساعة",
+  "url": "",
+  "content": "حقق منتخب الأرجنتين فوزاً مهماً على منتخب هندوراس بنتيجة 2-0، في أولى مبارياته الودية قبل الدفاع عن لقبه في كأس العالم، وذلك رغم بقاء القائد ليونيل ميسي على مقاعد البدلاء بسبب تعافيه من إرهاق عضلي.\n\nوسجّل لاوتارو مارتينيز وجوليانو سيميوني هدفي المنتخب الأرجنتيني، ليمنحا فريق المدرب ليونيل سكالوني انتصاراً مريحاً في المباراة التي أقيمت على ملعب كايل فيلد.\n\nوبدأت الأرجنتين المباراة بمحاولات هجومية مبكرة، حيث اختبر سيميوني ومارتينيز حارس هندوراس إدريك مينخيفار خلال الدقائق الأولى، قبل أن يواصل المنتخب الأرجنتيني ضغطه بحثاً عن هدف التقدم.\n\nوكاد جيوفاني لو سيلسو أن يفتتح التسجيل بتسديدة قوية من خارج منطقة الجزاء، لكنها اصطدمت بإطار المرمى، قبل أن يحصل المنتخب الأرجنتيني على ركلة جزاء بعد عرقلة نيكولاس تاليافيكو داخل المنطقة.\n\nوتولى لاوتارو مارتينيز تنفيذ الركلة بنجاح في الدقيقة 37، بعدما سدد الكرة بهدوء في الزاوية اليسرى السفلية، رغم محاولة الحارس التصدي لها.\n\nوفي الشوط الثاني، واصل منتخب الأرجنتين أفضليته الهجومية، ونجح جوليانو سيميوني في إضافة الهدف الثاني عند الدقيقة 54، بعدما استغل تمريرة من لاوتارو مارتينيز داخل المنطقة، ليسدد كرة منخفضة سكنت الشباك.\n\nوبعد الهدف الثاني، أجرى المدرب ليونيل سكالوني عدة تغييرات، دون إشراك ليونيل ميسي، واكتفى المنتخب الأرجنتيني بالحفاظ على تقدمه حتى نهاية اللقاء دون إضافة هدف ثالث.\n\nوأظهر منتخب الأرجنتين قدرته الهجومية حتى في غياب نجمه الأول ميسي، حيث قدم سيميوني مستوى مميزاً سواء في صناعة الفرص أو تهديد المرمى، بعدما سدد أربع مرات، منها ثلاث تسديدات على المرمى، كما صنع خمس فرص لزملائه.\n\nوسيكون ميسي مرشحاً للعودة إلى التشكيلة الأساسية في المباراة الافتتاحية للأرجنتين بكأس العالم أمام الجزائر يوم 16 يونيو، لكن الفوز على هندوراس أكد أن المنتخب الأرجنتيني يملك حلولاً هجومية متعددة قبل انطلاق البطولة.\n\nوأنهت الأرجنتين اللقاء بـ20 تسديدة وبلغت قيمة أهدافها المتوقعة 2.28، بينما فشل منتخب هندوراس في تهديد مرمى خوان موسو بشكل حقيقي، بعدما لم ينجح في توجيه أي تسديدة على المرمى من أربع محاولات."
+},
+    {
+  "id": "n3",
+  "title": "مدرب النرويج: مواجهة المغرب اختبار قوي قبل كأس العالم",
+  "image": "https://assets.kooora.com/images/v3/blted2b0a172fcad0bf/norway.jpg?quality=60&auto=webp&format=pjpg&width=1320",
+  "time_ago": "اليوم",
+  "url": "",
+  "content": "أكد ستالي سولباكن، مدرب منتخب النرويج، أن مواجهة المنتخب المغربي اليوم الأحد 7 يونيو 2026 تمثل اختباراً قوياً ومهماً لفريقه، ضمن استعدادات المنتخبين قبل انطلاق منافسات كأس العالم 2026.\n\nوتقام المباراة الودية بين المغرب والنرويج في ولاية نيوجيرسي الأمريكية، وسط ترقب كبير من الجماهير، خاصة أن اللقاء يأتي في مرحلة حساسة قبل دخول المنتخبات أجواء البطولة العالمية.\n\nوأوضح مدرب النرويج أن المنتخب المغربي يُعد منافساً قوياً، بعدما قدم مستويات مميزة خلال السنوات الأخيرة ونجح في ترسيخ حضوره بين كبار المنتخبات، مشيراً إلى أن أسود الأطلس يملكون تنظيماً جيداً وقدرة واضحة على المنافسة أمام خصوم من مستويات عالية.\n\nوأشار سولباكن إلى أن طريقة لعب المنتخب المغربي شهدت بعض التغييرات في الفترة الأخيرة، بعدما كان يعتمد في كأس العالم الماضية على أسلوب دفاعي منظم وناجح، قبل أن يظهر مؤخراً بشكل مختلف من الناحية الفنية.\n\nوتُعد هذه المواجهة فرصة مهمة للمنتخب المغربي من أجل اختبار جاهزية اللاعبين قبل بداية مشواره في كأس العالم، خصوصاً أن أسود الأطلس سيواجهون منتخب البرازيل يوم 13 يونيو في افتتاح مبارياتهم بالبطولة.\n\nكما يسعى المنتخب النرويجي بدوره إلى الاستفادة من هذه المباراة القوية، خاصة أنه يستعد لخوض كأس العالم ضمن مجموعة تضم منتخبات قوية، ما يجعل مواجهة المغرب اختباراً حقيقياً من الناحيتين البدنية والتكتيكية.\n\nوتحمل المباراة أهمية خاصة للطاقمين الفنيين، إذ تمنح كل منتخب فرصة لتجربة بعض الخيارات ومراجعة أسلوب اللعب قبل المباريات الرسمية، في وقت ينتظر فيه الجمهور المغربي ظهوراً قوياً ومقنعاً لأسود الأطلس قبل انطلاق التحدي العالمي."
+}
+
+  ],
+  "update": {
+    "enabled": false,
+    "force_update": false,
+    "latest_version_code": 2,
+    "latest_version_name": "2.0",
+    "title": "تحديث جديد متاح!",
+    "message": "يتوفر إصدار جديد من التطبيق يحتوي على تحسينات في الأداء وميزات جديدة. قم بالتحديث الآن للحصول على أفضل تجربة.",
+    "icon": "",
+    "update_button_text": "تحديث الآن",
+    "later_button_text": "لاحقاً",
+    "update_url": "https://play.google.com/store/apps/details?id=com.sportslive.app",
+    "show_every_launch": false
+  },
+  "exit_dialog": {
+    "enabled": true,
+    "title": "هل تريد الخروج؟",
+    "message": "هل أنت متأكد أنك تريد إغلاق التطبيق؟",
+    "icon": "",
+    "exit_button_text": "خروج",
+    "cancel_button_text": "إلغاء",
+    "show_native_ad": true,
+    "native_ad_network": "meta",
+    "native_ad_fallback_network": "admob"
+  },
+  "ads_config": {
+    "enabled": true,
+    "default_network": "meta",
+    "fallback_network": "admob",
+    "admob": {
+      "enabled": false,
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "native_id": "ca-app-pub-3940256099942544/2247696110",
+      "app_open_id": "ca-app-pub-3940256099942544/9257395921"
+    },
+    "max": {
+      "enabled": false,
+      "sdk_key": "YOUR_MAX_SDK_KEY",
+      "banner_id": "YOUR_MAX_BANNER_ID",
+      "interstitial_id": "YOUR_MAX_INTERSTITIAL_ID",
+      "native_id": "YOUR_MAX_NATIVE_ID"
+    },
+    "ironsource": {
+      "enabled": true,
+      "app_key": "269c9a18d",
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "rewarded_enabled": true,
+      "banner_ad_unit_id": "80b1bb6g3lwuxv43",
+      "interstitial_ad_unit_id": "bgefeaxzw0yf1mwo",
+      "rewarded_ad_unit_id": "da761sxxpw9787hv"
+    },
+    "meta": {
+      "enabled": true,
+      "placement_banner": "3185030118346765_3208500032666440",
+      "placement_interstitial": "3185030118346765_3208500125999764",
+      "placement_native": "3185030118346765_3208500202666423"
+    },
+    "levelplay": {
+      "enabled": true,
+      "app_key": "269c9a18d",
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "rewarded_enabled": true,
+      "banner_ad_unit_id": "80b1bb6g3lwuxv43",
+      "interstitial_ad_unit_id": "bgefeaxzw0yf1mwo",
+      "rewarded_ad_unit_id": "da761sxxpw9787hv"
+    },
+    "placements": {
+      "banner": {
+        "enabled": true,
+        "network": "meta",
+        "fallback_network": "admob",
+        "show_on": ["matches", "categories", "highlights", "news", "settings"],
+        "position": "bottom"
+      },
+      "interstitial": {
+        "enabled": true,
+        "network": "levelplay",
+        "fallback_network": "admob",
+        "first_click": true,
+        "show_every_clicks": 3,
+        "min_seconds_between_ads": 0,
+        "show_on_clicks": ["match_click", "highlight_click", "news_click", "category_click"]
+      },
+      "native": {
+        "enabled": true,
+        "network": "meta",
+        "fallback_network": "meta",
+        "player_preview": {
+          "enabled": true,
+          "position": "below_preview_image"
+        },
+        "news_details": {
+          "enabled": true,
+          "position": "middle_of_article"
+        },
+        "categories": {
+          "enabled": true,
+          "insert_after_every": 4
+        },
+        "exit_dialog": {
+          "enabled": true,
+          "network": "levelplay",
+          "fallback_network": "meta"
+        }
+      },
+      "app_open": {
+        "enabled": true,
+        "network": "admob",
+        "show_on_app_start": true,
+        "min_seconds_between_ads": 300
+      }
+    }
+  },
+  "player_config": {
+    "use_external_player": true,
+    "external_player_package": "com.ilyas.playerpro",
+    "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
+  },
+  "telegram_popup": {
+  "enabled": true,
+  "show_once": true,
+  "allow_show_again": true,
+  "title": "📢 انضم إلى قناتنا على تيليجرام",
+  "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية.",
+  "button_text": "الانضمام للقناة",
+  "button_url": "https://t.me/Ilyas_tv_live",
+  "dont_show_again_text": "عدم الإظهار مرة أخرى"
+}
+}
