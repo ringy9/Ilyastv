@@ -165,17 +165,17 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-       {
-        "name": "tunisia vs belgium",
+      {
+        "name": "morocco vs norway",
         "subtitle": "tunisia vs belgium",
-        "logo": "https://cdn.ratingbet.com/ratingbet/20260604/730f20a74ff645f7e209ad41dc2d73bae55822efa3bccf0cb37ebc77f23f5c4c-1200-750.webp",
+        "logo": "https://cdn.ratingbet.com/ratingbet/20260604/32abbbc7df3509ae7f03abbf6f681880b09afc1848091370abc06ab8cb4a85ed-1200-750.webp",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://cdn.ratingbet.com/ratingbet/20260604/730f20a74ff645f7e209ad41dc2d73bae55822efa3bccf0cb37ebc77f23f5c4c-1200-750.webp",
-        "event_image": "https://cdn.ratingbet.com/ratingbet/20260604/730f20a74ff645f7e209ad41dc2d73bae55822efa3bccf0cb37ebc77f23f5c4c-1200-750.webp",
+        "thumbnail": "https://cdn.ratingbet.com/ratingbet/20260604/32abbbc7df3509ae7f03abbf6f681880b09afc1848091370abc06ab8cb4a85ed-1200-750.webp",
+        "event_image": "https://cdn.ratingbet.com/ratingbet/20260604/32abbbc7df3509ae7f03abbf6f681880b09afc1848091370abc06ab8cb4a85ed-1200-750.webp",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -183,7 +183,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/1005.ts",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253065.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -191,7 +191,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/74429.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -209,16 +209,16 @@
           ]
         },
               {
-        "name": "Brazil vs Egypt",
-        "subtitle": "brazil vs egypt",
-        "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/f8093a7e9228e38ec10eb8bf9bcf8d04",
+        "name": "italy vs greece",
+        "subtitle": "italy vs greece",
+        "logo": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fcdn-img.staticzz.com%2Fimg%2Fnoticias%2F140%2FimgS620I1140140T20260605194516.png",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/f8093a7e9228e38ec10eb8bf9bcf8d04",
-        "event_image": "https://media.zenfs.com/en/playmakerstats_articles_264/f8093a7e9228e38ec10eb8bf9bcf8d04",
+        "thumbnail": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fcdn-img.staticzz.com%2Fimg%2Fnoticias%2F140%2FimgS620I1140140T20260605194516.png",
+        "event_image": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fcdn-img.staticzz.com%2Fimg%2Fnoticias%2F140%2FimgS620I1140140T20260605194516.png",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -226,7 +226,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/3883.ts",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261626.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -234,7 +234,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://h54.vidoedgeflux.online/live/9787488847/index.m3u8?t=y7_-LkyE0kRHFqRlZBVSqQ&e=1779573722",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -251,103 +251,18 @@
 
           ]
         },
-                              {
-        "name": "argentina vs honduras",
-        "subtitle": "argentina vs honduras",
-        "logo": "https://cdn-img.staticzz.com/img/noticias/977/imgS300I1139977T20260605010019.png",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://cdn-img.staticzz.com/img/noticias/977/imgS300I1139977T20260605010019.png",
-        "event_image": "https://cdn-img.staticzz.com/img/noticias/977/imgS300I1139977T20260605010019.png",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "199.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/1859.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253582.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237018",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
 
-          ]
-        },
-              {
-        "name": "Qatar vs El Salvador",
-        "subtitle": "Qatar vs El Salvador",
-        "logo": "https://cdn.ratingbet.com/ratingbet/20260604/623944b0213d3e64a52c73c2134a9b165419d113e31e9bac812259a4a831ad42-1200-750.webp",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://cdn.ratingbet.com/ratingbet/20260604/623944b0213d3e64a52c73c2134a9b165419d113e31e9bac812259a4a831ad42-1200-750.webp",
-        "event_image": "https://cdn.ratingbet.com/ratingbet/20260604/623944b0213d3e64a52c73c2134a9b165419d113e31e9bac812259a4a831ad42-1200-750.webp",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "199.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253604.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253604.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237021",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-
-          ]
-        },
                       {
-        "name": "Puerto Rico vs Saudi Arabia",
-        "subtitle": "Puerto Rico vs Saudi Arabia",
-        "logo": "https://i.postimg.cc/z3ZC0NMC/Untitled-design-(26).png",
+        "name": "colombia vs jordan",
+        "subtitle": "colombia vs jordan",
+        "logo": "https://cdn.ratingbet.com/ratingbet/20260606/95d7eeaa60c506ee907375c77beca245cb6527041df3cd79b7cc3af0aa93c28b-1200-750.webp",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://i.postimg.cc/z3ZC0NMC/Untitled-design-(26).png",
-        "event_image": "https://i.postimg.cc/z3ZC0NMC/Untitled-design-(26).png",
+        "thumbnail": "https://cdn.ratingbet.com/ratingbet/20260606/95d7eeaa60c506ee907375c77beca245cb6527041df3cd79b7cc3af0aa93c28b-1200-750.webp",
+        "event_image": "https://cdn.ratingbet.com/ratingbet/20260606/95d7eeaa60c506ee907375c77beca245cb6527041df3cd79b7cc3af0aa93c28b-1200-750.webp",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -355,7 +270,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/1225.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -363,7 +278,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/1225.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -380,60 +295,17 @@
 
           ]
         },
-         {
-        "name": "germany vs usa ",
-        "subtitle": "germany vs usa ",
-        "logo": "https://cdn.ratingbet.com/ratingbet/20260604/8d1be3256fc7297bcd79cad797a23a563338c735dd71b98e5b9a81304f744338-1200-750.webp",
+              {
+        "name": "denmark vs ukraine",
+        "subtitle": "denmark vs ukraine",
+        "logo": "https://cdn.ratingbet.com/ratingbet/20260604/2288a01b2a5b08f14700366b1406cd6ef0a4c17f5aaf9048ccb035d3670c73cd-1200-750.webp",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://cdn.ratingbet.com/ratingbet/20260604/8d1be3256fc7297bcd79cad797a23a563338c735dd71b98e5b9a81304f744338-1200-750.webp",
-        "event_image": "https://cdn.ratingbet.com/ratingbet/20260604/8d1be3256fc7297bcd79cad797a23a563338c735dd71b98e5b9a81304f744338-1200-750.webp",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "199.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/287413.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237018",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237018",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-
-          ]
-        },
-                 {
-        "name": "portugal vs chile",
-        "subtitle": "portugal vs chile ",
-        "logo": "https://cdn.ratingbet.com/ratingbet/20260604/79e4df9a7232a91f31b37e3ff4f374bb5f79dbc0a2aeeaeb7dffeca47d73c9af-1200-750.webp",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://cdn.ratingbet.com/ratingbet/20260604/79e4df9a7232a91f31b37e3ff4f374bb5f79dbc0a2aeeaeb7dffeca47d73c9af-1200-750.webp",
-        "event_image": "https://cdn.ratingbet.com/ratingbet/20260604/79e4df9a7232a91f31b37e3ff4f374bb5f79dbc0a2aeeaeb7dffeca47d73c9af-1200-750.webp",
+        "thumbnail": "https://cdn.ratingbet.com/ratingbet/20260604/2288a01b2a5b08f14700366b1406cd6ef0a4c17f5aaf9048ccb035d3670c73cd-1200-750.webp",
+        "event_image": "https://cdn.ratingbet.com/ratingbet/20260604/2288a01b2a5b08f14700366b1406cd6ef0a4c17f5aaf9048ccb035d3670c73cd-1200-750.webp",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -457,7 +329,7 @@
           },
                     {
             "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237021",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -466,17 +338,17 @@
 
           ]
         },
-                         {
-        "name": "england vs new zealand ",
-        "subtitle": "england vs new zealand  ",
-        "logo": "https://cdn.ratingbet.com/ratingbet/20260604/88cc57536957289bf01f4b09a64a69c8c91f7b7ffc8a0c95d66f4092cc1de6ec.webp",
+                      {
+        "name": "croatia vs slovenia",
+        "subtitle": "croatia vs slovenia",
+        "logo": "https://cdn.ratingbet.com/ratingbet/20260606/d1eb16d9f2335a1e83f5e606ee26c7fd0719a5ccbbc0241fe3be8f96da46a2eb-1200-750.webp",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://cdn.ratingbet.com/ratingbet/20260604/88cc57536957289bf01f4b09a64a69c8c91f7b7ffc8a0c95d66f4092cc1de6ec.webp",
-        "event_image": "https://cdn.ratingbet.com/ratingbet/20260604/88cc57536957289bf01f4b09a64a69c8c91f7b7ffc8a0c95d66f4092cc1de6ec.webp",
+        "thumbnail": "https://cdn.ratingbet.com/ratingbet/20260606/d1eb16d9f2335a1e83f5e606ee26c7fd0719a5ccbbc0241fe3be8f96da46a2eb-1200-750.webp",
+        "event_image": "https://cdn.ratingbet.com/ratingbet/20260606/d1eb16d9f2335a1e83f5e606ee26c7fd0719a5ccbbc0241fe3be8f96da46a2eb-1200-750.webp",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
