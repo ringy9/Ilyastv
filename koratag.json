@@ -71,15 +71,15 @@
 
   ],
   "matches": [
- {
+  {
     "id": "1",
-    "team1": "بورتوريكو",
-    "team2": "السعودية",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5756.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7795.png",
+    "team1": "ليختنشتاين",
+    "team2": "قبرص",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5799.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5793.png",
     "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "12:00 AM",
+    "date": "June 07, 2026",
+    "time": "02:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -96,13 +96,13 @@
   },
   {
     "id": "2",
-    "team1": "كندا",
-    "team2": "إيرلندا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5791.png",
+    "team1": "الدنمارك",
+    "team2": "أوكرانيا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6718.png",
     "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "12:45 AM",
+    "date": "June 07, 2026",
+    "time": "05:30 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -119,13 +119,13 @@
   },
   {
     "id": "3",
-    "team1": "هايتي",
-    "team2": "بيرو",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5934.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5798.png",
+    "team1": "كوسوفو",
+    "team2": "أندورا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10045.png",
     "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "01:00 AM",
+    "date": "June 07, 2026",
+    "time": "07:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -142,13 +142,13 @@
   },
   {
     "id": "4",
-    "team1": "بلجيكا",
-    "team2": "تونس",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
+    "team1": "كرواتيا",
+    "team2": "سلوفينيا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5787.png",
     "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "02:00 PM",
+    "date": "June 07, 2026",
+    "time": "07:45 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -165,13 +165,13 @@
   },
   {
     "id": "5",
-    "team1": "ليتوانيا",
-    "team2": "لاتفيا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8254.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5795.png",
+    "team1": "اليونان",
+    "team2": "إيطاليا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6383.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png",
     "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "02:00 PM",
+    "date": "June 07, 2026",
+    "time": "08:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -188,13 +188,13 @@
   },
   {
     "id": "6",
-    "team1": "أرمينيا",
-    "team2": "كازاخستان",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6583.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8265.png",
+    "team1": "المغرب",
+    "team2": "النرويج",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
     "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "03:00 PM",
+    "date": "June 07, 2026",
+    "time": "08:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -211,13 +211,13 @@
   },
   {
     "id": "7",
-    "team1": "إستونيا",
-    "team2": "جزر فارو",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8261.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8269.png",
+    "team1": "الإكوادور",
+    "team2": "غواتيمالا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5858.png",
     "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "04:00 PM",
+    "date": "June 07, 2026",
+    "time": "09:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -234,13 +234,13 @@
   },
   {
     "id": "8",
-    "team1": "جبل طارق",
-    "team2": "جزر كايمان",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/507764.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/287982.png",
+    "team1": "كولومبيا",
+    "team2": "الأردن",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5816.png",
     "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "06:00 PM",
+    "date": "June 08, 2026",
+    "time": "12:00 AM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -249,265 +249,13 @@
         "name": "سيرفر 1 HD",
         "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "9",
-    "team1": "البرتغال",
-    "team2": "تشيلي",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9762.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "06:45 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "10",
-    "team1": "رومانيا",
-    "team2": "ويلز",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9730.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5790.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "06:45 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "11",
-    "team1": "ألبانيا",
-    "team2": "لوكسمبورغ",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10024.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5792.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "07:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "12",
-    "team1": "الولايات المتحدة",
-    "team2": "ألمانيا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "07:30 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "13",
-    "team1": "بنما",
-    "team2": "البوسنة والهرسك",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5922.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "08:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "14",
-    "team1": "سويسرا",
-    "team2": "أستراليا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "08:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "15",
-    "team1": "بوليفيا",
-    "team2": "اسكتلندا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5797.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "09:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "16",
-    "team1": "إنجلترا",
-    "team2": "نيوزيلندا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "09:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "17",
-    "team1": "قطر",
-    "team2": "السلفادور",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5902.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6327.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "09:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "18",
-    "team1": "البرازيل",
-    "team2": "مصر",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "11:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "19",
-    "team1": "تركيا",
-    "team2": "فنزويلا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5800.png",
-    "league": "Friendlies",
-    "date": "June 06, 2026",
-    "time": "11:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "hls",
         "user_agent": "",
         "referer": "",
         "origin": ""
       }
     ]
   }
+
   ],
   "highlights": [
     {
@@ -520,53 +268,38 @@
   ],
   "news": [
     {
-      "id": "n1",
-      "title": "مبابي يرد على جماهير ريال مدريد بعد موجة الانتقادات",
-      "image": "https://i.imgur.com/5iFqWEg.jpg",
-      "time_ago": "منذ ساعة",
-      "url": "",
-      "content": "أصدر النجم الفرنسي كيليان مبابي بياناً رسمياً عبر حساباته على مواقع التواصل الاجتماعي، رداً على الانتقادات التي تعرض لها من جماهير ريال مدريد خلال الفترة الأخيرة."
-    },
+  "id": "n3",
+  "title": "المغرب يواجه النرويج اليوم في اختبار قوي قبل كأس العالم",
+  "image": "https://images.performgroup.com/di/library/omnisport/16/f5/endrick_s2u2hqijbql219vuqqmwm7j5t.jpg?t=-1622657714&w=1200&h=630",
+  "time_ago": "اليوم",
+  "url": "",
+  "content": "يخوض المنتخب المغربي اليوم، 7 يونيو 2026، مواجهة ودية قوية أمام منتخب النرويج، في مباراة تدخل ضمن آخر مراحل الاستعداد قبل انطلاق كأس العالم.\n\nوتقام المباراة على أرضية ملعب Sports Illustrated Stadium بالولايات المتحدة، انطلاقاً من الساعة 19:00 بتوقيت غرينتش، وسط اهتمام كبير من الجماهير المغربية التي تترقب ظهور أسود الأطلس في اختبار مهم قبل بداية المنافسة العالمية.\n\nويسعى المنتخب المغربي إلى تأكيد جاهزيته الفنية والبدنية، خاصة بعد فوزه الأخير على مدغشقر بنتيجة 4-0، وهو الانتصار الذي منح المجموعة دفعة معنوية مهمة قبل مواجهة منافس أوروبي قوي يضم أسماء بارزة في خط الهجوم.\n\nوتُعد مواجهة النرويج اختباراً حقيقياً لدفاع المنتخب المغربي، بالنظر إلى القوة الهجومية التي يتميز بها المنتخب النرويجي، بقيادة نجوم قادرين على صناعة الفارق في أي لحظة، ما يجعل المباراة فرصة مهمة للطاقم التقني من أجل تقييم مستوى التركيز والتنظيم الدفاعي.\n\nمن جانبه، يدخل المنتخب المغربي هذه المباراة بهدف تجربة بعض الحلول التكتيكية قبل المواجهة المرتقبة أمام البرازيل يوم 13 يونيو في افتتاح مشواره بكأس العالم، حيث يرغب الجهاز الفني في الوقوف على جاهزية اللاعبين واختيار التشكيلة الأنسب للبطولة.\n\nوتحمل المباراة أهمية خاصة للجماهير المغربية، لأنها تأتي في توقيت حساس قبل انطلاق كأس العالم، كما أنها تمنح اللاعبين فرصة لاكتساب المزيد من الانسجام والثقة قبل الدخول في أجواء المنافسة الرسمية.\n\nومن المنتظر أن يعتمد المنتخب المغربي على أسلوب متوازن يجمع بين الصلابة الدفاعية والسرعة في التحول الهجومي، مع محاولة استغلال الأطراف والكرات السريعة للوصول إلى مرمى النرويج.\n\nوفي المقابل، سيحاول منتخب النرويج فرض إيقاعه والضغط على دفاع المغرب، ما قد يجعل المواجهة مفتوحة وقوية من الناحية البدنية والتكتيكية.\n\nوتبقى هذه المباراة محطة مهمة لأسود الأطلس قبل كأس العالم، إذ يبحث المنتخب المغربي عن أداء مقنع ونتيجة إيجابية تمنح اللاعبين والجماهير ثقة أكبر قبل بداية التحدي العالمي."
+},
+{
+  "id": "n1",
+  "title": "البرازيل تهزم مصر 2-1 في آخر اختبار ودي قبل كأس العالم",
+  "image": "https://images.performgroup.com/di/library/omnisport/16/f5/endrick_s2u2hqijbql219vuqqmwm7j5t.jpg?t=-1622657714&w=1200&h=630",
+  "time_ago": "منذ ساعة",
+  "url": "",
+  "content": "اختتم منتخب البرازيل استعداداته لكأس العالم بفوز صعب على منتخب مصر بنتيجة 2-1، في المباراة الودية التي جمعتهما بمدينة كليفلاند، حيث سجّل برونو غيمارايش وإندريك هدفي المنتخب البرازيلي.\n\nودخلت البرازيل المباراة بقوة، وتمكنت من افتتاح التسجيل مبكراً في الدقيقة السابعة، بعدما خطف برونو غيمارايش الكرة من مهند لاشين قرب منطقة الجزاء، قبل أن يسددها بهدوء في الزاوية اليمنى السفلية.\n\nلكن رد المنتخب المصري جاء سريعاً بعد أربع دقائق فقط، حين استغل مصطفى زيكو خطأ دفاعياً من ماركينيوس، الذي أعاد تمريرة خاطئة نحو أليسون، ليخطف زيكو الكرة ويسجل هدف التعادل بثقة.\n\nوحاول المنتخب البرازيلي استعادة التقدم قبل نهاية الشوط الأول، وخلق عدة فرص خطيرة عن طريق فينيسيوس جونيور ورافينيا وإيغور تياغو، إلا أن الحارس مصطفى شوبير تألق وتصدى لمحاولات عديدة.\n\nوفي الشوط الثاني، أجرى المدرب كارلو أنشيلوتي عدة تغييرات، وكان أبرزها دخول إندريك، الذي نجح بعد دقائق قليلة من مشاركته في تسجيل هدف الفوز، مستفيداً من تمريرة مميزة من رافينيا بعد مجهود رائع على الجهة اليسرى.\n\nويؤكد هذا الفوز قوة الخيارات الهجومية التي يملكها أنشيلوتي قبل بداية مشوار البرازيل في كأس العالم، خاصة مع تألق رافينيا وحضور فينيسيوس جونيور وماتيوس كونيا، إضافة إلى ظهور إندريك بصورة جيدة رغم صغر سنه.\n\nورغم استمرار الحديث حول جاهزية نيمار قبل مواجهة المغرب يوم 13 يونيو، فإن أداء البرازيل أظهر أن المنتخب يملك حلولاً هجومية متعددة قادرة على صناعة الفارق.\n\nمن جانب آخر، تلقى منتخب مصر هزيمته الأولى منذ خسارته أمام نيجيريا في مباراة تحديد المركز الثالث بكأس أمم إفريقيا في يناير الماضي، وسيبدأ مشواره في كأس العالم بمواجهة قوية أمام بلجيكا يوم 15 يونيو."
+},
+{
+  "id": "n2",
+  "title": "الأرجنتين تهزم هندوراس 2-0 في غياب ميسي",
+  "image": "https://images.performgroup.com/di/library/omnisport/16/f5/endrick_s2u2hqijbql219vuqqmwm7j5t.jpg?t=-1622657714&w=1200&h=630",
+  "time_ago": "منذ ساعة",
+  "url": "",
+  "content": "حقق منتخب الأرجنتين فوزاً مهماً على منتخب هندوراس بنتيجة 2-0، في أولى مبارياته الودية قبل الدفاع عن لقبه في كأس العالم، وذلك رغم بقاء القائد ليونيل ميسي على مقاعد البدلاء بسبب تعافيه من إرهاق عضلي.\n\nوسجّل لاوتارو مارتينيز وجوليانو سيميوني هدفي المنتخب الأرجنتيني، ليمنحا فريق المدرب ليونيل سكالوني انتصاراً مريحاً في المباراة التي أقيمت على ملعب كايل فيلد.\n\nوبدأت الأرجنتين المباراة بمحاولات هجومية مبكرة، حيث اختبر سيميوني ومارتينيز حارس هندوراس إدريك مينخيفار خلال الدقائق الأولى، قبل أن يواصل المنتخب الأرجنتيني ضغطه بحثاً عن هدف التقدم.\n\nوكاد جيوفاني لو سيلسو أن يفتتح التسجيل بتسديدة قوية من خارج منطقة الجزاء، لكنها اصطدمت بإطار المرمى، قبل أن يحصل المنتخب الأرجنتيني على ركلة جزاء بعد عرقلة نيكولاس تاليافيكو داخل المنطقة.\n\nوتولى لاوتارو مارتينيز تنفيذ الركلة بنجاح في الدقيقة 37، بعدما سدد الكرة بهدوء في الزاوية اليسرى السفلية، رغم محاولة الحارس التصدي لها.\n\nوفي الشوط الثاني، واصل منتخب الأرجنتين أفضليته الهجومية، ونجح جوليانو سيميوني في إضافة الهدف الثاني عند الدقيقة 54، بعدما استغل تمريرة من لاوتارو مارتينيز داخل المنطقة، ليسدد كرة منخفضة سكنت الشباك.\n\nوبعد الهدف الثاني، أجرى المدرب ليونيل سكالوني عدة تغييرات، دون إشراك ليونيل ميسي، واكتفى المنتخب الأرجنتيني بالحفاظ على تقدمه حتى نهاية اللقاء دون إضافة هدف ثالث.\n\nوأظهر منتخب الأرجنتين قدرته الهجومية حتى في غياب نجمه الأول ميسي، حيث قدم سيميوني مستوى مميزاً سواء في صناعة الفرص أو تهديد المرمى، بعدما سدد أربع مرات، منها ثلاث تسديدات على المرمى، كما صنع خمس فرص لزملائه.\n\nوسيكون ميسي مرشحاً للعودة إلى التشكيلة الأساسية في المباراة الافتتاحية للأرجنتين بكأس العالم أمام الجزائر يوم 16 يونيو، لكن الفوز على هندوراس أكد أن المنتخب الأرجنتيني يملك حلولاً هجومية متعددة قبل انطلاق البطولة.\n\nوأنهت الأرجنتين اللقاء بـ20 تسديدة وبلغت قيمة أهدافها المتوقعة 2.28، بينما فشل منتخب هندوراس في تهديد مرمى خوان موسو بشكل حقيقي، بعدما لم ينجح في توجيه أي تسديدة على المرمى من أربع محاولات."
+},
     {
-      "id": "n2",
-      "title": "محمد صلاح يحطم رقماً قياسياً جديداً في الدوري الإنجليزي",
-      "image": "https://i.imgur.com/8QqZfGJ.png",
-      "time_ago": "منذ ساعتين",
-      "url": "",
-      "content": "حطم النجم المصري محمد صلاح رقماً قياسياً تاريخياً في الدوري الإنجليزي الممتاز بتسجيله الهدف رقم 160 مع نادي ليفربول."
-    },
-    {
-      "id": "n3",
-      "title": "الأهلي يفوز بديربي القرن على الزمالك 3-1",
-      "image": "https://i.imgur.com/5iFqWEg.jpg",
-      "time_ago": "منذ 3 ساعات",
-      "url": "",
-      "content": "حقق النادي الأهلي المصري فوزاً كبيراً على غريمه الزمالك في نسخة جديدة من ديربي القرن بنتيجة 3-1."
-    },
-    {
-      "id": "n4",
-      "title": "ريال مدريد يضم نجماً برازيلياً شاباً في صفقة مفاجئة",
-      "image": "https://i.imgur.com/8QqZfGJ.png",
-      "time_ago": "منذ 4 ساعات",
-      "url": "",
-      "content": "أعلن نادي ريال مدريد الإسباني رسمياً عن التعاقد مع أحد أبرز المواهب البرازيلية الشابة في صفقة انتقال مفاجئة."
-    },
-    {
-      "id": "n5",
-      "title": "الاتحاد السعودي يعلن موعد انطلاق موسم 2026-2027",
-      "image": "https://i.imgur.com/5iFqWEg.jpg",
-      "time_ago": "منذ 5 ساعات",
-      "url": "",
-      "content": "أعلن الاتحاد السعودي لكرة القدم رسمياً عن موعد انطلاق الموسم الجديد من دوري روشن السعودي للمحترفين."
-    },
-    {
-      "id": "n6",
-      "title": "برشلونة يتعاقد مع حارس مرمى جديد قبل موسم الكلاسيكو",
-      "image": "https://i.imgur.com/8QqZfGJ.png",
-      "time_ago": "منذ 6 ساعات",
-      "url": "",
-      "content": "أتم نادي برشلونة الإسباني صفقة التعاقد مع حارس مرمى دولي جديد استعداداً للموسم القادم."
-    }
+  "id": "n3",
+  "title": "مدرب النرويج: مواجهة المغرب اختبار قوي قبل كأس العالم",
+  "image": "https://www.kooora.com/?i=epa%2fsoccer%2f2026-06%2f2026-06-07%2f2026-06-07-126.jpg",
+  "time_ago": "اليوم",
+  "url": "",
+  "content": "أكد ستالي سولباكن، مدرب منتخب النرويج، أن مواجهة المنتخب المغربي اليوم الأحد 7 يونيو 2026 تمثل اختباراً قوياً ومهماً لفريقه، ضمن استعدادات المنتخبين قبل انطلاق منافسات كأس العالم 2026.\n\nوتقام المباراة الودية بين المغرب والنرويج في ولاية نيوجيرسي الأمريكية، وسط ترقب كبير من الجماهير، خاصة أن اللقاء يأتي في مرحلة حساسة قبل دخول المنتخبات أجواء البطولة العالمية.\n\nوأوضح مدرب النرويج أن المنتخب المغربي يُعد منافساً قوياً، بعدما قدم مستويات مميزة خلال السنوات الأخيرة ونجح في ترسيخ حضوره بين كبار المنتخبات، مشيراً إلى أن أسود الأطلس يملكون تنظيماً جيداً وقدرة واضحة على المنافسة أمام خصوم من مستويات عالية.\n\nوأشار سولباكن إلى أن طريقة لعب المنتخب المغربي شهدت بعض التغييرات في الفترة الأخيرة، بعدما كان يعتمد في كأس العالم الماضية على أسلوب دفاعي منظم وناجح، قبل أن يظهر مؤخراً بشكل مختلف من الناحية الفنية.\n\nوتُعد هذه المواجهة فرصة مهمة للمنتخب المغربي من أجل اختبار جاهزية اللاعبين قبل بداية مشواره في كأس العالم، خصوصاً أن أسود الأطلس سيواجهون منتخب البرازيل يوم 13 يونيو في افتتاح مبارياتهم بالبطولة.\n\nكما يسعى المنتخب النرويجي بدوره إلى الاستفادة من هذه المباراة القوية، خاصة أنه يستعد لخوض كأس العالم ضمن مجموعة تضم منتخبات قوية، ما يجعل مواجهة المغرب اختباراً حقيقياً من الناحيتين البدنية والتكتيكية.\n\nوتحمل المباراة أهمية خاصة للطاقمين الفنيين، إذ تمنح كل منتخب فرصة لتجربة بعض الخيارات ومراجعة أسلوب اللعب قبل المباريات الرسمية، في وقت ينتظر فيه الجمهور المغربي ظهوراً قوياً ومقنعاً لأسود الأطلس قبل انطلاق التحدي العالمي."
+}
+
   ],
   "update": {
     "enabled": false,
