@@ -594,7 +594,7 @@
   },
   "ads_config": {
     "enabled": true,
-    "default_network": "levelplay",
+    "default_network": "meta",
     "fallback_network": "admob",
     "admob": {
       "enabled": false,
@@ -612,7 +612,7 @@
       "native_id": "YOUR_MAX_NATIVE_ID"
     },
     "ironsource": {
-      "enabled": false,
+      "enabled": true,
       "app_key": "269c9a18d",
       "banner_enabled": true,
       "interstitial_enabled": true,
@@ -640,7 +640,7 @@
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "meta",
         "fallback_network": "admob",
         "show_on": ["matches", "categories", "highlights", "news", "settings"],
         "position": "bottom"
@@ -656,7 +656,7 @@
       },
       "native": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "meta",
         "fallback_network": "meta",
         "player_preview": {
           "enabled": true,
@@ -685,7 +685,7 @@
     }
   },
   "player_config": {
-    "use_external_player": false,
+    "use_external_player": true,
     "external_player_package": "com.ilyas.playerpro",
     "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
   },
