@@ -3014,16 +3014,6 @@
   ],
   "matches": [
 
-{
-  "team1": "هندوراس",
-  "team2": "الأرجنتين",
-  "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5808.png",
-  "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
-  "time": "01:00",
-  "status": "مباراة ودية دولية",
-  "channel": "Abu Dhabi Sports 2",
-  "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-},
       {
     "team1": "المغرب",
     "team2": "النرويج",
@@ -3033,12 +3023,21 @@
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
-  {
-    "team1": "ليختنشتاين",
-    "team2": "قبرص",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5799.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5793.png",
-    "time": "13:00",
+      {
+    "team1": "كولومبيا",
+    "team2": "الأردن",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5816.png",
+    "time": "00:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+      {
+    "team1": "اليونان",
+    "team2": "إيطاليا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6383.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png",
+    "time": "19:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
@@ -3069,12 +3068,13 @@
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
-  {
-    "team1": "اليونان",
-    "team2": "إيطاليا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6383.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png",
-    "time": "19:00",
+
+      {
+    "team1": "ليختنشتاين",
+    "team2": "قبرص",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5799.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5793.png",
+    "time": "13:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
@@ -3088,6 +3088,8 @@
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
+
+    
   ],
   "player_bottom": {
     "enabled": true,
