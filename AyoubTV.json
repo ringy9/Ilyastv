@@ -2886,16 +2886,7 @@
   ],
   "matches": [
 
-      {
-    "team1": "المغرب",
-    "team2": "النرويج",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
-    "time": "19:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-      {
+  {
     "team1": "كولومبيا",
     "team2": "الأردن",
     "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
@@ -2904,64 +2895,82 @@
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
+    
+  {
+    "team1": "فرنسا",
+    "team2": "إيرلندا الشمالية",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10259.png",
+    "time": "20:10",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
       {
-    "team1": "اليونان",
-    "team2": "إيطاليا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6383.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8204.png",
-    "time": "19:00",
+    "team1": "هولندا",
+    "team2": "أوزبكستان",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6708.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8700.png",
+    "time": "19:45",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "الدنمارك",
-    "team2": "أوكرانيا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8238.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6718.png",
-    "time": "16:30",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "كوسوفو",
-    "team2": "أندورا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/430156.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10045.png",
-    "time": "18:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "كرواتيا",
-    "team2": "سلوفينيا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5787.png",
-    "time": "18:45",
+    "team1": "أوغندا",
+    "team2": "مدغشقر",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5890.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5809.png",
+    "time": "11:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
 
       {
-    "team1": "ليختنشتاين",
-    "team2": "قبرص",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5799.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5793.png",
-    "time": "13:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-
-  {
-    "team1": "الإكوادور",
-    "team2": "غواتيمالا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5858.png",
+    "team1": "موريتانيا",
+    "team2": "النيجر",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/68374.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/121281.png",
     "time": "20:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  }
+  },
+  {
+    "team1": "نهضة بركان",
+    "team2": "اتحاد طنجة",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/316652.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/316657.png",
+    "time": "19:00",
+    "status": "الدوري المغربي",
+    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253065.ts"
+  },
+  {
+    "team1": "الوداد الرياضي",
+    "team2": "أولمبيك آسفي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102050.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102047.png",
+    "time": "19:00",
+    "status": "الدوري المغربي",
+    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253065.ts"
+  },
+      {
+    "team1": "الفتح الرباطي",
+    "team2": "الدفاع الحسني الجديدي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102036.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102033.png",
+    "time": "17:00",
+    "status": "الدوري المغربي",
+    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253065.ts"
+  },
 
-    
+  {
+    "team1": "أولمبيك الدشيرة",
+    "team2": "حسنية أكادير",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/570487.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102037.png",
+    "time": "21:00",
+    "status": "الدوري المغربي",
+    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253065.ts"
+  }
+ 
   ],
   "player_bottom": {
     "enabled": true,
