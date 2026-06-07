@@ -333,11 +333,11 @@
     "fallback_network": "admob",
     "admob": {
       "enabled": false,
-      "app_id": "ca-app-pub-3940256099942544~3347511713",
-      "banner_id": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-      "native_id": "ca-app-pub-3940256099942544/2247696110",
-      "app_open_id": "ca-app-pub-3940256099942544/9257395921"
+      "app_id": "ca-app-pub-3738055180283754~9767378644",
+      "banner_id": "ca-app-pub-3738055180283754/2303821595",
+      "interstitial_id": "ca-app-pub-3738055180283754/5257287992",
+      "native_id": "ca-app-pub-3738055180283754/3461294517",
+      "app_open_id": "ca-app-pub-3738055180283754/3201970292"
     },
     "max": {
       "enabled": false,
@@ -348,13 +348,13 @@
     },
     "ironsource": {
       "enabled": true,
-      "app_key": "269c9a18d",
+      "app_key": "26a222cdd",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true,
-      "banner_ad_unit_id": "80b1bb6g3lwuxv43",
-      "interstitial_ad_unit_id": "bgefeaxzw0yf1mwo",
-      "rewarded_ad_unit_id": "da761sxxpw9787hv"
+      "banner_ad_unit_id": "aes0nxlsszwuunu5",
+      "interstitial_ad_unit_id": "4i0zcogn6lhs5tdx",
+      "rewarded_ad_unit_id": "y1akoze7j0x2hj1u"
     },
     "meta": {
       "enabled": true,
@@ -364,13 +364,13 @@
     },
     "levelplay": {
       "enabled": true,
-      "app_key": "269c9a18d",
+      "app_key": "26a222cdd",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true,
-      "banner_ad_unit_id": "80b1bb6g3lwuxv43",
-      "interstitial_ad_unit_id": "bgefeaxzw0yf1mwo",
-      "rewarded_ad_unit_id": "da761sxxpw9787hv"
+      "banner_ad_unit_id": "aes0nxlsszwuunu5",
+      "interstitial_ad_unit_id": "4i0zcogn6lhs5tdx",
+      "rewarded_ad_unit_id": "y1akoze7j0x2hj1u"
     },
     "placements": {
       "banner": {
