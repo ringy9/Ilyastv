@@ -165,17 +165,17 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-        {
-        "name": "Netherlands vs Uzbekistan",
-        "subtitle": "Netherlands vs Uzbekistan",
-        "logo": "https://cdn.ratingbet.com/ratingbet/20260606/0de25f6378705a6d157046297a0caa360c75c9194ecd596ac0a5a600916e792f-1200-750.webp",
+      {
+        "name": "spain vs peru",
+        "subtitle": "spain vs peru",
+        "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/f939e1895d21f3cedce0c0a01974b50c",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://cdn.ratingbet.com/ratingbet/20260606/0de25f6378705a6d157046297a0caa360c75c9194ecd596ac0a5a600916e792f-1200-750.webp",
-        "event_image": "https://cdn.ratingbet.com/ratingbet/20260606/0de25f6378705a6d157046297a0caa360c75c9194ecd596ac0a5a600916e792f-1200-750.webp",
+        "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/f939e1895d21f3cedce0c0a01974b50c",
+        "event_image": "https://media.zenfs.com/en/playmakerstats_articles_264/f939e1895d21f3cedce0c0a01974b50c",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -183,7 +183,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261625.ts",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261624.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -191,50 +191,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://h55.metava.online/live/645587700/index.m3u8?t=pcl3DYqRtVQLbTV95WaXnQ&e=1779570996",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237018",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-
-          ]
-        },
-              {
-        "name": "France vs Northern Ireland",
-        "subtitle": "France vs Northern Ireland",
-        "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/aad91cbdceca090c698b3aa4cd7d9b5c",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/aad91cbdceca090c698b3aa4cd7d9b5c",
-        "event_image": "https://media.zenfs.com/en/playmakerstats_articles_264/aad91cbdceca090c698b3aa4cd7d9b5c",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "199.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261623.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://h56.vidflow.online/live/918454578001/index.m3u8?t=r5HmqwWrhXHV-YIJS9axiA&e=1779527072",
+            "url": "http://h59.datacastx.online/live/69854211/index.m3u8?t=Yes6K_WbrmuMHMUL_YymIg&e=1779527011",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -251,6 +208,7 @@
 
           ]
         }
+
       ]
     },
     {
@@ -2756,88 +2714,121 @@
   "matches": [
 
   {
-    "team1": "كولومبيا",
-    "team2": "الأردن",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5816.png",
-    "time": "00:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-    
-  {
-    "team1": "فرنسا",
-    "team2": "إيرلندا الشمالية",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10259.png",
-    "time": "20:10",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-      {
-    "team1": "هولندا",
-    "team2": "أوزبكستان",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6708.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8700.png",
-    "time": "19:45",
+    "team1": "بيرو",
+    "team2": "إسبانيا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5798.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
+    "time": "03:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "أوغندا",
-    "team2": "مدغشقر",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5890.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5809.png",
-    "time": "11:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-
-      {
-    "team1": "موريتانيا",
-    "team2": "النيجر",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/68374.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/121281.png",
-    "time": "20:00",
+    "team1": "الفلبين",
+    "team2": "ميانمار",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/230139.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
+    "time": "12:30",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "نهضة بركان",
-    "team2": "اتحاد طنجة",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/316652.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/316657.png",
-    "time": "19:00",
-    "status": "الدوري المغربي",
-    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253065.ts"
+    "team1": "الصين",
+    "team2": "تايلاند",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5822.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
+    "time": "12:35",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "الوداد الرياضي",
-    "team2": "أولمبيك آسفي",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102050.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102047.png",
-    "time": "19:00",
-    "status": "الدوري المغربي",
-    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253065.ts"
+    "team1": "إندونيسيا",
+    "team2": "موزمبيق",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6324.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5965.png",
+    "time": "14:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
-      {
-    "team1": "الفتح الرباطي",
-    "team2": "الدفاع الحسني الجديدي",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102036.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102033.png",
+  {
+    "team1": "أرمينيا",
+    "team2": "مولدوفا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6583.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5794.png",
+    "time": "16:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "لاتفيا",
+    "team2": "جزر فارو",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5795.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8269.png",
+    "time": "16:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "طاجيكستان",
+    "team2": "الهند",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5898.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6329.png",
+    "time": "16:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "الكونغو الديمقراطية",
+    "team2": "تشيلي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9762.png",
     "time": "17:00",
-    "status": "الدوري المغربي",
-    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253065.ts"
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
-
   {
-    "team1": "أولمبيك الدشيرة",
-    "team2": "حسنية أكادير",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/570487.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102037.png",
-    "time": "21:00",
-    "status": "الدوري المغربي",
-    "channel_url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253065.ts"
+    "team1": "إستونيا",
+    "team2": "ليتوانيا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8261.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8254.png",
+    "time": "17:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "بيلاروسيا",
+    "team2": "بوركينا فاسو",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10057.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6323.png",
+    "time": "17:30",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "المجر",
+    "team2": "كازاخستان",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8565.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8265.png",
+    "time": "18:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "روسيا",
+    "team2": "ترينيداد وتوباغو",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8713.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/7724.png",
+    "time": "18:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "أذربيجان",
+    "team2": "سان مارينو",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8566.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6035.png",
+    "time": "19:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
  
   ],
