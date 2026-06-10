@@ -190,8 +190,8 @@
   },
   "ads_config": {
     "enabled": true,
-    "default_network": "meta",
-    "fallback_network": "admob",
+    "default_network": "admob",
+    "fallback_network": "meta",
     "admob": {
       "enabled": true,
       "app_id": "ca-app-pub-9297113109682195~8275145649",
@@ -236,15 +236,15 @@
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "meta",
-        "fallback_network": "admob",
+        "network": "admob",
+        "fallback_network": "meta",
         "show_on": ["matches", "categories", "highlights", "news", "settings"],
         "position": "bottom"
       },
       "interstitial": {
         "enabled": true,
-        "network": "levelplay",
-        "fallback_network": "admob",
+        "network": "admob",
+        "fallback_network": "meta",
         "first_click": true,
         "show_every_clicks": 3,
         "min_seconds_between_ads": 0,
@@ -252,7 +252,7 @@
       },
       "native": {
         "enabled": true,
-        "network": "meta",
+        "network": "admob",
         "fallback_network": "meta",
         "player_preview": {
           "enabled": true,
@@ -268,7 +268,7 @@
         },
         "exit_dialog": {
           "enabled": true,
-          "network": "levelplay",
+          "network": "admob",
           "fallback_network": "meta"
         }
       },
