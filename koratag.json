@@ -193,12 +193,12 @@
     "default_network": "meta",
     "fallback_network": "admob",
     "admob": {
-      "enabled": false,
-      "app_id": "ca-app-pub-3940256099942544~3347511713",
-      "banner_id": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-      "native_id": "ca-app-pub-3940256099942544/2247696110",
-      "app_open_id": "ca-app-pub-3940256099942544/9257395921"
+      "enabled": true,
+      "app_id": "ca-app-pub-9297113109682195~8275145649",
+      "banner_id": "ca-app-pub-9297113109682195/5760662940",
+      "interstitial_id": "ca-app-pub-9297113109682195/9803849735",
+      "native_id": "ca-app-pub-9297113109682195/3357524172",
+      "app_open_id": "ca-app-pub-9297113109682195/9731360831"
     },
     "max": {
       "enabled": false,
