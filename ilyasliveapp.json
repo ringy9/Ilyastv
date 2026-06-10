@@ -189,15 +189,15 @@
   },
   "ads_config": {
     "enabled": true,
-    "default_network": "meta",
-    "fallback_network": "admob",
+    "default_network": "admob",
+    "fallback_network": "meta",
     "admob": {
-      "enabled": false,
-      "app_id": "ca-app-pub-3738055180283754~9767378644",
-      "banner_id": "ca-app-pub-3738055180283754/2303821595",
-      "interstitial_id": "ca-app-pub-3738055180283754/5257287992",
-      "native_id": "ca-app-pub-3738055180283754/3461294517",
-      "app_open_id": "ca-app-pub-3738055180283754/3201970292"
+      "enabled": true,
+      "app_id": "ca-app-pub-9297113109682195~8275145649",
+      "banner_id": "ca-app-pub-9297113109682195/5760662940",
+      "interstitial_id": "ca-app-pub-9297113109682195/9803849735",
+      "native_id": "ca-app-pub-9297113109682195/3357524172",
+      "app_open_id": "ca-app-pub-9297113109682195/9731360831"
     },
     "max": {
       "enabled": false,
@@ -235,15 +235,15 @@
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "meta",
-        "fallback_network": "admob",
+        "network": "admob",
+        "fallback_network": "meta",
         "show_on": ["matches", "categories", "highlights", "news", "settings"],
         "position": "bottom"
       },
       "interstitial": {
         "enabled": true,
-        "network": "levelplay",
-        "fallback_network": "admob",
+        "network": "admob",
+        "fallback_network": "meta",
         "first_click": true,
         "show_every_clicks": 3,
         "min_seconds_between_ads": 0,
@@ -251,7 +251,7 @@
       },
       "native": {
         "enabled": true,
-        "network": "meta",
+        "network": "admob",
         "fallback_network": "meta",
         "player_preview": {
           "enabled": true,
@@ -280,7 +280,7 @@
     }
   },
   "player_config": {
-    "use_external_player": false,
+    "use_external_player": true,
     "external_player_package": "com.ilyas.playerpro",
     "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
   },
