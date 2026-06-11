@@ -3,7 +3,7 @@
     "enabled": true,
     "default_network": "admob",
     "fallback_network": "admob",
-    "second_fallback_network": "levelplay",
+    "second_fallback_network": "admob",
     "admob": {
       "app_id": "ca-app-pub-9297113109682195~5394855531",
       "app_open": "",
