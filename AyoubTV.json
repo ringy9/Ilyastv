@@ -2876,51 +2876,32 @@
   "matches": [
 
   {
-    "team1": "السنغال",
-    "team2": "السعودية",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/7795.png",
-    "time": "00:00",
-    "status": "مباراة ودية دولية",
+    "team1": "كوريا الجنوبية",
+    "team2": "التشيك",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8496.png",
+    "time": "03:00",
+    "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "الأرجنتين",
-    "team2": "آيسلندا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8536.png",
+    "team1": "كندا",
+    "team2": "البوسنة والهرسك",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
+    "time": "20:00",
+    "status": "كأس العالم 2026",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "الولايات المتحدة",
+    "team2": "باراغواي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
     "time": "02:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "فنزويلا",
-    "team2": "العراق",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5800.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5819.png",
-    "time": "02:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "البرتغال",
-    "team2": "نيجيريا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6346.png",
-    "time": "20:45",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "إنجلترا",
-    "team2": "كوستاريكا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6705.png",
-    "time": "21:00",
-    "status": "مباراة ودية دولية",
+    "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
- 
   ],
   "player_bottom": {
     "enabled": true,
