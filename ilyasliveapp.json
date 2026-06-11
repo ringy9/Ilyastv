@@ -189,15 +189,15 @@
   },
   "ads_config": {
     "enabled": true,
-    "default_network": "meta",
+    "default_network": "admob",
     "fallback_network": "meta",
     "admob": {
       "enabled": true,
-      "app_id": "",
-      "banner_id": "",
-      "interstitial_id": "",
-      "native_id": "",
-      "app_open_id": ""
+      "app_id": "ca-app-pub-9297113109682195~6613710075",
+      "banner_id": "ca-app-pub-9297113109682195/8044346826",
+      "interstitial_id": "ca-app-pub-9297113109682195/4851207276",
+      "native_id": "ca-app-pub-9297113109682195/4631715425",
+      "app_open_id": "ca-app-pub-9297113109682195/3987546738"
     },
     "max": {
       "enabled": false,
