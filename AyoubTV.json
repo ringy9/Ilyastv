@@ -224,51 +224,7 @@
           }
 
           ]
-        },
-         {
-        "name": "england vs costa rica",
-        "subtitle": "england vs costa rica",
-        "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/580a34b23b05fe47270e3e069a2a2079",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/580a34b23b05fe47270e3e069a2a2079",
-        "event_image": "https://media.zenfs.com/en/playmakerstats_articles_264/580a34b23b05fe47270e3e069a2a2079",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "199.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261663",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-
-          ]
         }
-
       ]
     },
     {
