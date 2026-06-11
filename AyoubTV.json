@@ -167,31 +167,24 @@
       "channels": [  
 
   {
-        "name": "Mexico vs South Africa",
-        "subtitle": "FIFA World Cup 2026™",
-        "logo": "https://cdn.foot-africa.com/20260610/2f08f89bb2a1260d39e4b3adf1a6fb454643b3a52e3a98ed7bb18a410e36b521-1200-675.webp",
+        "name": "South Korea vs. Czechia",
+        "subtitle": "اليوم™",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/1.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://cdn.foot-africa.com/20260610/2f08f89bb2a1260d39e4b3adf1a6fb454643b3a52e3a98ed7bb18a410e36b521-1200-675.webp",
-        "event_image": "https://cdn.foot-africa.com/20260610/2f08f89bb2a1260d39e4b3adf1a6fb454643b3a52e3a98ed7bb18a410e36b521-1200-675.webp",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/1.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/1.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
+
           {
             "name": "SERVER 1",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/261622.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
             "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
             "user_agent": "",
             "referer": "",
@@ -215,7 +208,7 @@
             "cookie": ""
           },
                               {
-            "name": "SERVER 3",
+            "name": "SERVER 4",
             "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
             "user_agent": "",
             "referer": "",
@@ -223,7 +216,7 @@
             "cookie": ""
           },
                                         {
-            "name": "SERVER 3",
+            "name": "SERVER 5",
             "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
             "user_agent": "",
             "referer": "",
@@ -231,7 +224,143 @@
             "cookie": ""
           },
                                         {
+            "name": "SERVER 6",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+          {
+        "name": "Canada vs tomorrow Bosnia and Herzegovina",
+        "subtitle": "اليوم™",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/2.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/2.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/2.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+          {
+            "name": "SERVER 1",
+            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 2",
+            "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
             "name": "SERVER 3",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/239672",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 4",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 5",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 6",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+            {
+        "name": "USA vs Paraguay",
+        "subtitle": "الغد",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/3.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/3.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/3.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+          {
+            "name": "SERVER 1",
+            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 2",
+            "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 3",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/239672",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 4",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 5",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 6",
             "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
             "user_agent": "",
             "referer": "",
@@ -241,6 +370,7 @@
 
           ]
         }
+        
       ]
     },
     {
