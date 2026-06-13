@@ -166,17 +166,17 @@
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
 
-  {
-        "name": "South Korea vs. Czechia",
+   {
+        "name": "Morocco vs Brazil",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/1.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/Morocco%20vs%20Brazil.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/1.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/1.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/Morocco%20vs%20Brazil.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/Morocco%20vs%20Brazil.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -235,16 +235,16 @@
           ]
         },
           {
-        "name": "Canada vs tomorrow Bosnia and Herzegovina",
+        "name": "Qatar vs Switzerland",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/2.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/Qatar%20vs%20Switzerland.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/2.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/2.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/Qatar%20vs%20Switzerland.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/Qatar%20vs%20Switzerland.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -303,16 +303,85 @@
           ]
         },
             {
-        "name": "USA vs Paraguay",
+        "name": "Haiti vs Ecosse",
         "subtitle": "الغد",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/3.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/Haiti%20vs%20Ecosse.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/3.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/3.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/Haiti%20vs%20Ecosse.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/Haiti%20vs%20Ecosse.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+          {
+            "name": "SERVER 1",
+            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 2",
+            "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 3",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/239672",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 4",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 5",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 6",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+
+                    {
+        "name": "Turkey vs Australia",
+        "subtitle": "الغد",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/Turkey%20vs%20Australia%20match.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/Turkey%20vs%20Australia%20match.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/Turkey%20vs%20Australia%20match.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -2876,29 +2945,38 @@
   "matches": [
 
   {
-    "team1": "كوريا الجنوبية",
-    "team2": "التشيك",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8496.png",
-    "time": "03:00",
-    "status": "كأس العالم 2026",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "كندا",
-    "team2": "البوسنة والهرسك",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
+    "team1": "قطر",
+    "team2": "سويسرا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5902.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
     "time": "20:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "الولايات المتحدة",
-    "team2": "باراغواي",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
+    "team1": "البرازيل",
+    "team2": "المغرب",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+    "time": "23:00",
+    "status": "كأس العالم 2026",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "هايتي",
+    "team2": "اسكتلندا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5934.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png",
     "time": "02:00",
+    "status": "كأس العالم 2026",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "أستراليا",
+    "team2": "تركيا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png",
+    "time": "05:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
