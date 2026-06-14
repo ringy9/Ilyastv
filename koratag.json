@@ -74,59 +74,37 @@
 
   {
     "id": "1",
-    "team1": "قطر",
-    "team2": "سويسرا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5902.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
-    "league": "FIFA World Cup",
-    "date": "June 13, 2026",
-    "time": "08:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "1",
-    "team1": "البرازيل",
-    "team2": "المغرب",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
-    "league": "FIFA World Cup",
-    "date": "June 13, 2026",
-    "time": "11:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "1",
-    "team1": "هايتي",
-    "team2": "اسكتلندا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5934.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png",
-    "league": "FIFA World Cup",
+    "team1": "ألمانيا",
+    "team2": "كوراساو",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/287981.png",
+    "league": "FIFA World Cup - Group E",
     "date": "June 14, 2026",
-    "time": "02:00 AM",
+    "time": "06:00 PM",
+    "status": "finished",
+    "score": "7 - 1",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "team1": "هولندا",
+    "team2": "اليابان",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6708.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
+    "league": "FIFA World Cup - Group F",
+    "date": "June 14, 2026",
+    "time": "09:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -142,14 +120,37 @@
     ]
   },
   {
-    "id": "1",
-    "team1": "أستراليا",
-    "team2": "تركيا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png",
-    "league": "FIFA World Cup",
-    "date": "June 14, 2026",
-    "time": "05:00 AM",
+    "id": "3",
+    "team1": "ساحل العاج",
+    "team2": "الإكوادور",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6709.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
+    "league": "FIFA World Cup - Group E",
+    "date": "June 15, 2026",
+    "time": "12:00 AM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "team1": "السويد",
+    "team2": "تونس",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8520.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
+    "league": "FIFA World Cup - Group F",
+    "date": "June 15, 2026",
+    "time": "03:00 AM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -164,7 +165,6 @@
       }
     ]
   }
-
   ],
   "highlights": [
     {
