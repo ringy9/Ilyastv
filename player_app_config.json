@@ -47,7 +47,7 @@
       "settings_native": true
     }
   },
-  "ads_config": {
+ "ads_config": {
     "ads_enabled": true,
     "player_rewarded_enabled": true,
     "player_interstitial_enabled": true,
@@ -60,9 +60,23 @@
   "player_ads": {
     "enabled": true,
     "show_before_player": true,
-    "ad_type": "interstitial",
-    "fallback_ad_type": "rewarded",
+    "ad_type": "rewarded",
+    "fallback_ad_type": "interstitial",
     "timeout_ms": 2000
+  },
+  "play_interstitial": {
+    "enabled": true,
+    "interstitial_click_interval": 1,
+    "interstitial_clicks": 0,
+    "cooldown_seconds": 30,
+    "max_wait_ms": 1000
+  },
+  "player_open_interstitial": {
+    "enabled": true,
+    "network": "admob",
+    "show_first_open": true,
+    "max_wait_ms": 1200,
+    "show_every_opens": 1
   },
   "update": {
     "enabled": false,
