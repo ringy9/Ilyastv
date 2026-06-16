@@ -13,7 +13,7 @@
       "native_ad": ""
     },
     "levelplay": {
-      "enabled": true,
+      "enabled": false,
       "app_key": "2675dd25d",
       "banner_id": "21g34i5ytcqiehxl",
       "interstitial_id": "vm0n8g2ff895yzho",
