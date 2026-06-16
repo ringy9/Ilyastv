@@ -166,17 +166,203 @@
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
 
-       {
-        "name": "Cape Verde vs Spain",
-        "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/cape-verde-vs-spain.png?raw=true",
+      {
+        "name": "Algeria vs Argentina",
+        "subtitle": "الغد™",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/algeria-vs-argentina.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/cape-verde-vs-spain.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/cape-verde-vs-spain.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/algeria-vs-argentina.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/algeria-vs-argentina.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+           {
+            "name": "SERVER 1",
+            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+          {
+            "name": "SERVER 2",
+            "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 3",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 4",
+            "url": "http://h47.videolynx.online/live/33523510/index.m3u8?t=4G0k648iJ63qsB-fJYXaRg&e=1781366062",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 5",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291502.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 6",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/239672",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 7",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 8",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 9",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+           {
+        "name": "Algeria vs Argentina",
+        "subtitle": "الغد™",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/algeria-vs-argentina.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/algeria-vs-argentina.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/algeria-vs-argentina.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+           {
+            "name": "SERVER 1",
+            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+          {
+            "name": "SERVER 2",
+            "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 3",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 4",
+            "url": "http://h47.videolynx.online/live/33523510/index.m3u8?t=4G0k648iJ63qsB-fJYXaRg&e=1781366062",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 5",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291502.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 6",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/239672",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 7",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 8",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 9",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+           {
+        "name": "Algeria vs Argentina",
+        "subtitle": "الغد™",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/algeria-vs-argentina.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/algeria-vs-argentina.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/algeria-vs-argentina.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -260,16 +446,16 @@
           ]
         },
           {
-        "name": "Belgium vs Egypt",
+        "name": "Iraq vs Norway",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/belgium-vs-egypt.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/iraq-vs-norway.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/belgium-vs-egypt.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/belgium-vs-egypt.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/iraq-vs-norway.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/iraq-vs-norway.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -345,16 +531,16 @@
           ]
         },
             {
-        "name": "Uruguay vs Saudi Arabia",
-        "subtitle": "اليوم",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/uruguay-vs-saudi-arabia.png?raw=true",
+        "name": "Senegal vs France",
+        "subtitle": "اليوم™",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/senegal-vs-france.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/uruguay-vs-saudi-arabia.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/uruguay-vs-saudi-arabia.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/senegal-vs-france.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/senegal-vs-france.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -430,16 +616,16 @@
         },
 
                     {
-        "name": "New Zealand vs Iran",
+        "name": "Jordan vs Austria",
         "subtitle": "الغد",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/new-zealand-vs-iran.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/jordan-vs-austria.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/new-zealand-vs-iran.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/new-zealand-vs-iran.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/jordan-vs-austria.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/jordan-vs-austria.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -3020,38 +3206,38 @@
   "matches": [
 
   {
-    "team1": "إسبانيا",
-    "team2": "الرأس الأخضر",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5888.png",
-    "time": "17:00",
-    "status": "كأس العالم 2026",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "بلجيكا",
-    "team2": "مصر",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10255.png",
+    "team1": "فرنسا",
+    "team2": "السنغال",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
     "time": "20:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "السعودية",
-    "team2": "الأوروغواي",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/7795.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5796.png",
+    "team1": "العراق",
+    "team2": "النرويج",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5819.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
     "time": "23:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "إيران",
-    "team2": "نيوزيلندا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6711.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5820.png",
+    "team1": "الأرجنتين",
+    "team2": "الجزائر",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6317.png",
     "time": "02:00",
+    "status": "كأس العالم 2026",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "النمسا",
+    "team2": "الأردن",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5816.png",
+    "time": "05:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
