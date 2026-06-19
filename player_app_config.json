@@ -2,8 +2,8 @@
   "ads": {
     "enabled": true,
     "default_network": "admob",
-    "fallback_network": "admob",
-    "second_fallback_network": "admob",
+    "fallback_network": "levelplay",
+    "second_fallback_network": "meta",
     "admob": {
       "app_id": "ca-app-pub-9297113109682195~5394855531",
       "app_open": "",
@@ -13,7 +13,7 @@
       "native_ad": ""
     },
     "levelplay": {
-      "enabled": false,
+      "enabled": true,
       "app_key": "2675dd25d",
       "banner_id": "21g34i5ytcqiehxl",
       "interstitial_id": "vm0n8g2ff895yzho",
