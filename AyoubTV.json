@@ -167,16 +167,271 @@
       "channels": [  
 
          {
-        "name": "South Africa vs Czechia",
+        "name": "Morocco vs. Scotland",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/south-africa-vs-czechia.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/morocco-vs-scotland.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/south-africa-vs-czechia.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/south-africa-vs-czechia.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/morocco-vs-scotland.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/morocco-vs-scotland.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+           {
+            "name": "SERVER 1",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+          {
+            "name": "SERVER 2",
+            "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 3",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 3",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291503.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 3",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 4",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 5",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 6",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+                  {
+        "name": "Morocco vs. Scotland",
+        "subtitle": "اليوم™",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/morocco-vs-scotland.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/morocco-vs-scotland.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/morocco-vs-scotland.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+           {
+            "name": "SERVER 1",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+          {
+            "name": "SERVER 2",
+            "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 3",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 3",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291503.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 3",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 4",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 5",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 6",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+                  {
+        "name": "Morocco vs. Scotland",
+        "subtitle": "اليوم™",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/morocco-vs-scotland.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/morocco-vs-scotland.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/morocco-vs-scotland.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+           {
+            "name": "SERVER 1",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+          {
+            "name": "SERVER 2",
+            "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 3",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 3",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291503.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 3",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 4",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 5",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 6",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+         {
+        "name": "USA vs Australia",
+        "subtitle": "اليوم™",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/usa-vs-australia.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/usa-vs-australia.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/usa-vs-australia.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -260,102 +515,18 @@
           ]
         },
      
-          {
-        "name": "Switzerland vs Bosnia-Herzegovina",
-        "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/switzerland-vs-bosnia-herzegovina.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/switzerland-vs-bosnia-herzegovina.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/switzerland-vs-bosnia-herzegovina.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "199.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
 
-           {
-            "name": "SERVER 1",
-            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-
-          {
-            "name": "SERVER 2",
-            "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 3",
-            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291503.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 4",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                                        {
-            "name": "SERVER 5",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                                        {
-            "name": "SERVER 6",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-
-          ]
-        },
             {
-        "name": "Canada vs Qatar",
+        "name": "Haiti vs Brazi",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/canada-vs-qatar.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/haiti-vs-brazil.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/canada-vs-qatar.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/canada-vs-qatar.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/haiti-vs-brazil.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/haiti-vs-brazil.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -431,16 +602,16 @@
         },
 
                     {
-        "name": "Mexico vs South Korea",
+        "name": "Turkey vs Paraguay",
         "subtitle": "الغد",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/mexico-vs-south-korea.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/turkiye-vs-paraguay.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/mexico-vs-south-korea.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/mexico-vs-south-korea.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/turkiye-vs-paraguay.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/turkiye-vs-paraguay.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
