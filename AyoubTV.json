@@ -34,7 +34,7 @@
     "interstitial_enabled": true,
     "rewarded_enabled": true,
     "app_open_enabled": true,
-    "interstitial_clicks": 3,
+    "interstitial_clicks": 2,
     "min_seconds_between_interstitials": 10,
     "levelplay": {
       "enabled": true,
