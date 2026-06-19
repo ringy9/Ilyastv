@@ -28,7 +28,7 @@
   },
   "ads": {
     "enabled": true,
-    "default_network": "levelplay",
+    "default_network": "admob",
     "banner_enabled": true,
     "native_enabled": true,
     "interstitial_enabled": true,
