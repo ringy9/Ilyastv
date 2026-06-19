@@ -542,6 +542,14 @@
             "origin": "",
             "cookie": ""
           },
+                              {
+            "name": "SERVER 1",
+            "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/wGucmvO-yvarXXDE14vqYciOy7_B3WPfuBAm2yuy96nJxEC8ti42HfmoJilq7gkWfVc3Miz0IkL0JAR-_y1Iaw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
            {
             "name": "SERVER 2",
             "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
