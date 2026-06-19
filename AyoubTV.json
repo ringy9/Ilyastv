@@ -534,8 +534,16 @@
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-                    {
+                     {
             "name": "SERVER 1",
+            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 2",
             "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295228.m3u8",
             "user_agent": "",
             "referer": "",
@@ -543,21 +551,14 @@
             "cookie": ""
           },
                               {
-            "name": "SERVER 1",
+            "name": "SERVER 2",
             "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/wGucmvO-yvarXXDE14vqYciOy7_B3WPfuBAm2yuy96nJxEC8ti42HfmoJilq7gkWfVc3Miz0IkL0JAR-_y1Iaw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-           {
-            "name": "SERVER 2",
-            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
+
 
           {
             "name": "SERVER 3",
