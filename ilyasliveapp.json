@@ -74,35 +74,12 @@
 
   {
     "id": "1",
-    "team1": "التشيك",
-    "team2": "جنوب إفريقيا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8496.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6316.png",
-    "league": "FIFA World Cup - Group A",
-    "date": "June 18, 2026",
-    "time": "05:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "team1": "سويسرا",
-    "team2": "البوسنة والهرسك",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
-    "league": "FIFA World Cup - Group B",
-    "date": "June 18, 2026",
+    "team1": "الولايات المتحدة الأمريكية",
+    "team2": "أستراليا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png",
+    "league": "FIFA World Cup - Group D",
+    "date": "June 19, 2026",
     "time": "08:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
@@ -119,13 +96,13 @@
     ]
   },
   {
-    "id": "3",
-    "team1": "كندا",
-    "team2": "قطر",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5902.png",
-    "league": "FIFA World Cup - Group B",
-    "date": "June 18, 2026",
+    "id": "2",
+    "team1": "اسكتلندا",
+    "team2": "المغرب",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+    "league": "FIFA World Cup - Group C",
+    "date": "June 19, 2026",
     "time": "11:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
@@ -142,14 +119,37 @@
     ]
   },
   {
+    "id": "3",
+    "team1": "البرازيل",
+    "team2": "هايتي",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5934.png",
+    "league": "FIFA World Cup - Group C",
+    "date": "June 20, 2026",
+    "time": "01:30 AM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
     "id": "4",
-    "team1": "المكسيك",
-    "team2": "كوريا الجنوبية",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
-    "league": "FIFA World Cup - Group A",
-    "date": "June 19, 2026",
-    "time": "02:00 AM",
+    "team1": "تركيا",
+    "team2": "باراغواي",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
+    "league": "FIFA World Cup - Group D",
+    "date": "June 20, 2026",
+    "time": "04:00 AM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -164,6 +164,7 @@
       }
     ]
   }
+    
   ],
   "highlights": [
     {
