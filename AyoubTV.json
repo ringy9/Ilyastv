@@ -3191,38 +3191,38 @@
   ],
   "matches": [
   {
-    "team1": "التشيك",
-    "team2": "جنوب إفريقيا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8496.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6316.png",
-    "time": "17:00",
-    "status": "كأس العالم 2026",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "سويسرا",
-    "team2": "البوسنة والهرسك",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
+    "team1": "الولايات المتحدة",
+    "team2": "أستراليا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6716.png",
     "time": "20:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "كندا",
-    "team2": "قطر",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5902.png",
+    "team1": "اسكتلندا",
+    "team2": "المغرب",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
     "time": "23:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "المكسيك",
-    "team2": "كوريا الجنوبية",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
-    "time": "02:00",
+    "team1": "البرازيل",
+    "team2": "هايتي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5934.png",
+    "time": "01:30",
+    "status": "كأس العالم 2026",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "تركيا",
+    "team2": "باراغواي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6595.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
+    "time": "04:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
