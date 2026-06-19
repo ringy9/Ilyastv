@@ -183,25 +183,27 @@
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-                     {
+
+                               {
             "name": "SERVER 1",
-            "url": "http://h32.playstreamx.online/live/918454578001/index.m3u8?t=ot0Hk-RHqjHfZG-XqDHErw&e=1781904662",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
            {
-            "name": "SERVER 1",
+            "name": "SERVER 2",
             "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295229.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                     {
+
+                               {
             "name": "SERVER 2",
-            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "url": "http://h32.playstreamx.online/live/918454578001/index.m3u8?t=ot0Hk-RHqjHfZG-XqDHErw&e=1781904662",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -302,23 +304,24 @@
 
                                {
             "name": "SERVER 1",
-            "url": "http://h32.playstreamx.online/live/918454578001/index.m3u8?t=ot0Hk-RHqjHfZG-XqDHErw&e=1781904662",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                 {
-            "name": "SERVER 1",
+           {
+            "name": "SERVER 2",
             "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295229.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                     {
+
+                               {
             "name": "SERVER 2",
-            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "url": "http://h32.playstreamx.online/live/918454578001/index.m3u8?t=ot0Hk-RHqjHfZG-XqDHErw&e=1781904662",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -419,23 +422,24 @@
 
                                {
             "name": "SERVER 1",
-            "url": "http://h32.playstreamx.online/live/918454578001/index.m3u8?t=ot0Hk-RHqjHfZG-XqDHErw&e=1781904662",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                   {
-            "name": "SERVER 1",
+           {
+            "name": "SERVER 2",
             "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295229.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                     {
+
+                               {
             "name": "SERVER 2",
-            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "url": "http://h32.playstreamx.online/live/918454578001/index.m3u8?t=ot0Hk-RHqjHfZG-XqDHErw&e=1781904662",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -654,17 +658,18 @@
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-             {
+
+           {
             "name": "SERVER 1",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295224.m3u8",
+            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-           {
+                       {
             "name": "SERVER 2",
-            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295224.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -765,17 +770,18 @@
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-               {
+
+                     {
             "name": "SERVER 1",
-            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295229.m3u8",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                     {
+                         {
             "name": "SERVER 2",
-            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295229.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
