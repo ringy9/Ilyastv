@@ -14,7 +14,7 @@
   },
   "update": {
     "enabled": true,
-    "force": false,
+    "force": true,
     "version_code": 5,
     "title": "تحديث جديد متاح",
     "message": "يرجى تحديث التطبيق للحصول على أفضل تجربة",
