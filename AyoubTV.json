@@ -167,16 +167,16 @@
       "channels": [  
 
                  {
-        "name": "Portugal vs Uzbekistan",
+        "name": "Bosnia and Herzegovina vs Qatar",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/portugal-vs-uzbekistan.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/qatar-vs-bosnia-herzegovina.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/portugal-vs-uzbekistan.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/portugal-vs-uzbekistan.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/qatar-vs-bosnia-herzegovina.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/qatar-vs-bosnia-herzegovina.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -287,16 +287,16 @@
         },
              
          {
-        "name": "Ghana vs England",
+        "name": "Switzerland vs Canada",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/ghana-vs-england.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/canada-vs-switzerland.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/ghana-vs-england.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/ghana-vs-england.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/canada-vs-switzerland.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/canada-vs-switzerland.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -399,16 +399,16 @@
      
 
             {
-        "name": "Panama vs Croatia",
+        "name": "Morocco vs Haiti",
         "subtitle": "الغد",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/panama-vs-croatia.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/haiti-vs-morocco.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/panama-vs-croatia.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/panama-vs-croatia.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/haiti-vs-morocco.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/haiti-vs-morocco.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -511,16 +511,236 @@
      
 
                     {
-        "name": "DR Congo vs Colombia",
+        "name": "Scotland vs Brazil",
         "subtitle": "الغد",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/dr-congo-vs-colombia.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/razil-vs-scotland.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/dr-congo-vs-colombia.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/dr-congo-vs-colombia.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/razil-vs-scotland.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/razil-vs-scotland.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+
+                     {
+            "name": "SERVER 1",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                         {
+            "name": "SERVER 2",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295229.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+          {
+            "name": "SERVER 3",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295231.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 4",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 5",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295244.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 6",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1246127.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 7",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295246.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 8",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295252.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+         {
+            "name": "SERVER 9",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295254.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                   {
+            "name": "SERVER 10",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1246119.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 11",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1246119.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+                    {
+        "name": "Czech Republic vs Mexico",
+        "subtitle": "الغد",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/mexico-vs-czechia.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/mexico-vs-czechia.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/mexico-vs-czechia.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+
+           {
+            "name": "SERVER 1",
+            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                       {
+            "name": "SERVER 2",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295224.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+          {
+            "name": "SERVER 3",
+            "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 4",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 5",
+            "url": "http://h47.videolynx.online/live/33523510/index.m3u8?t=4G0k648iJ63qsB-fJYXaRg&e=1781366062",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 6",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295224.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 7",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1246126.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 8",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1246128.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 9",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295211.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 10",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295224.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 11",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295228.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+                    {
+        "name": "South Africa vs South Korea",
+        "subtitle": "الغد",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/south-africa-vs-south-korea.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/south-africa-vs-south-korea.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/south-africa-vs-south-korea.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -3124,39 +3344,57 @@
   }
   ],
   "matches": [
-  {
-    "team1": "البرتغال",
-    "team2": "أوزبكستان",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8700.png",
-    "time": "18:00",
+ {
+    "team1": "البوسنة والهرسك",
+    "team2": "قطر",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5902.png",
+    "time": "20:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "إنجلترا",
-    "team2": "غانا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6714.png",
-    "time": "21:00",
+    "team1": "سويسرا",
+    "team2": "كندا",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
+    "time": "20:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "بنما",
-    "team2": "كرواتيا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5922.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
-    "time": "00:00",
+    "team1": "المغرب",
+    "team2": "هايتي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5934.png",
+    "time": "23:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "كولومبيا",
-    "team2": "الكونغو الديمقراطية",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
-    "time": "03:00",
+    "team1": "اسكتلندا",
+    "team2": "البرازيل",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8498.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
+    "time": "23:00",
+    "status": "كأس العالم 2026",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "التشيك",
+    "team2": "المكسيك",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8496.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
+    "time": "02:00",
+    "status": "كأس العالم 2026",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "جنوب أفريقيا",
+    "team2": "كوريا الجنوبية",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6316.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
+    "time": "02:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
