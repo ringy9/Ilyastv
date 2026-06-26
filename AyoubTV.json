@@ -186,7 +186,7 @@
 
                           {
             "name": "SERVER 1",
-            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
+            "url": "https://a16.kora-plus.app/live/max1.m3u8?token=26s1bnShzmtfPQTLnCERF1DxEvw&exp=1782505493",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -194,7 +194,7 @@
           },
                     {
             "name": "SERVER 2",
-            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295228.m3u8",
+            "url": "https://a16.kora-plus.app/live/max1.m3u8?token=26s1bnShzmtfPQTLnCERF1DxEvw&exp=1782505493",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -202,7 +202,7 @@
           },
                               {
             "name": "SERVER 2",
-            "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/wGucmvO-yvarXXDE14vqYciOy7_B3WPfuBAm2yuy96nJxEC8ti42HfmoJilq7gkWfVc3Miz0IkL0JAR-_y1Iaw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+            "url": "https://a16.kora-plus.app/live/max1.m3u8?token=26s1bnShzmtfPQTLnCERF1DxEvw&exp=1782505493",
             "user_agent": "",
             "referer": "",
             "origin": "",
