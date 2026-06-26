@@ -2388,7 +2388,7 @@
     "name": "الوان سبورت - Alwan Sports",
     "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/9.png?raw=true",
     "channels": [
-      {
+             {
         "name": "ALWAN SPORTS 1",
         "subtitle": "Alwan Sports 1",
         "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/1.png?raw=true",
@@ -2406,7 +2406,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151207.ts",
+            "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.lol/alwan_sport1/tracks-v1a1/mono.m3u8?token=ad53e9fa3ee6636977fc6476ade0a1a18d316fa7-776f614f3473ceea-1782516092-1782512192",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2414,7 +2414,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151207.ts",
+            "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.baby/alwan_sport1fhd/tracks-v1a1/mono.m3u8?token=7d48d44ee65a33a554d6b43d97a28f6de186ee56-f25f677304b52f09-1782516173-1782512273",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2448,7 +2448,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151208.ts",
+            "url": "https://so-nn-mf-t.marketplace-io-none-kode-steeeee.lol/alwan_sport2/tracks-v1a1/mono.m3u8?token=7c9cda6938c32a8dcc84b2fc97a066ae9d636da7-051d3ffab6b805ce-1782516244-1782512344",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2456,7 +2456,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151208.ts",
+            "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.baby/alwan_sport2fhd/tracks-v1a1/mono.m3u8?token=a2287c0e98ae865360214585a2ee3465a97ce8fa-e9be8e2eddeb98d2-1782516295-1782512395",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2490,7 +2490,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151209.ts",
+            "url": "https://u2.marketplace-io-none-kode-steeeee.lol/alwan_sport3/tracks-v1a1/mono.m3u8?token=25881cd900f3407ac7ad64c59b570456180c2f57-e09aa840c5556be149e92d7a4323089f-1782523253-1782512453",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2498,7 +2498,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151209.ts",
+            "url": "https://u2.marketplace-io-none-kode-steeeee.lol/alwan_sport3/tracks-v1a1/mono.m3u8?token=25881cd900f3407ac7ad64c59b570456180c2f57-e09aa840c5556be149e92d7a4323089f-1782523253-1782512453",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2532,7 +2532,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151210.ts",
+            "url": "https://u2.marketplace-io-none-kode-steeeee.lol/alwan_sport4/tracks-v1a1/mono.m3u8?token=ea1682d47fc4f44de8bbce8fa194d27679c38058-7d1fe6a23c8d4ee99b79d61769e46e17-1782523451-1782512651",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2540,7 +2540,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151210.ts",
+            "url": "https://u1.marketplace-io-none-kode-steeeee.lol/alwan_sport4fhd/tracks-v1a1/mono.m3u8?token=e9fa9a8771ef9c20ff802437b683cf96a8c652f3-0a0c294fd513ab72067e728a665b6dfd-1782523499-1782512699",
             "user_agent": "",
             "referer": "",
             "origin": "",
