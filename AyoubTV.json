@@ -866,7 +866,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
+              "url": "http://o-tr-rec-nm-hh.genral.xyz:8080/msd1.html?token=3aac2148bd71d05cc52b8771d0bd0d53",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -874,7 +874,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
+              "url": "http://o-tr-rec-nm-hh.genral.cfd:8080/mhd1.html?token=3aac2148bd71d05cc52b8771d0bd0d53",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -882,7 +882,7 @@
             },
             {
               "name": "SERVER 3",
-              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291506",
+              "url": "http://o-tr-rec-nm-hh.genral.xyz:8080/msd1.html?token=3aac2148bd71d05cc52b8771d0bd0d53",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -916,7 +916,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
+              "url": "http://o-tr-rec-nm-hh.for-sav-ogr-403-cf.cyou:8080//msd2.html?token=3aac2148bd71d05cc52b8771d0bd0d53",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -924,7 +924,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291501",
+              "url": "http://o-tr-rec-nm-hh.for-sav-ogr-403-cf.cyou:8080//mhd2.html?token=3aac2148bd71d05cc52b8771d0bd0d53",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -966,7 +966,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h47.videolynx.online/live/33523510/index.m3u8?t=4G0k648iJ63qsB-fJYXaRg&e=1781366062",
+              "url": "https://so-nn-mf-t.marketplace-io-none-kode-steeeee.lol/b3480/tracks-v1a1/mono.m3u8?token=9930d9a39dc3002a7eee7c099c0255303d66c09d-1390614a6b53fbbe-1782515676-1782511776",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -974,7 +974,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291502",
+              "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.lol/bmax3/tracks-v1a1/mono.m3u8?token=ca3ef3baa92c78780baa120819d50024671cf360-7d1100158039ee68-1782515768-1782511868",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1016,7 +1016,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291497",
+              "url": "https://so-nn-mf-t.marketplace-io-none-kode-steeeee.lol/B4480/tracks-v1a1/mono.m3u8?token=0cf01a5c8634c3d6a74bed126639843c17566a22-a30fe5e97fe8fab3-1782515870-1782511970",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1024,7 +1024,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291503",
+              "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.monster/bmax4/tracks-v1a1/mono.m3u8?token=380d94e00a1910d5f6622182311962dfaa984efd-285e2b5278b03b83-1782515935-1782512035",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1066,7 +1066,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291498",
+              "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.baby/bmax5/tracks-v1a1/mono.m3u8?token=e3194fb211b839f296fa027607e42fc383bc8fb2-93d9c5c4a5b09f45-1782516005-1782512105",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1074,7 +1074,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291504",
+              "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.baby/bmax5/tracks-v1a1/mono.m3u8?token=e3194fb211b839f296fa027607e42fc383bc8fb2-93d9c5c4a5b09f45-1782516005-1782512105",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1116,7 +1116,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291499",
+              "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.lol/bmax6/tracks-v1a1/mono.m3u8?token=2c354b97592e58780b44e78c6c4c51f6cde225d7-a65d607e181f5348-1782516041-1782512141",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1124,7 +1124,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/291505",
+              "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.lol/bmax6/tracks-v1a1/mono.m3u8?token=2c354b97592e58780b44e78c6c4c51f6cde225d7-a65d607e181f5348-1782516041-1782512141",
               "user_agent": "",
               "referer": "",
               "origin": "",
