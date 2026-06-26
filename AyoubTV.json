@@ -528,9 +528,10 @@
         "servers": [
 
 
+
                      {
             "name": "SERVER 1",
-            "url": "https://so-nn-mf-t.marketplace-io-none-kode-steeeee.lol/B4480/tracks-v1a1/mono.m3u8?token=0cf01a5c8634c3d6a74bed126639843c17566a22-a30fe5e97fe8fab3-1782515870-1782511970",
+            "url": "https://a17.kora-plus.app/live/max4.m3u8?token=j58h-_Ez1VVS9ngv_KW93DShRbQ&exp=1782518631",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -538,7 +539,7 @@
           },
                          {
             "name": "SERVER 2",
-            "url": "https://so-nn-mf-t.marketplace-io-none-kode-steeeee.lol/B4480/tracks-v1a1/mono.m3u8?token=0cf01a5c8634c3d6a74bed126639843c17566a22-a30fe5e97fe8fab3-1782515870-1782511970",
+            "url": "https://a17.kora-plus.app/live/max4.m3u8?token=j58h-_Ez1VVS9ngv_KW93DShRbQ&exp=1782518631",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -547,7 +548,7 @@
 
           {
             "name": "SERVER 3",
-            "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.monster/bmax4/tracks-v1a1/mono.m3u8?token=380d94e00a1910d5f6622182311962dfaa984efd-285e2b5278b03b83-1782515935-1782512035",
+            "url": "https://a17.kora-plus.app/live/max4.m3u8?token=j58h-_Ez1VVS9ngv_KW93DShRbQ&exp=1782518631",
             "user_agent": "",
             "referer": "",
             "origin": "",
