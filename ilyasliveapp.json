@@ -72,130 +72,15 @@
   ],
   "matches": [
 
-   {
-    "id": "1",
-    "team1": "كرواتيا",
-    "team2": "غانا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6714.png",
-    "league": "FIFA World Cup",
-    "date": "June 27, 2026",
-    "time": "10:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "team1": "بنما",
-    "team2": "إنجلترا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5922.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
-    "league": "FIFA World Cup",
-    "date": "June 27, 2026",
-    "time": "10:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "3",
-    "team1": "كولومبيا",
-    "team2": "البرتغال",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8258.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
-    "league": "FIFA World Cup",
+    {
+    "id": "world_cup",
+    "team1": "جنوب إفريقيا",
+    "team2": "كندا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6316.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
+    "league": "كاس العالم 2026",
     "date": "June 28, 2026",
-    "time": "12:30 AM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "4",
-    "team1": "الكونغو الديمقراطية",
-    "team2": "أوزبكستان",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8700.png",
-    "league": "FIFA World Cup",
-    "date": "June 28, 2026",
-    "time": "12:30 AM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "5",
-    "team1": "الجزائر",
-    "team2": "النمسا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6317.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
-    "league": "FIFA World Cup",
-    "date": "June 28, 2026",
-    "time": "03:00 AM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "6",
-    "team1": "الأردن",
-    "team2": "الأرجنتين",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5816.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
-    "league": "FIFA World Cup",
-    "date": "June 28, 2026",
-    "time": "03:00 AM",
+    "time": "08:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
