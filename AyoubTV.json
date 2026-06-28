@@ -165,8 +165,7 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-
-                     {
+                   {
         "name": "South Africa vs. Canada",
         "subtitle": "اليوم™",
         "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A10/canada-vs-south-africa.png?raw=true",
@@ -186,7 +185,7 @@
 
                           {
             "name": "SERVER 1",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://het112c.metava.online/live/610303030/index.m3u8?t=tUhKoP0ucqChOk4-woI7vA&e=1782683004",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -194,7 +193,7 @@
           },
                     {
             "name": "SERVER 2",
-            "url": "https://vsd134.okcdn.ru/cmaf/16200201865841/sig/cSV2H2U0AKg/expires/1782736063225/srcIp/196.206.50.236/urls/185.180.203.58/clientType/36/srcAg/GECKO/mid/14770786879345/get/dash_14770786879345.h9Hv1IEOYUw.mpd?offset_p=632000",
+            "url": "http://het136b.metava.online/live/1515000000/index.m3u8?t=x7iObPOTpuRfLHfGt_6BzA&e=1782683200",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -249,7 +248,7 @@
 
                           {
             "name": "SERVER 1",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://het112c.metava.online/live/610303030/index.m3u8?t=tUhKoP0ucqChOk4-woI7vA&e=1782683004",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -257,7 +256,7 @@
           },
                     {
             "name": "SERVER 2",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://het136b.metava.online/live/1515000000/index.m3u8?t=x7iObPOTpuRfLHfGt_6BzA&e=1782683200",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -312,7 +311,7 @@
 
                           {
             "name": "SERVER 1",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://het112c.metava.online/live/610303030/index.m3u8?t=tUhKoP0ucqChOk4-woI7vA&e=1782683004",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -320,7 +319,7 @@
           },
                     {
             "name": "SERVER 2",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://het136b.metava.online/live/1515000000/index.m3u8?t=x7iObPOTpuRfLHfGt_6BzA&e=1782683200",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -381,7 +380,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://het101b.metava.online/live/610303030/index.m3u8?t=cse5ktLNzw3jZbRg0ly3fA&e=1782580005",
+              "url": "http://het112c.metava.online/live/610303030/index.m3u8?t=tUhKoP0ucqChOk4-woI7vA&e=1782683004",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -431,7 +430,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://het113a.metava.online/live/1515000000/index.m3u8?t=giOr9MJfz5AFOSWNmRZCLA&e=1782580386",
+              "url": "http://het136b.metava.online/live/1515000000/index.m3u8?t=x7iObPOTpuRfLHfGt_6BzA&e=1782683200",
               "user_agent": "",
               "referer": "",
               "origin": "",
