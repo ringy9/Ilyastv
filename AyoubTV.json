@@ -193,7 +193,7 @@
           },
                     {
             "name": "SERVER 2",
-            "url": "http://het136b.metava.online/live/1515000000/index.m3u8?t=x7iObPOTpuRfLHfGt_6BzA&e=1782683200",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -201,7 +201,7 @@
           },
                               {
             "name": "SERVER 3",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295253.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -211,15 +211,31 @@
 
                               {
             "name": "SERVER 4 en",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                                        {
+         {
             "name": "SERVER 5 fr",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295231.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                   {
+            "name": "SERVER 6 fr",
+            "url": "http://asmrasmr.live:8080/live/7400273255/4789325799/1295253.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                             {
+            "name": "SERVER 6 fr",
+            "url": "http://5edh.nl/live/toanvu/123456/13869.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -246,7 +262,7 @@
         "servers": [
 
 
-                          {
+                        {
             "name": "SERVER 1",
             "url": "http://het112c.metava.online/live/610303030/index.m3u8?t=tUhKoP0ucqChOk4-woI7vA&e=1782683004",
             "user_agent": "",
@@ -256,7 +272,7 @@
           },
                     {
             "name": "SERVER 2",
-            "url": "http://het136b.metava.online/live/1515000000/index.m3u8?t=x7iObPOTpuRfLHfGt_6BzA&e=1782683200",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -264,7 +280,7 @@
           },
                               {
             "name": "SERVER 3",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295253.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -274,15 +290,31 @@
 
                               {
             "name": "SERVER 4 en",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                                        {
+         {
             "name": "SERVER 5 fr",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295231.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                   {
+            "name": "SERVER 6 fr",
+            "url": "http://asmrasmr.live:8080/live/7400273255/4789325799/1295253.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                             {
+            "name": "SERVER 6 fr",
+            "url": "http://5edh.nl/live/toanvu/123456/13869.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -309,7 +341,7 @@
         "servers": [
 
 
-                          {
+                        {
             "name": "SERVER 1",
             "url": "http://het112c.metava.online/live/610303030/index.m3u8?t=tUhKoP0ucqChOk4-woI7vA&e=1782683004",
             "user_agent": "",
@@ -319,7 +351,7 @@
           },
                     {
             "name": "SERVER 2",
-            "url": "http://het136b.metava.online/live/1515000000/index.m3u8?t=x7iObPOTpuRfLHfGt_6BzA&e=1782683200",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -327,7 +359,7 @@
           },
                               {
             "name": "SERVER 3",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295253.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -337,15 +369,31 @@
 
                               {
             "name": "SERVER 4 en",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                                        {
+         {
             "name": "SERVER 5 fr",
-            "url": "http://het120a.metava.online/live/610303030/index.m3u8?t=KgjMAmlr3ihapXDbaNV2CQ&e=1782629142",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295231.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                   {
+            "name": "SERVER 6 fr",
+            "url": "http://asmrasmr.live:8080/live/7400273255/4789325799/1295253.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                             {
+            "name": "SERVER 6 fr",
+            "url": "http://5edh.nl/live/toanvu/123456/13869.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
