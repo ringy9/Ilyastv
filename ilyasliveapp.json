@@ -74,13 +74,59 @@
 
     {
     "id": "world_cup",
-    "team1": "جنوب إفريقيا",
-    "team2": "كندا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6316.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5810.png",
+    "team1": "البرازيل",
+    "team2": "اليابان",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
     "league": "كاس العالم 2026",
-    "date": "June 28, 2026",
-    "time": "08:00 PM",
+    "date": "June 29, 2026",
+    "time": "06:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "world_cup",
+    "team1": "ألمانيا",
+    "team2": "باراغواي",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
+    "league": "كاس العالم 2026",
+    "date": "June 29, 2026",
+    "time": "09:30 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "world_cup",
+    "team1": "هولندا",
+    "team2": "المغرب",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6708.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+    "league": "كاس العالم 2026",
+    "date": "June 30, 2026",
+    "time": "02:00 AM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
