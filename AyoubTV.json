@@ -165,17 +165,17 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-                            {
-        "name": "Brazil vs Japan",
+                             {
+        "name": "Ivory Coast vs Norway",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A11/japan-vs-brazil.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ivory-coast-vs-norway.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A11/japan-vs-brazil.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A11/japan-vs-brazil.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ivory-coast-vs-norway.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ivory-coast-vs-norway.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -185,7 +185,7 @@
 
                           {
             "name": "SERVER 1",
-            "url": "http://het131a.metava.online/live/610303030/index.m3u8?t=CcO9csz5zglqHKwGsCQO5g&e=1782794906",
+            "url": "http://het124a.metava.online/live/610303030/index.m3u8?t=RY1IuRTJjyDCEaR-ELh_7A&e=1782837966",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -193,7 +193,7 @@
           },
                                     {
             "name": "SERVER 1",
-            "url": "http://het131a.metava.online/live/610303030/index.m3u8?t=CcO9csz5zglqHKwGsCQO5g&e=1782794906",
+            "url": "http://het124a.metava.online/live/610303030/index.m3u8?t=RY1IuRTJjyDCEaR-ELh_7A&e=1782837966",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -253,16 +253,16 @@
           ]
         },
                            {
-        "name": "Germany vs Paraguay",
+        "name": "France vs Sweden",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A11/paraguay-vs-germany.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/france-vs-sweden.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A11/paraguay-vs-germany.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A11/paraguay-vs-germany.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/france-vs-sweden.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/france-vs-sweden.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -280,7 +280,7 @@
           },
                                   {
             "name": "SERVER 1",
-            "url": "http://het110a.ycn-redirect.com/live/1515000000/index.m3u8?t=eQ5pbg2Qh3W-x0SXr90UxA&e=1782786885",
+            "url": "http://het115a.metava.online/live/918454578001/index.m3u8?t=fwAAmH54JAFxGZT-nqLrJA&e=1782838382",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -340,26 +340,25 @@
           ]
         },
                            {
-        "name": "Netherlands vs Morocco",
+        "name": "Mexico vs Ecuador",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A11/morocco-vs-netherlands.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ecuador-vs-mexico.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A11/morocco-vs-netherlands.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A11/morocco-vs-netherlands.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ecuador-vs-mexico.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ecuador-vs-mexico.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-
                               {
             "name": "SERVER 1",
-            "url": "http://het131a.metava.online/live/610303030/index.m3u8?t=CcO9csz5zglqHKwGsCQO5g&e=1782794906",
+            "url": "http://het124a.metava.online/live/610303030/index.m3u8?t=RY1IuRTJjyDCEaR-ELh_7A&e=1782837966",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -367,7 +366,7 @@
           },
                                         {
             "name": "SERVER 2",
-            "url": "https://a6.kora-plus.app/live/alwan1.m3u8?token=CDfpkNFpCdfmxVxc6w6QiXX9ook&exp=1782779289",
+            "url": "http://het124a.metava.online/live/610303030/index.m3u8?t=RY1IuRTJjyDCEaR-ELh_7A&e=1782837966",
             "user_agent": "",
             "referer": "",
             "origin": "",
