@@ -277,25 +277,41 @@
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-
-                        {
+                                  {
             "name": "SERVER 1",
+            "url": "https://a11.kora-plus.app/live/max2.m3u8?token=VPJ-0-FHCePVh8XiFNtJ4Do5Tpw&exp=1782852991",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                        {
+            "name": "SERVER 2",
+            "url": "https://a10.kora-plus.app/live/alwan1.m3u8?token=dFzV1LC14zvm7kLWqbQJReqvEbY&exp=1782853098",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+                                  {
+            "name": "SERVER 3",
+            "url": "https://a6.kora-plus.app/live/max22-1224.ts?token=fgQStrCPzeDGDuPEnbC7CSDr6R4&exp=1782853242",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                            {
+            "name": "SERVER 4",
             "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295225.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                                  {
-            "name": "SERVER 1",
-            "url": "http://het115a.metava.online/live/918454578001/index.m3u8?t=fwAAmH54JAFxGZT-nqLrJA&e=1782838382",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
                     {
-            "name": "SERVER 2",
+            "name": "SERVER 5",
             "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295225.ts",
             "user_agent": "",
             "referer": "",
