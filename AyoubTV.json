@@ -2953,29 +2953,29 @@
   }
   ],
   "matches": [
-  {
-    "team1": "البرازيل",
-    "team2": "اليابان",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8256.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
+ {
+    "team1": "كوت ديفوار",
+    "team2": "النرويج",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6709.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
     "time": "18:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "ألمانيا",
-    "team2": "باراغواي",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8570.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6724.png",
-    "time": "21:30",
+    "team1": "فرنسا",
+    "team2": "السويد",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8520.png",
+    "time": "22:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "هولندا",
-    "team2": "المغرب",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6708.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+    "team1": "المكسيك",
+    "team2": "الإكوادور",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
     "time": "02:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
