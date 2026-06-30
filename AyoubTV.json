@@ -191,7 +191,15 @@
             "origin": "",
             "cookie": ""
           },
-                                    {
+                {
+            "name": "SERVER 1",
+            "url": "http://het132a.metava.online/live/610303030/index.m3u8?t=ne9BOjDCi8a08u08n4QItw&e=1782858706",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+              {
             "name": "SERVER 1",
             "url": "https://a9.kora-plus.app/live/max11.m3u8?token=m2aBOD9mcf1gVXWweieedcxBRy4&exp=1782840198",
             "user_agent": "",
