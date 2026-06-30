@@ -359,7 +359,15 @@
 
                               {
             "name": "SERVER 1",
-            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
+            "url": "http://het131a.metava.online/live/610303030/index.m3u8?t=CcO9csz5zglqHKwGsCQO5g&e=1782794906",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 1",
+            "url": "https://a6.kora-plus.app/live/alwan1.m3u8?token=CDfpkNFpCdfmxVxc6w6QiXX9ook&exp=1782779289",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -367,7 +375,7 @@
           },
                                     {
             "name": "SERVER 1",
-            "url": "http://het127a.metava.online/live/610303030/index.m3u8?t=DxZ7INnQou1qOFljJNN8dw&e=1782777385",
+            "url": "https://a15.kora-plus.app/live/max11.m3u8?token=Nu-oY9ayQ6nC-quIegL0f24MeiU&exp=1782779034",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -375,7 +383,7 @@
           },
                     {
             "name": "SERVER 2",
-            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
+            "url": "https://tv.streamboxtv.cc/live/testlivestream/testlivestream/4194.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -383,7 +391,7 @@
           },
                               {
             "name": "SERVER 3",
-            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295253.m3u8",
+            "url": "https://tv.streamboxtv.cc/live/testlivestream/testlivestream/475.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
