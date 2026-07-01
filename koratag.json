@@ -96,12 +96,12 @@
     ]
   },
   {
-    "id": "world_cup",
+    "id": "1",
     "team1": "بلجيكا",
     "team2": "السنغال",
     "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
     "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
-    "league": "كاس العالم 2026",
+    "league": "world cup 2026",
     "date": "July 1, 2026",
     "time": "09:00 PM",
     "status": "upcoming",
@@ -119,12 +119,12 @@
     ]
   },
   {
-    "id": "world_cup",
+    "id": "1",
     "team1": "الولايات المتحدة",
     "team2": "البوسنة والهرسك",
     "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
     "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
-    "league": "كاس العالم 2026",
+    "league": "world cup 2026",
     "date": "July 2, 2026",
     "time": "01:00 AM",
     "status": "upcoming",
