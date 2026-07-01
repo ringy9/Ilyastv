@@ -2967,33 +2967,33 @@
   }
   ],
   "matches": [
- {
-    "team1": "كوت ديفوار",
-    "team2": "النرويج",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6709.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
-    "time": "18:00",
-    "status": "كأس العالم 2026",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "فرنسا",
-    "team2": "السويد",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6723.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8520.png",
-    "time": "22:00",
-    "status": "كأس العالم 2026",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "المكسيك",
-    "team2": "الإكوادور",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6710.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6707.png",
-    "time": "02:00",
-    "status": "كأس العالم 2026",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  }
+{
+  "team1": "إنجلترا",
+  "team2": "الكونغو الديمقراطية",
+  "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8496.png",
+  "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8497.png",
+  "time": "17:00",
+  "status": "كأس العالم 2026",
+  "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+},
+{
+  "team1": "بلجيكا",
+  "team2": "السنغال",
+  "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8264.png",
+  "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8494.png",
+  "time": "21:00",
+  "status": "كأس العالم 2026",
+  "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+},
+{
+  "team1": "الولايات المتحدة",
+  "team2": "البوسنة والهرسك",
+  "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6601.png",
+  "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6326.png",
+  "time": "01:00",
+  "status": "كأس العالم 2026",
+  "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+}
   ],
   "player_bottom": {
     "enabled": true,
