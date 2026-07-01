@@ -165,17 +165,17 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-                             {
-        "name": "Ivory Coast vs Norway",
+                           {
+        "name": "England vs DR Congo",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ivory-coast-vs-norway.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/dr-congo-vs-england.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ivory-coast-vs-norway.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ivory-coast-vs-norway.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/dr-congo-vs-england.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/dr-congo-vs-england.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -183,7 +183,7 @@
         "servers": [
 
 
-                          {
+            {
             "name": "SERVER 1",
             "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
             "user_agent": "",
@@ -191,7 +191,7 @@
             "origin": "",
             "cookie": ""
           },
-                {
+            {
             "name": "SERVER 1",
             "url": "http://het132a.metava.online/live/610303030/index.m3u8?t=ne9BOjDCi8a08u08n4QItw&e=1782858706",
             "user_agent": "",
@@ -199,9 +199,9 @@
             "origin": "",
             "cookie": ""
           },
-              {
+           {
             "name": "SERVER 1",
-            "url": "https://a12.kora-plus.app/live/max2.m3u8?token=scfCCbAzKMtAUvx2GUFSUeAqSsI&exp=1782855473",
+            "url": "https://a9.kora-plus.app/live/max11.m3u8?token=m2aBOD9mcf1gVXWweieedcxBRy4&exp=1782840198",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -261,16 +261,16 @@
           ]
         },
                            {
-        "name": "France vs Sweden",
+        "name": "Belgium vs Senegal",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/france-vs-sweden.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/senegal-vs-belgium.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/france-vs-sweden.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/france-vs-sweden.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/senegal-vs-belgium.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/senegal-vs-belgium.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -279,13 +279,13 @@
 
                                   {
             "name": "SERVER 1",
-            "url": "http://het110a.metava.online/live/1515000000/index.m3u8?t=mcWZ01RU-e24CovnZy_ctw&e=1782871767",
+            "url": "https://a11.kora-plus.app/live/max2.m3u8?token=VPJ-0-FHCePVh8XiFNtJ4Do5Tpw&exp=1782852991",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                  {
+        {
             "name": "SERVER 1",
             "url": "https://a12.kora-plus.app/live/max2.m3u8?token=scfCCbAzKMtAUvx2GUFSUeAqSsI&exp=1782855473",
             "user_agent": "",
@@ -326,24 +326,6 @@
             "origin": "",
             "cookie": ""
           },
-                              {
-            "name": "SERVER 3",
-            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295231.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-
-
-                              {
-            "name": "SERVER 4 en",
-            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295233.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
          {
             "name": "SERVER 5 fr",
             "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295244.ts",
@@ -372,16 +354,16 @@
           ]
         },
                            {
-        "name": "Mexico vs Ecuador",
+        "name": "United States vs Bosnia-Herzegovina",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ecuador-vs-mexico.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/usa-vs-bosnia-herzegovina.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ecuador-vs-mexico.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A12/ecuador-vs-mexico.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/usa-vs-bosnia-herzegovina.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/usa-vs-bosnia-herzegovina.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
