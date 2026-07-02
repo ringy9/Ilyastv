@@ -73,61 +73,62 @@
   "matches": [
 
 
+
   {
     "id": "1",
-    "team1": "إنجلترا",
-    "team2": "الكونغو الديمقراطية",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8491.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
-    "league": "world cup 2026",
-    "date": "July 1, 2026",
-    "time": "05:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "1",
-    "team1": "بلجيكا",
-    "team2": "السنغال",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
-    "league": "world cup 2026",
-    "date": "July 1, 2026",
-    "time": "09:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "1",
-    "team1": "الولايات المتحدة",
-    "team2": "البوسنة والهرسك",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6713.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10106.png",
+    "team1": "إسبانيا",
+    "team2": "النمسا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
     "league": "world cup 2026",
     "date": "July 2, 2026",
-    "time": "01:00 AM",
+    "time": "08:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "team1": "البرتغال",
+    "team2": "كرواتيا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
+    "league": "world cup 2026",
+    "date": "July 3, 2026",
+    "time": "12:00 AM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad1",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "team1": "سويسرا",
+    "team2": "الجزائر",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6317.png",
+    "league": "world cup 2026",
+    "date": "July 3, 2026",
+    "time": "04:00 AM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -142,6 +143,7 @@
       }
     ]
   }
+
 
 
   ],
