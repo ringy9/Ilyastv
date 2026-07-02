@@ -165,17 +165,17 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-                           {
-        "name": "England vs DR Congo",
+                             {
+        "name": "Spain vs Austria",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/dr-congo-vs-england.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/spain-vs-austria.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/dr-congo-vs-england.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/dr-congo-vs-england.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/spain-vs-austria.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/spain-vs-austria.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -183,14 +183,15 @@
         "servers": [
 
 
-            {
+                      {
             "name": "SERVER 1",
             "url": "http://het132a.metava.online/live/610303030/index.m3u8?t=ne9BOjDCi8a08u08n4QItw&e=1782858706",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
-          },            {
+          },  
+            {
             "name": "SERVER 1",
             "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
             "user_agent": "",
@@ -268,16 +269,16 @@
           ]
         },
                            {
-        "name": "Belgium vs Senegal",
+        "name": "Portugal vs Croatia",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/senegal-vs-belgium.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/portugal-vs-croatia.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/senegal-vs-belgium.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/senegal-vs-belgium.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/portugal-vs-croatia.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/portugal-vs-croatia.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -292,7 +293,7 @@
             "origin": "",
             "cookie": ""
           },
-               {
+                         {
             "name": "SERVER 1",
             "url": "http://het139a.metava.online/live/918454578001/index.m3u8?t=Ndc3KJ2egxIY6tJoDsEYZg&e=1782953886",
             "user_agent": "",
@@ -368,17 +369,17 @@
 
           ]
         },
-                           {
-        "name": "United States vs Bosnia-Herzegovina",
-        "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/usa-vs-bosnia-herzegovina.png?raw=true",
+             {
+        "name": "Switzerland vs Algeria",
+        "subtitle": "الغد",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/algeria-vs-switzerland.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/usa-vs-bosnia-herzegovina.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A13/usa-vs-bosnia-herzegovina.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/algeria-vs-switzerland.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/algeria-vs-switzerland.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -409,8 +410,7 @@
             "origin": "",
             "cookie": ""
           },
-                             
-          {
+                              {
             "name": "SERVER 1",
             "url": "http://het124a.metava.online/live/610303030/index.m3u8?t=RY1IuRTJjyDCEaR-ELh_7A&e=1782837966",
             "user_agent": "",
