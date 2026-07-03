@@ -3010,29 +3010,29 @@
   "matches": [
 
   {
-    "team1": "إسبانيا",
-    "team2": "النمسا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
-    "time": "20:00",
+    "team1": "أستراليا",
+    "team2": "مصر",
+    "logo1": "https://flagcdn.com/w160/au.png",
+    "logo2": "https://flagcdn.com/w160/eg.png",
+    "time": "19:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "البرتغال",
-    "team2": "كرواتيا",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
-    "time": "00:00",
+    "team1": "الأرجنتين",
+    "team2": "الرأس الأخضر",
+    "logo1": "https://flagcdn.com/w160/ar.png",
+    "logo2": "https://flagcdn.com/w160/cv.png",
+    "time": "23:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "سويسرا",
-    "team2": "الجزائر",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6317.png",
-    "time": "04:00",
+    "team1": "كولومبيا",
+    "team2": "غانا",
+    "logo1": "https://flagcdn.com/w160/co.png",
+    "logo2": "https://flagcdn.com/w160/gh.png",
+    "time": "02:30",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
