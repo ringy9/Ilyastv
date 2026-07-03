@@ -165,22 +165,23 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-                             {
-        "name": "Spain vs Austria",
+       {
+        "name": "Australia vs Egypt",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/spain-vs-austria.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/australia-vs-egypt.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/spain-vs-austria.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/spain-vs-austria.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/australia-vs-egypt.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/australia-vs-egypt.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
+
 
                       {
             "name": "SERVER 1",
@@ -268,23 +269,23 @@
           ]
         },
                            {
-        "name": "Portugal vs Croatia",
+        "name": "Argentina vs Cape Verde",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/portugal-vs-croatia.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/cape-verde-vs-argentina.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/portugal-vs-croatia.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/portugal-vs-croatia.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/cape-verde-vs-argentina.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/cape-verde-vs-argentina.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-                                  {
+                                       {
             "name": "SERVER 1",
             "url": "http://het121a.mediox.online/live/1515000000/index.m3u8?t=qtdMnWr01DM9Ayk7xW_CLQ&e=1783046230",
             "user_agent": "",
@@ -370,23 +371,23 @@
           ]
         },
              {
-        "name": "Switzerland vs Algeria",
+        "name": "Colombia vs Ghana",
         "subtitle": "الغد",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/algeria-vs-switzerland.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/ghana-vs-colombia.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/algeria-vs-switzerland.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A14/algeria-vs-switzerland.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/ghana-vs-colombia.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/ghana-vs-colombia.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-                                   {
+                                {
             "name": "SERVER 1",
             "url": "http://het111a.mediox.online/live/610303030/index.m3u8?t=IyaBHhkJr6kIRJFobd3D1w&e=1783046229",
             "user_agent": "",
