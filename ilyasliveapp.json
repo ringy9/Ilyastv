@@ -76,13 +76,13 @@
 
   {
     "id": "1",
-    "team1": "إسبانيا",
-    "team2": "النمسا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6720.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8255.png",
+    "team1": "أستراليا",
+    "team2": "مصر",
+    "team1_logo": "https://flagcdn.com/w160/au.png",
+    "team2_logo": "https://flagcdn.com/w160/eg.png",
     "league": "world cup 2026",
-    "date": "July 2, 2026",
-    "time": "08:00 PM",
+    "date": "July 3, 2026",
+    "time": "07:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -98,14 +98,14 @@
     ]
   },
   {
-    "id": "1",
-    "team1": "البرتغال",
-    "team2": "كرواتيا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8361.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
+    "id": "2",
+    "team1": "الأرجنتين",
+    "team2": "الرأس الأخضر",
+    "team1_logo": "https://flagcdn.com/w160/ar.png",
+    "team2_logo": "https://flagcdn.com/w160/cv.png",
     "league": "world cup 2026",
     "date": "July 3, 2026",
-    "time": "12:00 AM",
+    "time": "11:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -121,14 +121,14 @@
     ]
   },
   {
-    "id": "1",
-    "team1": "سويسرا",
-    "team2": "الجزائر",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6717.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6317.png",
+    "id": "3",
+    "team1": "كولومبيا",
+    "team2": "غانا",
+    "team1_logo": "https://flagcdn.com/w160/co.png",
+    "team2_logo": "https://flagcdn.com/w160/gh.png",
     "league": "world cup 2026",
-    "date": "July 3, 2026",
-    "time": "04:00 AM",
+    "date": "July 4, 2026",
+    "time": "02:30 AM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -143,6 +143,7 @@
       }
     ]
   }
+
 
 
 
