@@ -165,17 +165,17 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-       {
-        "name": "Australia vs Egypt",
+                            {
+        "name": "Morocco vs Canada",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/australia-vs-egypt.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/canada-vs-morocco.jpeg?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/australia-vs-egypt.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/australia-vs-egypt.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/canada-vs-morocco.jpeg?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/canada-vs-morocco.jpeg?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -269,16 +269,16 @@
           ]
         },
                            {
-        "name": "Argentina vs Cape Verde",
+        "name": "Paraguay vs France",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/cape-verde-vs-argentina.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/france-vs-paraguay.jpeg?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/cape-verde-vs-argentina.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/cape-verde-vs-argentina.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/france-vs-paraguay.jpeg?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/france-vs-paraguay.jpeg?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -362,140 +362,6 @@
                              {
             "name": "SERVER 6 fr",
             "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295246.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-
-          ]
-        },
-             {
-        "name": "Colombia vs Ghana",
-        "subtitle": "الغد",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/ghana-vs-colombia.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/ghana-vs-colombia.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A15/ghana-vs-colombia.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "199.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-                                {
-            "name": "SERVER 1",
-            "url": "http://het111a.mediox.online/live/610303030/index.m3u8?t=IyaBHhkJr6kIRJFobd3D1w&e=1783046229",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },  
-            {
-            "name": "SERVER 1",
-            "url": "http://het111a.mediox.online:80/live/610303030/index.m3u8?t=IyaBHhkJr6kIRJFobd3D1w&e=1783046229",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-            {
-            "name": "SERVER 1",
-            "url": "http://het111a.mediox.online/live/610303030/index.m3u8?t=IyaBHhkJr6kIRJFobd3D1w&e=1783046229",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 1",
-            "url": "http://het124a.metava.online/live/610303030/index.m3u8?t=RY1IuRTJjyDCEaR-ELh_7A&e=1782837966",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                                        {
-            "name": "SERVER 2",
-            "url": "http://het124a.metava.online/live/610303030/index.m3u8?t=RY1IuRTJjyDCEaR-ELh_7A&e=1782837966",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                                    {
-            "name": "SERVER 3",
-            "url": "http://xtream2018.com:8080/live/0033ericla/ericla0033/76398.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                                              {
-            "name": "SERVER 4",
-            "url": "http://xtream2018.com:8080/live/0033ericla/ericla0033/3228.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                                              {
-            "name": "SERVER 4",
-            "url": "https://a15.kora-plus.app/live/max11.m3u8?token=Nu-oY9ayQ6nC-quIegL0f24MeiU&exp=1782779034",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 5",
-            "url": "https://tv.streamboxtv.cc/live/testlivestream/testlivestream/4194.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 6",
-            "url": "https://tv.streamboxtv.cc/live/testlivestream/testlivestream/475.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-
-
-                              {
-            "name": "SERVER 7 en",
-            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-         {
-            "name": "SERVER 8 fr",
-            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295231.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                   {
-            "name": "SERVER 9 fr",
-            "url": "http://asmrasmr.live:8080/live/7400273255/4789325799/1295253.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                             {
-            "name": "SERVER 10 fr",
-            "url": "http://5edh.nl/live/toanvu/123456/13869.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
