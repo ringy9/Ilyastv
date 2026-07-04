@@ -73,15 +73,15 @@
   "matches": [
 
 
-   {
+{
     "id": "1",
-    "team1": "كندا",
-    "team2": "المغرب",
-    "team1_logo": "https://flagcdn.com/w160/ca.png",
-    "team2_logo": "https://flagcdn.com/w160/ma.png",
+    "team1": "البرازيل",
+    "team2": "النرويج",
+    "team1_logo": "https://flagcdn.com/w160/br.png",
+    "team2_logo": "https://flagcdn.com/w160/no.png",
     "league": "world cup 2026",
     "date": "July 4, 2026",
-    "time": "06:00 PM",
+    "time": "09:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -97,17 +97,17 @@
     ]
   },
   {
-    "id": "2",
-    "team1": "باراغواي",
-    "team2": "فرنسا",
-    "team1_logo": "https://flagcdn.com/w160/py.png",
-    "team2_logo": "https://flagcdn.com/w160/fr.png",
+    "id": "1",
+    "team1": "المكسيك",
+    "team2": "إنجلترا",
+    "team1_logo": "https://flagcdn.com/w160/mx.png",
+    "team2_logo": "https://flagcdn.com/w160/gb-eng.png",
     "league": "world cup 2026",
-    "date": "July 4, 2026",
-    "time": "10:00 PM",
+    "date": "July 5, 2026",
+    "time": "01:00 AM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad2",
+    "ad_id": "ad1",
     "servers": [
       {
         "name": "سيرفر 1 HD",
@@ -119,6 +119,7 @@
       }
     ]
   }
+    
   ],
   "highlights": [
     {
