@@ -2883,21 +2883,21 @@
   ],
   "matches": [
 
-  {
-    "team1": "كندا",
-    "team2": "المغرب",
-    "logo1": "https://flagcdn.com/w160/ca.png",
-    "logo2": "https://flagcdn.com/w160/ma.png",
-    "time": "18:00",
+{
+    "team1": "البرازيل",
+    "team2": "النرويج",
+    "logo1": "https://flagcdn.com/w160/br.png",
+    "logo2": "https://flagcdn.com/w160/no.png",
+    "time": "21:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "باراغواي",
-    "team2": "فرنسا",
-    "logo1": "https://flagcdn.com/w160/py.png",
-    "logo2": "https://flagcdn.com/w160/fr.png",
-    "time": "22:00",
+    "team1": "المكسيك",
+    "team2": "إنجلترا",
+    "logo1": "https://flagcdn.com/w160/mx.png",
+    "logo2": "https://flagcdn.com/w160/gb-eng.png",
+    "time": "01:00",
     "status": "كأس العالم 2026",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
