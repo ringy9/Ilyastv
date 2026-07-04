@@ -72,15 +72,16 @@
   ],
   "matches": [
 
-  {
+
+   {
     "id": "1",
-    "team1": "أستراليا",
-    "team2": "مصر",
-    "team1_logo": "https://flagcdn.com/w160/au.png",
-    "team2_logo": "https://flagcdn.com/w160/eg.png",
+    "team1": "كندا",
+    "team2": "المغرب",
+    "team1_logo": "https://flagcdn.com/w160/ca.png",
+    "team2_logo": "https://flagcdn.com/w160/ma.png",
     "league": "world cup 2026",
-    "date": "July 3, 2026",
-    "time": "07:00 PM",
+    "date": "July 4, 2026",
+    "time": "06:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
     "ad_id": "ad1",
@@ -97,39 +98,16 @@
   },
   {
     "id": "2",
-    "team1": "الأرجنتين",
-    "team2": "الرأس الأخضر",
-    "team1_logo": "https://flagcdn.com/w160/ar.png",
-    "team2_logo": "https://flagcdn.com/w160/cv.png",
-    "league": "world cup 2026",
-    "date": "July 3, 2026",
-    "time": "11:00 PM",
-    "status": "upcoming",
-    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
-    "servers": [
-      {
-        "name": "سيرفر 1 HD",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": ""
-      }
-    ]
-  },
-  {
-    "id": "3",
-    "team1": "كولومبيا",
-    "team2": "غانا",
-    "team1_logo": "https://flagcdn.com/w160/co.png",
-    "team2_logo": "https://flagcdn.com/w160/gh.png",
+    "team1": "باراغواي",
+    "team2": "فرنسا",
+    "team1_logo": "https://flagcdn.com/w160/py.png",
+    "team2_logo": "https://flagcdn.com/w160/fr.png",
     "league": "world cup 2026",
     "date": "July 4, 2026",
-    "time": "02:30 AM",
+    "time": "10:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad1",
+    "ad_id": "ad2",
     "servers": [
       {
         "name": "سيرفر 1 HD",
