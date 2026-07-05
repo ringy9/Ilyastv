@@ -293,7 +293,15 @@
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-                                       {
+              {
+            "name": "SERVER 1",
+            "url": "http://h30.vidnovalab.online/live/1515000000/index.m3u8?t=6OH-TYvGh81PPF9fNvLz7A&e=1783301276",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },  
+            {
             "name": "SERVER 1",
             "url": "http://95.133.243.41/live/918454578001/index.m3u8?t=6Xr8R5aRqr-Y5zw7WxW6lA&e=1783202160",
             "user_agent": "",
