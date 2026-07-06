@@ -166,16 +166,16 @@
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
                             {
-        "name": "Brazil vs Norway",
+        "name": "Portugal vs Spain",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/brazil-vs-norway.jpeg?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A18/spain-vs-portugal.jpeg?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/brazil-vs-norway.jpeg?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/brazil-vs-norway.jpeg?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A18/spain-vs-portugal.jpeg?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A18/spain-vs-portugal.jpeg?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -277,23 +277,23 @@
           ]
         },
                            {
-        "name": "Mexico vs England",
+        "name": "USA vs Belgium",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/mexico-vs-england.jpeg?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A18/usa-vs-belgium.jpeg?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/mexico-vs-england.jpeg?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/mexico-vs-england.jpeg?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A18/usa-vs-belgium.jpeg?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A18/usa-vs-belgium.jpeg?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-              {
+            {
             "name": "SERVER 1",
             "url": "http://h30.vidnovalab.online/live/1515000000/index.m3u8?t=6OH-TYvGh81PPF9fNvLz7A&e=1783301276",
             "user_agent": "",
@@ -301,7 +301,7 @@
             "origin": "",
             "cookie": ""
           },  
-            {
+              {
             "name": "SERVER 1",
             "url": "http://95.133.243.41/live/918454578001/index.m3u8?t=6Xr8R5aRqr-Y5zw7WxW6lA&e=1783202160",
             "user_agent": "",
