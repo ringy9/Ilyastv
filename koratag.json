@@ -166,7 +166,7 @@
   ],
   "update": {
     "enabled": true,
-    "force_update": false,
+    "force_update": true,
     "latest_version_code": 3,
     "latest_version_name": "3.0",
     "title": "تحديث جديد متاح!",
