@@ -1,0 +1,401 @@
+{
+"app": {
+  "name": "الياس كورة - ilyas live",
+  "version_code": 1,
+  "drawer_logo_text": "ilyas live",
+  "drawer_subtitle": "ilyas live"
+},
+  "update": {
+    "enabled": false,
+    "force": false,
+    "version_code": 2,
+    "title": "تحديث جديد متوفر",
+    "message": "تم إضافة قنوات جديدة وتحسين سرعة التطبيق.",
+    "url": "https://github.com/ringy9/Ilyastv/releases"
+  },
+  "ads": {
+    "provider": "none",
+    "banner_enabled": false,
+    "native_enabled": false,
+    "interstitial_enabled": false,
+    "app_open_enabled": false,
+    "interstitial_clicks": 3,
+    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open": "ca-app-pub-3940256099942544/9257395921",
+    "max_sdk_key": "",
+    "max_banner": "",
+    "max_interstitial": "",
+    "max_native": "",
+    "meta_placement_banner": "1699669758046948_1699670178046906",
+    "meta_placement_interstitial": "1699669758046948_1699670251380232",
+    "meta_placement_native": "1699669758046948_1699670298046894",
+    "show_banner_home": true,
+    "show_banner_channels": true,
+    "show_banner_matches": true,
+    "show_player_bottom": true, 
+    "native_interval_channels": 6,
+    "show_native_matches": true,
+    "show_native_player": true,
+    "show_native_exit": true,
+    "show_player_bottom": true
+  },
+  "menu": [
+    {
+      "title": "Matches",
+      "type": "matches",
+      "url": ""
+    },
+    {
+      "title": "Telegram",
+      "type": "url",
+      "url": "https://t.me/example"
+    },
+    {
+      "title": "Website",
+      "type": "url",
+      "url": "https://example.com"
+    },
+    {
+      "title": "Share",
+      "type": "share",
+      "url": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "bein_fhd",
+      "name": "ملخص الدوريات الاروبية",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "channels": [
+        {
+          "name": "الدوري الانجليزي",
+          "subtitle": "الدوري الانجليزي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "99.7K views"
+        },
+		       {
+          "name": "الدوري الاسباني",
+          "subtitle": "الدوري الاسباني",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "99.7K views"
+        },
+		       {
+          "name": "الدوري الفرنسي",
+          "subtitle": "الدوري الفرنسي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "99.7K views"
+        }
+
+
+
+
+
+        
+
+      ]
+    },
+    {
+      "id": "sport_channels",
+      "name": "ملخص الدوريات العربية",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "channels": [
+        {
+          "name": "الدوري السعودي للمحترفين",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "45.3K views"
+        },
+        {
+          "name": "الدوري المغربي الاحترافي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        },
+                {
+          "name": "الدوري القطري",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        }
+      ]
+  
+    },
+    {
+      "id": "sport_channels",
+      "name": "ملخص الدوريات الافريقية",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "channels": [
+        {
+          "name": "الدوري التونسي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "45.3K views"
+        },
+        {
+          "name": "الدوري الجزائري",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        },
+                {
+          "name": "الدوري الجنوب إفريقي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        }
+      ]
+          },
+    {
+      "id": "sport_channels",
+      "name": "ملخص الدوريات الخليجية ",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "channels": [
+        {
+          "name": "الدوري الإماراتي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "45.3K views"
+        },
+        {
+          "name": "الدوري الكويتي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        },
+                {
+          "name": "الدوري البحريني",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        }
+              ]
+          },
+    {
+      "id": "sport_channels",
+      "name": "ملخص الدوريات الاسيوية",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "channels": [
+        {
+          "name": "الدوري الياباني",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "45.3K views"
+        },
+        {
+          "name": "الدوري الكوري",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        },
+                {
+          "name": "الدوري العراقي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "31.8K views"
+        }
+          ]
+    },
+    {
+      "id": "news",
+      "name": "ملخص الدوريات الامريكية",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "channels": [
+        {
+          "name": "الدوري الأمريكي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "22K views"
+        },
+                {
+          "name": "الدوري المكسيكي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "22K views"
+        },
+                {
+          "name": "الدوري الكولومبي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "22K views"
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "name": "ملخص الدوريات اللاتينية",
+      "icon": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+      "channels": [
+        {
+          "name": "الدوري البرازيلي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "18.5K views"
+        },
+                {
+          "name": "الدوري الأرجنتيني",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "18.5K views"
+        },
+                {
+          "name": "الدوري التشيلي",
+          "logo": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+          "user_agent": "",
+          "referer": "",
+          "thumbnail": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ilyaslogo.png",
+          "views": "18.5K views"
+        }
+      ]
+    }
+  ],
+"matches": [
+
+  {
+    "team1": "الوداد الرياضي",
+    "team2": "الرجاء الرياضي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102050.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102049.png",
+    "time": "18:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
+  },
+  {
+    "team1": "الجيش الملكي",
+    "team2": "المغرب الفاسي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102035.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102043.png",
+    "time": "20:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
+  },
+  {
+    "team1": "نهضة بركان",
+    "team2": "حسنية أكادير",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/316652.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102037.png",
+    "time": "18:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
+  },
+  {
+    "team1": "اتحاد طنجة",
+    "team2": "الدفاع الحسني الجديدي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/316657.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102033.png",
+    "time": "16:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+    "streamType": "mp4"
+  },
+  {
+    "team1": "أولمبيك آسفي",
+    "team2": "اتحاد تواركة",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102047.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/320835.png",
+    "time": "18:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
+  },
+  {
+    "team1": "الفتح الرباطي",
+    "team2": "شباب السوالم",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102036.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/11030.png",
+    "time": "20:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
+  },
+  {
+    "team1": "مولودية وجدة",
+    "team2": "يوسفية برشيد",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9951.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10932.png",
+    "time": "16:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
+  },
+  {
+    "team1": "نهضة الزمامرة",
+    "team2": "الكوكب المراكشي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/950070.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102042.png",
+    "time": "18:00",
+    "status": "البطولة المغربية الاحترافية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4"
+  }
+
+],
+  "player_bottom": {
+    "enabled": true,
+    "image": "https://github.com/ringy9/BEIN/blob/main/Rate.png?raw=true",
+    "text": "",
+    "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
+  }
+}
