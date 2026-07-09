@@ -13,12 +13,12 @@
     "app_id": "9f3c16cf-f426-490b-92be-01d320ec69d8"
   },
   "update": {
-    "enabled": false,
+    "enabled": true,
     "force": false,
     "version_code": 6,
     "title": "تحديث جديد متاح",
     "message": "يرجى تحديث التطبيق للحصول على أفضل تجربة",
-    "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
+    "url": "https://play.google.com/store/apps/details?id=com.viviana.ilyastv"
   },
   "exit_dialog": {
     "enabled": true,
