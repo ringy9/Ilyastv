@@ -2891,24 +2891,15 @@
   ],
   "matches": [
 
- {
-    "team1": "الأرجنتين",
-    "team2": "مصر",
-    "logo1": "https://flagcdn.com/w160/ar.png",
-    "logo2": "https://flagcdn.com/w160/eg.png",
-    "time": "17:00",
-    "status": "كأس العالم 2026",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "سويسرا",
-    "team2": "كولومبيا",
-    "logo1": "https://flagcdn.com/w160/ch.png",
-    "logo2": "https://flagcdn.com/w160/co.png",
-    "time": "21:00",
-    "status": "كأس العالم 2026",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  }
+{
+  "team1": "فرنسا",
+  "team2": "المغرب",
+  "logo1": "https://flagcdn.com/w160/fr.png",
+  "logo2": "https://flagcdn.com/w160/ma.png",
+  "time": "21:00",
+  "status": "كأس العالم 2026 - ربع النهائي",
+  "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+}
 
   ],
   "player_bottom": {
