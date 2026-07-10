@@ -2881,11 +2881,11 @@
   "matches": [
 
 {
-  "team1": "فرنسا",
-  "team2": "المغرب",
-  "logo1": "https://flagcdn.com/w160/fr.png",
-  "logo2": "https://flagcdn.com/w160/ma.png",
-  "time": "21:00",
+  "team1": "إسبانيا",
+  "team2": "بلجيكا",
+  "logo1": "https://flagcdn.com/w160/es.png",
+  "logo2": "https://flagcdn.com/w160/be.png",
+  "time": "20:00",
   "status": "كأس العالم 2026 - ربع النهائي",
   "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
 }
