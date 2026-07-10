@@ -129,7 +129,7 @@
     "enable_gestures": true
   },
   "player_ads": {
-    "enabled": false,
+    "enabled": true,
     "ad_type": "interstitial",
     "network": "levelplay",
     "fallback": "rewarded",
