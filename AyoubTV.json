@@ -2891,14 +2891,23 @@
   "matches": [
 
 {
-  "team1": "إسبانيا",
-  "team2": "بلجيكا",
-  "logo1": "https://flagcdn.com/w160/es.png",
-  "logo2": "https://flagcdn.com/w160/be.png",
-  "time": "20:00",
-  "status": "كأس العالم 2026 - ربع النهائي",
-  "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-}
+    "team1": "إنجلترا",
+    "team2": "النرويج",
+    "logo1": "https://flagcdn.com/w160/gb-eng.png",
+    "logo2": "https://flagcdn.com/w160/no.png",
+    "time": "17:00",
+    "status": "كأس العالم 2026 - نصف النهائي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "الأرجنتين",
+    "team2": "سويسرا",
+    "logo1": "https://flagcdn.com/w160/ar.png",
+    "logo2": "https://flagcdn.com/w160/ch.png",
+    "time": "21:00",
+    "status": "كأس العالم 2026 - نصف النهائي",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  }
 
   ],
   "player_bottom": {
