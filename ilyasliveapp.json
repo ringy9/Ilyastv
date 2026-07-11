@@ -72,30 +72,52 @@
   ],
   "matches": [
 
-{
-  "id": "1",
-  "team1": "إسبانيا",
-  "team2": "بلجيكا",
-  "team1_logo": "https://flagcdn.com/w160/es.png",
-  "team2_logo": "https://flagcdn.com/w160/be.png",
-  "league": "world cup 2026",
-  "date": "July 10, 2026",
-  "time": "08:00 PM",
-  "status": "upcoming",
-  "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-  "ad_id": "ad5",
-  "servers": [
-    {
-      "name": "سيرفر 1 HD",
-      "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-      "type": "mp4",
-      "user_agent": "",
-      "referer": "",
-      "origin": ""
-    }
-  ]
-}
-
+  {
+    "id": "1",
+    "team1": "إنجلترا",
+    "team2": "النرويج",
+    "team1_logo": "https://flagcdn.com/w160/gb-eng.png",
+    "team2_logo": "https://flagcdn.com/w160/no.png",
+    "league": "world cup 2026",
+    "date": "July 11, 2026",
+    "time": "05:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad6",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "team1": "الأرجنتين",
+    "team2": "سويسرا",
+    "team1_logo": "https://flagcdn.com/w160/ar.png",
+    "team2_logo": "https://flagcdn.com/w160/ch.png",
+    "league": "world cup 2026",
+    "date": "July 11, 2026",
+    "time": "09:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad7",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  }
   ],
   "highlights": [
     {
