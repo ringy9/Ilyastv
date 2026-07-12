@@ -2920,7 +2920,7 @@
 "telegram_popup": {
   "enabled": true,
   "show_once": true,
-  "reset_key": "v1",
+  "reset_key": "v2",
   "title": "انضم إلى قناتنا على تيليجرام",
   "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية.",
   "button_text": "القناة الرسمية",
