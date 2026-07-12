@@ -294,7 +294,7 @@
         "servers": [
                    {
             "name": "SERVER 1",
-            "url": "http://h28.reelcloudedge.online/live/1515000000/index.m3u8?t=S3mLaZLUfyNCn1nZsOAr0Q&e=1783807303",
+            "url": "http://h29.nuvqen.online/live/1515000000/index.m3u8?t=wLD0QOzp5Z1ZPwS0C832Mw&e=1783834836",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -302,7 +302,7 @@
           },  
             {
             "name": "SERVER 1",
-            "url": "https://buzcdn.com/live/master.m3u8",
+            "url": "http://h29.nuvqen.online/live/1515000000/index.m3u8?t=wLD0QOzp5Z1ZPwS0C832Mw&e=1783834836",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -310,7 +310,7 @@
           },
                       {
             "name": "SERVER 1",
-            "url": "https://lbgo.bozztv.com/ssh101/ssh101/nadoplay1/playlist.m3u8",
+            "url": "http://h29.nuvqen.online/live/1515000000/index.m3u8?t=wLD0QOzp5Z1ZPwS0C832Mw&e=1783834836",
             "user_agent": "",
             "referer": "",
             "origin": "",
