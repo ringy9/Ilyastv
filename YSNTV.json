@@ -209,13 +209,13 @@
     },
     "ironsource": {
       "enabled": true,
-      "app_key": "269c9a18d",
+      "app_key": "27333339d",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true,
-      "banner_ad_unit_id": "80b1bb6g3lwuxv43",
-      "interstitial_ad_unit_id": "bgefeaxzw0yf1mwo",
-      "rewarded_ad_unit_id": "da761sxxpw9787hv"
+      "banner_ad_unit_id": "3gs3bk6x1577ccdy",
+      "interstitial_ad_unit_id": "4wmogm5fvx8zd2dz",
+      "rewarded_ad_unit_id": "bwuyodci4b4pl919"
     },
     "meta": {
       "enabled": true,
@@ -225,13 +225,13 @@
     },
     "levelplay": {
       "enabled": true,
-      "app_key": "269c9a18d",
+      "app_key": "27333339d",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true,
-      "banner_ad_unit_id": "80b1bb6g3lwuxv43",
-      "interstitial_ad_unit_id": "bgefeaxzw0yf1mwo",
-      "rewarded_ad_unit_id": "da761sxxpw9787hv"
+      "banner_ad_unit_id": "3gs3bk6x1577ccdy",
+      "interstitial_ad_unit_id": "4wmogm5fvx8zd2dz",
+      "rewarded_ad_unit_id": "bwuyodci4b4pl919"
     },
     "placements": {
       "banner": {
