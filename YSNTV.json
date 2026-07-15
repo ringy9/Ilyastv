@@ -185,20 +185,20 @@
     "exit_button_text": "خروج",
     "cancel_button_text": "إلغاء",
     "show_native_ad": true,
-    "native_ad_network": "meta",
-    "native_ad_fallback_network": "admob"
+    "native_ad_network": "admob",
+    "native_ad_fallback_network": "levelplay"
   },
   "ads_config": {
     "enabled": true,
     "default_network": "admob",
-    "fallback_network": "meta",
+    "fallback_network": "levelplay",
     "admob": {
       "enabled": true,
-      "app_id": "",
-      "banner_id": "",
-      "interstitial_id": "",
-      "native_id": "",
-      "app_open_id": ""
+      "app_id": "ca-app-pub-8787914644651926~1296196887",
+      "banner_id": "ca-app-pub-8787914644651926/6659424021",
+      "interstitial_id": "ca-app-pub-8787914644651926/3713696486",
+      "native_id": "ca-app-pub-8787914644651926/4184349633",
+      "app_open_id": "ca-app-pub-8787914644651926/5006476718"
     },
     "max": {
       "enabled": false,
@@ -237,14 +237,14 @@
       "banner": {
         "enabled": true,
         "network": "admob",
-        "fallback_network": "meta",
+        "fallback_network": "levelplay",
         "show_on": ["matches", "categories", "highlights", "news", "settings"],
         "position": "bottom"
       },
       "interstitial": {
         "enabled": true,
         "network": "admob",
-        "fallback_network": "meta",
+        "fallback_network": "levelplay",
         "first_click": true,
         "show_every_clicks": 3,
         "min_seconds_between_ads": 0,
@@ -253,7 +253,7 @@
       "native": {
         "enabled": true,
         "network": "admob",
-        "fallback_network": "meta",
+        "fallback_network": "levelplay",
         "player_preview": {
           "enabled": true,
           "position": "below_preview_image"
@@ -269,7 +269,7 @@
         "exit_dialog": {
           "enabled": true,
           "network": "admob",
-          "fallback_network": "meta"
+          "fallback_network": "levelplay"
         }
       },
       "app_open": {
