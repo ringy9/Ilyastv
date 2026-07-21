@@ -5,7 +5,7 @@
     "fallback_network": "levelplay",
     "second_fallback_network": "meta",
     "admob": {
-      "app_id": "ca-app-pub-8787914644651926~2001593290",
+      "app_id": "ca-app-pub-9297113109682195~5394855531",
       "app_open": "",
       "banner": "",
       "interstitial": "ca-app-pub-9297113109682195/2437519701",
@@ -60,8 +60,8 @@
   "player_ads": {
     "enabled": true,
     "show_before_player": true,
-    "ad_type": "interstitial",
-    "fallback_ad_type": "rewarded",
+    "ad_type": "rewarded",
+    "fallback_ad_type": "interstitial",
     "timeout_ms": 2000
   },
   "update": {
