@@ -194,11 +194,11 @@
     "fallback_network": "levelplay",
     "admob": {
       "enabled": true,
-      "app_id": "ca-app-pub-8787914644651926~1296196887",
-      "banner_id": "ca-app-pub-8787914644651926/6659424021",
-      "interstitial_id": "ca-app-pub-8787914644651926/3713696486",
-      "native_id": "ca-app-pub-8787914644651926/4184349633",
-      "app_open_id": "ca-app-pub-8787914644651926/5006476718"
+      "app_id": "ca-app-pub-9297113109682195~2812265080",
+      "banner_id": "ca-app-pub-9297113109682195/7708268468",
+      "interstitial_id": "ca-app-pub-9297113109682195/4012566036",
+      "native_id": "ca-app-pub-9297113109682195/4339869091",
+      "app_open_id": "ca-app-pub-9297113109682195/5246856735"
     },
     "max": {
       "enabled": false,
