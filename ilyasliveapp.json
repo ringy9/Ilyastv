@@ -206,7 +206,7 @@
       "native_id": "YOUR_MAX_NATIVE_ID"
     },
     "ironsource": {
-      "enabled": true,
+      "enabled": false,
       "app_key": "26a222cdd",
       "banner_enabled": true,
       "interstitial_enabled": true,
