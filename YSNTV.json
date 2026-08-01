@@ -72,12 +72,13 @@
   ],
   "matches": [
 
+
   {
     "id": "1",
     "team1": "ريال مدريد",
     "team2": "فيورنتينا",
-    "team1_logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
-    "team2_logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/ACF_Fiorentina_2.svg",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10243.png",
     "league": "Club Friendly",
     "date": "August 1, 2026",
     "time": "05:00 PM",
@@ -99,8 +100,8 @@
     "id": "2",
     "team1": "أتلتيكو مدريد",
     "team2": "مانشستر يونايتد",
-    "team1_logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
-    "team2_logo": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
     "league": "Club Friendly",
     "date": "August 1, 2026",
     "time": "02:00 PM",
@@ -118,6 +119,7 @@
       }
     ]
   }
+
     
   ],
   "highlights": [
