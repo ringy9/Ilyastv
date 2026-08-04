@@ -321,20 +321,20 @@
     "exit_button_text": "خروج",
     "cancel_button_text": "إلغاء",
     "show_native_ad": true,
-    "native_ad_network": "meta",
+    "native_ad_network": "admob",
     "native_ad_fallback_network": "admob"
   },
   "ads_config": {
     "enabled": true,
-    "default_network": "levelplay",
+    "default_network": "admob",
     "fallback_network": "meta",
     "admob": {
       "enabled": true,
-      "app_id": "",
-      "banner_id": "",
-      "interstitial_id": "",
-      "native_id": "",
-      "app_open_id": ""
+      "app_id": "ca-app-pub-2893990580876216~1714993182",
+      "banner_id": "ca-app-pub-2893990580876216/9206204464",
+      "interstitial_id": "ca-app-pub-2893990580876216/9780205526",
+      "native_id": "ca-app-pub-2893990580876216/5462666504",
+      "app_open_id": "ca-app-pub-2893990580876216/2836503162"
     },
     "max": {
       "enabled": false,
@@ -379,7 +379,7 @@
       },
       "interstitial": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "admob",
         "fallback_network": "meta",
         "first_click": true,
         "show_every_clicks": 3,
@@ -388,7 +388,7 @@
       },
       "native": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "admob",
         "fallback_network": "meta",
         "player_preview": {
           "enabled": true,
