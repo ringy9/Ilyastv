@@ -72,19 +72,18 @@
   ],
   "matches": [
 
-
   {
     "id": "1",
-    "team1": "ريال مدريد",
-    "team2": "فيورنتينا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10243.png",
+    "team1": "بايرن ميونخ",
+    "team2": "جيجو يونايتد",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10189.png",
     "league": "Club Friendly",
-    "date": "August 1, 2026",
-    "time": "05:00 PM",
+    "date": "August 4, 2026",
+    "time": "12:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad12",
+    "ad_id": "ad14",
     "servers": [
       {
         "name": "سيرفر 1 HD",
@@ -98,16 +97,154 @@
   },
   {
     "id": "2",
-    "team1": "أتلتيكو مدريد",
-    "team2": "مانشستر يونايتد",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+    "team1": "بورنموث",
+    "team2": "جنوى",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
     "league": "Club Friendly",
-    "date": "August 1, 2026",
-    "time": "02:00 PM",
+    "date": "August 4, 2026",
+    "time": "01:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad13",
+    "ad_id": "ad15",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "team1": "بانكوك جلاس باثوم يونايتد",
+    "team2": "أستون فيلا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/310132.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+    "league": "Club Friendly",
+    "date": "August 4, 2026",
+    "time": "01:30 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad16",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "team1": "لوريان",
+    "team2": "يو إن إف بي",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/135819.png",
+    "league": "Club Friendly",
+    "date": "August 4, 2026",
+    "time": "04:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad17",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "team1": "نورويتش سيتي",
+    "team2": "كامبريدج يونايتد",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
+    "league": "Club Friendly",
+    "date": "August 4, 2026",
+    "time": "04:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad18",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "team1": "إلفيرسبيرج",
+    "team2": "ستراسبورج",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10171.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+    "league": "Club Friendly",
+    "date": "August 4, 2026",
+    "time": "05:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad19",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "team1": "مونزا",
+    "team2": "Milan Futuro",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6504.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
+    "league": "Club Friendly",
+    "date": "August 4, 2026",
+    "time": "05:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad20",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "team1": "نيوبورت",
+    "team2": "روما",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9862.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
+    "league": "Club Friendly",
+    "date": "August 4, 2026",
+    "time": "07:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad21",
     "servers": [
       {
         "name": "سيرفر 1 HD",
@@ -119,7 +256,6 @@
       }
     ]
   }
-
     
   ],
   "highlights": [
