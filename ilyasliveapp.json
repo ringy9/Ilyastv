@@ -73,16 +73,16 @@
   "matches": [
   {
     "id": "1",
-    "team1": "بايرن ميونخ",
-    "team2": "جيجو يونايتد",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10189.png",
+    "team1": "تشيلسي",
+    "team2": "ميلان",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
     "league": "Club Friendly",
-    "date": "August 4, 2026",
-    "time": "12:00 PM",
+    "date": "August 8, 2026",
+    "time": "01:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad14",
+    "ad_id": "ad30",
     "servers": [
       {
         "name": "سيرفر 1 HD",
@@ -96,16 +96,16 @@
   },
   {
     "id": "2",
-    "team1": "بورنموث",
-    "team2": "جنوى",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
+    "team1": "يوفنتوس",
+    "team2": "إنتر ميلان",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
     "league": "Club Friendly",
-    "date": "August 4, 2026",
-    "time": "01:00 PM",
+    "date": "August 8, 2026",
+    "time": "12:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad15",
+    "ad_id": "ad31",
     "servers": [
       {
         "name": "سيرفر 1 HD",
@@ -119,16 +119,16 @@
   },
   {
     "id": "3",
-    "team1": "بانكوك جلاس باثوم يونايتد",
-    "team2": "أستون فيلا",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/310132.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+    "team1": "برايتون",
+    "team2": "روما",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
     "league": "Club Friendly",
-    "date": "August 4, 2026",
-    "time": "01:30 PM",
+    "date": "August 8, 2026",
+    "time": "03:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad16",
+    "ad_id": "ad32",
     "servers": [
       {
         "name": "سيرفر 1 HD",
@@ -142,16 +142,16 @@
   },
   {
     "id": "4",
-    "team1": "لوريان",
-    "team2": "يو إن إف بي",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9848.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/135819.png",
+    "team1": "توتنهام",
+    "team2": "خيتافي",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
     "league": "Club Friendly",
-    "date": "August 4, 2026",
-    "time": "04:00 PM",
+    "date": "August 8, 2026",
+    "time": "03:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad17",
+    "ad_id": "ad33",
     "servers": [
       {
         "name": "سيرفر 1 HD",
@@ -165,16 +165,16 @@
   },
   {
     "id": "5",
-    "team1": "نورويتش سيتي",
-    "team2": "كامبريدج يونايتد",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
+    "team1": "مانشستر يونايتد",
+    "team2": "باريس سان جيرمان",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
     "league": "Club Friendly",
-    "date": "August 4, 2026",
+    "date": "August 8, 2026",
     "time": "04:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad18",
+    "ad_id": "ad34",
     "servers": [
       {
         "name": "سيرفر 1 HD",
@@ -188,16 +188,16 @@
   },
   {
     "id": "6",
-    "team1": "إلفيرسبيرج",
-    "team2": "ستراسبورج",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10171.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
+    "team1": "شتوتغارت",
+    "team2": "إيفرتون",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
     "league": "Club Friendly",
-    "date": "August 4, 2026",
-    "time": "05:00 PM",
+    "date": "August 8, 2026",
+    "time": "04:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad19",
+    "ad_id": "ad35",
     "servers": [
       {
         "name": "سيرفر 1 HD",
@@ -211,16 +211,16 @@
   },
   {
     "id": "7",
-    "team1": "مونزا",
-    "team2": "Milan Futuro",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6504.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
+    "team1": "مودينا",
+    "team2": "فيورنتينا",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6505.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10243.png",
     "league": "Club Friendly",
-    "date": "August 4, 2026",
+    "date": "August 8, 2026",
     "time": "05:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad20",
+    "ad_id": "ad36",
     "servers": [
       {
         "name": "سيرفر 1 HD",
@@ -234,16 +234,108 @@
   },
   {
     "id": "8",
-    "team1": "نيوبورت",
-    "team2": "روما",
-    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9862.png",
-    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
+    "team1": "فيرينتسفاروش",
+    "team2": "ريال مدريد",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8342.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
     "league": "Club Friendly",
-    "date": "August 4, 2026",
-    "time": "07:00 PM",
+    "date": "August 8, 2026",
+    "time": "06:00 PM",
     "status": "upcoming",
     "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
-    "ad_id": "ad21",
+    "ad_id": "ad37",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "team1": "ريال بيتيس",
+    "team2": "بورنموث",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+    "league": "Club Friendly",
+    "date": "August 8, 2026",
+    "time": "07:30 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad38",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "team1": "نوتنغهام فورست",
+    "team2": "برشلونة",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+    "league": "Club Friendly",
+    "date": "August 8, 2026",
+    "time": "08:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad39",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "team1": "فالنسيا",
+    "team2": "نيوكاسل يونايتد",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+    "league": "Club Friendly",
+    "date": "August 8, 2026",
+    "time": "08:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad40",
+    "servers": [
+      {
+        "name": "سيرفر 1 HD",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "team1": "نابولي",
+    "team2": "سيلتا فيغو",
+    "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
+    "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
+    "league": "Club Friendly",
+    "date": "August 8, 2026",
+    "time": "08:00 PM",
+    "status": "upcoming",
+    "thumbnail": "https://github.com/ringy9/BEIN/blob/main/thumbnail.jpg?raw=true",
+    "ad_id": "ad41",
     "servers": [
       {
         "name": "سيرفر 1 HD",
