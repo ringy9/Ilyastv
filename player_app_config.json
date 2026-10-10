@@ -5,11 +5,11 @@
     "fallback_network": "levelplay",
     "second_fallback_network": "meta",
     "admob": {
-      "app_id": "ca-app-pub-9297113109682195~5394855531",
+      "app_id": "ca-app-pub-9786019404931030~8107832959",
       "app_open": "",
       "banner": "",
-      "interstitial": "ca-app-pub-9297113109682195/2437519701",
-      "rewarded": "ca-app-pub-9297113109682195/4251838834",
+      "interstitial": "ca-app-pub-9786019404931030/1800052776",
+      "rewarded": "ca-app-pub-9786019404931030/7187187389",
       "native_ad": ""
     },
     "levelplay": {
