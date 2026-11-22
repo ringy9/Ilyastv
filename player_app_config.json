@@ -6,11 +6,11 @@
     "second_fallback_network": "meta",
     "admob": {
       "app_id": "ca-app-pub-9297113109682195~5394855531",
-      "app_open": "",
-      "banner": "",
+      "app_open": null,
+      "banner": null,
       "interstitial": "ca-app-pub-9297113109682195/2437519701",
       "rewarded": "ca-app-pub-9297113109682195/4251838834",
-      "native_ad": ""
+      "native_ad": null
     },
     "levelplay": {
       "enabled": true,
@@ -28,7 +28,7 @@
       "rewarded_placement": "1519352679816975_1519353636483546"
     },
     "placements": {
-      "app_open_enabled": true,
+      "app_open_enabled": false,
       "banner_home": true,
       "banner_add_url": true,
       "banner_settings": true,
@@ -51,7 +51,7 @@
     "ads_enabled": true,
     "player_rewarded_enabled": true,
     "player_interstitial_enabled": true,
-    "rewarded_first": true,
+    "rewarded_first": false,
     "banner_enabled": true,
     "native_enabled": true,
     "player_ads_interval": 1,
@@ -62,12 +62,15 @@
     "show_before_player": true,
     "ad_type": "interstitial",
     "fallback_ad_type": "rewarded",
-    "timeout_ms": 2000
+    "timeout_ms": 2000,
+    "wait_for_ad_ms": 8000,
+    "show_on_external_open": true,
+    "show_on_internal_open": true
   },
   "update": {
     "enabled": false,
     "force_update": false,
-    "version_code": 2,
+    "version_code": 4,
     "title": "New Update Available",
     "message": "Please update to the latest version for better performance.",
     "play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
