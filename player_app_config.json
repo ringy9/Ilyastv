@@ -68,8 +68,8 @@
     "show_on_internal_open": true
   },
   "update": {
-    "enabled": false,
-    "force_update": false,
+    "enabled": true,
+    "force_update": true,
     "version_code": 4,
     "title": "New Update Available",
     "message": "Please update to the latest version for better performance.",
